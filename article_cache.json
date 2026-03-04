@@ -5,7 +5,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 4,
-    "time_ago": "5時間前",
+    "time_ago": "22時間前",
     "url": "https://www.itmedia.co.jp/aiplus/articles/2603/04/news084.html",
     "summary_bullets": [
       "OpenAIが新モデル「GPT-5.3 Instant」を公開し、不自然な回答や過剰な前置きを排除してより自然な対話を実現。",
@@ -32,7 +32,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 4,
-    "time_ago": "1時間前",
+    "time_ago": "18時間前",
     "url": "https://www.itmedia.co.jp/aiplus/articles/2603/04/news111.html",
     "summary_bullets": [
       "さくらインターネットが、AIの基礎知識を問う「AI検定」を開始し、学習教材を無料で公開した。",
@@ -90,7 +90,7 @@
     "sentiment": "neutral",
     "sentiment_text": "注目の話題",
     "rating": 4,
-    "time_ago": "7時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6571974?source=rss",
     "summary_bullets": [
       "Appleが最新のM5チップを搭載した新型MacBook Airを発表し、処理性能とAI機能を大幅に強化した。",
@@ -131,6 +131,338 @@
       {
         "term": "キャッシュレス",
         "explanation": "現金を使わず、クレジットカードや電子マネー、QRコード決済などで支払いを行うこと。"
+      }
+    ]
+  },
+  "https://kn.itmedia.co.jp/kn/articles/2603/05/news020.html": {
+    "title": "『私物スマホでチャッピー』が典型例？ シャドーAIの脅威と企業リスク管理の緊急性",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2603/05/news020.html",
+    "summary_bullets": [
+      "従業員が個人所有のスマートフォンやアカウントで生成AIツールを業務利用する「シャドーAI」の実態が明らかになった。",
+      "シャドーAIは、情報漏洩や著作権侵害、コンプライアンス違反など、企業にとって深刻なセキュリティおよびガバナンスリスクをもたらす。",
+      "企業はシャドーAIのリスクを認識し、明確な利用ガイドラインの策定、従業員教育、および監視体制の構築が喫緊の課題となるだろう。"
+    ],
+    "insight": "生成AIの普及により、従業員による個人ツールの業務利用が常態化しつつあり、企業は予期せぬ情報漏洩やコンプライアンス違反のリスクに直面していることを深く認識し、事前対策の重要性を改めて見直すべきである。",
+    "action_plan": "自社内におけるAIツールの利用実態を調査し、シャドーAIが存在しないか現状を把握しましょう。また、AI利用に関する明確なガイドラインを策定・周知し、従業員への継続的なセキュリティ教育を強化しましょう。",
+    "image_keyword": "shadow AI risk, corporate data security, unauthorized AI use",
+    "technical_terms": [
+      {
+        "term": "シャドーAI",
+        "explanation": "企業が正式に導入・管理していない、従業員が個人的に利用するAIツールの業務利用のこと。情報漏洩やセキュリティリスクの原因となる。"
+      },
+      {
+        "term": "チャッピー",
+        "explanation": "本記事の文脈では、主にChatGPTなどの生成AIサービスを指す俗称。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6572066?source=rss": {
+    "title": "Appleが次世代ノートPC「MacBook Neo」を発表：PC市場の常識を覆すか",
+    "tags": "Hardware",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "8時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6572066?source=rss",
+    "summary_bullets": [
+      "Appleが革新的なデザインと性能を持つとされる新世代ノートPC「MacBook Neo」を正式に発表した。",
+      "この新製品は、PC業界全体のトレンドを左右し、競合他社の製品戦略やクリエイター市場に大きな影響を与える可能性を秘めている。",
+      "今後のノートPCは、より高度なAI処理能力と優れた携帯性を両立させながら、ユーザー体験を革新する方向へ進化すると予測される。"
+    ],
+    "insight": "ビジネスリーダーは、AppleのMacBook Neoが提示するPCの新しい価値が、従業員の生産性向上やリモートワーク環境の最適化にどう貢献するかを評価し、自社のデバイス戦略やITインフラの見直しに活用すべきです。",
+    "action_plan": "自社のデバイス導入計画をレビューし、MacBook Neoのような最新技術がビジネスにもたらす潜在的メリットとROI（投資対効果）を評価してみましょう。",
+    "image_keyword": "MacBook Neo concept, futuristic laptop, Apple technology",
+    "technical_terms": [
+      {
+        "term": "MacBook Neo",
+        "explanation": "Appleが発表したとされる次世代ノートPCの仮称で、従来のMacBookシリーズに新たな革新やコンセプトを導入している可能性が示唆されます。"
+      },
+      {
+        "term": "次世代プロセッサ",
+        "explanation": "従来のチップと比較して、処理能力、電力効率、AI推論性能などが大幅に向上した最新の半導体。PCのパフォーマンスを劇的に向上させる心臓部です。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6572031?source=rss": {
+    "title": "SANAE TOKENが名称変更へ：戦略的リブランディングの波紋",
+    "tags": "Web3",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "16時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6572031?source=rss",
+    "summary_bullets": [
+      "仮想通貨プロジェクト『SANAE TOKEN』が、戦略的な名称変更を発表した。",
+      "これはプロジェクトのリブランディング戦略の一環であり、Web3市場における競争力強化を狙う動きと見られる。",
+      "今後、類似プロジェクトにおけるリブランディングの波や、ユーザーおよび投資家の反応が注目される。"
+    ],
+    "insight": "Web3領域におけるプロジェクトの名称変更は、単なるブランドイメージ刷新に留まらず、多くの場合、事業戦略の再構築や市場ポジショニングの見直しを意味します。競合との差別化や新規ユーザー獲得のため、企業は常にブランド戦略の最適化が求められていることを示唆しています。",
+    "action_plan": "自社のブランド戦略やWeb3事業におけるポジショニングを再評価し、市場変化に対応した柔軟なブランディング施策を検討してみましょう。",
+    "image_keyword": "crypto rebranding, web3 token, digital strategy",
+    "technical_terms": [
+      {
+        "term": "トークン",
+        "explanation": "ブロックチェーン上で発行されるデジタル資産や権利を表す単位。仮想通貨の一種として機能することも多い。"
+      },
+      {
+        "term": "Web3",
+        "explanation": "ブロックチェーン技術を基盤とした次世代インターネットの概念。分散型アプリケーションや自己主権型アイデンティティなどを特徴とする。"
+      },
+      {
+        "term": "リブランディング",
+        "explanation": "企業や製品、サービスのブランドイメージやメッセージを刷新し、市場での認知度や魅力を高めるための戦略的活動。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aZUtNZnhoU3lhUGdTTUR3aFBQdUdFWEk1MFpJZExKN3JoaDdsLXh5T0UxWkx0Y0RSZFJaRkN4UFhqdURVV0RXTW9wY2JsWm8?oc=5": {
+    "title": "半導体市場、激震！大手2社が外国人売りで動揺も、素材・部品・装備株が底堅い展開",
+    "tags": "Semiconductor",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aZUtNZnhoU3lhUGdTTUR3aFBQdUdFWEk1MFpJZExKN3JoaDdsLXh5T0UxWkx0Y0RSZFJaRkN4UFhqdURVV0RXTW9wY2JsWm8?oc=5",
+    "summary_bullets": [
+      "国内証券市場で主要半導体大手2社が外国人投資家による大量売却に直面し、株価が大きく変動した。",
+      "半導体市場全体の不安定さにもかかわらず、半導体製造に必要な素材・部品・装備関連株は相対的に堅調を維持し、サプライチェーンの特定のセクターの強さを示した。",
+      "グローバルな市場変動に対し、半導体サプライチェーン内でのリスク分散や新たな投資機会が今後注目される可能性がある。"
+    ],
+    "insight": "半導体市場は世界経済や地政学的な影響を受けやすいが、サプライチェーン全体の動向を深く分析することで、変動に強い分野や隠れた成長機会を発見できる。大手企業の動向だけでなく、関連する素材・部品・装備メーカーの動向にも注目することが重要です。",
+    "action_plan": "自社のビジネスが半導体サプライチェーンのどの位置にあるかを再確認し、市場の変動リスクと機会をマッピングしてみましょう。特に素材・部品・装備セクターの技術革新や需要動向に関する最新情報を収集し、中長期的な戦略に反映させるためのディスカッションを設定してみましょう。",
+    "image_keyword": "semiconductor market trend",
+    "technical_terms": [
+      {
+        "term": "外国人売り爆弾",
+        "explanation": "外国人投資家が特定の株式を大量に売却する現象。株価に大きな下落圧力をもたらすことが多い。"
+      },
+      {
+        "term": "素材・部品・装備株",
+        "explanation": "半導体の製造に必要な材料、部品、製造装置を提供する企業の株式。半導体サプライチェーンの下流に位置し、特定の技術力やニッチ市場での強みを持つ場合が多い。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMWXJKQkRUOFB6cXZZX2lGc21Qa1QtYjg4M2pGWTJFTC1LcE9ZRnRDMVBPal9VX0FLV2dEX1ZxXzIwX3luUWfSAUtBVV95cUxPeWFad181SHZxN3ptb0dYZnc0dlFsVHZXdFhRSjlJNVhBXzYtVFVJZm0yY3V0VVNuaF9BRDljWk9FVGJscjZwWEZhSUk?oc=5": {
+    "title": "ソニー、通信半導体子会社を売却：戦略的事業再編の狙いとは？",
+    "tags": "Hardware",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMWXJKQkRUOFB6cXZZX2lGc21Qa1QtYjg4M2pGWTJFTC1LcE9ZRnRDMVBPal9VX0FLV2dEX1ZxXzIwX3luUWfSAUtBVV95cUxPeWFad181SHZxN3ptb0dYZnc0dlFsVHZXdFhRSjlJNVhBXzYtVFVJZm0yY3V0VVNuaF9BRDljWk9FVGJscjZwWEZhSUk?oc=5",
+    "summary_bullets": [
+      "ソニーが通信半導体事業を手掛ける子会社の売却を決定した。",
+      "これはソニーの事業ポートフォリオ戦略の変更と、コア事業への集中を示唆する。",
+      "テクノロジー業界では、企業のM&Aや事業再編が今後も活発化する兆候と予測される。"
+    ],
+    "insight": "大企業による非中核事業の売却は、変化の激しい市場環境で競争力を維持するための重要な戦略です。自社のリソース配分と中長期的な成長戦略を見直す良い機会と捉えましょう。",
+    "action_plan": "自社の主要な事業と非主要な事業をリストアップし、今後の市場動向と照らし合わせて事業再編の可能性や機会を検討してみましょう。",
+    "image_keyword": "Sony business strategy, semiconductor divestment",
+    "technical_terms": [
+      {
+        "term": "通信半導体子会社",
+        "explanation": "データ通信に必要な半導体の開発・製造を行う、親会社であるソニー傘下の企業です。"
+      },
+      {
+        "term": "事業ポートフォリオ再編",
+        "explanation": "企業が保有する事業の組み合わせを見直し、最適化すること。売却や買収を通じて行われます。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV2d5TWMwVUx6RjNqT2VHd2M2OURfbGVnSVJGVzhDVjAxNm8zbmFuYWRIWUNtMFRuMHdRYUlsRF9GU3QwZUpYQjN0V1UzdkZJdXNIUTBRTHJBUVV2WG5oTFk1anlNQVV2UmFDX1A1eV8ybmlIaGZyWUxNMlZ1STc2UUJJQ3JlQVp6dC1hT2JrS3o?oc=5": {
+    "title": "テクノロジー市場の潮目：光通信から半導体へ、マイクロン・テクノロジーが示す新潮流",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目のトレンド転換",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV2d5TWMwVUx6RjNqT2VHd2M2OURfbGVnSVJGVzhDVjAxNm8zbmFuYWRIWUNtMFRuMHdRYUlsRF9GU3QwZUpYQjN0V1UzdkZJdXNIUTBRTHJBUVV2WG5oTFk1anlNQVV2UmFDX1A1eV8ybmlIaGZyWUxNMlZ1STc2UUJJQ3JlQVp6dC1hT2JrS3o?oc=5",
+    "summary_bullets": [
+      "テクノロジー市場における主要な投資および開発トレンドが、光通信分野から半導体分野へと明確にシフトしている。",
+      "マイクロン・テクノロジー【MU】のような大手半導体企業が、このトレンドシフトの中心となり、市場の注目を集めている。",
+      "AIやデータセンター需要の急増が半導体市場を強力に牽引しており、今後の技術進化と経済成長の鍵を握る見込み。"
+    ],
+    "insight": "現在のテクノロジー市場は、AIと高性能コンピューティングの需要に牽引され、半導体への重心が急速に移動しています。企業は、この大きなトレンド変化を捉え、技術投資戦略やサプライチェーンの最適化を急ぐことで、未来の成長機会を最大化すべきです。",
+    "action_plan": "自社の研究開発ロードマップや投資ポートフォリオを再評価し、半導体関連技術への戦略的な投資やパートナーシップ強化の可能性を検討しましょう。特にAIチップ、メモリ技術の動向を注視し、事業への影響を分析することを推奨します。",
+    "image_keyword": "semiconductor trend shift, future tech market, silicon chip innovation",
+    "technical_terms": [
+      {
+        "term": "光通信 (Optical Communication)",
+        "explanation": "光ファイバーケーブルなどを用いて光信号でデータを伝送する技術。高速大容量通信に用いられる。"
+      },
+      {
+        "term": "半導体 (Semiconductor)",
+        "explanation": "電気を通す導体と通さない絶縁体の中間の性質を持つ物質で、CPUやメモリなどあらゆる電子機器の基幹部品。"
+      },
+      {
+        "term": "マイクロン・テクノロジー (Micron Technology)",
+        "explanation": "アメリカ合衆国の半導体メーカー。主にDRAMやNAND型フラッシュメモリといったメモリ製品を製造している。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/decokee-quake.html": {
+    "title": "AI搭載タッチスクリーンが変革する未来のワークスペース：生産性とエンタメの融合",
+    "tags": "AI Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://www.gizmodo.jp/2026/03/decokee-quake.html",
+    "summary_bullets": [
+      "デスクトップAIを搭載したタッチスクリーンが、会議からゲームまで多様な用途を統合し、作業効率を大幅に向上させる。",
+      "これは従来のワークスタイルやデジタルエンタメ体験を一変させ、オフィスと個人の生産性向上に新たな可能性をもたらす。",
+      "AIと直感的なタッチインターフェースの融合が、今後のパーソナルコンピューティングの主流となる可能性を示唆している。"
+    ],
+    "insight": "AIは単なるソフトウェアに留まらず、ハードウェアと融合することで、より没入的かつ生産的なユーザー体験を生み出します。これにより、ビジネスにおける業務効率化や顧客体験設計において、ハードウェアとソフトウェア両面からのアプローチが不可欠となるでしょう。",
+    "action_plan": "自社の業務プロセスにおいて、AIと直感的なインターフェースの組み合わせで効率化・変革できる領域を具体的に書き出してみましょう。",
+    "image_keyword": "AI interactive desktop",
+    "technical_terms": [
+      {
+        "term": "デスクトップAI",
+        "explanation": "PCなどのデバイス上で直接動作し、クラウド接続なしにタスク処理やパーソナライズされた体験を提供する人工知能。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/macbook-neo-20w-charge.html": {
+    "title": "MacBook Neo、まさかの20W充電対応！超小型チャージャーでモバイルワークが変わる",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "革新的な進展",
+    "rating": 4,
+    "time_ago": "5時間前",
+    "url": "https://www.gizmodo.jp/2026/03/macbook-neo-20w-charge.html",
+    "summary_bullets": [
+      "MacBook Neoがわずか20Wで充電可能となり、充電器の劇的な小型化を実現。",
+      "モバイルワーカーの利便性が飛躍的に向上し、デバイスの省電力化が環境負荷低減にも貢献する可能性。",
+      "他のデバイスへの省電力化と小型充電器の波及、USB-C PD規格のさらなる進化が加速するトレンドが予測される。"
+    ],
+    "insight": "モバイルデバイスの電源効率とポータビリティが生産性を左右する時代において、この技術革新は、ワークスタイルや関連製品戦略の見直しを促す重要な指標となるでしょう。",
+    "action_plan": "自社が提供するデバイスやアクセサリ製品の消費電力および充電効率を見直し、次世代の小型・高効率化トレンドへの対応計画を具体的に書き出してみましょう。",
+    "image_keyword": "MacBook Neo, compact charger, portable power",
+    "technical_terms": [
+      {
+        "term": "20W",
+        "explanation": "電力の単位であるワット数を指し、この場合は充電器が出力する最大の電力です。少ないほど省電力で小型化しやすくなります。"
+      },
+      {
+        "term": "USB-C PD",
+        "explanation": "「USB Power Delivery」の略で、USB Type-C端子を利用して、より高い電力（電圧・電流）を供給できる国際標準規格です。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/macbook-neo-iphone-16-pro-a18-pro.html": {
+    "title": "MacBook NeoとiPhone 16 Pro、A18 Proチップの意外な差異：Appleエコシステムの次なる進化を読み解く",
+    "tags": "Hardware",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "5時間前",
+    "url": "https://www.gizmodo.jp/2026/03/macbook-neo-iphone-16-pro-a18-pro.html",
+    "summary_bullets": [
+      "MacBook NeoとiPhone 16 Proに搭載されるA18 Proチップは、同一名称ながらもデバイス特性に合わせた性能や機能の微細な違いが存在する可能性。",
+      "Appleがチップの命名規則と実際の性能・機能を柔軟に調整することで、製品ラインナップ内の差別化と特定のユースケースへの最適化を図る戦略がうかがえる。",
+      "今後は、共通のチップアーキテクチャを持ちつつも、デバイスごとに最適化されたカスタマイズチップがより一般化し、メーカーの製品戦略の鍵となるトレンドが予測される。"
+    ],
+    "insight": "Appleがチップ名が同じでもデバイス間で性能調整を行う戦略は、製品ラインナップ内の棲み分けを明確にし、特定のユースケースへの最適化を図る意図を示しており、これは競合他社の製品戦略にも影響を与える可能性が高い。",
+    "action_plan": "自社製品の差別化戦略やチップ選定において、単一名称のチップでもデバイス特性に合わせたカスタマイズの可能性を検討し、今後の製品ロードマップにどう活かせるかを議論してみましょう。",
+    "image_keyword": "Apple chips comparison",
+    "technical_terms": [
+      {
+        "term": "A18 Proチップ",
+        "explanation": "Appleが開発する次世代の高性能システムオンチップ（SoC）で、iPhoneやMacBookなどの主要デバイスに搭載される見込みのプロセッサです。"
+      },
+      {
+        "term": "MacBook Neo",
+        "explanation": "Appleが将来的にリリースすると予想される次世代MacBookの仮称で、最新技術の搭載が期待されています。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2603/04/news110.html": {
+    "title": "中東情勢緊迫化：イラン関連サイバー攻撃が活発化、ロシア系ハクティビストの影 – パロアルト調査が警鐘",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "19時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/04/news110.html",
+    "summary_bullets": [
+      "パロアルトネットワークスの調査により、イラン関連のサイバー攻撃が活発化し、ロシア系ハクティビストが関与している可能性が浮上。",
+      "地政学的緊張がサイバー空間の脅威を増幅させ、特に中東地域に関連する企業は厳重なセキュリティ対策が求められる。",
+      "国家支援型攻撃やハクティビズムは今後も加速する傾向にあり、サプライチェーン全体でのセキュリティリスク評価と対策が不可欠となる。"
+    ],
+    "insight": "地政学的な紛争がサイバー攻撃という形でビジネスリスクに直結する現代において、企業は国境を越えた脅威に対する包括的なセキュリティ戦略と情報収集体制を構築する重要性を再認識すべきである。",
+    "action_plan": "最新の脅威インテリジェンスを活用し、自社のサプライチェーンやパートナー企業におけるサイバーセキュリティリスクを再評価し、具体的な対策強化計画を今日から見直してみましょう。",
+    "image_keyword": "cyber warfare map, iranian hacker, russian cyberattack",
+    "technical_terms": [
+      {
+        "term": "ハクティビスト",
+        "explanation": "政治的または社会的な目的のためにサイバー攻撃を行う個人や集団です。ハッカーとアクティビストを組み合わせた造語。"
+      },
+      {
+        "term": "脅威インテリジェンス",
+        "explanation": "サイバー攻撃の動向や手法、攻撃者の情報などを分析し、将来の脅威に備えるための知識や情報のことです。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2603/04/news097.html": {
+    "title": "【緊急警告】首相官邸を騙る投資詐欺サイトが再燃！巧妙化するサイバー脅威から資産を守る術とは？",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "20時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/04/news097.html",
+    "summary_bullets": [
+      "首相官邸を騙る偽サイトが再び出現し、「政府支援の自動収益プロジェクト」と偽って投資勧誘を行っている。",
+      "政府機関を装うことで信頼性を偽装し、広範囲な層から金銭を詐取するリスクが高まっており、社会的な警戒が必要である。",
+      "AIなどの技術進化により、偽サイトや詐欺の手口は今後さらに巧妙化し、見分けがつきにくくなる傾向にあるため、継続的な注意喚起とセキュリティリテラシーの向上が求められる。"
+    ],
+    "insight": "デジタル化の進展とともに、政府機関や有名企業を装ったサイバー詐欺は常に進化し続けています。ビジネスマンは、個人情報や企業資産を守るため、常に最新の詐欺手口を把握し、組織全体のセキュリティリテラシーを高めることが急務です。",
+    "action_plan": "不審なURLやメッセージに安易にアクセスせず、情報の真偽を公式ウェブサイトや信頼できる情報源で必ず確認する習慣を身につけましょう。また、従業員向けにフィッシング詐欺や偽サイトの見分け方に関する定期的な研修を実施し、セキュリティ対策の強化を検討してください。",
+    "image_keyword": "fake website, cyber scam, phishing alert",
+    "technical_terms": [
+      {
+        "term": "偽サイト",
+        "explanation": "正規のウェブサイトに似せて作られ、ユーザーを騙して個人情報や金銭を盗み取ることを目的とした不正なサイト。"
+      },
+      {
+        "term": "フィッシング",
+        "explanation": "偽のウェブサイトやメールを使って、ユーザー名、パスワード、クレジットカード情報などの機密情報を騙し取るサイバー詐欺の手法。"
+      },
+      {
+        "term": "投資勧誘",
+        "explanation": "投資名目で金銭を募る行為。詐欺の場合、実体のないプロジェクトへの投資を促し、金銭を騙し取る。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2603/02/news022.html": {
+    "title": "IT現場のリアルを体感！『情シスすごろく』新版で非情シスも巻き込む、部門間理解のゲーム化戦略",
+    "tags": "IT Management",
+    "sentiment": "positive",
+    "sentiment_text": "部門間理解を促進する注目の話題",
+    "rating": 4,
+    "time_ago": "2日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/02/news022.html",
+    "summary_bullets": [
+      "「情シスすごろく」新版が登場し、「限界情シス」の業務課題を非情シスも体験できるようルールを刷新。",
+      "企業内でIT部門への理解を深め、部門間のコミュニケーションや連携を円滑にすることで、業務効率向上とエンゲージメント強化に貢献。",
+      "ゲーム化（ゲーミフィケーション）を活用した社内研修や部署間連携ツールの普及がさらに進む可能性。"
+    ],
+    "insight": "情シスと他部門のギャップを埋めるユニークな試みは、企業全体の生産性向上だけでなく、従業員のエンゲージメント向上にも繋がる可能性を秘めており、自社の組織課題解決にゲーミフィケーションの導入を検討するきっかけとなるでしょう。",
+    "action_plan": "自社内で部門間の理解不足が課題となっている領域を特定し、ゲーミフィケーションやインタラクティブな体験型研修の導入可能性について検討を開始してみましょう。",
+    "image_keyword": "IT department game, office collaboration board game, gamification corporate training",
+    "technical_terms": [
+      {
+        "term": "情シス",
+        "explanation": "企業内の情報システム部門の略称。ITインフラの管理やシステム開発・運用を担当します。"
+      },
+      {
+        "term": "ゲーミフィケーション",
+        "explanation": "ビジネスや教育など、ゲーム以外の分野にゲームの要素やメカニズムを応用し、利用者の意欲を引き出す手法。"
       }
     ]
   }
