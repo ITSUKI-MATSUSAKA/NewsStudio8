@@ -1,7 +1,6 @@
 __pycache__/
 *.pyc
 .DS_Store
-article_cache.json
 debug_output.txt
 cron_execution.log
 cron_config.txt
