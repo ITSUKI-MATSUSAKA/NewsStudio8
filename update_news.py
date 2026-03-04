@@ -377,11 +377,6 @@ def save_cache(cache):
 # 🚀 メイン処理
 # ==========================================
 def main():
-    if not API_KEY:
-        print("エラー: GeminiのAPIキーが環境変数 GEMINI_API_KEY に設定されていません。")
-        print("GitHub Secrets またはローカルの環境変数を確認してください。")
-        return
-
     JST = timezone(timedelta(hours=+9), 'JST')
     now = datetime.now(JST)
 
