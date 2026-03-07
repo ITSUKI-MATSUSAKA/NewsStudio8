@@ -808,7 +808,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "たった今",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/07/news030.html",
     "summary_bullets": [
       "米国防総省が大手AI開発企業Anthropicを「サプライチェーンリスク」として正式に指定した。",
@@ -835,7 +835,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "1時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/enterprise/articles/2603/07/news023.html",
     "summary_bullets": [
       "企業のセキュリティ責任者の約半数（45%）が週6日相当の過酷な勤務を強いられている実態が判明。",
@@ -1133,7 +1133,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 4,
-    "time_ago": "13時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/06/news134.html",
     "summary_bullets": [
       "詐欺師がフィッシングメール送信時に、誤って内部向けの「詐欺メールデザインのポイント」を記載した内容を送信してしまい話題に。",
@@ -1160,7 +1160,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "13時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/06/news132.html",
     "summary_bullets": [
       "電子部品大手・村田製作所が不正アクセスを受け、データ漏えいの可能性について現在調査を進めている。",
@@ -1205,6 +1205,244 @@
       {
         "term": "性善説のジレンマ",
         "explanation": "顧客や利用者が原則として正直であるという前提（性善説）でシステムを設計した結果、その信頼が裏切られた際に生じる問題や機能不全。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/enterprise/articles/2603/07/news016.html": {
+    "title": "AI常時稼働でネットワーク激変！NEC・東大・NTTが挑む次世代インフラ戦略",
+    "tags": "Network Infrastructure",
+    "sentiment": "positive",
+    "sentiment_text": "期待高まる話題",
+    "rating": 5,
+    "time_ago": "23時間前",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/07/news016.html",
+    "summary_bullets": [
+      "AIの常時稼働によって引き起こされるネットワークトラフィックの激増に対し、NEC、東京大学、NTTが技術を結集し、課題解決に挑む。",
+      "AI活用が不可避な現代において、通信インフラの安定性と効率性を高めることで、企業のAI導入を促進し、新たなビジネス機会創出の基盤を強化する。",
+      "AI進化とネットワーク発展が密接に連携する将来を見据え、エコシステム全体での技術協調が次世代通信基盤構築の鍵となるトレンドが加速する。"
+    ],
+    "insight": "AIの導入・活用は単なるアプリケーション層の話に留まらず、その性能を最大限に引き出すためには、裏側を支える通信インフラへの戦略的な投資と技術的アプローチがビジネス継続と競争力の鍵であることを理解すべきです。",
+    "action_plan": "自社でAI関連サービスやシステム導入を進める際には、現在のネットワークインフラが将来的なトラフィック増大に耐えうるか再評価し、必要な増強計画やパートナーシップについて検討を始めましょう。",
+    "image_keyword": "AI network infrastructure",
+    "technical_terms": [
+      {
+        "term": "AIの常時稼働",
+        "explanation": "ユーザーの意識とは関係なく、AIが常にバックエンドで動作し、情報処理やサービス提供を行う状態を指します。これにより、ネットワークへの負荷が増大します。"
+      },
+      {
+        "term": "トラフィック激増",
+        "explanation": "ネットワーク上を流れるデータ通信量が急激に増加することです。特にAI処理やデータ転送の増大により、通信インフラに大きな負荷がかかります。"
+      },
+      {
+        "term": "ネットワークインフラ",
+        "explanation": "インターネットや企業内ネットワークなどの通信網を構成する、物理的および論理的な基盤（サーバー、ルーター、ケーブル、ソフトウェアなど）の総称です。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6572366?source=rss": {
+    "title": "地方自治体が先導するメタバース婚活：仮想空間で拓く新たな出会いの可能性",
+    "tags": "Metaverse",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "12時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6572366?source=rss",
+    "summary_bullets": [
+      "地方自治体が若者の出会いを支援するため、メタバースを活用した婚活イベントを主催する。",
+      "これは地域課題解決と若者世代へのアプローチにおいて、メタバースが実用的なツールとして注目され始めていることを示唆する。",
+      "今後、行政サービスやコミュニティ形成、地方創生など多様な分野でメタバースの社会実装が加速する可能性がある。"
+    ],
+    "insight": "このニュースは、地方自治体までもが最新テクノロジーであるメタバースを積極活用し、社会課題解決と新しい価値創造に挑む姿を示しています。企業は、ターゲット層の変化やテクノロジーの進化を捉え、既存のビジネスモデルをいかに革新し、新しい顧客体験やコミュニティ形成に繋げられるかを深く洞察すべきでしょう。",
+    "action_plan": "自社のサービスや製品がメタバースなどの新技術でどのように革新できるかをブレインストーミングし、具体的なアイデアを書き出してみましょう。特に、従来の課題をテクノロジーで解決する視点を持つことが重要です。",
+    "image_keyword": "metaverse dating, virtual matchmaking, government tech initiative",
+    "technical_terms": [
+      {
+        "term": "メタバース",
+        "explanation": "インターネット上に構築された3Dの仮想空間で、アバターを通じてユーザーが交流したり、活動したりできるプラットフォーム。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6572356?source=rss": {
+    "title": "AIが加速する男女格差の懸念：ILOが警鐘を鳴らす未来の労働市場",
+    "tags": "AI Policy",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "14時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6572356?source=rss",
+    "summary_bullets": [
+      "国際労働機関（ILO）が、AI技術の急速な発展が男女間の労働市場における格差を拡大させるリスクがあると警鐘を鳴らした。",
+      "AI導入を検討する企業は、アルゴリズムの偏りや特定の職種への影響を評価し、多様性と公平性を確保する戦略が求められる。",
+      "各国政府や国際機関は、AIによる格差拡大を防ぐための政策や規制、労働者の再教育プログラムの強化が加速すると予測される。"
+    ],
+    "insight": "AIの導入は単なる技術的最適化に留まらず、企業の社会的責任や倫理的側面を問う経営課題である。特にジェンダー平等と多様性の観点から、AIアルゴリズムの設計、人材戦略、そして企業文化全体を見直す機会と捉えるべきだ。",
+    "action_plan": "自社内のAI導入計画や既存システムにおける潜在的なジェンダーバイアスについて、初期的な評価を実施してみましょう。また、多様性と公平性（DE&I）をAI戦略にどのように統合できるかを部門横断で議論を始めてみましょう。",
+    "image_keyword": "AI gender gap, future labor market, ILO report",
+    "technical_terms": [
+      {
+        "term": "アルゴリズムバイアス",
+        "explanation": "AIが学習データに含まれる偏見を反映し、特定の人々（例：女性）に対して不公平な判断を下す現象。"
+      },
+      {
+        "term": "国際労働機関 (ILO)",
+        "explanation": "労働者の権利、労働条件、社会保障などを国際的に改善・推進するために設立された国連の専門機関。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6572323?source=rss": {
+    "title": "記念Suicaの電子マネー、失効にご注意：あなたのデジタル資産、期限前にチェックを",
+    "tags": "FinTech",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "19時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6572323?source=rss",
+    "summary_bullets": [
+      "記念デザインのSuicaにチャージされた電子マネーには有効期限があり、一定期間利用がないと失効する可能性がある。",
+      "デジタル資産管理の重要性が高まる中、電子マネーやポイントの有効期限把握は個人にとって不可欠な課題となっている。",
+      "サービス提供側は、ユーザーに対する利用規約や有効期限に関するより明確で分かりやすい情報提供が求められるトレンドが加速するだろう。"
+    ],
+    "insight": "デジタルアセットが多様化する現代において、企業は顧客のデジタル資産（電子マネー、ポイント、サブスクリプションなど）の管理意識向上を支援する情報戦略が求められます。失効による顧客体験の悪化は、信頼低下に直結しかねません。",
+    "action_plan": "自身が利用している電子マネーやポイント、デジタルサービス全般の利用規約や有効期限を今日中に確認し、失効リスクのある資産については利用計画を見直しましょう。",
+    "image_keyword": "Suica expiration, digital wallet, consumer finance",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnRWFPdmJUWXpNVkIyTnFQUGVWR19HbEhnTW5NVG5oaWZlT0Jja2hBQWdZRGh6cTBKMHNfTkZIOFFIS3lJaWkxYXRkY1JsblEtRDdjRTVHck5zeGExemc?oc=5": {
+    "title": "JFE、鉄鋼から半導体へ大転換！ナノ精度合金と希少ガスで描く2026年の産業革新",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnRWFPdmJUWXpNVkIyTnFQUGVWR19HbEhnTW5NVG5oaWZlT0Jja2hBQWdZRGh6cTBKMHNfTkZIOFFIS3lJaWkxYXRkY1JsblEtRDdjRTVHck5zeGExemc?oc=5",
+    "summary_bullets": [
+      "JFEが鉄鋼業で培った高度な材料技術を応用し、半導体製造に不可欠な「ナノの精度」を持つ希少ガスやゼロ膨張合金の開発で市場に本格参入する。",
+      "日本の半導体材料分野における競争力強化とサプライチェーンの安定化に貢献し、2026年を目標に新たな産業構造と成長機会を創出する。",
+      "既存の重厚長大産業が先端技術分野へシフトする動きが加速し、異業種からの革新的な技術投入が半導体産業の未来を大きく変えるトレンドを加速させる。"
+    ],
+    "insight": "既存産業で培われたコア技術が、全く異なる先端分野で予期せぬ大きな価値を生み出す可能性を示しています。自社の技術ポテンシャルを再評価し、異業種連携や新規事業開拓の機会を積極的に模索すべきです。",
+    "action_plan": "自社の主要事業を支える技術や素材が、他の成長分野でどのように応用可能か、関連部門と具体的なアイデアをブレインストーミングで洗い出してみましょう。",
+    "image_keyword": "semiconductor materials, nano precision, advanced alloy",
+    "technical_terms": [
+      {
+        "term": "ナノの精度",
+        "explanation": "ナノメートル（10億分の1メートル）単位の極めて微細なレベルで、精密な加工や測定、制御を行う技術。"
+      },
+      {
+        "term": "希少ガス",
+        "explanation": "半導体製造プロセス、特にエッチングや成膜工程で不可欠な、供給量が限られる特殊な種類のガス（例：キセノン、ネオン、クリプトンなど）。"
+      },
+      {
+        "term": "ゼロ膨張合金",
+        "explanation": "温度変化による体積変化がほとんどない特性を持つ特殊な金属合金で、精密な半導体製造装置や計測機器の部品に用いられる。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxcUVpbFhBNm9MWHo5WlRlSnBfN3hDUjdGcmoydko5cEdHTEdnQ282NS1rYWprYUo3QnctNnBSUGpWbVo5REc5WWFEVnMwc2d1SHc?oc=5": {
+    "title": "NVIDIAが次世代AIサーバー『Vera Rubin』発表！演算性能5倍で半導体サプライチェーンに巨大な波紋",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxcUVpbFhBNm9MWHo5WlRlSnBfN3hDUjdGcmoydko5cEdHTEdnQ282NS1rYWprYUo3QnctNnBSUGpWbVo5REc5WWFEVnMwc2d1SHc?oc=5",
+    "summary_bullets": [
+      "NVIDIAが次世代AIサーバー「Vera Rubin」を発表し、演算性能が前世代比で5倍に向上した。",
+      "この革新は、台湾を中心とする世界の半導体サプライチェーンに巨大な波及効果をもたらすことが予測される。",
+      "AI処理能力の飛躍的向上により、あらゆる産業でのAI導入とイノベーションが加速する見込みである。"
+    ],
+    "insight": "このNVIDIAの発表は、AIインフラ投資の新たな基準を提示するとともに、関連する半導体製造および供給網全体における戦略的な再構築とパートナーシップの重要性を浮き彫りにしています。",
+    "action_plan": "自社のAI導入計画や既存のサプライチェーンを見直し、次世代AI技術への対応と、新たなビジネス機会を創出するための戦略的なパートナーシップの可能性を検討してみましょう。",
+    "image_keyword": "NVIDIA AI server, Vera Rubin, semiconductor supply chain",
+    "technical_terms": [
+      {
+        "term": "Vera Rubin",
+        "explanation": "NVIDIAが開発する次世代AIサーバーのコードネーム。天文学者の名に由来し、演算性能の大幅な向上を特徴とする。"
+      },
+      {
+        "term": "AIサーバー",
+        "explanation": "人工知能の計算処理に特化した高性能なサーバー。大量のデータ処理や機械学習の学習・推論に用いられる。"
+      },
+      {
+        "term": "半導体サプライチェーン",
+        "explanation": "半導体の設計から製造、組立、テスト、そして最終製品への供給に至るまでの一連の企業とプロセスのつながり。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRFpXdWhTQzJTUzBIRk91SllnLV82VjNlbDlkeU1xbTZjcVdxZGx2NDVpaE43ZERqcVZWOFVvdXMxb1BHLTdDbmhpMDFwREN2bUZsRE1aNG80aDZONGl3NUttQ1Z3N2NkRm40cnc0eTJybzNGNlJ4Q0d4UHVKS3UxdXFkXzhZQkRzblpVbGNQa1o4MVdmZUZlMkxIRjUyZG5WY1FFTVFB?oc=5": {
+    "title": "パワー半導体業界再編加速：ローム、デンソー・東芝との提携で対中競争力強化へ",
+    "tags": "Semiconductor",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "5時間前",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRFpXdWhTQzJTUzBIRk91SllnLV82VjNlbDlkeU1xbTZjcVdxZGx2NDVpaE43ZERqcVZWOFVvdXMxb1BHLTdDbmhpMDFwREN2bUZsRE1aNG80aDZONGl3NUttQ1Z3N2NkRm40cnc0eTJybzNGNlJ4Q0d4UHVKS3UxdXFkXzhZQkRzblpVbGNQa1o4MVdmZUZlMkxIRjUyZG5WY1FFTVFB?oc=5",
+    "summary_bullets": [
+      "日本のパワー半導体メーカー、ロームがデンソーまたは東芝との戦略的提携を模索しており、業界再編の動きが活発化している。",
+      "この再編は、中国勢との競争激化に直面する中で、日本勢の国際競争力を高め、供給網を強化する狙いがある。",
+      "日本の半導体産業は、グローバル市場での存在感を維持・拡大するため、今後も戦略的提携やM&Aが加速する可能性が高い。"
+    ],
+    "insight": "グローバルな競争が激化する現代において、日本企業が市場での優位性を確保するためには、既存の枠組みにとらわれず、積極的な業界再編や他社との連携を通じて、新たなシナジーを生み出すことが不可欠です。",
+    "action_plan": "自社が属する業界における主要プレイヤーの動向を定期的に分析し、潜在的なパートナーシップやM&Aの機会について検討資料を作成してみましょう。また、今後の業界再編が自社に与える影響について多角的に予測し、対応策を事前に立案しておきましょう。",
+    "image_keyword": "power semiconductor, industry consolidation, global competition",
+    "technical_terms": [
+      {
+        "term": "パワー半導体",
+        "explanation": "電力の変換や制御に使われる半導体で、電気自動車、産業機器、データセンターなど、幅広い分野で重要な役割を担います。電力効率の向上に貢献します。"
+      },
+      {
+        "term": "業界再編",
+        "explanation": "企業が合併や買収（M&A）、提携などを通じて、その業界の構造が大きく変化すること。競争力強化や事業の効率化、新たな市場開拓などを目的とします。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/naya-connect-cm2.html": {
+    "title": "究極のパーソナライズを実現：モジュール式キーボードが「あなた最適」の入力体験を再定義する",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "期待のテクノロジー",
+    "rating": 4,
+    "time_ago": "8時間前",
+    "url": "https://www.gizmodo.jp/2026/03/naya-connect-cm2.html",
+    "summary_bullets": [
+      "「Naya Connect CM2」などのモジュール式キーボードが、ユーザーの作業内容や好みに合わせて自由にカスタマイズ可能な柔軟性を提供。",
+      "ビジネスプロフェッショナルの生産性向上とクリエイターの創造性発揮に貢献し、多様な働き方に対応する周辺機器市場の進化を加速させる。",
+      "パーソナライゼーションとモジュール化が、今後のITデバイスおよび周辺機器設計の新たな標準トレンドとなることが予測される。"
+    ],
+    "insight": "ビジネスマンは、個々の従業員の作業スタイルに最適化されたデバイスが生産性向上に不可欠であることを再認識し、柔軟なカスタマイズ性を持つツールの導入検討が、組織の競争力強化と従業員エンゲージメント向上に繋がるという洞察を得るべきです。",
+    "action_plan": "自社の従業員が日常的に使用している入力デバイスや周辺機器が、彼らの業務内容や身体的特性に最適化されているかを見直し、必要であればモジュール式デバイスなどの導入可能性について情報収集を始めてみましょう。",
+    "image_keyword": "modular keyboard, ergonomic tech, customized workstation",
+    "technical_terms": [
+      {
+        "term": "モジュール式",
+        "explanation": "複数の部品や機能単位（モジュール）を自由に組み合わせて、全体を構成したり機能変更したりできる設計思想や製品のこと。交換や拡張が容易になります。"
+      },
+      {
+        "term": "パーソナライゼーション",
+        "explanation": "個人の好み、行動履歴、ニーズに合わせて製品やサービスを最適化し、個別に対応すること。ユーザー体験の向上を目指します。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2603/07/news033.html": {
+    "title": "『エヴァ』短編アニメ、YouTubeで電撃公開！ 流出対策とファン体験向上を両立する新手法",
+    "tags": "Content Strategy",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "8時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/07/news033.html",
+    "summary_bullets": [
+      "スタジオカラーがエヴァ30周年フェスで上映した短編アニメをYouTubeで公式に無料公開した。",
+      "流出動画への対策として公式が先行公開することで、著作権保護とファンエンゲージメントを両立させる新たなコンテンツ戦略を示唆している。",
+      "デジタル時代におけるコンテンツ保護と流通のバランスが重要となり、公式による柔軟なプラットフォーム活用が進む可能性が高い。"
+    ],
+    "insight": "コンテンツホルダーは、不正流通を単に阻止するだけでなく、公式が積極的にデジタルプラットフォームを活用し、ファン体験と著作権保護を両立させる戦略の構築が不可欠である。",
+    "action_plan": "自社のデジタルコンテンツ戦略において、不正利用対策と同時に公式プラットフォームでの積極的な情報公開やファンエンゲージメント施策を検討してみましょう。",
+    "image_keyword": "Evangelion short film, YouTube content strategy, digital copyright",
+    "technical_terms": [
+      {
+        "term": "デジタル著作権侵害",
+        "explanation": "著作権を持つデジタルコンテンツが、権利者の許可なく複製、配布、公開される行為。不正な流出動画などがこれにあたる。"
       }
     ]
   }
