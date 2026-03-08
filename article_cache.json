@@ -1133,7 +1133,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 4,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/06/news134.html",
     "summary_bullets": [
       "詐欺師がフィッシングメール送信時に、誤って内部向けの「詐欺メールデザインのポイント」を記載した内容を送信してしまい話題に。",
@@ -1160,7 +1160,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/06/news132.html",
     "summary_bullets": [
       "電子部品大手・村田製作所が不正アクセスを受け、データ漏えいの可能性について現在調査を進めている。",
@@ -1214,7 +1214,7 @@
     "sentiment": "positive",
     "sentiment_text": "期待高まる話題",
     "rating": 5,
-    "time_ago": "23時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/enterprise/articles/2603/07/news016.html",
     "summary_bullets": [
       "AIの常時稼働によって引き起こされるネットワークトラフィックの激増に対し、NEC、東京大学、NTTが技術を結集し、課題解決に挑む。",
@@ -1245,7 +1245,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 4,
-    "time_ago": "12時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6572366?source=rss",
     "summary_bullets": [
       "地方自治体が若者の出会いを支援するため、メタバースを活用した婚活イベントを主催する。",
@@ -1268,7 +1268,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "14時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6572356?source=rss",
     "summary_bullets": [
       "国際労働機関（ILO）が、AI技術の急速な発展が男女間の労働市場における格差を拡大させるリスクがあると警鐘を鳴らした。",
@@ -1429,7 +1429,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 4,
-    "time_ago": "8時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/07/news033.html",
     "summary_bullets": [
       "スタジオカラーがエヴァ30周年フェスで上映した短編アニメをYouTubeで公式に無料公開した。",
@@ -1443,6 +1443,252 @@
       {
         "term": "デジタル著作権侵害",
         "explanation": "著作権を持つデジタルコンテンツが、権利者の許可なく複製、配布、公開される行為。不正な流出動画などがこれにあたる。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2603/09/news016.html": {
+    "title": "インバウンド高騰が引き起こす日本人旅行離れ：AI価格戦略の盲点と新たな観光の未来",
+    "tags": "AI Economics",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2603/09/news016.html",
+    "summary_bullets": [
+      "インバウンド需要の急増とAIによるダイナミックプライシングが、国内の宿泊費高騰と日本人旅行離れの主要因となっている。",
+      "国内旅行市場の構造的な歪みと、AI活用における倫理的・社会的側面への再考がビジネスや社会に求められている。",
+      "今後は、持続可能な観光開発と、AI活用における人間中心のバランスの取れた戦略が、新たな観光の形を築く鍵となるだろう。"
+    ],
+    "insight": "AIによる最適化が進む市場において、その技術がもたらす意図せざる社会的影響や倫理的課題を常に考慮し、ビジネス戦略に人間中心の視点を組み込むことの重要性を示唆している。",
+    "action_plan": "AIを活用したビジネスモデルを検討する際は、利益最大化だけでなく、多様な顧客層への影響や社会全体の持続可能性を考慮した多角的な視点を取り入れ、戦略を見直してみましょう。",
+    "image_keyword": "AI tourism impact",
+    "technical_terms": [
+      {
+        "term": "ダイナミックプライシング",
+        "explanation": "需要や供給、時期、顧客データなどに応じて商品やサービスの価格をリアルタイムで変動させる戦略。"
+      },
+      {
+        "term": "AIの限界",
+        "explanation": "人工知能が特定の状況下で予期せぬ結果や倫理的な問題、社会的な不均衡を引き起こす可能性があり、万能ではないという認識。"
+      }
+    ]
+  },
+  "https://atmarkit.itmedia.co.jp/ait/articles/2603/09/news010.html": {
+    "title": "AIがChrome拡張の安全性を診断：PCのセキュリティリスクをClaude Coworkで徹底検証",
+    "tags": "Cybersecurity",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/09/news010.html",
+    "summary_bullets": [
+      "AI「Claude Cowork」がChrome拡張機能のアクセス権限と挙動を分析し、潜在的なセキュリティリスクを効率的に可視化する。",
+      "日常的に利用するブラウザ拡張機能が持つ情報漏洩やマルウェア感染のリスクに対し、AIが客観的な評価を提供することで企業や個人のセキュリティ強化に貢献する。",
+      "AIを活用した自動セキュリティ診断ツールが進化し、従業員が利用する多様なソフトウェアの安全性を手軽に検証する新たなトレンドが加速する見込みである。"
+    ],
+    "insight": "日常的に利用するChrome拡張機能が潜在的なセキュリティホールとなり得る中で、AIを活用した自動診断は、企業のIT資産を保護し、情報漏洩リスクを低減するための新たな標準的な対策となるでしょう。",
+    "action_plan": "現在利用しているChrome拡張機能の一覧を書き出し、各拡張機能が要求する権限と提供する機能の妥当性を再評価しましょう。また、AIによるセキュリティ診断ツールの導入可能性を調査し、自社の情報セキュリティ監査プロセスへの組み込みを検討してみましょう。",
+    "image_keyword": "Chrome extension security, AI analysis, digital safety",
+    "technical_terms": [
+      {
+        "term": "Chrome拡張",
+        "explanation": "Google Chromeブラウザに機能を追加・拡張するための小型プログラムやアドオンのことです。"
+      },
+      {
+        "term": "Claude Cowork",
+        "explanation": "Anthropic社が開発した大規模言語モデル「Claude」を利用し、業務効率化や情報分析を支援するAIアシスタントです。"
+      },
+      {
+        "term": "権限",
+        "explanation": "ソフトウェアやアプリケーションが、システム内の特定のリソース（ファイル、カメラ、マイク、個人情報など）にアクセスするために必要とする許可のことです。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6572497?source=rss": {
+    "title": "ドコモ3Gサービス終了、50万回線のモバイル市場再編が加速",
+    "tags": "Telecommunication",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "11時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6572497?source=rss",
+    "summary_bullets": [
+      "ドコモが2026年3月末に3Gサービスを終了し、約50万回線の既存ユーザーが他サービスへの移行を迫られる。",
+      "この大規模なユーザー移行を巡り、他の通信キャリアやMVNO間での顧客獲得競争が激化すると予想される。",
+      "レガシー技術からの脱却が加速し、5G/6Gといった次世代通信技術への移行が業界全体のトレンドとなる。"
+    ],
+    "insight": "通信業界の事業者は、レガシー技術からの移行を顧客離れのリスクではなく、次世代サービスへの誘導と新たな顧客層獲得の機会と捉え、戦略的なプランニングが不可欠です。",
+    "action_plan": "自社の顧客層におけるレガシー技術利用状況を把握し、サービス終了による顧客行動の変化や競合他社の動きを分析して、移行期における事業戦略を見直してみましょう。",
+    "image_keyword": "3G shutdown, mobile network transition, telecom competition",
+    "technical_terms": [
+      {
+        "term": "3G (第三世代移動通信システム)",
+        "explanation": "音声通話と低速データ通信を主とした、旧世代のモバイル通信規格です。"
+      },
+      {
+        "term": "MVNO (Mobile Virtual Network Operator)",
+        "explanation": "大手通信キャリアから回線を借りて、独自のサービスを提供する事業者です。"
+      },
+      {
+        "term": "50万回線争奪戦",
+        "explanation": "ドコモの3Gサービス終了に伴い、約50万人のユーザーを自社サービスへ移行させようと、各通信事業者が競争する状況を指します。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmVkhHb0hLNUgzSGJBT1A5c3ZWSmdVOUdWQTJqXy1yT1ZtQU1BdmpTOU03OXN2RzR5Q3Z5cmtPR2ZOTTFMaGtHeHN5b1F0RERaQzVRdF9neGcySUs2X01EZm5YUGRaTDFV?oc=5": {
+    "title": "韓国経済、半導体依存脱却へ：輸出停滞を打開する新たな産業戦略が急務",
+    "tags": "Economy",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmVkhHb0hLNUgzSGJBT1A5c3ZWSmdVOUdWQTJqXy1yT1ZtQU1BdmpTOU03OXN2RzR5Q3Z5cmtPR2ZOTTFMaGtHeHN5b1F0RERaQzVRdF9neGcySUs2X01EZm5YUGRaTDFV?oc=5",
+    "summary_bullets": [
+      "韓国の輸出額は半導体を除くと停滞しており、経済成長の持続性に懸念が浮上している。",
+      "特定の産業への過度な依存は、グローバル市場の変動リスクを増大させ、多様な産業ポートフォリオの構築が急務となる。",
+      "韓国政府は、半導体以外の新たな成長エンジンを発掘し、経済構造を多角化するための産業戦略強化に注力する見込み。"
+    ],
+    "insight": "一国の経済が特定の産業に偏るリスクは、グローバルサプライチェーンの変動や市場競争激化により顕在化します。多様な産業ポートフォリオ構築は、持続可能な成長と経済安定の鍵となります。",
+    "action_plan": "自社の事業ポートフォリオを改めて評価し、特定の技術や市場への過度な依存がないか確認してみましょう。将来の不確実性に備え、新たな成長分野への投資やM&Aの可能性を探ることで、リスク分散と持続的成長の基盤を強化できます。",
+    "image_keyword": "Korea export strategy",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wN1JpNmZIZTJBNWVhWW4yYTJRN09kM2FMMFFNQlhob2xzMkVyMTZWR2RyMTVoMTBSODFPdEZVMVVGUXR1MHlKbmtURjNQTEtzbmphbGJjTFVDR3VfX01MZXo1RGZsczdT?oc=5": {
+    "title": "サムスン半導体、労組スト拡大か？制裁示唆で生産供給網に波紋",
+    "tags": "Semiconductor",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wN1JpNmZIZTJBNWVhWW4yYTJRN09kM2FMMFFNQlhob2xzMkVyMTZWR2RyMTVoMTBSODFPdEZVMVVGUXR1MHlKbmtURjNQTEtzbmphbGJjTFVDR3VfX01MZXo1RGZsczdT?oc=5",
+    "summary_bullets": [
+      "韓国サムスン電子の労働組合がスト不参加者への制裁を示唆し、半導体生産への影響が懸念されている。",
+      "世界最大の半導体メーカーの一つであるサムスンの生産停滞は、グローバルサプライチェーンに大きな混乱をもたらす可能性がある。",
+      "労使交渉の行方が半導体市場の安定性、ひいてはデジタル機器の価格や供給に影響を与えるか注視される。"
+    ],
+    "insight": "サムスンの労使紛争は単なる国内問題ではなく、世界の半導体供給を左右する重要なリスク要因です。企業はサプライチェーンにおける半導体の依存度を再評価し、潜在的な供給リスクに対する備えを強化すべきです。",
+    "action_plan": "自社の製品やサービスで使用される半導体のサプライヤー構成を再確認し、サムスンからの供給リスクが発生した場合の代替策や在庫戦略を具体的に検討してみましょう。",
+    "image_keyword": "Samsung semiconductor factory, labor strike protest, supply chain risk",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "スマートフォンやパソコン、自動車などに不可欠な電子部品で、デジタル社会の基盤となる。"
+      },
+      {
+        "term": "サプライチェーン",
+        "explanation": "製品が消費者に届くまでの、原材料調達から生産、流通、販売までの全工程を指す。"
+      },
+      {
+        "term": "労組",
+        "explanation": "労働者の権利と利益を守るために組織された団体で、企業との労働条件交渉などを行う。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84clV4bkhSZERaQ3NkM0RkM0phTHVsV2ZEUWRaSkxoR2E4b1ExQWowRXRKeXpsNXZBelIxOTUzTWxlX3pTaGZSSVFQNG9FUWZmSUdBekdR?oc=5": {
+    "title": "デンソー、ローム買収でパワー半導体技術を内製化：日本の自動車産業が描く未来戦略",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84clV4bkhSZERaQ3NkM0RkM0phTHVsV2ZEUWRaSkxoR2E4b1ExQWowRXRKeXpsNXZBelIxOTUzTWxlX3pTaGZSSVFQNG9FUWZmSUdBekdR?oc=5",
+    "summary_bullets": [
+      "デンソーがローム買収を検討しており、EV化に不可欠なパワー半導体技術の内製化を加速させる動き。",
+      "日本の自動車業界は、重要部品であるパワー半導体のサプライチェーンを強化し、国際的な競争力を向上させる。",
+      "自動車産業における半導体内製化のトレンドが加速し、次世代モビリティ分野での技術主導権争いが激化する見込み。"
+    ],
+    "insight": "自動車産業の電動化が進む中で、中核部品であるパワー半導体の自社開発・生産能力を持つことは、サプライチェーンリスクの低減と競争優位性の確立に直結します。この動きは、他業界における重要部品・技術の確保戦略のモデルとなり得るでしょう。",
+    "action_plan": "自社の事業におけるキーテクノロジーや重要部品のサプライチェーンを再評価し、内製化や複数ベンダー化の可能性を検討してみましょう。",
+    "image_keyword": "Automotive Power Semiconductor",
+    "technical_terms": [
+      {
+        "term": "パワー半導体",
+        "explanation": "電力を変換・制御する半導体で、EVのモーター駆動や充電システムに不可欠な部品。電力損失を抑え、効率的なエネルギー利用を実現する。"
+      },
+      {
+        "term": "EV化",
+        "explanation": "自動車がガソリンエンジン車から電気モーターを動力源とする電気自動車（EV）へ移行すること。脱炭素社会実現に向けた主要な流れ。"
+      },
+      {
+        "term": "サプライチェーン",
+        "explanation": "製品が消費者の手に届くまでの原材料調達から生産、流通、販売までの一連の連鎖。部品供給の安定性やコスト効率に大きく影響する。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/310991-obp.html": {
+    "title": "虫歯は過去のものに？「歯のエナメル質再生ジェル」が歯科医療の未来を塗り替える",
+    "tags": "Healthcare",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "8時間前",
+    "url": "https://www.gizmodo.jp/2026/03/310991-obp.html",
+    "summary_bullets": [
+      "歯のエナメル質を自然に再生させる画期的なジェルが開発され、虫歯治療に革命をもたらす可能性が示された。",
+      "歯科医療業界のビジネスモデル変革、予防歯科の重要性向上、個人の口腔衛生意識の向上に大きく寄与する。",
+      "再生医療技術の口腔分野への応用が加速し、将来的に歯の健康維持のパラダイムシフトが予測される。"
+    ],
+    "insight": "このエナメル質再生ジェルは、単なる虫歯治療の進歩に留まらず、予防歯科の概念を根本から変革し、世界中の人々の口腔健康と医療経済に長期的な好影響をもたらす可能性を秘めていると理解すべきです。",
+    "action_plan": "歯科医療やヘルスケア分野の最新動向を定期的にチェックし、再生医療技術の進化が自社の事業戦略にどのような機会や脅威をもたらすかを見直してみましょう。",
+    "image_keyword": "tooth enamel regeneration, dental gel, future dentistry",
+    "technical_terms": [
+      {
+        "term": "エナメル質",
+        "explanation": "歯の最も外側を覆う非常に硬い組織で、虫歯や物理的なダメージから歯を保護する役割を持っています。"
+      },
+      {
+        "term": "再生医療",
+        "explanation": "病気や事故で失われた組織や臓器を、細胞や組織を用いて修復・再生し、その機能を回復させることを目指す医療分野です。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/good-luck-banning-smart-glasses.html": {
+    "title": "スマートグラス禁止区域が拡大中、それでも止められない普及の波と社会の適応",
+    "tags": "Hardware",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "9時間前",
+    "url": "https://www.gizmodo.jp/2026/03/good-luck-banning-smart-glasses.html",
+    "summary_bullets": [
+      "スマートグラスの普及に伴い、プライバシー保護やセキュリティ懸念から公共・私的空間での「禁止区域」が世界的に増加している。",
+      "テクノロジーの利便性と進化が速いため、禁止だけでは根本的な解決にならず、企業や施設は新たな運用ルールや技術的対策の導入を迫られている。",
+      "今後は、禁止ではなく、スマートグラスの倫理的な利用ガイドラインの策定や、利用者の同意・識別技術など、共存のための仕組み作りがトレンドとなるだろう。"
+    ],
+    "insight": "スマートグラスのような革新的なデバイスは、利便性と共にプライバシー侵害やセキュリティリスクといった新たな社会課題を常に提起します。企業は、単純な禁止措置ではなく、技術倫理に基づいた利用ポリシーの策定や、共存するための技術的・運用的なソリューション開発に戦略的に取り組む必要があります。",
+    "action_plan": "自社オフィスや店舗、イベント会場などにおけるスマートグラスの持ち込みや利用に関する現在のポリシーを見直し、将来的なリスクと機会を洗い出してみましょう。",
+    "image_keyword": "Smart glasses privacy, Public space ban, Wearable tech challenge",
+    "technical_terms": [
+      {
+        "term": "スマートグラス",
+        "explanation": "視覚にデジタル情報を表示したり、周囲の情報を記録・送信できるメガネ型のウェアラブルデバイス。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/astronomers-calculated-the-lifespan-of-intelligent-civilizations-and-its-not-looking-good-for-us.html": {
+    "title": "宇宙文明は平均5000年で滅亡？人類の未来に警鐘を鳴らす最新研究",
+    "tags": "Futurism",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "10時間前",
+    "url": "https://www.gizmodo.jp/2026/03/astronomers-calculated-the-lifespan-of-intelligent-civilizations-and-its-not-looking-good-for-us.html",
+    "summary_bullets": [
+      "天文学者の計算により、知的文明の平均寿命がわずか5000年程度と推測され、宇宙で他の文明に遭遇できない理由が示唆された。",
+      "この短命説は、人類文明が現在直面する環境問題や紛争など、持続可能性の課題への危機感を高め、技術革新だけでなく社会システムの安定化の重要性を再認識させる。",
+      "未来の技術開発や政策議論において、文明の存続を脅かすリスク要因への対処と、持続可能な発展のための倫理的・社会的な側面がより重視されるトレンドが加速するだろう。"
+    ],
+    "insight": "宇宙文明の短命説は、私たちのテクノロジー進化がもたらす可能性と同時に、それに伴うリスクを認識し、持続可能な未来を築くための責任と長期的な視点が、いかにビジネス戦略や社会貢献において不可欠であるかを強く示唆しています。",
+    "action_plan": "自社の事業活動やイノベーション戦略において、SDGsやESGの視点から「持続可能性」をどのように高められるか、具体策を洗い出してみましょう。また、先進技術がもたらす潜在的なリスク（例：AIの倫理問題、環境負荷）について社内議論を行い、未来への対応策を検討するワークショップを企画してみましょう。",
+    "image_keyword": "Dying Civilization Future",
+    "technical_terms": [
+      {
+        "term": "知的文明",
+        "explanation": "宇宙に存在する、高度な知能を持ち、技術や文化を発展させた生命体が築いた社会や文明。"
+      },
+      {
+        "term": "ドレイクの方程式",
+        "explanation": "宇宙に存在する地球外知的生命体の数を推定するために考案された数学的フレームワーク。"
       }
     ]
   }
