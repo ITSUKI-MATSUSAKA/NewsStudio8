@@ -1133,7 +1133,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 4,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/06/news134.html",
     "summary_bullets": [
       "詐欺師がフィッシングメール送信時に、誤って内部向けの「詐欺メールデザインのポイント」を記載した内容を送信してしまい話題に。",
@@ -1160,7 +1160,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/06/news132.html",
     "summary_bullets": [
       "電子部品大手・村田製作所が不正アクセスを受け、データ漏えいの可能性について現在調査を進めている。",
@@ -1429,7 +1429,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 4,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/07/news033.html",
     "summary_bullets": [
       "スタジオカラーがエヴァ30周年フェスで上映した短編アニメをYouTubeで公式に無料公開した。",
@@ -1510,7 +1510,7 @@
     "sentiment": "neutral",
     "sentiment_text": "注目の話題",
     "rating": 4,
-    "time_ago": "11時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6572497?source=rss",
     "summary_bullets": [
       "ドコモが2026年3月末に3Gサービスを終了し、約50万回線の既存ユーザーが他サービスへの移行を迫られる。",
@@ -1689,6 +1689,257 @@
       {
         "term": "ドレイクの方程式",
         "explanation": "宇宙に存在する地球外知的生命体の数を推定するために考案された数学的フレームワーク。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2603/10/news058.html": {
+    "title": "AI倫理の攻防：Anthropicがトランプ政権を提訴、業界巨頭の従業員も連帯",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/10/news058.html",
+    "summary_bullets": [
+      "Anthropicがトランプ政権を提訴し、GoogleやOpenAIの従業員もアミカスブリーフで支援を表明した。",
+      "AIの倫理、規制、そして言論の自由を巡るこの法廷闘争は、今後のAI技術の発展と社会受容に大きな影響を与える。",
+      "AI技術の進化に伴い、政府と企業、そして個人の間で倫理的・法的・政治的な対立が激化する可能性が高まっている。"
+    ],
+    "insight": "AI技術の急速な発展は、単なる技術競争を超え、政治・法制度・倫理といった多岐にわたる複雑な問題を引き起こしており、企業はこれらの動向を注視し、将来的な規制や社会的要求への対応戦略を早期に構築する必要がある。",
+    "action_plan": "自社のAI利用ガイドラインや倫理ポリシーについて、現在の法規制や社会情勢との整合性を見直してみましょう。",
+    "image_keyword": "AI regulation lawsuit, government tech conflict, AI ethics legal",
+    "technical_terms": [
+      {
+        "term": "アミカスブリーフ",
+        "explanation": "訴訟に関心を持つ第三者が、裁判所の判断に資する情報や意見を提出する文書。"
+      }
+    ]
+  },
+  "https://atmarkit.itmedia.co.jp/ait/articles/2603/10/news017.html": {
+    "title": "AIエージェント連携術：Anthropicが示す3つの最適ワークフローパターンを徹底解説",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/10/news017.html",
+    "summary_bullets": [
+      "Anthropicが、複数のAIエージェントを効率的に連携させるための主要な3つのワークフローパターンを詳細に解説した。",
+      "複雑な業務や意思決定プロセスにおいて、AIエージェントの組み合わせ方を理解することで、自動化と問題解決の効率が飛躍的に向上する。",
+      "単一のAIモデルではなく、専門化したAIエージェントを協調させるマルチエージェントシステムが今後のAI活用の主流となるトレンドを示す。"
+    ],
+    "insight": "AI導入を検討する企業は、単一のAIモデルに依存せず、複数の専門AIエージェントを連携させることで、より高度で柔軟な自動化と問題解決が可能になることを理解し、自社のビジネス戦略に組み込むべきである。",
+    "action_plan": "自社の業務プロセスでAIエージェントが活用できそうな領域を特定し、Anthropicが提唱する3つのワークフローパターン（例: 並行処理、シーケンシャル処理、階層的処理など）に当てはめて具体的な実装案を書き出してみましょう。",
+    "image_keyword": "AI agents workflow, multi-agent system, future automation",
+    "technical_terms": [
+      {
+        "term": "AIエージェント",
+        "explanation": "自律的に特定の目標達成を目指して動作するAIプログラム。意思決定やタスク実行を自動で行う。"
+      },
+      {
+        "term": "ワークフローパターン",
+        "explanation": "複数のタスクやプロセスがどのように連携し、情報が伝達されるかを示す構造化されたモデルや設計方法。"
+      },
+      {
+        "term": "Anthropic",
+        "explanation": "大規模言語モデル「Claude」を開発するAIスタートアップ企業。AIの安全性研究にも注力している。"
+      }
+    ]
+  },
+  "https://atmarkit.itmedia.co.jp/ait/articles/2603/10/news010.html": {
+    "title": "Anthropic、Claude向け「エージェントスキル」無料講座を公開 - AI活用を加速する実践的ガイダンス",
+    "tags": "AI / LLM",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "2時間前",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/10/news010.html",
+    "summary_bullets": [
+      "Anthropicが、大規模言語モデルClaudeの「エージェントスキル」習得を目的とした公式の無料オンライン講座を公開しました。",
+      "企業や開発者は、この講座を通じてAIエージェントの構築手法を学び、業務自動化や革新的なサービスの開発を加速できる機会を得られます。",
+      "AIエージェントの普及と高度化が進み、より複雑なタスクを自律的にこなすAIのビジネス適用が加速するトレンドが予測されます。"
+    ],
+    "insight": "企業は、Anthropicが提供する無料のエージェントスキル講座を通じて、Claudeの高度なAI機能を自社のビジネスプロセスに統合し、競争優位性を確立する好機として捉えるべきです。",
+    "action_plan": "本講座の内容を確認し、自社の業務でClaudeを活用できる具体的なユースケースを複数書き出してみましょう。",
+    "image_keyword": "AI agent training, Claude AI, intelligent automation",
+    "technical_terms": [
+      {
+        "term": "エージェントスキル",
+        "explanation": "AIが自律的に目標を理解し、計画を立て、実行する能力。複雑なタスクを人間の指示なしで完遂することを目指します。"
+      },
+      {
+        "term": "Claude Code",
+        "explanation": "Anthropicが開発した大規模言語モデルClaudeが、プログラムコードを生成・理解・実行する機能、およびその関連技術を指します。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6572577?source=rss": {
+    "title": "AI時代に迫るデマ拡散の脅威：WBC事例から学ぶ情報リテラシーの重要性",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "14時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6572577?source=rss",
+    "summary_bullets": [
+      "WBC関連のデマ拡散事例が、AI技術が情報操作やフェイクニュースの温床となる可能性を浮き彫りにしている。",
+      "AIによる高度な情報生成・拡散能力は、企業ブランドの毀損や社会の分断を引き起こす深刻なビジネス・社会リスクとなる。",
+      "今後はAIを活用したファクトチェック技術の進化と、国民全体の情報リテラシー向上教育が喫緊の課題となる。"
+    ],
+    "insight": "AIの進化はビジネスを加速させる一方で、デマ拡散という新たな脅威を生み出します。企業は情報戦略において、AIによる真偽判定と社員のデジタルリテラシー強化を両輪で進める必要があります。",
+    "action_plan": "自社のブランドや業界に関するAIを用いたファクトチェックツールの導入を検討し、従業員向けにAI時代の情報リテラシー向上トレーニングを企画してみましょう。",
+    "image_keyword": "AI disinformation threat",
+    "technical_terms": [
+      {
+        "term": "デマ拡散",
+        "explanation": "誤った情報や虚偽が意図的に広められる行為。特にAIの進化によりその生成と拡散が容易になっている。"
+      },
+      {
+        "term": "情報リテラシー",
+        "explanation": "情報を適切に収集、分析、評価し、活用する能力。AI時代においてその重要性が増している。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6572426?source=rss": {
+    "title": "メモリー価格高騰がサプライチェーンを圧迫：メーカーを悩ませる調達難の現状と未来",
+    "tags": "Hardware",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://news.yahoo.co.jp/pickup/6572426?source=rss",
+    "summary_bullets": [
+      "半導体メモリーの市場価格が高騰し、PCやスマートフォン、サーバーなどの製品を製造するメーカーが部品調達に苦慮している。",
+      "メモリー調達の困難は、製品の生産コスト増加や供給不足を招き、最終的に消費者の製品価格にも影響を与える可能性がある。",
+      "現状の市場環境は、各メーカーにサプライチェーンの多様化や長期的な部品供給戦略の見直しを促すトレンドとして注視される。"
+    ],
+    "insight": "メモリー価格の変動はIT業界全体のコスト構造と供給体制に直接的な影響を与えるため、企業は常に市場動向を監視し、予期せぬ変動に備えたリスクヘッジ戦略を構築すべきです。",
+    "action_plan": "自社製品の部品構成におけるメモリー比率を見直し、主要サプライヤーとの契約条件や代替調達先の可能性について早急に検討を開始しましょう。",
+    "image_keyword": "memory chip price hike, semiconductor shortage, supply chain disruption",
+    "technical_terms": [
+      {
+        "term": "メモリー",
+        "explanation": "コンピューターやスマートフォンなどでデータを一時的または永続的に保存する半導体部品。DRAMやNAND型フラッシュメモリーなどがある。"
+      },
+      {
+        "term": "サプライチェーン",
+        "explanation": "製品が原材料の調達から製造、流通を経て最終消費者に届くまでの、一連の供給および生産の連鎖のこと。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RWkdzdHFrWkdrUGJtaVBSRXJaVzh6c0NEQmNMeHhodVl3c29EcElwVmdFU2doREJSX29BQXlmanJlS0F4VjdFakp6M1RsaFB3VXEtb0paRGFScVFtNmc?oc=5": {
+    "title": "島津製作所、AI半導体特需で過去最高益更新へ。「2ナノ世代」を支える計測技術の重要性",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RWkdzdHFrWkdrUGJtaVBSRXJaVzh6c0NEQmNMeHhodVl3c29EcElwVmdFU2doREJSX29BQXlmanJlS0F4VjdFakp6M1RsaFB3VXEtb0paRGFScVFtNmc?oc=5",
+    "summary_bullets": [
+      "島津製作所がAI半導体特需を背景に、過去最高益を達成する見込みである。",
+      "同社の高精度な計測技術が、次世代の2ナノメートル半導体製造において不可欠な「生命線」となっている。",
+      "先端半導体製造における日本の技術的優位性、特に計測・分析機器分野の戦略的重要性がいっそう高まるトレンドを示唆している。"
+    ],
+    "insight": "AI時代の技術覇権は、最先端の「目に見えない」インフラ技術、特に高精度な計測・分析機器の進化と、それを支える日本の技術力に大きく依存していることを再認識するべきです。",
+    "action_plan": "自社の事業がAIや次世代テクノロジーの「インフラ」部分にどのように貢献できるか、または影響を受けるかを具体的に書き出し、未来の市場ニーズに対応するための戦略を検討してみましょう。",
+    "image_keyword": "semiconductor wafer, precision measurement, AI chip manufacturing",
+    "technical_terms": [
+      {
+        "term": "AI半導体特需",
+        "explanation": "人工知能の処理能力向上に不可欠な高性能半導体の需要が、世界的に急増している状況。"
+      },
+      {
+        "term": "2ナノ世代",
+        "explanation": "半導体の回路線幅が2ナノメートルという、極めて微細な次世代の製造技術およびそのプロセスで製造される半導体。"
+      },
+      {
+        "term": "計測の巨人",
+        "explanation": "高精度な計測・分析機器分野において、世界的に高い技術力と影響力を持つ企業を指す。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iQlZ2NFFmNDlHLXNfUDRzX1B3YXMtNUJLOXZoNEFnNFh5ZFYtNWdVeUJXTXZWQkJZUWNmVTFPMWpTaV9tUUo2V2RIRW9xZy1ONjdHRGZRWUM0TTUxUE1RS1hJVG5paE9ZcHBkQmhkbk5mR2xLa29wdzMxaDB2cDQ?oc=5": {
+    "title": "三井金属、中国でレアマテリアル戦略加速！半導体製造装置向けレアアース供給網を強化",
+    "tags": "Semiconductors",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iQlZ2NFFmNDlHLXNfUDRzX1B3YXMtNUJLOXZoNEFnNFh5ZFYtNWdVeUJXTXZWQkJZUWNmVTFPMWpTaV9tUUo2V2RIRW9xZy1ONjdHRGZRWUM0TTUxUE1RS1hJVG5paE9ZcHBkQmhkbk5mR2xLa29wdzMxaDB2cDQ?oc=5",
+    "summary_bullets": [
+      "三井金属が中国にレアマテリアル営業拠点を新設し、半導体製造装置用レアアースの拡販を目指す。",
+      "グローバルな半導体需要の拡大に対応し、高機能材料の安定供給体制を強化する戦略の一環。",
+      "中国市場におけるプレゼンスを強化し、サプライチェーンの最適化を通じて競争力向上を図る動きが加速する予測。"
+    ],
+    "insight": "半導体産業の急成長は、その基盤を支えるレアマテリアル・レアアースの安定供給なくしては実現しません。企業の競争優位性を確保するためには、主要な原材料の調達戦略とグローバルサプライチェーンの強靭化が不可欠です。",
+    "action_plan": "自社の製品やサービスに必要な基幹材料のサプライチェーンを再評価し、地政学リスクや供給変動に対応できる多角的な調達戦略の構築、または代替材料へのシフト可能性を検討してみましょう。",
+    "image_keyword": "Rare Earths Supply Chain",
+    "technical_terms": [
+      {
+        "term": "レアマテリアル",
+        "explanation": "スマートフォンや電気自動車、半導体など、現代のハイテク製品に不可欠な希少な金属資源の総称です。"
+      },
+      {
+        "term": "レアアース",
+        "explanation": "希土類元素とも呼ばれ、半導体製造や高性能モーター、特殊磁石など幅広い先端技術製品に使われる特殊な金属グループです。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9KQzFLby04T1draHFXSGdmZGZnQi1keUQtempJZ3FIRTY1M242YWQwUUE4RWlLUlV6a1pNa29NVEdPQQ?oc=5": {
+    "title": "【速報】デンソー、ロームに買収提案か？ – 半導体サプライチェーン再編で自動車産業の未来を拓く戦略的動き",
+    "tags": "M&A",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9KQzFLby04T1draHFXSGdmZGZnQi1keUQtempJZ3FIRTY1M242YWQwUUE4RWlLUlV6a1pNa29NVEdPQQ?oc=5",
+    "summary_bullets": [
+      "デンソーが半導体メーカーのロームに対し買収提案を行い、半導体調達網の拡充を図る動きが見られている。",
+      "これは、自動車産業における半導体不足の深刻化に対応し、サプライチェーンの安定化と競争力強化を目指す戦略的な一歩となる。",
+      "今後、主要部品の安定供給確保に向けた業界再編やM&Aが加速し、垂直統合型のビジネスモデルがより重要になるトレンドを示唆している。"
+    ],
+    "insight": "今日のビジネス環境では、サプライチェーンの脆弱性が企業の命運を分けるため、主要部品の安定確保は単なる調達戦略を超え、企業存続を左右する最重要経営課題である。デンソーのこの動きは、あらゆる産業が自社のコア技術や部品のサプライチェーンを再定義し、必要に応じて大胆なM&Aも視野に入れるべき時代に入ったことを示唆している。",
+    "action_plan": "自社の主要製品やサービスを支えるクリティカルな部品や技術について、現在のサプライチェーンの脆弱性を洗い出し、代替供給源の確保、あるいはM&Aを通じた垂直統合の可能性について戦略会議を開催してみましょう。",
+    "image_keyword": "Semiconductor acquisition strategy",
+    "technical_terms": [
+      {
+        "term": "M&A",
+        "explanation": "Mergers and Acquisitions（合併と買収）の略で、企業の合併や買収を指します。企業の成長戦略や事業再編の手法として用いられます。"
+      },
+      {
+        "term": "半導体調達網",
+        "explanation": "半導体（コンピューターや電子機器の基盤となる電子部品）を製造するために必要な原材料の供給から、実際の製造、流通、販売に至るまでの一連のネットワークやプロセスを指します。"
+      },
+      {
+        "term": "サプライチェーン",
+        "explanation": "製品やサービスが消費者に届くまでの、原材料の調達から製造、流通、販売、さらにはリサイクルまでの一連の流れや企業間のつながり全体を指します。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/steam-machine-3.html": {
+    "title": "Steam初の据え置きゲーム機『Steam Machine』、2026年中の発売に暗雲か？期待と現実のギャップ",
+    "tags": "Hardware",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://www.gizmodo.jp/2026/03/steam-machine-3.html",
+    "summary_bullets": [
+      "Valve社が開発を進めるSteam初の据え置きゲーム機「Steam Machine」の2026年中の発売が困難である可能性が浮上した。",
+      "今回の遅延は、ゲーム業界におけるハードウェア開発の難しさと、Valveのプラットフォーム戦略への影響を示唆する。",
+      "PCゲーム市場とコンソールゲーム市場の境界が曖昧になる中、市場投入のタイミングは今後の競争環境を左右する要因となるだろう。"
+    ],
+    "insight": "新規ハードウェア開発における技術的・スケジューリングの課題は常に潜在しており、市場投入の遅延は企業の競争優位性やブランドイメージに直接影響を与える。事前のリスク評価と柔軟な戦略立案が不可欠であると再認識すべきだ。",
+    "action_plan": "自社の新製品開発プロジェクトにおいて、想定される潜在的な遅延要因を洗い出し、それに対するリスクヘッジ策と代替案を今日中に検討してみましょう。",
+    "image_keyword": "Steam Machine, Gaming Console, Hardware Delay",
+    "technical_terms": [
+      {
+        "term": "Steam Machine",
+        "explanation": "Valve社が開発を進める、PCゲームプラットフォームSteamをリビングルームで遊べるように設計された据え置き型ゲーム機。独自のSteamOSを搭載。"
+      },
+      {
+        "term": "据え置きゲーム機",
+        "explanation": "テレビなどに接続して使用し、特定の場所に設置して利用するタイプのゲーム機。主に家庭用ゲーム機を指す。"
       }
     ]
   }
