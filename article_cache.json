@@ -1429,7 +1429,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 4,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/07/news033.html",
     "summary_bullets": [
       "スタジオカラーがエヴァ30周年フェスで上映した短編アニメをYouTubeで公式に無料公開した。",
@@ -1942,5 +1942,315 @@
         "explanation": "テレビなどに接続して使用し、特定の場所に設置して利用するタイプのゲーム機。主に家庭用ゲーム機を指す。"
       }
     ]
+  },
+  "https://www.itmedia.co.jp/enterprise/articles/2603/11/news038.html": {
+    "title": "生成AIが変える未来のキャリアパス：仕事の変革か、新人採用枠の再定義か？",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/11/news038.html",
+    "summary_bullets": [
+      "生成AIが800職種の仕事内容と新人採用に与える影響を詳細に分析し、広範な変革を示唆。",
+      "企業は人材戦略や教育プログラムの見直しが急務となり、個人はAIと協働できるスキルの習得が求められる。",
+      "AIによる単調作業の自動化が進み、より創造的・戦略的な職務へのシフトと生涯学習の重要性が加速するトレンド。"
+    ],
+    "insight": "生成AIは単なる業務効率化ツールに留まらず、職務内容や雇用形態、さらには新人採用のあり方まで根本的に変革する。企業は戦略的な人材投資を、個人はAIとの共存スキルを習得し、キャリアの再定義を迫られるだろう。",
+    "action_plan": "自身の業務におけるAIの潜在的な影響度を評価し、AIツールを積極的に導入することで生産性向上と新しい働き方を模索し始めましょう。また、AIと協働するためのリスキリング・アップスキリングの計画を具体的に書き出してみましょう。",
+    "image_keyword": "future of work AI, AI job market, human-AI collaboration",
+    "technical_terms": [
+      {
+        "term": "生成AI",
+        "explanation": "テキストや画像などを自律的に生成できる人工知能。コンテンツ制作やデータ分析など幅広い分野で活用が進んでいます。"
+      },
+      {
+        "term": "リスキリング",
+        "explanation": "現在の仕事とは異なる分野の新しいスキルを習得し、新しい職務に就くことを目指す教育訓練です。"
+      },
+      {
+        "term": "アップスキリング",
+        "explanation": "現在の職務に必要とされるスキルをさらに向上させるための学習や訓練を指します。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2603/11/news058.html": {
+    "title": "Meta、AIエージェント特化型SNS「Moltbook」を買収：次世代AIコミュニケーション市場をリードか",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/11/news058.html",
+    "summary_bullets": [
+      "MetaがAIエージェント向けSNS「Moltbook」を買収し、創設者をMSL（Meta Smart Lab）に迎え入れた。",
+      "今回の買収は、AIエージェント間のコミュニケーションや連携を可能にする新たなプラットフォームの重要性を示唆し、AIエコシステムにおけるMetaの主導権確立を目指す動きと見られる。",
+      "将来的には、AIエージェントが自律的に連携し情報を交換する「AI版SNS」が普及し、新たなビジネスモデルやサービスが創出される可能性が高まる。"
+    ],
+    "insight": "AIエージェントは単独で機能するだけでなく、互いに連携し、情報の送受信を行うことで真価を発揮する時代が到来しています。Metaの動きは、この「AIエージェントの社会性」を支えるプラットフォームが、今後のAI市場の新たなフロンティアとなることを明確に示唆しています。",
+    "action_plan": "自社のAI戦略において、AIエージェントが単体でなく、他のAIやシステムとどのように連携し、コミュニケーションをとるべきかを再評価してみましょう。また、AIエージェント間の協調がもたらす新たなサービスやビジネスモデルを具体的に書き出してみましょう。",
+    "image_keyword": "AI agents network, Meta acquisition, futuristic social media",
+    "technical_terms": [
+      {
+        "term": "AIエージェント",
+        "explanation": "自律的に環境を認識し、目標達成のために思考・行動する人工知能プログラム。タスクを遂行するために他のエージェントと連携することもある。"
+      },
+      {
+        "term": "SNS (Social Networking Service)",
+        "explanation": "インターネット上で人と人とのコミュニケーションや情報共有を目的としたサービス。この文脈では、AIエージェントが相互作用するためのプラットフォームを指す。"
+      }
+    ]
+  },
+  "https://atmarkit.itmedia.co.jp/ait/articles/2603/11/news012.html": {
+    "title": "生成AIの性能比較を科学する：Excelで学ぶ応答時間のデータ分析と分散分析の基礎",
+    "tags": "AI",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "2時間前",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/11/news012.html",
+    "summary_bullets": [
+      "生成AIの応答時間における性能差を、Excelを使ったデータ分析（分散分析）によって客観的に評価する方法が解説されている。",
+      "企業は生成AI導入時の選定や運用において、感覚ではなくデータに基づいた客観的な評価基準を持つことで、より効果的な意思決定が可能になる。",
+      "生成AIの普及に伴い、その性能を定量的に評価するためのデータ分析スキルは、ビジネスパーソンにとって必須の基礎知識となるだろう。"
+    ],
+    "insight": "生成AIの導入効果を最大化するためには、その性能を感覚的に判断するのではなく、Excelの分散分析のような基本的な統計手法を活用して客観的に評価し、データに基づいた戦略的な意思決定を行うことが不可欠です。",
+    "action_plan": "現在利用中または導入を検討している生成AIツールについて、応答時間などの具体的な性能指標を洗い出し、Excelを用いた簡単なデータ収集・分析の計画を立ててみましょう。",
+    "image_keyword": "AI data analysis Excel",
+    "technical_terms": [
+      {
+        "term": "生成AI",
+        "explanation": "テキストや画像、音声などを自ら新しく作り出すことができる人工知能技術のこと。"
+      },
+      {
+        "term": "分散分析 (ANOVA)",
+        "explanation": "複数のグループ間において、平均値に統計的に有意な差があるかを検証する統計手法の一つ。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6572679?source=rss": {
+    "title": "デジタル時代の著作権保護に警鐘：SMAP楽曲違法配信が示す新たな課題",
+    "tags": "Digital Rights",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "15時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6572679?source=rss",
+    "summary_bullets": [
+      "人気グループSMAPの楽曲が複数のサブスクリプションサービスで無許可配信されていることが判明し、著作権侵害の問題が浮上。",
+      "デジタルコンテンツの流通における著作権侵害の根深さ、およびプラットフォーム側の監視体制強化の必要性が浮き彫りに。",
+      "AIを活用した違法コンテンツ検出技術やブロックチェーンを用いた著作権管理など、新たなデジタル著作権保護技術の導入が加速する可能性。",
+      "コンテンツホルダーは収益機会の損失とブランド価値の毀損、プラットフォームは信頼性低下のリスクに直面する。"
+    ],
+    "insight": "デジタルコンテンツビジネスに携わる企業は、著作権侵害リスクを常に認識し、技術的・法的な対策を強化することが、ブランド価値と収益を守る上で不可欠である。",
+    "action_plan": "自社が保有するデジタルコンテンツの著作権保護体制を再評価し、最新のDRM技術や監視ツールの導入を検討しましょう。また、法務部門と連携し、著作権侵害に対する対応プロトコルを確立・周知しましょう。",
+    "image_keyword": "Digital copyright infringement, Music streaming security, Content protection",
+    "technical_terms": [
+      {
+        "term": "サブスクリプション",
+        "explanation": "月額などの定額料金を支払うことで、サービスやコンテンツを一定期間利用できるビジネスモデル。"
+      },
+      {
+        "term": "著作権",
+        "explanation": "創作された作品（楽曲、文章、画像など）を保護し、作者がその利用を独占できる権利。"
+      },
+      {
+        "term": "DRM (Digital Rights Management)",
+        "explanation": "デジタルコンテンツの著作権を保護し、その利用を制御するための技術やシステム。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6572629?source=rss": {
+    "title": "AI大手Anthropic、米国防総省を異例の提訴：AI活用巡る契約紛争の波紋",
+    "tags": "AI Policy",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "23時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6572629?source=rss",
+    "summary_bullets": [
+      "AI開発大手Anthropicが米国防総省に対し、AI技術の契約上の利用を巡る問題で異例の提訴に踏み切った。",
+      "本件は、政府機関が最先端AIを導入する際の契約条件、倫理的利用、そして企業との責任分担に関する課題を浮き彫りにする。",
+      "今後、AI技術の政府調達における透明性や利用ガイドライン策定の議論が加速し、AI規制の動向に影響を与える可能性がある。"
+    ],
+    "insight": "AI技術の導入・活用においては、技術的側面だけでなく、契約、倫理、政策、そして政府機関との関係性構築といった多角的なリスク管理と法的専門知識が不可欠であることを再認識すべきである。",
+    "action_plan": "自社がAI技術を外部機関と連携して活用する際の契約内容を精査し、将来的な紛争リスクや倫理的課題に対する対応策を事前に検討しましょう。",
+    "image_keyword": "AI legal dispute, government tech ethics, Anthropic lawsuit",
+    "technical_terms": [
+      {
+        "term": "Anthropic",
+        "explanation": "最先端のAIモデル「Claude」を開発する主要なAIスタートアップ企業。"
+      },
+      {
+        "term": "国防総省 (Pentagon)",
+        "explanation": "アメリカ合衆国の軍事・防衛を司る最高機関。"
+      },
+      {
+        "term": "LLM (大規模言語モデル)",
+        "explanation": "人間のようなテキストを生成・理解するAIモデルの一種で、Anthropicの主要技術。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6572578?source=rss": {
+    "title": "IT企業の採用を揺るがす「面接なりすまし」問題：リモートワーク時代の新たな脅威と対策",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "1日前",
+    "url": "https://news.yahoo.co.jp/pickup/6572578?source=rss",
+    "summary_bullets": [
+      "IT企業のオンライン面接において、第三者が受験者になりすます不正行為が多発し、採用プロセスの信頼性が低下している。",
+      "企業は不適切な人材の採用や機密情報漏洩のリスクに直面しており、新たなセキュリティ対策と採用手法の見直しが急務となっている。",
+      "今後はAIを活用した本人認証技術の導入や、面接監視ツールの活用、あるいはハイブリッド型面接への回帰が加速する可能性が高い。"
+    ],
+    "insight": "リモート採用の利便性がもたらした新たな脆弱性に対し、企業は採用プロセスのデジタル化を進める一方で、技術的・運用的両面からセキュリティと信頼性を強化する戦略が不可欠です。",
+    "action_plan": "自社のオンライン採用プロセスにおける本人確認フローとセキュリティ対策を緊急で再評価し、AIベースの認証システムや監視ツールの導入、または対面要素の再検討を具体的に検討するアクションプランを策定しましょう。",
+    "image_keyword": "online interview fraud, identity verification, cyber HR",
+    "technical_terms": [
+      {
+        "term": "本人認証技術",
+        "explanation": "生体認証（指紋、顔など）や多要素認証などを活用し、オンライン環境での個人の身元を確実に確認する技術。"
+      },
+      {
+        "term": "リモート面接",
+        "explanation": "ZoomやTeamsなどのオンライン会議ツールを使用して、物理的に離れた場所から行う面接形式。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZWFBZGllYldzMlJFSVlWTlhwZmtodTIxWGwySHVkTmhEUHNSVk8yNVBoeFZPYnJYdEtGVEZNSUhnbm8wN192d2E4cnJlT2wzQ3hqTm05enpJdG1BaFJGcHR0cVVla19QY1laV0o5LTZGZUhacEpJ?oc=5": {
+    "title": "日本株、続伸の期待高まる！米半導体と原油安定が追い風、電機・金融株に注目",
+    "tags": "Market",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrZWFBZGllYldzMlJFSVlWTlhwZmtodTIxWGwySHVkTmhEUHNSVk8yNVBoeFZPYnJYdEtGVEZNSUhnbm8wN192d2E4cnJlT2wzQ3hqTm05enpJdG1BaFJGcHR0cVVla19QY1laV0o5LTZGZUhacEpJ?oc=5",
+    "summary_bullets": [
+      "米国半導体株の堅調な高騰と原油価格の落ち着きが、日本株全体の続伸を強力に後押ししている。",
+      "電機や金融といった主要セクターへの買いが集まり、市場の活性化と企業業績への好影響が期待される。",
+      "グローバルな経済指標、特にテクノロジーとエネルギー市場の動向が、今後の日本株の堅調な推移を左右する鍵となる。"
+    ],
+    "insight": "グローバル市場における半導体とエネルギー価格の安定が、日本経済の主要セクターに直接的な恩恵をもたらす構図を理解し、自社のサプライチェーンや投資戦略にその影響を織り込むべきです。",
+    "action_plan": "自社の投資ポートフォリオにおける電機・金融関連銘柄の評価を見直すとともに、米国の主要テクノロジー株と国際原油価格のトレンドを定期的に分析する習慣をつけましょう。",
+    "image_keyword": "Japan stock market, semiconductor, oil price",
+    "technical_terms": [
+      {
+        "term": "続伸",
+        "explanation": "株式などの価格が前日終値よりも値上がりした状態が連続すること。"
+      },
+      {
+        "term": "半導体株",
+        "explanation": "半導体の製造や関連事業を行う企業の株式。世界のテクノロジー需要や経済状況に強く影響される。"
+      },
+      {
+        "term": "原油",
+        "explanation": "地中から採掘される加工前の石油。世界のエネルギー価格や地政学的リスクに左右され、経済全体に大きな影響を与える。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xcjJkSFFEcDFvbHZsQjZZOXA5R3UwZldLX0xUOU9YM3NlUnFzLW84R2t1TE1XQ25YU1VCRTVQbWdQRlhjM0RPcTA4UmN0RDkyOFZjc0pZNWxkQQ?oc=5": {
+    "title": "マツムラ、岩手・花巻に半導体製造装置部品の新工場を建設：サプライチェーン強化へ",
+    "tags": "Manufacturing",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xcjJkSFFEcDFvbHZsQjZZOXA5R3UwZldLX0xUOU9YM3NlUnFzLW84R2t1TE1XQ25YU1VCRTVQbWdQRlhjM0RPcTA4UmN0RDkyOFZjc0pZNWxkQQ?oc=5",
+    "summary_bullets": [
+      "マツムラが岩手県花巻市に半導体製造装置部品などの新工場を建設すると発表した。",
+      "今回の投資は、国内半導体サプライチェーンの強靭化と地域経済の活性化に大きく貢献すると期待される。",
+      "世界的な半導体需要の増加に伴い、国内での製造基盤強化が今後も加速するトレンドを示すものと予測される。"
+    ],
+    "insight": "半導体産業への戦略的投資が地方にも波及し、サプライチェーンの国内回帰と多角化が加速している。これは、製造業における国内生産拠点の価値再評価と地域創生への新たな潮流を示唆している。",
+    "action_plan": "自社のサプライチェーンにおける戦略的脆弱性を洗い出し、国内での生産拠点拡充や連携強化の可能性を検討してみましょう。",
+    "image_keyword": "semiconductor factory, cleanroom, advanced manufacturing",
+    "technical_terms": [
+      {
+        "term": "半導体製造装置部品",
+        "explanation": "半導体（集積回路）を作るための機械に使用される、高い精度と信頼性が求められる精密部品。"
+      },
+      {
+        "term": "サプライチェーン",
+        "explanation": "製品が消費者の手に届くまでの、原材料の調達から製造、物流、販売に至る一連の供給網。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpYUFhUkdpVE5KTWZIRHV6S01VMTNoenhaeFJ4S1VVM21DcmNVa2dmM0NlR3cwYnI4NWdyOG5VRXNfeVlsQ0owS3c5d3ZJbzlCTzNhbDYtd2czVF9BREJYck52U0dCd2g4cElVTw?oc=5": {
+    "title": "米半導体株高が日経平均を牽引：市場のトレンドと今後の展望",
+    "tags": "Market Trend",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpYUFhUkdpVE5KTWZIRHV6S01VMTNoenhaeFJ4S1VVM21DcmNVa2dmM0NlR3cwYnI4NWdyOG5VRXNfeVlsQ0owS3c5d3ZJbzlCTzNhbDYtd2czVF9BREJYck52U0dCd2g4cElVTw?oc=5",
+    "summary_bullets": [
+      "米国の半導体株高が、日本の主要株価指数である日経平均株価を押し上げる主要因となっている。",
+      "グローバルなテクノロジーセクター、特に半導体産業の動向が日本経済および株式市場に強い影響を及ぼしている。",
+      "今後も半導体市場の活況が続く限り、日経平均株価は海外市場の動きに連動しやすくなる傾向が予測される。"
+    ],
+    "insight": "日経平均株価の変動要因は国内経済だけでなく、米国のハイテク産業、特に半導体セクターのパフォーマンスに深く連動していることを再認識し、グローバルな視点での市場分析が不可欠です。",
+    "action_plan": "主要な米国半導体関連企業の株価動向や四半期決算、技術発表などを定期的にチェックし、日本市場や自身の事業への潜在的な影響を評価する習慣をつけてみましょう。",
+    "image_keyword": "stock market chart, semiconductor chips, global economy",
+    "technical_terms": [
+      {
+        "term": "日経平均株価",
+        "explanation": "東京証券取引所プライム市場の代表的な225銘柄で構成される、日本の主要な株価指数です。"
+      },
+      {
+        "term": "米半導体株",
+        "explanation": "アメリカの証券取引所に上場している、半導体の製造や関連技術を提供する企業の株式を指します。"
+      },
+      {
+        "term": "株高",
+        "explanation": "株価が上昇している状態、または上昇すること。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/foldable-iphone-leak.html": {
+    "title": "Apple、ついに「折りたたみiPhone」実現か？CADレンダリング画像が示唆する未来",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "期待される新製品",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.gizmodo.jp/2026/03/foldable-iphone-leak.html",
+    "summary_bullets": [
+      "Apple初の折りたたみiPhoneとみられるCADレンダリング画像が流出し、具体的なデザインが示唆された。",
+      "Appleの折りたたみ市場参入は、スマートフォン業界全体の競争を激化させ、新たな市場需要を創出する可能性が高い。",
+      "2026年以降の発売が予測され、今後の折りたたみデバイスにおけるデザイン、機能、価格競争のトレンドを左右する。",
+      "現行のiPhoneと比べて、より薄型で丸みを帯びたデザインや、既存の折りたたみスマホとの差別化が予想される。"
+    ],
+    "insight": "Appleが折りたたみ市場に参入することは、スマートフォンデザインのパラダイムシフトを加速させ、関連サプライヤーやアプリ開発者、そして消費者体験に革新的なビジネスチャンスと影響をもたらすでしょう。",
+    "action_plan": "競合他社の折りたたみデバイスの動向をリサーチし、自社の製品やサービス、特にモバイルアプリやコンテンツ開発において、新しいフォームファクタへの対応を検討・計画してみましょう。",
+    "image_keyword": "foldable iPhone concept, Apple foldable phone, future smartphone",
+    "technical_terms": [
+      {
+        "term": "CADレンダリング",
+        "explanation": "Computer-Aided Design（コンピューター支援設計）のデータを用いて、製品の形状や構造を視覚的に表現すること。"
+      },
+      {
+        "term": "リーク",
+        "explanation": "未発表の製品や情報が、公式発表前に外部に漏洩すること。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/machi-ya-claccinonext2-review-915487.html": {
+    "title": "驚異の収納力とスマホサイズを両立：次世代ミニマリスト向け長財布が示すプロダクトデザインの未来",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://www.gizmodo.jp/2026/03/machi-ya-claccinonext2-review-915487.html",
+    "summary_bullets": [
+      "33枚のカードと現金を収納しつつ、スマートフォンのようなコンパクトさを実現した長財布が登場。",
+      "物理的なデバイスにおいても、高い機能性と携帯性を両立させるプロダクトデザインの重要性が再認識される。",
+      "デジタル化が進む現代においても、ユーザーのライフスタイルに合わせた物理的な所有物の最適化は継続的なトレンドとなる。"
+    ],
+    "insight": "消費者の「所有するモノの数を減らしたい」というミニマリスト志向と、「必要なものは常に手元に置きたい」という利便性への欲求、その両方を満たす製品がいかに市場で評価されるかを示す好例であり、貴社の製品開発においてもこのバランスを深く考察すべきです。",
+    "action_plan": "自社の主要製品やサービスにおいて、ユーザーが求める「機能性の最大化」と「物理的・心理的負担の最小化」という二律背反のニーズをどのように解決できるか、アイデアを書き出してみましょう。",
+    "image_keyword": "slim wallet, minimalist design, tech accessory",
+    "technical_terms": []
   }
 }
