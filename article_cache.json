@@ -1429,7 +1429,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 4,
-    "time_ago": "3日前",
+    "time_ago": "4日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/07/news033.html",
     "summary_bullets": [
       "スタジオカラーがエヴァ30周年フェスで上映した短編アニメをYouTubeで公式に無料公開した。",
@@ -2034,7 +2034,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 4,
-    "time_ago": "15時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6572679?source=rss",
     "summary_bullets": [
       "人気グループSMAPの楽曲が複数のサブスクリプションサービスで無許可配信されていることが判明し、著作権侵害の問題が浮上。",
@@ -2252,5 +2252,32 @@
     "action_plan": "自社の主要製品やサービスにおいて、ユーザーが求める「機能性の最大化」と「物理的・心理的負担の最小化」という二律背反のニーズをどのように解決できるか、アイデアを書き出してみましょう。",
     "image_keyword": "slim wallet, minimalist design, tech accessory",
     "technical_terms": []
+  },
+  "https://www.itmedia.co.jp/business/articles/2603/12/news024.html": {
+    "title": "『慎重すぎ』からの脱却：日本企業がコンタクトセンターDXで世界標準を確立する鍵",
+    "tags": "Digital Transformation",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2603/12/news024.html",
+    "summary_bullets": [
+      "日本企業がコンタクトセンターDXで過剰な慎重さから脱却し、世界標準に到達するための具体的な要点が提示された。",
+      "顧客体験の向上と企業競争力強化のためには、コンタクトセンターのデジタル変革がDX推進の要であり、戦略上不可欠である。",
+      "今後はAIやデータ活用による効率化・高度化が進み、コンタクトセンターは企業の価値創造に貢献する戦略的拠点へと進化するだろう。"
+    ],
+    "insight": "日本企業のコンタクトセンターDXは、単なるコスト削減や効率化に留まらず、顧客エンゲージメントを深め、企業全体の競争力を高めるための戦略的投資であり、迅速な実行が競争優位の鍵を握る。",
+    "action_plan": "自社のコンタクトセンターの現状を「世界標準」の視点で見直し、AIや自動化技術の導入可能性を含めた具体的なDXロードマップを策定し、実行に移しましょう。",
+    "image_keyword": "Contact Center DX, Global Standard, Business Innovation",
+    "technical_terms": [
+      {
+        "term": "DX",
+        "explanation": "デジタル技術を活用してビジネスプロセスや企業文化を変革し、競争優位性を確立する取り組み。"
+      },
+      {
+        "term": "コンタクトセンター",
+        "explanation": "顧客からの問い合わせ対応やサポートを、電話だけでなくメールやチャットなど多様なチャネルで一元的に行う部門。"
+      }
+    ]
   }
 }
