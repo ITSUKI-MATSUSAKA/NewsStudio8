@@ -1429,7 +1429,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 4,
-    "time_ago": "4日前",
+    "time_ago": "5日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/07/news033.html",
     "summary_bullets": [
       "スタジオカラーがエヴァ30周年フェスで上映した短編アニメをYouTubeで公式に無料公開した。",
@@ -2277,6 +2277,294 @@
       {
         "term": "コンタクトセンター",
         "explanation": "顧客からの問い合わせ対応やサポートを、電話だけでなくメールやチャットなど多様なチャネルで一元的に行う部門。"
+      }
+    ]
+  },
+  "https://atmarkit.itmedia.co.jp/ait/articles/2603/13/news023.html": {
+    "title": "VS Code、安定版が「毎週」リリースへ！AIエージェント運用強化で開発現場に革新",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/13/news023.html",
+    "summary_bullets": [
+      "開発ツールのデファクトスタンダード「VS Code」の安定版が、今後は毎週リリースされる方針を決定。",
+      "新バージョン1.111では特にAIエージェントの運用機能が強化され、開発者の生産性向上と負担軽減に貢献。",
+      "開発ツールのAI統合と高速なアップデートサイクルが標準となり、より迅速な技術進化と競争が加速する。"
+    ],
+    "insight": "VS Codeの高速なアップデートサイクルとAI機能強化は、開発者の生産性向上に直結します。企業はAIを活用した開発環境への投資を加速し、技術革新のスピードに対応する準備が必要です。",
+    "action_plan": "VS Codeの最新版をインストールし、特に強化されたAIエージェントの運用機能を実際に試してみましょう。自社の開発プロセスにおけるAI導入の可能性をチーム内で議論し、具体的なアクションプランを書き出してみましょう。",
+    "image_keyword": "VS Code AI agent development",
+    "technical_terms": [
+      {
+        "term": "VS Code",
+        "explanation": "マイクロソフトが開発した、コードの編集やデバッグなどが行える無料の統合開発環境（IDE）。"
+      },
+      {
+        "term": "AIエージェント",
+        "explanation": "特定のタスクを自律的に実行したり、ユーザーを支援したりする人工知能プログラム。"
+      }
+    ]
+  },
+  "https://atmarkit.itmedia.co.jp/ait/articles/2603/13/news009.html": {
+    "title": "GPT-5.4が拓くAI新時代：100万トークンとCodexアプリで実現する「実務完遂」の未来",
+    "tags": "Enterprise AI",
+    "sentiment": "positive",
+    "sentiment_text": "革新的な進化",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/13/news009.html",
+    "summary_bullets": [
+      "GPT-5.4が100万トークン対応とCodexアプリの統合により、AIの実務完遂能力を飛躍的に向上させた。",
+      "企業の業務効率化を加速し、より複雑で長期的なタスクをAIが自律的に処理する未来を提示する。",
+      "AIが単なるツールから、ビジネスを「やり抜く」強力なパートナーへと進化するトレンドが加速する。"
+    ],
+    "insight": "GPT-5.4の登場は、AIが指示された作業を補助する段階から、自律的にプロジェクトを完遂するビジネスパートナーへと進化する転換点であり、企業はAI活用の戦略を根本から見直す時期に来ています。",
+    "action_plan": "自社のビジネスプロセスでAIに委譲可能な反復的・複雑な業務を洗い出し、GPT-5.4のような高機能AIの導入可能性を具体的に検討してみましょう。",
+    "image_keyword": "AI enterprise solution",
+    "technical_terms": [
+      {
+        "term": "GPT-5.4",
+        "explanation": "OpenAIが開発する大規模言語モデルの最新バージョンで、高度な理解力と生成能力を持つ。"
+      },
+      {
+        "term": "トークン",
+        "explanation": "大規模言語モデルがテキストを処理する際の最小単位で、単語や記号の一部に相当する。"
+      },
+      {
+        "term": "Codexアプリ",
+        "explanation": "プログラミングコードの生成や実行を支援するAIアプリケーションで、実務タスクの自動化に貢献する。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2603/12/news110.html": {
+    "title": "AI時代に輝く人財とは？ タイミーが明かす「AI代替困難な仕事」の本質",
+    "tags": "Future of Work",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "14時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/12/news110.html",
+    "summary_bullets": [
+      "ギグワークプラットフォーム「タイミー」は、掲載求人のほぼ全てがAIによる代替が困難であると分析。",
+      "AI普及が雇用に与える影響は限定的であり、人間特有の「手足を使う仕事」や対人スキルが価値を持つことを示唆。",
+      "AI時代においても、現場での判断力や対人コミュニケーションなど、人間ならではの能力が求められる職種や働き方が主流となるトレンドを裏付ける。"
+    ],
+    "insight": "AIが進化しても、単純作業ではない「現場での判断力」や「対人スキル」など、人間ならではの能力がビジネス価値を生み出し続けるという本質を再認識すべきである。",
+    "action_plan": "自社の業務内容を見直し、AIでは代替しにくい「人間ならではの価値」を提供する業務やスキルを特定し、その強化策を検討してみましょう。",
+    "image_keyword": "human work AI, future workforce",
+    "technical_terms": [
+      {
+        "term": "ギグワーク",
+        "explanation": "インターネット上のプラットフォームを介して単発・短期の仕事を請け負う働き方。柔軟な時間で働くことが可能。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6572927?source=rss": {
+    "title": "メタ、2025年までに不正広告100万件削除へ：プラットフォーム信頼性向上の挑戦",
+    "tags": "Ad Tech",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "11時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6572927?source=rss",
+    "summary_bullets": [
+      "メタが2025年末までに、ユーザーに不利益をもたらす不正広告100万件をプラットフォームから削除する計画を発表した。",
+      "この取り組みは、デジタル広告の透明性と信頼性を高め、広告主のブランド保護およびユーザー体験の向上に大きく貢献する。",
+      "AIを活用したコンテンツモデレーションとプラットフォーム規制の厳格化が、今後のデジタル広告業界の標準となるトレンドを加速させるだろう。"
+    ],
+    "insight": "デジタル広告の透明性と信頼性は企業ブランドの価値に直結するため、広告主は利用するプラットフォームの安全対策を常に評価し、自社の広告戦略におけるリスク管理を強化することが不可欠です。",
+    "action_plan": "自社が利用している広告プラットフォームの不正広告対策ポリシーを再確認し、ブランドセーフティに関する最新の取り組みを調査・評価してみましょう。",
+    "image_keyword": "digital advertising fraud, platform moderation, brand safety",
+    "technical_terms": [
+      {
+        "term": "不正広告 (Ad Fraud)",
+        "explanation": "ユーザーを騙したり、誤解を招いたりする意図で表示される広告で、主に詐欺的な商品やサービスを宣伝するもの。"
+      },
+      {
+        "term": "コンテンツモデレーション (Content Moderation)",
+        "explanation": "プラットフォームのルールや法律に違反するコンテンツ（広告を含む）を特定し、削除または非表示にするプロセス。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6572864?source=rss": {
+    "title": "サイバー攻撃の猛威：ランサムウェア被害が高止まり、企業が直面するビジネス存続の危機",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "21時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6572864?source=rss",
+    "summary_bullets": [
+      "国内企業におけるランサムウェア被害が依然として高水準で推移しており、その脅威が恒常化している現状。",
+      "企業の事業停止やデータ喪失に直結し、サプライチェーン全体に広がるリスクが増大、経済的損失と信頼失墜を招く。",
+      "攻撃手法の巧妙化が進む中、単なる防御だけでなく、早期検知・復旧を視野に入れた包括的なサイバーレジリエンス構築が喫緊の課題となる。"
+    ],
+    "insight": "ランサムウェアは単なるITリスクではなく、事業継続を脅かす経営リスクとして捉え、全社的なリスクマネジメントの一環として、事前対策、インシデント対応計画、そして復旧戦略を策定することが不可欠である。",
+    "action_plan": "自社の現在のセキュリティ対策、特にデータバックアップと復旧計画の有効性を今日中に再確認しましょう。また、従業員への定期的なセキュリティ教育を強化し、不審なメールやリンクに対する警戒意識を高めるためのプログラムを見直しましょう。",
+    "image_keyword": "ransomware cyber attack",
+    "technical_terms": [
+      {
+        "term": "ランサムウェア",
+        "explanation": "コンピューターやシステム内のデータを暗号化し、その解除と引き換えに身代金（ランサム）を要求する悪意のあるソフトウェア。支払わないとデータが失われると脅されることが多い。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6572809?source=rss": {
+    "title": "メタ、AI特化型SNS『Moltbook』を買収 — ソーシャルメディアの未来を再定義か？",
+    "tags": "Social Media",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://news.yahoo.co.jp/pickup/6572809?source=rss",
+    "summary_bullets": [
+      "メタがAI専用SNS「Moltbook」を買収したと発表し、AIとソーシャルメディアの融合を加速させる動きを見せた。",
+      "今回の買収は、次世代のソーシャル体験がAIによって大きく変革され、ユーザーへのパーソナライズがより一層強化される可能性を示唆している。",
+      "AIを核とした新たなソーシャルプラットフォーム間の競争が激化し、コンテンツ生成からエンゲージメントまでAIが不可欠な要素となるトレンドが加速するだろう。"
+    ],
+    "insight": "AIがソーシャルメディアの未来を形作る中核技術となり、企業はユーザーエンゲージメントとデータ活用におけるAI戦略を早急に強化する必要がある。",
+    "action_plan": "自社のサービスや製品において、どのようにAIを組み込むことで顧客体験を向上させられるか、具体的なユースケースを検討し、ロードマップを書き出してみましょう。",
+    "image_keyword": "AI social network, Meta acquisition, future social media",
+    "technical_terms": [
+      {
+        "term": "AI専用SNS",
+        "explanation": "人工知能（AI）技術を基盤とし、ユーザーの興味や行動履歴に基づいてコンテンツのパーソナライズ、交流の最適化、新しいコミュニケーション体験を提供するソーシャルネットワーキングサービス。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTMldKZlo4bXJHaF9wQ0twOUgzNExxMUpKeC1DYkY0R2J1clo0ZDNrSFZ6UFN1T1h4YnktY1RYWVNvMU1wbGdJV1laNXE3alJQTlJwZHZB?oc=5": {
+    "title": "熊本県と台湾・高雄市、米国で戦略連携：半導体サプライチェーン強化へ覚書締結",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTMldKZlo4bXJHaF9wQ0twOUgzNExxMUpKeC1DYkY0R2J1clo0ZDNrSFZ6UFN1T1h4YnktY1RYWVNvMU1wbGdJV1laNXE3alJQTlJwZHZB?oc=5",
+    "summary_bullets": [
+      "熊本県と台湾・高雄市が米国で合同会談し、半導体供給網の強化を目的とした覚書（MoU）を締結する予定。",
+      "日台米の地域間連携により、国際的な地政学リスクが高まる中、重要インフラである半導体サプライチェーンの安定化と強靭化が促進される。",
+      "半導体製造拠点が進出する地域が主導し、国際的な協力体制を構築する動きは、今後のサプライチェーン分散・多角化トレンドを加速させるだろう。"
+    ],
+    "insight": "地政学リスクが常態化する現代において、国だけでなく地域レベルでの国際連携がサプライチェーンの強靭化と安定化に不可欠な戦略であり、企業もサプライヤー選定において地域の国際関係を考慮すべきである。",
+    "action_plan": "自社のサプライチェーンにおいて、特定地域への依存度や潜在的なリスク要因を再評価し、国際的なパートナーシップの多角化や代替調達先の検討を開始してみましょう。",
+    "image_keyword": "semiconductor supply chain, global collaboration, international agreement",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "PCやスマートフォンなどあらゆる電子機器の頭脳となる、情報処理や記憶に不可欠な微細な電子部品。"
+      },
+      {
+        "term": "サプライチェーン",
+        "explanation": "製品が原材料から製造、物流、販売を経て最終消費者の手に届くまでの一連の供給網のこと。"
+      },
+      {
+        "term": "覚書（MoU）",
+        "explanation": "関係者間での協力の意図を確認し、今後の具体的な合意形成の土台となる非拘束的な合意文書。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWRVdzcGFzSVg2dXJVcXA3ZHUyMjJlakQzUGxyRzhCeS14UXdhb1plTnlFTS1mUldRRThjNlJDS1hWQWthc2ZROXFsTEN2M2ZFeDN0S2ZfS2p3bEU?oc=5": {
+    "title": "中国地域、半導体エコシステム強化へ加速：2団体合流で支援基盤を統合・拡大",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "成長・発展を示す注目の話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWRVdzcGFzSVg2dXJVcXA3ZHUyMjJlakQzUGxyRzhCeS14UXdhb1plTnlFTS1mUldRRThjNlJDS1hWQWthc2ZROXFsTEN2M2ZFeDN0S2ZfS2p3bEU?oc=5",
+    "summary_bullets": [
+      "中国地域で半導体関連の2団体が合流し、地域の半導体産業を支援する基盤が強化される見込み。",
+      "この連携強化は、地域全体の半導体サプライチェーンの安定化と競争力向上に大きく貢献する可能性が高い。",
+      "中国の半導体自給率向上と、グローバルな技術競争における同地域の存在感増大が予測される。"
+    ],
+    "insight": "中国地域における半導体産業の連携強化は、グローバルなサプライチェーンにおける同地域のプレゼンスと影響力を一層高めることを意味し、国際的な半導体戦略や市場動向を予測する上で重要な指標となります。",
+    "action_plan": "自社の半導体調達戦略やサプライチェーンにおける中国依存度を見直し、地域ごとのリスク分散と新たなパートナーシップ構築の可能性を評価しましょう。",
+    "image_keyword": "China semiconductor collaboration",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "コンピュータや電子機器の頭脳となる集積回路（チップ）を作るための電子材料、またはその製造プロセスや製品全般。"
+      },
+      {
+        "term": "エコシステム",
+        "explanation": "特定の産業において、企業、研究機関、政府などが相互に連携し、共存共栄する包括的な関係性や環境のこと。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zRDJBZGsybWRSbVl6Wk03Vi1LaWxmY0pHdWFoQ3NmUkQyV1lHaWRpTlU1eEJpdUZiQzg3MjRva2FTN2p5QU1YUnpQV2VlQU91SUp2ZF85VV90djBSYkhKUlVzTm5ISGJra2Vlcm83bXJRVHJIWUQ4c1dPN3dFbGc?oc=5": {
+    "title": "地政学リスクが市場を動かす：半導体と防衛、二大テーマに合致する注目銘柄の深層",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zRDJBZGsybWRSbVl6Wk03Vi1LaWxmY0pHdWFoQ3NmUkQyV1lHaWRpTlU1eEJpdUZiQzg3MjRva2FTN2p5QU1YUnpQV2VlQU91SUp2ZF85VV90djBSYkhKUlVzTm5ISGJra2Vlcm83bXJRVHJIWUQ4c1dPN3dFbGc?oc=5",
+    "summary_bullets": [
+      "中東情勢の混乱が地政学リスクを高め、株式市場では「半導体」と「防衛」セクターが買い材料として注目されている。",
+      "不安定な世界情勢が特定の産業セクターへの投資を加速させ、市場のトレンド形成に大きな影響を与えている。",
+      "今後も地政学リスクが継続する限り、半導体技術の進化と防衛関連産業への戦略的投資が市場を牽引する可能性が高い。"
+    ],
+    "insight": "地政学リスクは単なる経済的懸念に留まらず、特定の産業分野において新たな投資機会と成長ドライバーを生み出す可能性がある。企業は国際情勢の変動を短期的なリスクと捉えるだけでなく、中長期的な産業構造の変化を予測し、戦略的なポートフォリオと技術開発を推進するべきである。",
+    "action_plan": "自社の事業やサプライチェーンが地政学リスクによってどのような影響を受けるか再評価し、半導体や防衛技術といった成長セクターとの連携や新規事業機会について検討してみましょう。",
+    "image_keyword": "Geopolitical risk investment, Semiconductor defense market, Stock market middle east",
+    "technical_terms": [
+      {
+        "term": "地政学リスク",
+        "explanation": "特定の地域における政治的・軍事的な緊張や紛争が、世界経済や市場に与える影響や懸念。"
+      },
+      {
+        "term": "東証プライム市場",
+        "explanation": "東京証券取引所が設ける3つの市場区分の中で、最も高い水準のガバナンスを備えた大企業向けの市場。"
+      },
+      {
+        "term": "買い材料",
+        "explanation": "株式市場において、特定の銘柄や市場全体の株価が上昇するきっかけとなる、好材料や良いニュースのこと。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/from-iphone-to-nothing-phone-3a.html": {
+    "title": "iPhoneからNothing Phone (3a)への乗り換え2年：なぜユーザーは満足するのか",
+    "tags": "Smartphone",
+    "sentiment": "positive",
+    "sentiment_text": "ユーザー満足度の高い話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://www.gizmodo.jp/2026/03/from-iphone-to-nothing-phone-3a.html",
+    "summary_bullets": [
+      "長年のiPhoneユーザーがNothing Phone (3a)に移行後2年が経過し、その選択に高い満足度を示している。",
+      "スマートフォン市場において、既存の大手ブランド以外の選択肢がユーザーに新たな価値を提供し、ブランドロイヤリティの変化を促している。",
+      "今後は、デザインや独自機能、ユーザー体験に特化した新興ブランドが、大手と差別化を図り市場シェアを拡大する可能性が予測される。"
+    ],
+    "insight": "市場リーダー製品に代わるニッチな選択肢が、特定のユーザー層に深く刺さることで成功を収めることがあります。既存の常識に囚われず、顧客の具体的なニーズや潜在的な不満を解消する製品・サービス開発が重要であることを示唆しています。",
+    "action_plan": "自社の製品やサービスにおいて、顧客が「なぜ他社ではなく自社を選ぶのか」を顧客体験の深掘りを通して改めて言語化してみましょう。また、その優位性をさらに伸ばすための具体的な施策を検討してください。",
+    "image_keyword": "Nothing Phone, iPhone comparison, mobile device",
+    "technical_terms": []
+  },
+  "https://www.gizmodo.jp/2026/03/workman-aero-cluster-pocket-blouson.html": {
+    "title": "ワークマン、わずか1,900円で実現「着る空気清浄機」—低価格ウェアラブルが示す市場破壊と未来の日常",
+    "tags": "Smart Apparel",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://www.gizmodo.jp/2026/03/workman-aero-cluster-pocket-blouson.html",
+    "summary_bullets": [
+      "ワークマンが「着る空気清浄機」と称される高機能ブルゾンを1,900円という驚きの価格で発表。",
+      "低価格アパレル市場における機能性競争を加速させ、一般消費者が革新的なウェアラブル技術を手軽に体験できる機会を創出。",
+      "高性能かつ低価格な製品開発が今後の市場トレンドとなり、異業種からの参入や既存ビジネスモデルの再構築を促す可能性。"
+    ],
+    "insight": "このニュースは、高価格帯が常識だったウェアラブル技術が、ワークマンのような企業によってコモディティ化され、一般市場に浸透し始める転換点を示唆しています。製品開発において、単なる機能性だけでなく、圧倒的なコストパフォーマンスと実用性を両立させることの重要性を再認識すべきです。",
+    "action_plan": "自社の製品やサービスで「高機能のコモディティ化」が可能か、既存技術やサプライチェーンを見直し、低価格で提供できる革新的な付加価値を検討してみましょう。",
+    "image_keyword": "Workman smart jacket, Air purifying apparel, Affordable wearable tech",
+    "technical_terms": [
+      {
+        "term": "着る空気清浄機",
+        "explanation": "衣類に空気清浄や消臭、抗菌などの機能を持たせたウェアラブル製品を指すキャッチーな表現。"
+      },
+      {
+        "term": "ギミック",
+        "explanation": "製品に隠された、工夫された仕掛けや機能のこと。"
       }
     ]
   }
