@@ -2567,5 +2567,310 @@
         "explanation": "製品に隠された、工夫された仕掛けや機能のこと。"
       }
     ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2603/13/news108.html": {
+    "title": "ホンダがAI開発の加速へ新戦略：慶大・阪大と協働研究所設立、次世代人材を育成",
+    "tags": "AI Development",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "13時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news108.html",
+    "summary_bullets": [
+      "ホンダが慶應義塾大学、大阪大学と連携し、AI技術開発と人材育成を目的とした協働研究所を設立する。",
+      "この産学連携により、日本のAI研究・開発が加速され、次世代AI人材の育成を強力に推進することで産業競争力向上に貢献する。",
+      "企業と大学がオープンイノベーションを推進し、専門人材を共創する動きは、AI時代の競争力確保の鍵となるトレンドとして今後も加速するだろう。"
+    ],
+    "insight": "AI時代の競争力を維持・向上させるためには、単なる技術導入だけでなく、多様なステークホルダーとの連携による「人材育成」と「共創」が不可欠であり、本事例はその具体的な戦略を示唆しています。",
+    "action_plan": "自社のAI戦略において、外部機関（大学、研究機関、スタートアップ）との連携可能性を洗い出し、社内人材のAIリテラシー向上に向けた研修プログラムの導入や強化を検討してみましょう。",
+    "image_keyword": "Honda AI research, university collaboration, AI talent development",
+    "technical_terms": [
+      {
+        "term": "AI開発",
+        "explanation": "人間の知能を模倣したシステムを構築し、特定の課題解決や意思決定を可能にする技術を研究・開発すること。"
+      },
+      {
+        "term": "協働研究所",
+        "explanation": "企業と大学など、複数の組織が協力し、共通の目標達成のために共同で研究開発を行うための施設や枠組み。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2603/13/news104.html": {
+    "title": "三菱電機、人型ロボットで工場無人化を加速！中国スタートアップとの協業で製造業の未来を拓く",
+    "tags": "Robotics",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "14時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news104.html",
+    "summary_bullets": [
+      "三菱電機が中国スタートアップと協業し、人型ロボットを導入することで工場無人化を目指す。",
+      "製造業における生産性向上と労働力不足問題の解決に大きく寄与し、サプライチェーンの強靭化を促進する。",
+      "人型ロボットの産業応用が加速し、世界中の製造業でスマートファクトリー化へのシフトが本格化すると予測される。"
+    ],
+    "insight": "製造業は人型ロボットによる無人化が加速するフェーズに入り、国際的な協業が競争力維持の鍵となる。自社の生産プロセスにおけるロボット活用戦略とパートナーシップ形成を早急に検討すべきである。",
+    "action_plan": "自社の生産ラインで人型ロボットを導入した場合の具体的な業務効率化とコスト削減効果を試算してみましょう。また、ロボット技術を持つスタートアップ企業との連携可能性について情報収集を開始しましょう。",
+    "image_keyword": "humanoid robot factory, automated manufacturing, futuristic factory",
+    "technical_terms": [
+      {
+        "term": "人型ロボット",
+        "explanation": "人間の形を模倣し、多様な作業に対応できる汎用性を持つロボット。"
+      },
+      {
+        "term": "工場無人化",
+        "explanation": "ロボットやAIなどの技術を活用し、人間の介在なしに生産活動を行う工場の実現。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2603/13/news093.html": {
+    "title": "AI×教育の最前線！東京工科大が“AI養老孟司”を客員教授に招聘、本人と共演",
+    "tags": "AI Education",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "16時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news093.html",
+    "summary_bullets": [
+      "東京工科大学が、著名な解剖学者・養老孟司氏の知見を学習した「AI養老孟司」と、養老氏本人の両方を客員教授として招聘した。",
+      "AIと人間が共創する新たな教育モデルの可能性を示唆し、教育現場におけるAI活用の革新的な一歩となる。",
+      "今後は、特定分野の専門家AIが教育機関や企業で講師、アドバイザーとして導入されるトレンドが加速すると予測される。"
+    ],
+    "insight": "AIが単なるツールに留まらず、人間と協調し「専門家」として機能する時代が到来しており、自身の業界におけるAIの役割や協業モデルの再定義が急務である。",
+    "action_plan": "自社の専門知識やノウハウをAIでどのように学習させ、教育・研修、あるいは顧客サービスに活かせるか、具体的なユースケースを複数書き出し、実現可能性を検討してみましょう。",
+    "image_keyword": "AI Professor, University, Education",
+    "technical_terms": [
+      {
+        "term": "AI養老孟司",
+        "explanation": "著名な解剖学者である養老孟司氏の著作や言動データを学習し、その知識や思考、話し方を再現した人工知能。"
+      },
+      {
+        "term": "客員教授",
+        "explanation": "大学などの教育機関に期間限定で招かれ、特定の専門分野の講義や研究指導を行う非常勤の教授職。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6573005?source=rss": {
+    "title": "国会業務にAIが本格導入：初のAI音声議員点呼が示す未来の働き方",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "14時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6573005?source=rss",
+    "summary_bullets": [
+      "衆議院本会議でAI音声による議員点呼が初めて実施され、国会にAI技術が本格導入された。",
+      "本件は行政機関におけるAI活用への大きな一歩となり、他の省庁や地方自治体での業務効率化の機運を高めるだろう。",
+      "今後、AIによる定型業務の自動化は、企業のバックオフィス業務から公共サービスまで広がり、生産性向上の鍵となる。"
+    ],
+    "insight": "国会という最も保守的とされる機関でさえAI導入に踏み切ったことは、もはやあらゆるビジネスにおいてAI活用が喫緊の課題であることを示唆しています。自社の定型業務や顧客対応におけるAI適用可能性を早急に洗い出し、競争優位性を確立する好機と捉えるべきです。",
+    "action_plan": "自社のルーティン業務や顧客とのやり取りの中で、AIによる自動化や効率化が図れそうなタスクを具体的な事例とともに書き出してみましょう。",
+    "image_keyword": "AI government, parliament technology, voice assistant",
+    "technical_terms": [
+      {
+        "term": "AI (人工知能)",
+        "explanation": "人間の知能を模倣した技術で、学習、推論、認識などを行い、様々なタスクを自動化・効率化します。"
+      },
+      {
+        "term": "GovTech (ガブテック)",
+        "explanation": "テクノロジーを活用して政府や行政機関のサービスを改善し、効率化を図る取り組みの総称です。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6572984?source=rss": {
+    "title": "現実とゲームの境界線が曖昧に？ 米国で波紋を呼ぶ「攻撃動画+ゲーム画面」投稿の倫理問題",
+    "tags": "Digital Content",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "17時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6572984?source=rss",
+    "summary_bullets": [
+      "現実の攻撃動画にゲーム画面を合成・表示する投稿が米国で物議を醸しており、情報倫理と誤情報の拡散が問題視されている。",
+      "企業はブランドイメージの保護、SNSコンテンツのモデレーション強化、そして誤情報拡散による社会的な影響への対応を迫られる。",
+      "AI技術の進化により合成コンテンツの生成が容易になるため、今後の情報リテラシー教育の重要性が増し、プラットフォーム側の規制強化が進むと予測される。"
+    ],
+    "insight": "現実と仮想が融合するデジタルコンテンツの増加は、情報源の信頼性、ブランドの社会的責任、そしてユーザーのメディアリテラシーに直接的な影響を及ぼします。企業は、誤情報拡散のリスク管理と、倫理的なコンテンツ戦略の構築を急務とすべきです。",
+    "action_plan": "自社のブランドに関わるSNSコンテンツポリシーを見直し、AI生成や合成動画に対する倫理規定を明確にしましょう。また、従業員に対してフェイク情報を見抜くためのデジタルリテラシー教育を強化し、社会的な信頼性を維持するための体制を構築しましょう。",
+    "image_keyword": "digital misinformation, media ethics, virtual reality blend",
+    "technical_terms": [
+      {
+        "term": "フェイクニュース",
+        "explanation": "事実に基づかない偽りの情報で、意図的に誤解を招くよう作成・拡散されるものです。"
+      },
+      {
+        "term": "コンテンツモデレーション",
+        "explanation": "オンラインプラットフォーム上で不適切または有害なコンテンツを特定し、削除やフィルタリングを行うプロセスを指します。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6572954?source=rss": {
+    "title": "中国がリードする「ロボットの家電化」：家庭に溶け込む次世代AIの波",
+    "tags": "Robotics",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "22時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6572954?source=rss",
+    "summary_bullets": [
+      "中国では、AIロボットが単なる産業用から家庭内の「家電」として急速に普及するトレンドが進行。",
+      "パーソナルロボット市場の拡大は、スマートホーム市場と融合し、人々の生活様式や消費者行動に大きな変化をもたらす可能性。",
+      "将来的には、ロボットが家庭内インフラの一部として不可欠な存在となり、新たなビジネスモデルやサービスが生まれることが予測される。"
+    ],
+    "insight": "中国におけるロボットの「家電化」は、AIとIoT技術の融合による生活空間のスマート化が加速している明確な兆候です。これは、パーソナルロボットが特定のニッチ市場からマス市場へとシフトする転換点を示唆しており、関連業界は新たな成長機会として注視すべきでしょう。",
+    "action_plan": "自社の製品やサービスが、家庭内ロボットやスマートホームエコシステムとどのように連携可能か、あるいは新たなニーズに対応できるかを戦略的に見直してみましょう。特に、ユーザー体験を向上させるAI機能の実装や、多様なデバイスとの相互運用性を検討する良い機会です。",
+    "image_keyword": "smart home robotics, domestic AI assistant, futuristic home",
+    "technical_terms": [
+      {
+        "term": "家電化",
+        "explanation": "ロボットが特別な存在ではなく、冷蔵庫や洗濯機のように家庭内で日常的に使われる一般的な電化製品となるトレンド。"
+      },
+      {
+        "term": "スマートホームエコシステム",
+        "explanation": "スマートスピーカー、IoT家電、センサーなどが連携し、住環境全体の利便性や快適性を高める統合システム。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HNW1UYTlsTkctZnRsZWhXNXhUakQ5X0VxMHFtZ0VsUmNVczdSM3JzUURxWFFNbHZiYVhfQkctYmJhNThRVkZfdmpIWFpZSEpOSmFiYVVzMEl5WnlaMkE?oc=5": {
+    "title": "日東電工、AI半導体「後工程」のゲームチェンジャーへ挑む！1兆円企業が放つ“剥離の魔術”と次世代戦略「三新活動」の全貌",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HNW1UYTlsTkctZnRsZWhXNXhUakQ5X0VxMHFtZ0VsUmNVczdSM3JzUURxWFFNbHZiYVhfQkctYmJhNThRVkZfdmpIWFpZSEpOSmFiYVVzMEl5WnlaMkE?oc=5",
+    "summary_bullets": [
+      "日東電工がAI半導体の性能を左右する「後工程」分野において、独自の剥離技術を応用した革新的なソリューションを開発し、ゲームチェンジャーを目指している。",
+      "1兆円規模の既存事業を持つ同社が“三新活動”と称する新たな成長戦略を掲げ、AI半導体市場という高成長分野への本格参入で企業の看板を架け替えようとしている。",
+      "AI・データセンター需要の爆発的な増加に伴い、半導体「後工程」の重要性が飛躍的に高まっており、日東電工の技術が今後の産業標準に影響を与える可能性がある。"
+    ],
+    "insight": "既存の強みである精密剥離技術を、今後の産業の要となるAI半導体「後工程」に戦略的に応用する日東電工の事例は、伝統企業が市場の変化を捉え、持続的成長を追求するための事業転換・再定義の重要性を示唆しています。",
+    "action_plan": "自社のコア技術や強みが、AI・DXといった成長分野のどのバリューチェーンで応用可能か、具体的にアイデア出しをしてみましょう。また、異業種・異分野とのコラボレーションの可能性を探る視点も持ちましょう。",
+    "image_keyword": "AI semiconductor advanced packaging, Nitto Denko innovation, semiconductor manufacturing",
+    "technical_terms": [
+      {
+        "term": "AI半導体",
+        "explanation": "人工知能（AI）の処理に特化し、膨大なデータを高速で計算できるよう設計された高性能な半導体チップです。特に機械学習やディープラーニングで利用されます。"
+      },
+      {
+        "term": "後工程",
+        "explanation": "半導体製造プロセスの後半部分で、シリコンウェハから個々のチップを切り出し、配線やパッケージングを行い、最終的な製品として機能するように組み立てる一連の工程を指します。"
+      },
+      {
+        "term": "剥離の魔術師",
+        "explanation": "日東電工の得意とする、微細な層をダメージなく剥がす、あるいは正確に分離させるための精密な技術力を表現した比喩です。半導体製造の高度な工程で極めて重要となります。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JSDBYaW8wd3J4a1BRTUlMbnpBUms1TVgydmk5WjM1OE52SnR2RnYxMFZ6bnQ2MTZYSGk4UnFJR2ZTZDlnWm9qUGVoUkV6ZGVXM0tXa2V1VEg4dUVQS1VJQXRsbE1zeEJBYWFMT0hlVmtMdWFKM3Z6YUlwQnM?oc=5": {
+    "title": "川崎市、未来技術イノベーション拠点整備加速へ：三菱地所グループが量子・AI・半導体・Beyond5G拠点の優先交渉権を獲得",
+    "tags": "DeepTech",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JSDBYaW8wd3J4a1BRTUlMbnpBUms1TVgydmk5WjM1OE52SnR2RnYxMFZ6bnQ2MTZYSGk4UnFJR2ZTZDlnWm9qUGVoUkV6ZGVXM0tXa2V1VEg4dUVQS1VJQXRsbE1zeEJBYWFMT0hlVmtMdWFKM3Z6YUlwQnM?oc=5",
+    "summary_bullets": [
+      "川崎市は量子・AI・半導体・Beyond5Gといった最先端技術の研究開発拠点を「新川崎・創造のもり」に整備することを決定。",
+      "この拠点整備は、日本の産業競争力強化と新たなイノベーション創出を加速させ、関連産業に大きなビジネス機会をもたらす。",
+      "官民連携によるDeepTech領域への大規模投資が加速し、地域ごとのイノベーションエコシステム形成が今後のトレンドとなるだろう。"
+    ],
+    "insight": "先端技術分野（量子・AI・半導体・Beyond5G）への公的・民間投資が本格化しており、関連企業はこれらのイノベーション拠点との連携や参入を通じて、新たな事業機会を創出し、技術革新の波に乗るべきである。",
+    "action_plan": "自社の技術やサービスが量子・AI・半導体・Beyond5G分野でどのように貢献できるかを具体的に洗い出し、この新たなイノベーション拠点での連携可能性について情報収集を開始しましょう。",
+    "image_keyword": "innovation hub, quantum AI city, future tech development",
+    "technical_terms": [
+      {
+        "term": "量子技術",
+        "explanation": "量子力学の原理を応用し、従来のコンピューターや通信では不可能だった高速計算や安全な通信を実現する次世代技術の総称。"
+      },
+      {
+        "term": "Beyond5G",
+        "explanation": "現在の第5世代移動通信システム（5G）のさらに次世代を担う通信技術。高速・大容量・低遅延・多接続といった性能がさらに向上し、新たな産業やサービスを創出すると期待される。"
+      },
+      {
+        "term": "DeepTech",
+        "explanation": "科学的発見やエンジニアリングにおける革新的な技術を基盤とし、社会や産業に大きな変革をもたらす可能性を秘めた技術分野の総称。AI、量子、バイオテクノロジーなどが含まれる。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NcnN6amphRUhrNVNhb2cwUFBzVEk2eG05Njg3bEhzM3pHRVZ6QV9NX0tCZkNISVBkcXdMMmkxd2gwbGJSUWdMM1FXLXdPcVlKanhIVjFValZxMWlCSU90REcxX3ZzOUtUUlBzUktsX18?oc=5": {
+    "title": "エプソン、2800億円の戦略的投資で事業構造転換へ！半導体など次世代成長分野を強化",
+    "tags": "Investment",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NcnN6amphRUhrNVNhb2cwUFBzVEk2eG05Njg3bEhzM3pHRVZ6QV9NX0tCZkNISVBkcXdMMmkxd2gwbGJSUWdMM1FXLXdPcVlKanhIVjFValZxMWlCSU90REcxX3ZzOUtUUlBzUktsX18?oc=5",
+    "summary_bullets": [
+      "エプソンが総額2800億円を投じ、既存の紙関連事業から半導体など成長性の高い分野への大規模な事業構造転換を加速する。",
+      "この大型投資は、長期的な収益基盤の強化と、高付加価値分野での競争力向上を目指す企業の明確な戦略転換を示す。",
+      "伝統的な製造業が既存の強みを活かしつつ、市場の変化に対応するため、ポートフォリオを大胆に再構築する動きが今後も加速すると予測される。"
+    ],
+    "insight": "既存事業の成熟を見据え、リスクを取りながらも大胆な事業構造転換と戦略的投資を実行することが、企業の持続的成長には不可欠であるという強いメッセージが読み取れる。",
+    "action_plan": "自社の事業ポートフォリオを定期的に見直し、将来の成長が見込まれる新たな技術や市場への投資機会を積極的に探索・評価する計画を策定してみましょう。",
+    "image_keyword": "Epson investment, semiconductor manufacturing, corporate strategy",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "電気を通す性質と通さない性質の中間を持つ物質で、コンピュータやスマートフォンなど、あらゆる電子機器の頭脳や記憶装置として使われる重要な電子部品です。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/using-moon-dirt.html": {
+    "title": "月面居住の夢、現実へ：現地資材活用の革新研究が描く未来都市",
+    "tags": "Space Exploration",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "9時間前",
+    "url": "https://www.gizmodo.jp/2026/03/using-moon-dirt.html",
+    "summary_bullets": [
+      "月面居住の実現に向け、地球からの資材輸送ではなく、月の現地資材（レゴリスなど）を活用する研究が進展している。",
+      "この技術は、月面開発のコストを劇的に削減し、持続可能な宇宙経済圏の構築に不可欠な基盤を提供する。",
+      "将来的に月面都市や長期滞在拠点の建設が加速し、宇宙産業における新たなビジネスチャンスが拡大するトレンドが予測される。"
+    ],
+    "insight": "月面開発はもはやSFの領域ではなく、現地資材利用技術の進展により、現実的な投資とビジネス機会が生まれるフェーズに入っています。この流れを理解し、自社の技術やサービスがどのように貢献できるかを早期に検討することが、未来の市場での競争優位性を確立する鍵となります。",
+    "action_plan": "宇宙産業における最新の技術動向や主要プレイヤーのリサーチを行い、自社のコア技術や製品が月面開発や宇宙資源利用に転用可能か、あるいは連携できるかをブレインストーミングで洗い出してみましょう。",
+    "image_keyword": "lunar base construction, moon resources",
+    "technical_terms": [
+      {
+        "term": "月面資材利用 (In-Situ Resource Utilization: ISRU)",
+        "explanation": "宇宙開発において、探査や居住に必要な資材を、地球から運ぶのではなく、月や惑星の現地で調達・加工して利用する技術や戦略。輸送コスト削減と持続可能性向上に貢献します。"
+      },
+      {
+        "term": "レゴリス",
+        "explanation": "月面を覆う砂状の微細な土壌層のこと。建設資材、酸素や水などの資源抽出源としての利用が研究されており、月面開発の鍵となる物質です。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2603/13/news086.html": {
+    "title": "急増するAI偽サイトの脅威：Claudeを装う詐欺と巧妙な検索順位操作の実態",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "19時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/13/news086.html",
+    "summary_bullets": [
+      "人気のAIチャットボット「Claude」の偽サイトが「日本語無料版」を謳って登場し、巧妙な手口でユーザーを誘引。",
+      "偽サイトは既に閲覧不能だが、Google検索で一時的に上位表示されるなど、検索エンジンの盲点を突く詐欺の手口が確認された。",
+      "AIサービスの利用が拡大する中で、偽サイトやフィッシング詐欺のリスクが増大しており、ユーザーのセキュリティ意識とプラットフォーム側の対策強化が喫緊の課題となっている。"
+    ],
+    "insight": "AIサービスの急速な普及は新たなビジネス機会を創出する一方で、その人気に便乗したサイバー詐欺のリスクを顕在化させており、企業は従業員へのセキュリティ教育と正規サービスの徹底的な利用指導が不可欠であることを示唆しています。",
+    "action_plan": "自社で利用中のAIサービスのURLや提供元を再確認し、従業員に対してAI関連のフィッシング詐欺や偽サイトに関する注意喚起を徹底しましょう。また、不審なリンクや広告には絶対にアクセスしないよう指導してください。",
+    "image_keyword": "AI scam website, cyber threat, phishing attack",
+    "technical_terms": [
+      {
+        "term": "Claude",
+        "explanation": "Anthropic社が開発した、人間のような自然な対話が可能な大規模言語モデル（LLM）のこと。"
+      },
+      {
+        "term": "フィッシング",
+        "explanation": "実在する企業やサービスを装い、偽のウェブサイトやメールでユーザーを欺き、パスワードや個人情報などの機密情報を不正に入手する詐欺行為。"
+      },
+      {
+        "term": "SEO",
+        "explanation": "Search Engine Optimization（検索エンジン最適化）の略。ウェブサイトをGoogleなどの検索エンジンの検索結果で上位に表示させるための技術や施策。"
+      }
+    ]
   }
 }
