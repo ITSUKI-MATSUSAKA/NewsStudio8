@@ -2574,7 +2574,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 5,
-    "time_ago": "13時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news108.html",
     "summary_bullets": [
       "ホンダが慶應義塾大学、大阪大学と連携し、AI技術開発と人材育成を目的とした協働研究所を設立する。",
@@ -2655,7 +2655,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 4,
-    "time_ago": "14時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6573005?source=rss",
     "summary_bullets": [
       "衆議院本会議でAI音声による議員点呼が初めて実施され、国会にAI技術が本格導入された。",
@@ -2848,7 +2848,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "19時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/13/news086.html",
     "summary_bullets": [
       "人気のAIチャットボット「Claude」の偽サイトが「日本語無料版」を謳って登場し、巧妙な手口でユーザーを誘引。",
@@ -2872,5 +2872,261 @@
         "explanation": "Search Engine Optimization（検索エンジン最適化）の略。ウェブサイトをGoogleなどの検索エンジンの検索結果で上位に表示させるための技術や施策。"
       }
     ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2603/14/news025.html": {
+    "title": "AIボットの暴走が招いた『Digg』の挫折：再始動から2カ月でハードリセットを余儀なくされた背景",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "23時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/14/news025.html",
+    "summary_bullets": [
+      "ソーシャルニュースサイトDiggが、AIボットによる大量アクセスとスパム投稿のため、再起動からわずか2カ月で「ハードリセット」を余儀なくされた。",
+      "AIボットによるプラットフォームの健全性への脅威が顕在化し、AI時代のコンテンツモデレーションとセキュリティ対策の重要性が浮き彫りになった。",
+      "AIの進化に伴い、ウェブサイトやSNS運営者は、悪意あるボット対策とユーザー体験保護のためのより高度な技術とガバナンスが不可欠となる。",
+      "AIボットによるデジタルプラットフォームへの攻撃は、今後さらに巧妙化し、ビジネスの信頼性や持続可能性に大きな影響を与える可能性がある。"
+    ],
+    "insight": "AI技術はイノベーションの源泉であると同時に、悪用された際のリスクも甚大です。自社のデジタルサービスを守るため、AIを活用した脅威に対する防御戦略を、サービスの設計段階から組み込むことが喫緊の課題であることをこのニュースは示唆しています。",
+    "action_plan": "自社が運営するデジタルプラットフォームにおけるAIボット対策の現状を見直し、潜在的なリスクと対策リストを書き出してみましょう。必要であれば、専門家と連携し、高度なボット対策ソリューション導入の検討を始めてください。",
+    "image_keyword": "AI bot attack, social media security, digital disruption",
+    "technical_terms": [
+      {
+        "term": "AIボット",
+        "explanation": "人工知能を搭載し、自動的にウェブサイトの巡回、データ収集、コンテンツ生成、ユーザーとの対話など、特定のタスクを実行するプログラム。"
+      },
+      {
+        "term": "ハードリセット",
+        "explanation": "システムやサービスを初期状態に戻すこと。今回のケースでは、既存のサービス運用を一旦停止し、根本的な問題解決や再構築を行うことを指す。"
+      },
+      {
+        "term": "ソーシャルニュースサイト",
+        "explanation": "ユーザーがニュース記事やWebコンテンツを投稿・共有し、他のユーザーがそのコンテンツを評価することで、人気の高い記事が上位に表示される仕組みのウェブサイト。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/enterprise/articles/2603/14/news013.html": {
+    "title": "ウェブを支配するAIクローラー：Metaが通信の過半数を占める驚愕の実態",
+    "tags": "Web Technology",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "23時間前",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/14/news013.html",
+    "summary_bullets": [
+      "インターネット上のAIボット通信の8割がクローラーであり、その過半数をMetaが占める実態が判明した。",
+      "ウェブサイト運営者やビジネスは、トラフィック分析における人間以外の活動の割合を再評価し、データ戦略を見直す必要がある。",
+      "AIの進化と共にクローラーによるウェブトラフィックは今後も増加し、特定の巨大テック企業によるデータ収集の寡占化が進むと予測される。"
+    ],
+    "insight": "ウェブトラフィックの大部分が人間以外の活動によって構成されており、特にAIクローラーがその主流を占め、大手テック企業のデータ収集能力がデジタル戦略に与える影響は計り知れないことを認識すべきだ。",
+    "action_plan": "自社のウェブサイトのアクセス解析ツールがボットトラフィックをどのように識別・処理しているかを確認し、純粋なユーザー行動を把握するための指標を見直しましょう。",
+    "image_keyword": "AI crawler network, web traffic analysis, Meta data",
+    "technical_terms": [
+      {
+        "term": "bot通信",
+        "explanation": "インターネット上で自動的に動作するプログラム（ボット）が行う通信のこと。検索エンジンのクローラーやチャットボットなどが含まれる。"
+      },
+      {
+        "term": "クローラー",
+        "explanation": "ウェブサイトの情報を自動的に収集し、巡回するプログラム。主に検索エンジンのデータベースを構築するために利用される。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6573092?source=rss": {
+    "title": "Netflix、WBC中継批判への幹部回答から読み解く日本市場戦略とグローバルコンテンツの課題",
+    "tags": "Streaming",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "15時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6573092?source=rss",
+    "summary_bullets": [
+      "Netflix日本幹部がWBC中継に関するユーザーからの批判に対し公式見解を表明し、コンテンツ戦略の背景を説明した。",
+      "グローバルストリーミングプラットフォームが、特定の地域における国民的イベントや文化に対する配慮と、そのライセンス戦略の難しさを浮き彫りにした事例。",
+      "今後、ストリーミングサービスは、グローバルコンテンツ戦略とローカルニーズのバランスをより精緻に調整する方向に進化すると予測される。"
+    ],
+    "insight": "グローバル企業が特定の市場で成功するには、コンテンツの提供方法やコミュニケーションにおいて、その地域の文化的背景や感情に深く配慮したローカライゼーション戦略が不可欠であると再認識すべきです。",
+    "action_plan": "自社のサービスや製品がグローバル展開を検討している場合、各市場のユーザー体験を深く分析し、文化やイベントに対する感度を理解するワークショップを定期的に開催し、柔軟な戦略立案に活かしましょう。",
+    "image_keyword": "Netflix content strategy, baseball broadcasting rights, streaming service Japan",
+    "technical_terms": []
+  },
+  "https://news.yahoo.co.jp/pickup/6573064?source=rss": {
+    "title": "Apple幹部が語るiPhone17e戦略の真髄：次世代モデルの狙いを徹底解剖",
+    "tags": "Hardware",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "20時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6573064?source=rss",
+    "summary_bullets": [
+      "Apple幹部が、次世代iPhoneの派生モデルとされる「iPhone17e」の開発意図と市場投入戦略について詳細を明かした。",
+      "新モデルの投入は、スマートフォンのエコシステム全体におけるAppleの差別化戦略や市場シェア拡大への意欲を示すもので、競合他社にも大きな影響を与える。",
+      "今後のスマートフォン市場では、単なる性能向上だけでなく、特定のユーザー層に特化した機能や価格帯の多様化がトレンドとなる可能性が高い。"
+    ],
+    "insight": "Appleが「e」という名称を冠した新モデルを投入する背景には、特定の顧客セグメントへの深掘りや新たな市場機会の創出という戦略的な意図がある。これは、既存の製品ラインナップを再評価し、市場ニーズに合わせた柔軟なポートフォリオ構築の重要性を示唆している。",
+    "action_plan": "自社の製品ポートフォリオを見直し、特定の顧客層やニッチ市場へのアプローチを強化する新モデルやサービスの可能性を検討してみましょう。",
+    "image_keyword": "iPhone 17e concept, Apple executive, next-gen smartphone",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5MUg1WnBOMmNNX0k3ZllUQjIyUnRobV9FMFB6VngweHZRUEV1b2swazlOUTZjdWpGX0FBNDNsSVc1RzdfcFplZV9VV0VlMXFPMzRuVFB6REFWTWY1RjhaN2U0c1k4SGpoTWh0eDVFVElQWG1RS0Z4Y1V0ZmRBOUk?oc=5": {
+    "title": "【深層分析】新車納期遅延の長期化：半導体不足はなぜ慢性化するのか？",
+    "tags": "Hardware",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5MUg1WnBOMmNNX0k3ZllUQjIyUnRobV9FMFB6VngweHZRUEV1b2swazlOUTZjdWpGX0FBNDNsSVc1RzdfcFplZV9VV0VlMXFPMzRuVFB6REFWTWY1RjhaN2U0c1k4SGpoTWh0eDVFVElQWG1RS0Z4Y1V0ZmRBOUk?oc=5",
+    "summary_bullets": [
+      "新車の納期遅延が解消されず慢性化しており、その根源的な原因として半導体不足の継続が指摘されている。",
+      "自動車産業の生産計画は依然として不安定であり、サプライチェーン全体のレジリエンス構築が喫緊の課題となっている。",
+      "半導体サプライチェーンの脆弱性が露呈する中、国内または地域内での生産能力確保や代替供給源の多角化が加速する見込みである。"
+    ],
+    "insight": "自動車産業に留まらず、あらゆる分野で半導体の重要性が増す中、サプライチェーンの脆弱性は地政学的な問題と結びつき長期化する構造的課題であり、リスク分散と国内生産・地域連携の強化が必須の経営戦略となる。",
+    "action_plan": "自社のサプライチェーンにおける半導体（または重要部品）の依存度を再評価し、主要サプライヤーとの関係性強化に加え、複数の供給源を確保するリスク分散戦略を策定・見直してみましょう。",
+    "image_keyword": "semiconductor shortage, car production delay, global supply chain",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "電気を通したり遮断したりする性質を持つ物質で、スマートフォンや自動車などあらゆる電子機器の頭脳となる重要な部品。"
+      },
+      {
+        "term": "サプライチェーン",
+        "explanation": "製品が原材料の調達から生産、流通、消費者の手に届くまでの一連の流れのこと。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kQnpTVDl3U3h1VloyOWhQS2QyRkZvdXhMRkthaEJ1TjJIbDRmcER5UnJDbFg3blhSanQtMGJGMWF5TW1LY1YxWW1tN0FvTjkzb1VR0gFYQVVfeXFMUFlhSzZUU3hHT1hGR1EzcFRyYk9tSWdMdXd4Z2dkUnBjUEZKb2sxSG9yMHdZWWxraHlIRHBldnVralJiSkg5dzZkVXpRdmNKZEQ4VGVZWW02dA?oc=5": {
+    "title": "新車納期遅延の長期化：半導体不足が解消されない深層原因とサプライチェーンの課題",
+    "tags": "Supply Chain",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kQnpTVDl3U3h1VloyOWhQS2QyRkZvdXhMRkthaEJ1TjJIbDRmcER5UnJDbFg3blhSanQtMGJGMWF5TW1LY1YxWW1tN0FvTjkzb1VR0gFYQVVfeXFMUFlhSzZUU3hHT1hGR1EzcFRyYk9tSWdMdXd4Z2dkUnBjUEZKb2sxSG9yMHdZWWxraHlIRHBldnVralJiSkg5dzZkVXpRdmNKZEQ4VGVZWW02dA?oc=5",
+    "summary_bullets": [
+      "新車の納期遅延が慢性化し、その背景にある半導体不足の構造的かつ根深い問題が浮き彫りになっています。",
+      "この供給問題は自動車産業の生産計画に甚大な影響を与え、関連産業や消費者への広範な不利益を拡大させています。",
+      "半導体サプライチェーンの脆弱性が露呈しており、地政学的リスクや技術革新がさらなる複雑化を招き、短期的な解決が困難な状況が予測されます。"
+    ],
+    "insight": "現代のグローバルサプライチェーンは予期せぬ外部要因によって容易に寸断されるため、企業は供給源の多様化、生産拠点の分散、そして強靭なリスクマネジメント体制の構築を急務とすべきです。",
+    "action_plan": "自社のサプライチェーンにおけるボトルネックを特定し、代替サプライヤーの確保や部品在庫戦略の見直しを直ちに開始することで、将来のリスクに備えましょう。",
+    "image_keyword": "semiconductor shortage, car production, supply chain crisis",
+    "technical_terms": [
+      {
+        "term": "半導体不足",
+        "explanation": "自動車や電子機器の製造に必要な半導体部品が、需要に対して供給が追いつかない状態。生産遅延やコスト増加の原因となります。"
+      },
+      {
+        "term": "サプライチェーン",
+        "explanation": "製品が原材料の調達から製造、流通、販売、そして最終消費者に届くまでの、企業間の一連の流れやネットワーク全体を指します。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE15VkY2YU1CSTVGOGlQQUgtSmlvNF9Nd1pWRW9XeGpDNEJ3ZEI0eG10VlNBekk5TkpicnZOZ0w0UWZqMHR2VEtoN21NVzdfdkF6aVI2RTJTSjV6am13ZUJmY1FvcGtxWnR2d1BiVGxLSVpGLXpnanBDMEhMYw?oc=5": {
+    "title": "世界初！佐賀大発ベンチャー、ダイヤ半導体の実用化製造を開始 - 高速通信・衛星技術の社会実装に光",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15VkY2YU1CSTVGOGlQQUgtSmlvNF9Nd1pWRW9XeGpDNEJ3ZEI0eG10VlNBekk5TkpicnZOZ0w0UWZqMHR2VEtoN21NVzdfdkF6aVI2RTJTSjV6am13ZUJmY1FvcGtxWnR2d1BiVGxLSVpGLXpnanBDMEhMYw?oc=5",
+    "summary_bullets": [
+      "佐賀大学発ベンチャーが、世界で初めてダイヤ半導体の実用化製造を開始した。",
+      "この革新的な技術は、高速通信や衛星分野など、次世代の社会インフラ構築に大きく貢献すると期待される。",
+      "高性能半導体の量産化が、通信技術や宇宙産業の発展を加速させ、日本が先端技術で国際競争力を高める可能性を示唆する。"
+    ],
+    "insight": "先端材料技術への投資が、未来の基幹産業を左右する鍵となる。特に、世界初の実用化技術は産業構造を大きく変革するポテンシャルを秘めているため、技術動向と応用分野を常に注視すべきだ。",
+    "action_plan": "自社の事業や開発ロードマップにおいて、次世代半導体技術がどのような影響をもたらすか、その機会とリスクを分析し、潜在的な協業パートナーや投資先を洗い出してみましょう。",
+    "image_keyword": "diamond semiconductor, high-speed communication, satellite technology",
+    "technical_terms": [
+      {
+        "term": "ダイヤ半導体",
+        "explanation": "ダイヤモンドを材料とした半導体。既存のシリコン半導体よりも優れた熱伝導性、絶縁耐圧、高速性などの特性を持つとされ、次世代パワーデバイスや通信デバイスへの応用が期待されている。"
+      },
+      {
+        "term": "社会実装",
+        "explanation": "研究段階にあった技術やシステムが、実際の社会生活や経済活動の中で利用され、広く普及すること。技術が実用化され、社会に浸透していくプロセスを指す。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/whats-powering-all-these-futuristic-data-centers-in-many-cases-repurposed-jet-engines-t79.html": {
+    "title": "AIデータセンターの電力危機に旧型ジェットエンジンが秘策？意外なエネルギーソリューションに迫る",
+    "tags": "Infrastructure",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "8時間前",
+    "url": "https://www.gizmodo.jp/2026/03/whats-powering-all-these-futuristic-data-centers-in-many-cases-repurposed-jet-engines-t79.html",
+    "summary_bullets": [
+      "AIデータセンターの急速な普及が深刻な電力不足を引き起こしており、その解決策が喫緊の課題となっている。",
+      "使用済みの航空機用ジェットエンジン（ガスタービン）を再利用し、オンサイト発電に活用する革新的なアプローチが注目されている。",
+      "この分散型発電ソリューションは、AIインフラの電力供給における持続可能性と柔軟性を大きく向上させる可能性を秘めている。"
+    ],
+    "insight": "AIの爆発的進化はインフラ、特に電力供給の常識を覆すほどの課題を突きつけており、既存技術の斬新な再利用が次世代のビジネス基盤を支える鍵となることを示唆している。異分野技術の融合がブレークスルーを生む典型例だ。",
+    "action_plan": "自社のAIインフラ戦略において、エネルギー効率と持続可能な電源確保について再評価し、既存技術の転用や分散型エネルギーソリューションの可能性を検討してみましょう。",
+    "image_keyword": "AI data center energy, jet engine power generator, sustainable infrastructure",
+    "technical_terms": [
+      {
+        "term": "AIデータセンター",
+        "explanation": "大量のAI学習・推論処理を行うための、高性能なサーバーと冷却設備を備えた専門施設。"
+      },
+      {
+        "term": "ガスタービンエンジン",
+        "explanation": "燃料を燃焼させて高温・高圧のガスを生成し、タービンを回転させて電力を生み出すエンジン。ジェットエンジンもその一種。"
+      },
+      {
+        "term": "分散型電源",
+        "explanation": "発電設備を電力消費地の近くに配置することで、大規模な送電網に頼らず電力供給を行うシステム。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/qwen_3_5_9b_4b.html": {
+    "title": "MacBookで驚愕の性能を発揮！「Qwen3.5」— 最強ローカルLLMの衝撃と可能性を徹底解剖",
+    "tags": "AI / LLM",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "10時間前",
+    "url": "https://www.gizmodo.jp/2026/03/qwen_3_5_9b_4b.html",
+    "summary_bullets": [
+      "最新のローカルLLM「Qwen3.5」がMacBookを含む一般的なデバイスで驚異的なパフォーマンスを発揮し、技術愛好家や開発者の注目を集めている。",
+      "オンプレミスでのAI活用を加速し、プライバシー保護とセキュリティ要件が高いビジネス領域に新たな選択肢を提供することで、企業のデータガバナンス強化に貢献する。",
+      "高性能なローカルLLMの普及により、エッジAIの進化と個人・企業におけるAI活用の多様化が進展し、クラウド依存からの脱却が加速する可能性がある。"
+    ],
+    "insight": "ローカルLLMの進化は、クラウドサービスへの依存度を下げ、企業がデータプライバシーとセキュリティを確保しつつ、コスト効率よくAIを導入・運用できる可能性を広げます。特に機密情報を扱う業界では、この技術動向を注視し、自社システムへの組み込みを検討する好機と捉えるべきです。",
+    "action_plan": "自社のデータセキュリティ要件とAI活用ニーズを再評価し、Qwen3.5のようなローカルLLMが提供する新たなビジネス機会やリスク回避策について、情報収集と導入可能性の検討を開始しましょう。",
+    "image_keyword": "local LLM MacBook, Qwen3.5 performance, on-device AI",
+    "technical_terms": [
+      {
+        "term": "LLM",
+        "explanation": "Large Language Model（大規模言語モデル）の略。大量のテキストデータを学習し、人間のように自然な言語を理解・生成できるAIモデル。"
+      },
+      {
+        "term": "ローカルLLM",
+        "explanation": "インターネット上のクラウドサービスではなく、個人のPCや企業のオンプレミスサーバーなどのローカル環境で動作する大規模言語モデル。"
+      },
+      {
+        "term": "Qwen3.5",
+        "explanation": "中国のテクノロジー企業Alibaba Cloudが開発した、高性能な大規模言語モデルのシリーズ名で、特にローカル環境での動作に優れていることで知られる。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/machi-ya-titaniumcardcase-review-922629.html": {
+    "title": "「名刺忘れ」ゼロへ！財布に潜ませる極薄1.8mmチタン製カードケースがビジネスシーンを変える",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "11時間前",
+    "url": "https://www.gizmodo.jp/2026/03/machi-ya-titaniumcardcase-review-922629.html",
+    "summary_bullets": [
+      "1.8mmの極薄チタン製カードケースが「財布に仕込む名刺のお守り」として登場し、急な名刺交換にも対応可能に。",
+      "ビジネスシーンにおける名刺忘れの機会損失や不便さを解消し、常にスマートな対応を可能にする。",
+      "超小型・薄型化されたパーソナルビジネスツールの需要が高まり、スマートな忘れ物防止ソリューションが進化するトレンドを示唆。"
+    ],
+    "insight": "名刺忘れのような些細なビジネス上の不便も、小型・携帯性に優れたガジェットを活用することで解消し、常にプロフェッショナルな対応を維持することが、ビジネスチャンスの最大化に繋がるという洞察。",
+    "action_plan": "自身のビジネスにおいて、頻繁に直面する小さな「困った」事を書き出し、最新のガジェットやサービスで解決できないか調査・検討してみましょう。",
+    "image_keyword": "titanium card case, slim wallet, business gadget",
+    "technical_terms": []
   }
 }
