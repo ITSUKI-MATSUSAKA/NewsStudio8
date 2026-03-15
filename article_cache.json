@@ -2848,7 +2848,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/13/news086.html",
     "summary_bullets": [
       "人気のAIチャットボット「Claude」の偽サイトが「日本語無料版」を謳って登場し、巧妙な手口でユーザーを誘引。",
@@ -2879,7 +2879,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 4,
-    "time_ago": "23時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/14/news025.html",
     "summary_bullets": [
       "ソーシャルニュースサイトDiggが、AIボットによる大量アクセスとスパム投稿のため、再起動からわずか2カ月で「ハードリセット」を余儀なくされた。",
@@ -2938,7 +2938,7 @@
     "sentiment": "neutral",
     "sentiment_text": "注目の話題",
     "rating": 4,
-    "time_ago": "15時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6573092?source=rss",
     "summary_bullets": [
       "Netflix日本幹部がWBC中継に関するユーザーからの批判に対し公式見解を表明し、コンテンツ戦略の背景を説明した。",
@@ -2956,7 +2956,7 @@
     "sentiment": "neutral",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "20時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6573064?source=rss",
     "summary_bullets": [
       "Apple幹部が、次世代iPhoneの派生モデルとされる「iPhone17e」の開発意図と市場投入戦略について詳細を明かした。",
@@ -3128,5 +3128,306 @@
     "action_plan": "自身のビジネスにおいて、頻繁に直面する小さな「困った」事を書き出し、最新のガジェットやサービスで解決できないか調査・検討してみましょう。",
     "image_keyword": "titanium card case, slim wallet, business gadget",
     "technical_terms": []
+  },
+  "https://www.itmedia.co.jp/business/articles/2603/16/news015.html": {
+    "title": "ドコモ法人営業が挑むDX革命：1億会員データで分析を「30分→5分」に短縮、その全貌",
+    "tags": "Data Analytics",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://www.itmedia.co.jp/business/articles/2603/16/news015.html",
+    "summary_bullets": [
+      "ドコモ法人営業部門が1億超の会員データを活用し、データ分析時間を30分から5分へと大幅に短縮する改革に成功。",
+      "この効率化により、法人顧客への提案スピードと精度が向上し、営業活動の生産性向上と競争力強化に大きく貢献。",
+      "大規模な顧客データを武器に変え、デジタルトランスフォーメーション（DX）を推進する企業の新たな成功事例として注目される。"
+    ],
+    "insight": "データ活用は単なるツール導入に留まらず、既存の業務プロセスを根本から見直し、スピードと精度を高めることで初めて真のビジネス価値を生み出すという重要な示唆です。",
+    "action_plan": "自社が保有するデータ資産を見直し、現状のデータ分析や意思決定プロセスにおける非効率なボトルネックを洗い出してみましょう。その後、具体的な改善策を検討し、データドリブンな業務改革の第一歩を踏み出してください。",
+    "image_keyword": "data analysis, business transformation, corporate sales",
+    "technical_terms": [
+      {
+        "term": "データ分析",
+        "explanation": "収集した大量のデータから有用な情報やパターンを見つけ出し、ビジネスにおける意思決定や課題解決に役立てる手法。"
+      }
+    ]
+  },
+  "https://atmarkit.itmedia.co.jp/ait/articles/2603/16/news007.html": {
+    "title": "Open WebUIと独自ツールで拓く「安全なローカル自動化」新常識：業務効率化の最前線",
+    "tags": "Automation",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "3時間前",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/16/news007.html",
+    "summary_bullets": [
+      "Open WebUIと自作のMCPツールを組み合わせることで、ローカル環境での操作を「安全に」自動化する革新的な手法が紹介された。",
+      "セキュリティや内部統制の要件を満たしつつ、AI連携やRPAによる業務自動化の適用範囲を大幅に拡大し、企業の生産性向上とコスト削減に貢献する可能性を秘める。",
+      "今後は、安全性を確保したローカル自動化ツールの普及が進み、専門知識がなくてもAIを活用した高度な自動化が多様なビジネスシーンで加速すると予測される。"
+    ],
+    "insight": "多くの企業がセキュリティ懸念から踏み切れなかったローカル操作の自動化に対し、Open WebUIとカスタムツールの組み合わせが新たな突破口となり、革新的な業務効率化の機会を創出することを示唆しています。",
+    "action_plan": "自社の繰り返し発生するローカル業務で、特にセキュリティ要件が厳しく自動化が困難だったタスクをリストアップし、Open WebUIや類似のツールを活用した安全な自動化可能性について検討してみましょう。",
+    "image_keyword": "Secure local automation, Open WebUI interface, custom tool",
+    "technical_terms": [
+      {
+        "term": "Open WebUI",
+        "explanation": "大規模言語モデル（LLM）と連携するためのWebベースのユーザーインターフェースで、ローカル環境での操作や自動化を容易にするツール群。"
+      },
+      {
+        "term": "MCPツール",
+        "explanation": "特定の目的のために作成されたカスタムメイドのプログラムやスクリプトで、Open WebUIなどと連携してPCのローカル操作を自動化するツール。（Microcontroller Programming Toolなどの略称の可能性もあるが、ここでは文脈から「自作のカスタムプログラム」を指す）"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6573205?source=rss": {
+    "title": "レトロと最新の融合：なぜ『ガラケー型スマホ』が市場で品薄になるのか",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "15時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6573205?source=rss",
+    "summary_bullets": [
+      "ガラケー型スマートフォンが人気を集め、一部店舗で在庫切れが発生するほどの需要を喚起している。",
+      "レトロなデザインと最新技術の融合が、特に若年層を含む新たな消費者の関心を引きつけ、市場トレンドを形成している。",
+      "テクノロジー製品において、機能性だけでなくデザイン性やノスタルジーといった感情的価値が今後の製品開発やマーケティング戦略の重要な要素となる可能性がある。"
+    ],
+    "insight": "単なる機能追求だけでなく、デザインや操作感といった情緒的な価値が製品の差別化要因となり、ニッチな市場から新たな大きなトレンドが生まれる可能性があることを理解し、多様な消費者ニーズへの感度を高めるべきです。",
+    "action_plan": "自社の製品やサービスにおいて、ターゲット顧客が潜在的に求めている「感情的価値」や「過去の体験へのノスタルジー」について改めて分析し、既存製品への応用や新製品開発のアイデアをブレインストーミングしてみましょう。",
+    "image_keyword": "flip phone smartphone, retro tech, vintage modern mobile",
+    "technical_terms": [
+      {
+        "term": "ガラケー型スマホ",
+        "explanation": "従来の携帯電話（ガラケー）のような折りたたみ式やテンキー操作といったデザインや使用感を取り入れながら、スマートフォンのOSや最新機能を搭載したデバイスのこと。"
+      },
+      {
+        "term": "スマートフォン",
+        "explanation": "高度なオペレーティングシステム（OS）を搭載し、多様なアプリケーションの利用やインターネット接続、高機能カメラなどを備えた多機能携帯電話。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zaUZBTmxENTM3a3Aya3Y0UlplTzZZUnRPVXpNM3VBeUFnMVFrUnNpa01UVFFoTWoxTXdvdVJTQ0ZTUktGUUUxYWtwT3B3WnI5NzVUUUYyQ0JWZ3pWNG5wNVNZbw?oc=5": {
+    "title": "AI半導体市場が牽引！キオクシアが売買代金トップ、関連銘柄も躍進",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zaUZBTmxENTM3a3Aya3Y0UlplTzZZUnRPVXpNM3VBeUFnMVFrUnNpa01UVFFoTWoxTXdvdVJTQ0ZTUktGUUUxYWtwT3B3WnI5NzVUUUYyQ0JWZ3pWNG5wNVNZbw?oc=5",
+    "summary_bullets": [
+      "キオクシアが全市場で売買代金トップを記録し、市場の注目を集めている。",
+      "アドバンテスト、ディスコなどのAI半導体関連銘柄が株価を大きく伸ばし、市場全体の活性化に貢献。",
+      "AI技術の急速な発展が半導体産業を強力に牽引し、関連企業の業績と株価にポジティブな影響を与えている。"
+    ],
+    "insight": "AIの進化が資本市場に与える影響は計り知れず、半導体関連企業の動向は今後のテクノロジー産業全体の方向性を占う上で極めて重要な指標となる。",
+    "action_plan": "AI半導体市場の主要プレーヤーや技術トレンドに関する最新情報を継続的に収集し、自社のビジネス戦略や投資ポートフォリオにおける潜在的な機会やリスクを見直してみましょう。",
+    "image_keyword": "AI Semiconductor Market, Kioxia Stock, Chip Industry Growth",
+    "technical_terms": [
+      {
+        "term": "売買代金",
+        "explanation": "株式市場において、ある期間中に売買された株の総額を示す数値。市場の活況度を測る指標の一つ。"
+      },
+      {
+        "term": "AI半導体",
+        "explanation": "人工知能（AI）の演算処理に特化して設計された半導体チップ。高速なデータ処理や学習能力が求められるAIシステムに不可欠。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVJWa2sxbnRyakN0LTBqWV9zX0tYMWJuSzNOdzVfaEMySDNKTUhZZUM4bTc4d1pRRDlfdmdKckFBcUdyX0htWEdDWTd2YWJNbGNnbWEzMUtLWVJqMHBaNkUweWxnZWtTeDFmSDZtVXBmOTRVZnVIVms1NzM2NGpJR3JvTDhkd0xYcXZ1a0RGcUVKNk1kMHEyWjRoandXVnpQTDk0MzNVU0VCSkZ4OFphT291Szh5aVFoLUNwdWVkeDN6QdIBxwFBVV95cUxOZnlGR2Jyc3F2QXRWcmxPT3ZFWjFsTndGbk5KbloyaW4tYUYyTjMwakxacVp2QU1meFNZWmxBb0ZNV2pkeUlNaUdzdnhVWmNwbHJXUGlMUW85VVpMMFNDZUotdVN4OVdvdFVmT1RVd1FPRVJFR1BUTFpkdDJWVUd4blNZOVNxNmJpekF6bkJ6dnltckFUNVZXWWlLek4wajRvY21JSHNLUGUwZUJRUTdZTFBjdUxJNkVSQnd0U0UzMkhEX2RSalY0?oc=5": {
+    "title": "デンソー・東芝・ローム、国産パワー半導体で連携強化：次世代「勝ち筋」の深層",
+    "tags": "Semiconductors",
+    "sentiment": "positive",
+    "sentiment_text": "国産産業の未来を切り拓く、注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVJWa2sxbnRyakN0LTBqWV9zX0tYMWJuSzNOdzVfaEMySDNKTUhZZUM4bTc4d1pRRDlfdmdKckFBcUdyX0htWEdDWTd2YWJNbGNnbWEzMUtLWVJqMHBaNkUweWxnZWtTeDFmSDZtVXBmOTRVZnVIVms1NzM2NGpJR3JvTDhkd0xYcXZ1a0RGcUVKNk1kMHEyWjRoandXVnpQTDk0MzNVU0VCSkZ4OFphT291Szh5aVFoLUNwdWVkeDN6QdIBxwFBVV95cUxOZnlGR2Jyc3F2QXRWcmxPT3ZFWjFsTndGbk5KbloyaW4tYUYyTjMwakxacVp2QU1meFNZWmxBb0ZNV2pkeUlNaUdzdnhVWmNwbHJXUGlMUW85VVpMMFNDZUotdVN4OVdvdFVmT1RVd1FPRVJFR1BUTFpkdDJWVUd4blNZOVNxNmJpekF6bkJ6dnltckFUNVZXWWlLek4wajRvY21JSHNLUGUwZUJRUTdZTFBjdUxJNkVSQnd0U0UzMkhEX2RSalY0?oc=5",
+    "summary_bullets": [
+      "デンソーと東芝がロームとの連携を模索し、国産パワー半導体の統合・強化を目指している。",
+      "次世代のSiC（シリコンカーバイド）パワー半導体分野で日本の国際競争力を高め、車載向けなどの需要増に対応する戦略だ。",
+      "この連携は、特定分野に集中投資することで、中国や欧米勢に対抗する日本の「勝ち筋」を確立する可能性を秘めている。"
+    ],
+    "insight": "主要企業間の戦略的連携は、激化するグローバル競争において特定の技術分野で優位性を確立するための重要な手段であり、特にSiCパワー半導体のような成長市場では、集中投資と協力が未来の競争力に直結します。",
+    "action_plan": "自社の事業領域におけるサプライチェーンのボトルネックとなる部品や材料を特定し、国内企業の連携動向や技術投資の動きを注視して、安定供給確保と技術革新への対応策を検討してみましょう。",
+    "image_keyword": "Japan power semiconductor alliance, SiC semiconductor manufacturing, strategic partnership",
+    "technical_terms": [
+      {
+        "term": "パワー半導体",
+        "explanation": "電気の供給や制御を行う半導体部品で、電気自動車（EV）や産業機器の省エネ化に不可欠な基幹技術です。"
+      },
+      {
+        "term": "SiC（シリコンカーバイド）",
+        "explanation": "従来のシリコンよりも優れた特性を持つ次世代の半導体材料で、高温・高電圧環境での高効率な電力制御を可能にし、特にEVなどで採用が進んでいます。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04SnFGdHpiZXZHWnNXdXNYd2hiNDVNcXJRRldjVFVfV21KN3RwbmFyYzhTQkx0MklFY1R2QzIyM1l0UzE0OG1HdlBOMmFqRGVKbVFtVE5VckFEckloVFE?oc=5": {
+    "title": "テスラ、AIチップ内製化へ加速か？マスク氏が超巨大工場『Terafab』構想を公開",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04SnFGdHpiZXZHWnNXdXNYd2hiNDVNcXJRRldjVFVfV21KN3RwbmFyYzhTQkx0MklFY1R2QzIyM1l0UzE0OG1HdlBOMmFqRGVKbVFtVE5VckFEckloVFE?oc=5",
+    "summary_bullets": [
+      "テスラがAIチップの設計だけでなく製造も自社で行う、超巨大半導体工場「Terafab」の計画を示唆した。",
+      "この動きは、自動運転やロボティクスを支えるAI半導体の安定供給と性能最適化を目指すテスラの垂直統合戦略の深化を示す。",
+      "自動車メーカーがAIチップ開発・製造に本格参入することで、半導体業界の勢力図が変化し、今後の技術革新のスピードが加速する可能性がある。"
+    ],
+    "insight": "テスラのような大手企業が、コア技術であるAI半導体の内製化に乗り出すことは、技術的優位性の確保とサプライチェーンの強靭化が今日のビジネスにおいて不可欠であることを示唆しています。自社の競争力を高めるため、サプライチェーンにおけるボトルネックや、差別化に繋がる技術領域の内製化戦略を検討する時期に来ています。",
+    "action_plan": "自社の事業における主要技術や部品サプライヤーを棚卸し、戦略的な内製化または共同開発の可能性について、短期・中長期の視点でメリットとリスクを書き出してみましょう。",
+    "image_keyword": "Tesla AI chip factory",
+    "technical_terms": [
+      {
+        "term": "AIチップ",
+        "explanation": "人工知能（AI）の計算処理に特化した設計が施された半導体チップ。"
+      },
+      {
+        "term": "内製化",
+        "explanation": "製品の設計、開発、製造などを外部に委託せず、自社のリソースと技術で行うこと。"
+      },
+      {
+        "term": "垂直統合",
+        "explanation": "企業がサプライチェーン内の複数の段階（原材料調達から最終製品の販売まで）を自社で所有・管理する経営戦略。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/honor-magic-v6.html": {
+    "title": "Honor Magic V6：20万円超えでも「安い」と称される最薄折りたたみスマホの衝撃",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://www.gizmodo.jp/2026/03/honor-magic-v6.html",
+    "summary_bullets": [
+      "最薄を謳う折りたたみスマートフォン「Honor Magic V6」が、20万円を超える価格にもかかわらず「安い」と評価され発表された。",
+      "高価格帯のプレミアムデバイスでも、明確な技術革新とユーザー価値を提供できれば市場で高い評価を得られることを示唆している。",
+      "今後、折りたたみスマホ市場では薄型化と高性能化がさらに加速し、価格よりも体験価値を重視するトレンドが強まることが予測される。"
+    ],
+    "insight": "高価格帯製品であっても、既存の課題を解決する革新的な技術や、ユーザーが明確な価値を感じる要素があれば、市場に受け入れられビジネスチャンスが生まれるという、価値創造の重要性を再認識すべきです。",
+    "action_plan": "自社の製品やサービスにおいて、顧客が「価格以上の価値」を感じるポイントは何か、既存の常識を覆すような技術革新をどう取り入れられるか、具体的なアイデアを書き出してみましょう。",
+    "image_keyword": "thin foldable smartphone, Honor Magic V6, premium mobile tech",
+    "technical_terms": [
+      {
+        "term": "折りたたみスマホ (Foldable Smartphone)",
+        "explanation": "ディスプレイが折り曲げられる構造を持つ、次世代のスマートフォン。大画面と携帯性を両立させることを目指している。"
+      },
+      {
+        "term": "Honor Magic V6",
+        "explanation": "中国のHonor社が開発した、本記事で取り上げられている特定の折りたたみスマートフォンの製品名。最薄を特徴とする。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/construction-of-giant-dam-has-shifted-the-earths-poles-r9l.html": {
+    "title": "人類の活動が地球を動かす：巨大ダムが引き起こした「極のズレ」と海面上昇への影響",
+    "tags": "Environment",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "9時間前",
+    "url": "https://www.gizmodo.jp/2026/03/construction-of-giant-dam-has-shifted-the-earths-poles-r9l.html",
+    "summary_bullets": [
+      "巨大ダム建設に伴う大量の水の貯留が、地球の自転軸（極）を実際に移動させ、地球の物理的安定性に影響を与えていることが示唆された。",
+      "人類の巨大インフラプロジェクトが地球規模の物理現象に影響を及ぼすという事実は、今後の開発計画や環境影響評価に新たな視点と厳格な基準をもたらすだろう。",
+      "気候変動対策に加え、人間活動が地球の物理的システムに与える影響の全体像を理解し、その監視と抑制が今後の地球科学および環境政策の主要なトレンドとなることが予測される。"
+    ],
+    "insight": "「持続可能な開発」は単なる環境保護に留まらず、地球システム全体の物理的安定性をも考慮した多角的な視点が必要であることを示唆しており、あらゆるビジネスにおいて長期的なリスク評価と戦略策定の前提となるべきだ。",
+    "action_plan": "自社の事業やサプライチェーンが、直接的・間接的に地球の物理的環境（資源利用、土地利用、水資源など）に与える影響を再評価し、より地球システムに配慮したサステナブルなビジネスモデルへの転換に向けた議論を始めてみましょう。",
+    "image_keyword": "giant dam, earth's poles shift, climate change impact",
+    "technical_terms": [
+      {
+        "term": "地球の極",
+        "explanation": "地球が自転する際の軸（自転軸）が地表と交わる点。この位置が微細に変動することが知られている。"
+      },
+      {
+        "term": "海面上昇",
+        "explanation": "地球温暖化による熱膨張や氷河・氷床の融解、または地球の重力場や物理的変動によって、海水面が長期的に上昇する現象。"
+      },
+      {
+        "term": "巨大ダム",
+        "explanation": "大規模な河川を堰き止め、治水、利水、発電などを目的として建設される巨大な構造物。貯水量が非常に多い。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/us-data-centers-could-require-as-much-water-as-new-york-city-by-2030-study-shows.html": {
+    "title": "AIデータセンターの水消費、2030年にはNY一日分に匹敵？潜在的環境負荷と持続可能性への課題",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "11時間前",
+    "url": "https://www.gizmodo.jp/2026/03/us-data-centers-could-require-as-much-water-as-new-york-city-by-2030-study-shows.html",
+    "summary_bullets": [
+      "2030年までにAIデータセンターの水消費量がニューヨーク市の一日分に匹敵する可能性が指摘されている。",
+      "AIインフラ拡大に伴う環境負荷増大は、企業におけるESG戦略や持続可能なサプライチェーン構築に影響を与える。",
+      "AI技術の進化と同時に、エネルギー・資源効率の高いデータセンター開発や規制強化が喫緊の課題となるだろう。"
+    ],
+    "insight": "AIの進化はビジネス変革の原動力である一方、その運用に必要なインフラがもたらす環境負荷、特に水資源への影響は、今後の企業の持続可能性戦略や投資判断において無視できない重要リスクとして認識すべきである。",
+    "action_plan": "自社のAI活用戦略を見直す際、水資源やエネルギー消費量といった環境負荷要因を評価項目に加えてみましょう。",
+    "image_keyword": "AI data center water scarcity",
+    "technical_terms": [
+      {
+        "term": "AI (Artificial Intelligence)",
+        "explanation": "人間の知能を模倣し、学習・推論・問題解決などを行う技術。"
+      },
+      {
+        "term": "データセンター",
+        "explanation": "大量のサーバーやネットワーク機器を集中させ、情報処理・保存・通信を行うための施設。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2603/10/news121.html": {
+    "title": "東京大学研究室で発覚：高度なサイバー攻撃か？サーバ不正アクセスの深層",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "5日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/10/news121.html",
+    "summary_bullets": [
+      "東京大学の研究室サーバに外部からの不正アクセスが発覚し、機密情報漏洩の可能性が浮上している。",
+      "教育・研究機関もサイバー攻撃の標的となる現代において、国家レベルの重要情報や知的財産の保護が急務であることを示唆。",
+      "今後、大学や研究機関におけるセキュリティ投資の加速と、産学連携でのセキュリティ対策強化がトレンドとなることが予測される。"
+    ],
+    "insight": "いかなる組織もサイバー攻撃から免れない時代において、機密性の高いデータを扱う教育・研究機関ですら脆弱性があるという事実は、企業の情報資産保護戦略を根底から見直す喫緊の必要性を示している。",
+    "action_plan": "自社の情報資産とその価値を再評価し、最新の脅威に対応した多層的なセキュリティ対策と従業員への定期的なセキュリティ教育計画を緊急で見直しましょう。",
+    "image_keyword": "data breach university, server security alert, cyber attack research",
+    "technical_terms": [
+      {
+        "term": "不正アクセス",
+        "explanation": "許可されていない第三者がコンピュータシステムやネットワークに侵入し、データ閲覧、改ざん、破壊などを行う行為。"
+      },
+      {
+        "term": "サーバ",
+        "explanation": "ネットワークを通じて、他のコンピュータ（クライアント）に情報や機能を提供する役割を持つコンピュータ。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2603/10/news037.html": {
+    "title": "緊急警戒：国家級ハッキングツール「Coruna」がiPhoneを標的に？ 米政府流出の脅威が浮上",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "6日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/10/news037.html",
+    "summary_bullets": [
+      "iPhoneを狙う高度なハッキングツール「Coruna」が発見され、米政府から流出し犯罪集団の手に渡った可能性が指摘されています。",
+      "このツールの流出は、国家レベルの監視・攻撃技術が一般のサイバー犯罪に悪用される深刻なリスクをビジネスや個人にもたらします。",
+      "今後、モバイルデバイスを標的とした高度かつ巧妙なサイバー攻撃が激化する可能性があり、従来のセキュリティ対策の見直しが急務となります。"
+    ],
+    "insight": "企業のセキュリティ責任者は、モバイルデバイスが最も脆弱な攻撃ポイントの一つであることを認識し、政府機関レベルの脅威に対抗できる多層防御戦略と従業員教育を早急に強化すべきです。",
+    "action_plan": "自社および個人利用のiPhoneを含むモバイルデバイスに対するセキュリティポリシーとソフトウェアのアップデート状況を今日中に確認し、未適用であれば直ちに適用、不審なアプリの有無をチェックしましょう。",
+    "image_keyword": "cyber security network, data breach, mobile hacking",
+    "technical_terms": [
+      {
+        "term": "Coruna",
+        "explanation": "iPhoneを標的とする、非常に高度な性能を持つハッキングツールです。開発元は米政府とされています。"
+      },
+      {
+        "term": "ハッキングツール",
+        "explanation": "コンピュータシステムやネットワークに不正にアクセスしたり、情報を盗み出したりするために設計されたソフトウェアやプログラムの総称です。"
+      }
+    ]
   }
 }
