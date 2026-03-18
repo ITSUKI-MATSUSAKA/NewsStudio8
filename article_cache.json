@@ -3683,7 +3683,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 4,
-    "time_ago": "14時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6573438?source=rss",
     "summary_bullets": [
       "WBCで導入された先進的な野球中継技術が、視聴者にこれまで以上に没入感のある観戦体験を提供し始めている。",
@@ -3855,6 +3855,311 @@
       {
         "term": "オーディオ技術",
         "explanation": "音の録音、再生、処理、伝送などに関する技術全般。本記事では、スマートグラスに内蔵された音質向上技術を指す。"
+      }
+    ]
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2603/19/news063.html": {
+    "title": "NVIDIA、宇宙本格参入！軌道データセンター向け「Vera Rubin」で新フロンティアを切り拓く",
+    "tags": "Space Tech",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/19/news063.html",
+    "summary_bullets": [
+      "NVIDIAが軌道データセンター向け新製品「Vera Rubin」を発表し、宇宙市場へ本格的に参入することを表明。",
+      "宇宙空間でのデータ処理能力が飛躍的に向上し、地球観測や通信、宇宙探査の進化を加速させる可能性を秘める。",
+      "軌道データセンターという新たな市場が形成され、宇宙インフラとAI/HPCの融合が今後のトレンドとして加速するだろう。"
+    ],
+    "insight": "NVIDIAの宇宙市場本格参入は、宇宙ビジネスが技術的成熟期を迎え、実用的なインフラ構築フェーズへと移行している兆候であり、この新フロンティアにおけるビジネスチャンスを早期に捉える重要性を示唆している。",
+    "action_plan": "自社の技術やサービスが、今後拡大する軌道データセンターや宇宙インフラ市場でどのように貢献できるかを考察し、関連するパートナーシップや投資機会を調査してみましょう。",
+    "image_keyword": "orbit data center, space computing, NVIDIA Vera Rubin",
+    "technical_terms": [
+      {
+        "term": "軌道データセンター",
+        "explanation": "地球の軌道上に設置され、宇宙空間でデータ処理を行う施設。地上の制約を受けずに低遅延でのデータ処理や、セキュリティ強化などが期待されている。"
+      },
+      {
+        "term": "NVIDIA Vera Rubin",
+        "explanation": "NVIDIAが軌道データセンター向けに発表した、高性能なデータ処理・AI推論を可能にする新しいハードウェアプラットフォームの製品名。"
+      }
+    ]
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2603/19/news046.html": {
+    "title": "手のひらAIスパコン「DGX Spark」が4台連結で性能飛躍！エッジAI新時代を拓く",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2603/19/news046.html",
+    "summary_bullets": [
+      "手のひらサイズのAIスーパーコンピュータ「DGX Spark」が4台連結可能になり、大幅な処理能力向上を実現。",
+      "小型化と高性能化により、これまで困難だったエッジ環境や省スペースでの高度なAI活用が加速する見込み。",
+      "AIハードウェアのモジュール化・分散化トレンドを象徴し、AI導入の多様なビジネスモデル創出を後押しする。"
+    ],
+    "insight": "この革新的な小型AIスパコンの登場は、AI処理能力の物理的な制約を大きく緩和し、工場、医療現場、ロボティクスなど、あらゆる「エッジ」でのリアルタイムAI活用を現実のものにします。これにより、既存ビジネスの効率化だけでなく、全く新しいサービスや製品開発の機会が生まれるでしょう。",
+    "action_plan": "自社のAI活用計画において、DGX Sparkのような小型・連結可能AIハードウェアの導入によるメリット（コスト、設置場所、処理速度など）を評価し、潜在的な応用シナリオを検討してみましょう。",
+    "image_keyword": "mini AI supercomputer, modular AI hardware, edge computing device",
+    "technical_terms": [
+      {
+        "term": "DGX Spark",
+        "explanation": "手のひらサイズの超小型AIスーパーコンピュータの製品名。"
+      },
+      {
+        "term": "AIスパコン",
+        "explanation": "人工知能の学習や推論に特化して設計された、高性能なコンピュータシステム。"
+      },
+      {
+        "term": "エッジAI",
+        "explanation": "クラウドではなく、デバイスやセンサーなどの「エッジ」側で直接AI処理を行う技術。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2603/18/news130.html": {
+    "title": "デスクのAIをポケットに：Claude Coworkがスマホからの遠隔操作で業務効率を革新",
+    "tags": "AI Agent",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "13時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/18/news130.html",
+    "summary_bullets": [
+      "AIエージェント「Claude Cowork」がスマートフォンからの遠隔操作機能を追加し、デスクトップ上のAIをモバイルで制御可能に。",
+      "場所を選ばずにAIを活用した業務遂行が可能となり、リモートワークや移動中の生産性向上に大きく貢献する。",
+      "AIエージェントの利用範囲が拡大し、デバイス間のシームレスな連携が今後のパーソナルAI利用の主要トレンドとなる。",
+      "技術の進化により、AIエージェントがより多くのユーザーの生産性向上に貢献し、企業のデジタル変革を加速する可能性が高まる。"
+    ],
+    "insight": "AIエージェントのモバイル連携は、働く場所やデバイスの制約を取り払い、個人の生産性を飛躍的に高めるだけでなく、企業のDX推進における新たなフロンティアを切り開く鍵となるでしょう。",
+    "action_plan": "自社の業務プロセスにおいて、AIエージェントの導入やモバイルからの遠隔操作による効率化が可能な領域を洗い出し、パイロット導入の可能性を検討してみましょう。",
+    "image_keyword": "AI agent remote work, mobile AI productivity",
+    "technical_terms": [
+      {
+        "term": "AIエージェント",
+        "explanation": "ユーザーの指示を理解し、自律的にタスクを実行したり、情報収集や分析を支援したりする人工知能プログラム。"
+      },
+      {
+        "term": "Claude Cowork",
+        "explanation": "Anthropic社の高度なAIモデル「Claude」を基盤とし、デスクトップ上で動作して様々な業務を支援するAIアシスタントサービス。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6573549?source=rss": {
+    "title": "災害時通信のレジリエンス強化へ：携帯大手5社が相互回線提供で合意、社会インフラ強靭化の新時代",
+    "tags": "Telecommunications",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "9時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6573549?source=rss",
+    "summary_bullets": [
+      "携帯大手5社が大規模災害などの非常時に、自社の通信網が損壊した場合でも他社の回線を借りて通信サービスを提供することで合意した。",
+      "国民の通信手段確保と事業継続性の向上に大きく貢献し、日本の社会インフラ全体のレジリエンス強化に繋がる画期的な取り組みとなる。",
+      "今後、通信事業者間の協調がさらに進み、AIを活用した災害予測や迅速な復旧支援システムとの連携も加速する可能性が高い。"
+    ],
+    "insight": "災害時の事業継続性確保は企業の最重要課題であり、競合他社との連携によるリスク分散は、技術革新だけでなく運用面でのレジリエンス向上に不可欠であることを示す模範事例です。",
+    "action_plan": "自社の事業継続計画（BCP）を見直し、通信手段の多重化や緊急時の代替手段確保について、他社との連携可能性も含めて再検討してみましょう。",
+    "image_keyword": "telecom resilience network, disaster communication infrastructure",
+    "technical_terms": [
+      {
+        "term": "相互回線提供",
+        "explanation": "通信事業者が、自社の通信網が利用できない状況下で、他社の通信網を借りてサービスを提供できるようにする仕組み。"
+      },
+      {
+        "term": "レジリエンス",
+        "explanation": "システムや組織が、外部からの衝撃や変化に対して柔軟に対応し、迅速に回復する能力。"
+      },
+      {
+        "term": "事業継続計画 (BCP)",
+        "explanation": "企業が災害や緊急事態が発生しても、重要な事業を中断させずに継続し、または可能な限り早く復旧させるための計画。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6573516?source=rss": {
+    "title": "アバター通話型SNSが新登場：仮想空間で深まるコミュニケーションの未来",
+    "tags": "Metaverse",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "14時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6573516?source=rss",
+    "summary_bullets": [
+      "アバターを介して通話する新しいSNSが発表され、デジタル空間でのより没入感のあるコミュニケーション体験を提供する。",
+      "これにより、個人間の交流だけでなく、企業が顧客とのエンゲージメントやチームコラボレーションを再定義する新たな機会が生まれる可能性がある。",
+      "将来的には、Metaverseと連動したアバターベースのサービスが多方面に拡大し、現実と仮想空間の境界が曖昧になるトレンドが加速すると予測される。"
+    ],
+    "insight": "企業は、単なるテキストや音声だけでなく、アバターを通じた感情表現や共有体験が可能な次世代コミュニケーションプラットフォームへの適応を早急に検討し、顧客エンゲージメントや社内連携の新たな手法を模索すべきである。",
+    "action_plan": "自社のサービスや製品が、アバターや仮想空間といった没入型コミュニケーションとどのように連携可能か、ブレインストーミングを行ってみましょう。",
+    "image_keyword": "avatar communication, virtual social network, metaverse call",
+    "technical_terms": [
+      {
+        "term": "アバター",
+        "explanation": "インターネット上の仮想空間で、ユーザーの分身として操作されるキャラクターやアイコンのこと。"
+      },
+      {
+        "term": "SNS (Social Networking Service)",
+        "explanation": "インターネットを通じて人々の交流を可能にするオンラインサービス。友人とのつながりや情報共有を目的とする。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hQnJva0w0cnlxaGxrTXIzNnNLNi1lbmhFRkF4dmNxQ1Y3dW9fY1VIdlhEQ0hwVXpwNVNoekFDdUF6QWtDRHB0V1VXZ1RKZ3I5UVBiLVBxd1FPMUlERmc?oc=5": {
+    "title": "【速報】高市政権の『国家半導体戦略』が始動：サナエノミクスが拓く日本の未来と投資機会",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "期待高まる国家戦略",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hQnJva0w0cnlxaGxrTXIzNnNLNi1lbmhFRkF4dmNxQ1Y3dW9fY1VIdlhEQ0hwVXpwNVNoekFDdUF6QWtDRHB0V1VXZ1RKZ3I5UVBiLVBxd1FPMUlERmc?oc=5",
+    "summary_bullets": [
+      "高市政権下で「国家半導体戦略」、通称「サナエノミクス」が本格的に始動し、日本の産業構造変革の核心に位置付けられる。",
+      "半導体産業への国家主導の投資と支援が加速し、関連企業やサプライチェーン全体に新たなビジネスチャンスと成長の可能性が生まれる。",
+      "日本の経済安全保障の強化と国際的な競争力回復を目指し、半導体分野が次なる主要な成長ドライバーとして位置づけられるトレンドが予測される。"
+    ],
+    "insight": "国家主導の半導体戦略は、単なる産業政策に留まらず、日本の経済安全保障と未来の成長を左右する基盤であり、関連企業は早期にこの巨大な投資の流れを理解し、事業機会を戦略的に捉える必要があります。",
+    "action_plan": "自社の事業が半導体サプライチェーンのどの部分に位置するかを詳細に分析し、国家戦略への貢献可能性や連携機会を具体的に書き出してみましょう。また、政府・自治体による半導体関連の補助金や投資優遇策に関する最新情報を収集し、自社の事業計画への組み込みを検討しましょう。",
+    "image_keyword": "Japan semiconductor strategy",
+    "technical_terms": [
+      {
+        "term": "国家半導体戦略",
+        "explanation": "国が主導して半導体産業の育成、強化、国内生産能力の向上を目指す総合的な政策。"
+      },
+      {
+        "term": "サナエノミクス",
+        "explanation": "高市早苗氏が提唱する経済政策の通称で、経済成長と安全保障の確立を両立させることを目標とする。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rTGFWVzE3OGM2YlZyM3otQkx3cW1Ealg0dU85ZFF1WXBMa0FaYTNVelI0a1pHZ1NDeHBxd1JXOFNXdF9iNk05MTBmOXdxejR5STEycjNjVHE3RWpxQUdwTm9EM2tzX3dzMW9XMFpFUEhyZWJUbXdNU3R6SkdjXzA?oc=5": {
+    "title": "「億り人」DAIBOUCHOUがAIと対話！次世代を担う半導体有望株の発掘戦略",
+    "tags": "AI Investment",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rTGFWVzE3OGM2YlZyM3otQkx3cW1Ealg0dU85ZFF1WXBMa0FaYTNVelI0a1pHZ1NDeHBxd1JXOFNXdF9iNk05MTBmOXdxejR5STEycjNjVHE3RWpxQUdwTm9EM2tzX3dzMW9XMFpFUEhyZWJUbXdNU3R6SkdjXzA?oc=5",
+    "summary_bullets": [
+      "AIを活用し、著名投資家DAIBOUCHOU氏が半導体分野の有望株を発掘した事例が紹介されている。",
+      "AIが個人の投資戦略や市場分析において、高度な意思決定支援ツールとして機能する可能性を示唆する。",
+      "将来的には、AIによるデータ分析と対話型インターフェースが、個人投資家や企業の市場戦略策定に不可欠な要素となるトレンドが予測される。"
+    ],
+    "insight": "AIは単なる情報収集ツールを超え、専門家の知見と組み合わせることで、複雑な市場分析や未来予測において強力な意思決定支援となる時代が到来しており、その活用が競争優位性を生み出す鍵となります。",
+    "action_plan": "自社の投資戦略や市場調査プロセスにおいて、AI対話ツールの導入可能性や活用方法を検討し、新しい技術がもたらす機会を探ってみましょう。",
+    "image_keyword": "AI investment, semiconductor analysis, financial technology",
+    "technical_terms": [
+      {
+        "term": "億り人",
+        "explanation": "株式投資などで資産を1億円以上にした個人投資家を指す俗語。"
+      },
+      {
+        "term": "AI対話",
+        "explanation": "人間がAIと自然言語でやり取りを行い、情報収集や分析、意思決定の支援を受ける技術。"
+      },
+      {
+        "term": "半導体",
+        "explanation": "電気伝導度を制御できる物質で、コンピューターやスマートフォンなどあらゆる電子機器の基盤となる部品。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RaUVPdEZ0c1dUWEZJZU4xUkl4MldwSkhOVUN3LTBFeDF4THlQbC1QOWdvMXAzNk96OW9pa2o3NEYyOGhwRkg2a2ZlWXFKSmdtZk9Va0NTMA?oc=5": {
+    "title": "「億り人」DAIBOUCHOUがAI活用で発掘！半導体業界の未来を拓く有望株とは？",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RaUVPdEZ0c1dUWEZJZU4xUkl4MldwSkhOVUN3LTBFeDF4THlQbC1QOWdvMXAzNk96OW9pa2o3NEYyOGhwRkg2a2ZlWXFKSmdtZk9Va0NTMA?oc=5",
+    "summary_bullets": [
+      "著名投資家DAIBOUCHOU氏が、AI対話ツールを駆使して半導体関連の有望株を発掘した。",
+      "AIが個人の投資戦略や企業の市場分析において、強力な支援ツールとなる可能性を示唆している。",
+      "半導体市場の成長とAIによる高度な情報分析の普及が、新たな投資機会と市場変革をもたらす見込み。"
+    ],
+    "insight": "AIは単なる情報収集ツールを超え、専門知識を持つ個人の高度な分析・意思決定を支援する強力なパートナーとなり、あらゆるビジネス領域での活用が不可欠であることを示唆しています。",
+    "action_plan": "自社の投資戦略や事業開発プロセスにおいて、AI対話ツールの情報分析能力をどのように活用できるか具体的に検討し、パイロット導入計画を立案してみましょう。",
+    "image_keyword": "AI investment semiconductor, financial AI analysis, stock market intelligence",
+    "technical_terms": [
+      {
+        "term": "億り人",
+        "explanation": "株式投資などで億単位の資産を築いた個人投資家を指す俗語。"
+      },
+      {
+        "term": "AI対話",
+        "explanation": "人工知能が人間との自然言語での会話を通じて情報提供、分析、提案などを行う技術。"
+      },
+      {
+        "term": "半導体有望株",
+        "explanation": "半導体関連産業の中で、将来的な業績成長や株価上昇が期待される企業の株式。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/origin-f1.html": {
+    "title": "唇の動きが「不気味の谷」を打破！次世代人型ロボットが感情表現を革新",
+    "tags": "Robotics",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.gizmodo.jp/2026/03/origin-f1.html",
+    "summary_bullets": [
+      "人型ロボットが唇の微細な動きを再現することで、「不気味の谷」を克服し、より自然で人間らしい感情表現を実現する新技術を発表。",
+      "この技術は、ロボットの社会受容性を飛躍的に高め、サービス、医療、教育、エンターテイメントなど幅広い分野での応用を加速させる。",
+      "ヒューマン・ロボット・インタラクション（HRI）の新たな地平を拓き、感情豊かなロボットが人間社会に深く統合される時代の到来を予見させる。"
+    ],
+    "insight": "ロボットの感情表現の進化は、単なる技術的進歩に留まらず、顧客エンゲージメント、ブランドイメージ、そして倫理的受容性といったビジネスの根幹に影響を与える。人間との自然なコミュニケーションは、ロボットが提供する価値を最大化する鍵となる。",
+    "action_plan": "自社のサービスや製品開発において、人型ロボットの導入や協業の可能性を再評価し、感情表現技術の進化がもたらす新たな顧客体験シナリオをブレインストーミングしてみましょう。",
+    "image_keyword": "humanoid robot lips, overcoming uncanny valley, realistic robot face",
+    "technical_terms": [
+      {
+        "term": "不気味の谷 (Uncanny Valley)",
+        "explanation": "人間ではないものが人間に近づくにつれて親近感が増すものの、ある一線を越えると急に強い嫌悪感や不気味さを感じる現象。"
+      },
+      {
+        "term": "人型ロボット (Humanoid Robot)",
+        "explanation": "人間の形や動きを模倣して作られたロボットで、人間のような外観を持つものを指す。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/2603-amazon-xiaomi-pocopadm1-fcq.html": {
+    "title": "Xiaomi、4万円台の「怪物タブレット」で市場を席巻か – コスパ最強の新基準を確立",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "市場に活気をもたらす注目の製品",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.gizmodo.jp/2026/03/2603-amazon-xiaomi-pocopadm1-fcq.html",
+    "summary_bullets": [
+      "Xiaomiが超高性能タブレットを異例の4万円台という低価格で市場に投入し、コストパフォーマンスの限界に挑戦している。",
+      "この戦略はタブレット市場の価格競争をさらに激化させ、他社製品の価格設定や戦略の見直しを促す可能性がある。",
+      "今後は、性能と価格のバランスを極限まで追求する製品がミドルレンジ市場で優位性を確立し、消費者の購買行動に大きな影響を与えるトレンドが予測される。"
+    ],
+    "insight": "Xiaomiの積極的な価格破壊戦略は、既存市場の競争環境を一変させる可能性を秘めており、企業は自社製品の価値と価格設定、サプライチェーンの効率性を改めて見直す必要があるでしょう。",
+    "action_plan": "自社製品・サービスの価格戦略と市場競争力を再評価し、サプライチェーンの最適化や新たなコスト削減策を検討してみましょう。",
+    "image_keyword": "Xiaomi tablet, affordable tech, high performance",
+    "technical_terms": []
+  },
+  "https://www.gizmodo.jp/2026/03/niteize_s-biner-6k3.html": {
+    "title": "新常識！ダブルフックカラビナが切り開く、日常の利便性と安全性の新境地",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "9時間前",
+    "url": "https://www.gizmodo.jp/2026/03/niteize_s-biner-6k3.html",
+    "summary_bullets": [
+      "ダブルフックを備えた革新的なカラビナが登場し、従来の製品の使い勝手を大幅に向上させている。",
+      "シンプルで普遍的な日用品にも、ユーザー視点での機能追加やデザイン改善が新たな市場価値を生み出す可能性を示唆。",
+      "アウトドア用品やガジェットアクセサリー市場において、利便性と安全性を追求するイノベーションが加速するトレンドが予測される。"
+    ],
+    "insight": "普遍的な製品ジャンルにおいても、ユーザーの潜在的な不満やニーズを深く掘り下げることで、劇的な使い勝手の改善と新たな市場機会を創出できることを示唆しています。",
+    "action_plan": "自社の既存製品やサービスで「当たり前」とされている機能やデザインに対し、ユーザーインタビューや観察を通じて、改善点や代替案をブレインストーミングしてみましょう。",
+    "image_keyword": "double hook carabiner, utility clip, gear innovation",
+    "technical_terms": [
+      {
+        "term": "カラビナ",
+        "explanation": "登山やアウトドアで用いられる、物を吊るしたり連結したりするための金属製の環状金具。開閉式のゲートが特徴。"
+      },
+      {
+        "term": "ダブルフック",
+        "explanation": "一つの金具に二つのフックまたは開閉部が備わっている構造で、両側を独立して固定・取り外しできる利便性を持つ。"
       }
     ]
   }
