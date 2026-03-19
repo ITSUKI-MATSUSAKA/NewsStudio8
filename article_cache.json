@@ -3950,7 +3950,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 4,
-    "time_ago": "9時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6573549?source=rss",
     "summary_bullets": [
       "携帯大手5社が大規模災害などの非常時に、自社の通信網が損壊した場合でも他社の回線を借りて通信サービスを提供することで合意した。",
@@ -4160,6 +4160,222 @@
       {
         "term": "ダブルフック",
         "explanation": "一つの金具に二つのフックまたは開閉部が備わっている構造で、両側を独立して固定・取り外しできる利便性を持つ。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2603/19/news099.html": {
+    "title": "楽天AI、深層探索：中国DeepSeek技術採用の真偽と戦略的背景",
+    "tags": "LLM",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "17時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/19/news099.html",
+    "summary_bullets": [
+      "楽天の最新AIの基盤モデルが、中国のDeepSeek製である可能性について担当者が取材に応じている。",
+      "企業がAI開発においてどの国の技術を採用するかは、技術的性能だけでなく地政学的リスクや信頼性といった経営判断に直結する。",
+      "今後、基盤AIモデルの選択において、技術サプライヤーの国籍が企業戦略やサプライチェーンの重要な要素として注目されるだろう。"
+    ],
+    "insight": "AI技術の選定は単なる性能比較にとどまらず、開発元の国籍がもたらす地政学的リスクや信頼性、企業イメージへの影響まで考慮すべき重要な経営戦略であることを示唆しています。",
+    "action_plan": "自社のAI導入計画や現在利用しているAIシステムの基盤技術について、サプライヤーの国籍や技術スタックの透明性を再確認し、潜在的なリスクと機会を洗い出してみましょう。",
+    "image_keyword": "Rakuten AI, DeepSeek, China tech",
+    "technical_terms": [
+      {
+        "term": "AI",
+        "explanation": "人工知能の略。人間の知的な振る舞いを模倣しようとする技術全般。"
+      },
+      {
+        "term": "DeepSeek",
+        "explanation": "中国の企業が開発した大規模言語モデル（LLM）の一つ。オープンソースとしても提供されている。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2603/19/news091.html": {
+    "title": "Anthropicが公開：8万人のClaudeユーザー調査で浮上したAIへの『期待』と『懸念』",
+    "tags": "AI/LLM",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題（AIの期待と懸念に関する分析）",
+    "rating": 5,
+    "time_ago": "19時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/19/news091.html",
+    "summary_bullets": [
+      "Anthropicが約8万人のClaudeユーザーを対象とした大規模な定性調査を実施し、AIに対するユーザーの多様な期待と懸念を明らかにした。",
+      "この調査結果は、AI技術の普及に伴う倫理的課題、プライバシー保護、誤情報リスクなど、ビジネスにおけるAI導入の課題と機会を浮き彫りにする。",
+      "今後は、ユーザーのニーズと懸念を深く理解し、それに対応する形で倫理的かつ安全なAI開発と利用ガイドライン策定が加速するトレンドが予測される。"
+    ],
+    "insight": "AIの本格的な社会実装には、技術的進歩だけでなく、ユーザーが抱く『期待』と『懸念』の両面を深く理解し、それらに応える形で製品開発や利用環境を整備する戦略が不可欠である。",
+    "action_plan": "自社のAIサービスや製品開発、またはAIツール導入を検討している場合、ユーザー視点での倫理的課題やプライバシー保護、誤情報リスクへの対策を事前に洗い出し、具体的な利用ガイドラインやポリシーを策定してみましょう。",
+    "image_keyword": "AI user expectations, Claude AI research, AI ethics concerns",
+    "technical_terms": [
+      {
+        "term": "定性調査 (Qualitative Research)",
+        "explanation": "人の意見、動機、行動の背景にある理由や感情を深く理解するための調査手法。数値化しにくい情報を収集し、深い洞察を得ることを目的とします。"
+      },
+      {
+        "term": "LLM (Large Language Model)",
+        "explanation": "大量のテキストデータを学習し、人間のような自然な言語を理解・生成できる、高度な人工知能モデルです。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/enterprise/articles/2603/19/news053.html": {
+    "title": "「セクシー」な時代を経て：データサイエンティストはビジネスの「必須」コアスキルへ進化する",
+    "tags": "Data Science",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/19/news053.html",
+    "summary_bullets": [
+      "一時のブームが去った後も、データサイエンティストは現代ビジネスにおいて不可欠な「必須の役割」として定着している。",
+      "データドリブン経営が浸透する中で、企業は競争力を維持・向上させるためにデータサイエンティストの専門知識をより一層必要としている。",
+      "AIや機械学習の進化に伴い、データサイエンティストには高度な分析スキルだけでなく、ビジネス課題解決への深い洞察力と実践力が求められるようになる。"
+    ],
+    "insight": "データサイエンティストはもはや流行り廃りの職業ではなく、企業が持続的な成長を遂げる上で不可欠な戦略的パートナーであり、その価値は今後さらに高まることを経営層は深く認識すべきである。",
+    "action_plan": "自社のデータ活用戦略におけるデータサイエンティストの役割を再評価し、彼らが最大限のパフォーマンスを発揮できるような組織体制や育成プランを見直してみましょう。",
+    "image_keyword": "data scientist evolution, business analytics, data strategy",
+    "technical_terms": [
+      {
+        "term": "データサイエンティスト",
+        "explanation": "大量のデータを分析し、ビジネス上の課題解決や新たな価値創出に貢献する専門家。統計学、コンピュータサイエンス、ビジネス知識を統合する。"
+      },
+      {
+        "term": "データ分析",
+        "explanation": "収集したデータを統計的手法や機械学習などを利用して解析し、有用な情報や知見を引き出すプロセス。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6573618?source=rss": {
+    "title": "楽天市場で拡大する不正注文被害：ECプラットフォームが直面するサイバーセキュリティの課題",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "15時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6573618?source=rss",
+    "summary_bullets": [
+      "楽天市場において、他者による不正な注文が相次ぎ、多くのユーザーが金銭的被害に遭っている。",
+      "ECサイト運営企業は、顧客情報保護と不正取引防止のためのセキュリティ強化が喫緊の課題となっている。",
+      "オンライン取引の増加に伴い、不正アクセスの手口は巧妙化し、より高度なセキュリティ対策とユーザーへの啓発が不可欠となる。"
+    ],
+    "insight": "EC事業者は、サービス拡大と利便性の追求だけでなく、顧客の信頼を維持するためのサイバーセキュリティ対策を最優先事項と捉え、継続的な投資と改善が不可欠であることを再認識すべきです。",
+    "action_plan": "自社ECサイトの不正検知システムや顧客認証プロセスを見直し、多要素認証の導入や強化を検討しましょう。また、顧客に対してセキュリティ意識向上のための情報提供を定期的に行いましょう。",
+    "image_keyword": "Online fraud, cybersecurity threat, data breach",
+    "technical_terms": [
+      {
+        "term": "不正注文",
+        "explanation": "他人のクレジットカード情報や個人情報を不正に入手し、オンラインストアで商品やサービスを購入する行為。"
+      },
+      {
+        "term": "多要素認証",
+        "explanation": "パスワードだけでなく、生体認証やSMS認証など複数の異なる認証要素を組み合わせて本人確認を行うことで、セキュリティを強化する仕組み。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6573578?source=rss": {
+    "title": "採用面接に潜む生成AIの脅威：ディープフェイクによる『なりすまし』の実態と企業が取るべき対策",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "21時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6573578?source=rss",
+    "summary_bullets": [
+      "生成AI技術を悪用した採用面接での「なりすまし」行為が報告されており、オンライン選考の信頼性が揺らいでいる。",
+      "企業は、候補者の真偽を正確に見極めるための新たな本人確認方法やAI検出技術の導入が急務となる。",
+      "今後、採用プロセスにおけるテクノロジーとセキュリティの融合が進み、AIを利用した不正対策ソリューションの需要が高まるだろう。"
+    ],
+    "insight": "AIの進化はビジネスに多大な恩恵をもたらす一方で、悪用リスクも増大させます。特に人材獲得という企業の根幹に関わるプロセスでは、従来のセキュリティ対策だけでは不十分であり、最新のAI技術動向を常に把握し、適切な防御策を講じることが必須です。",
+    "action_plan": "オンライン面接を導入している企業は、現在の本人確認プロセスを再評価し、多要素認証やAIを活用した声紋・顔認識などの生体認証技術の導入を検討しましょう。",
+    "image_keyword": "AI impersonation, deepfake interview, cyber security threat",
+    "technical_terms": [
+      {
+        "term": "生成AI",
+        "explanation": "テキストや画像、音声などを自動で生成する人工知能技術。ディープラーニングを基盤とする。"
+      },
+      {
+        "term": "ディープフェイク",
+        "explanation": "深層学習を用いて、特定の人物の顔や声を別の人物の映像や音声に合成する技術。なりすましに悪用されることが多い。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42VjdXOEVyWUZKVDJLMFJBTFdzNlFqQnNCYzNtNGR0Wm96cUJBdkR3cS03ZDdnR2h2RnF5SjJkX3hDVVFkN1FKVG1JRTF5ejRKZXFSNHZrVXpTYWFFNWRJ?oc=5": {
+    "title": "ホルムズ海峡の緊迫化、韓国半導体産業を直撃：グローバルサプライチェーンの脆弱性露呈か",
+    "tags": "Semiconductor",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42VjdXOEVyWUZKVDJLMFJBTFdzNlFqQnNCYzNtNGR0Wm96cUJBdkR3cS03ZDdnR2h2RnF5SjJkX3hDVVFkN1FKVG1JRTF5ejRKZXFSNHZrVXpTYWFFNWRJ?oc=5",
+    "summary_bullets": [
+      "中東のホルムズ海峡の事実上封鎖により、韓国の半導体産業が原材料（特に原油由来のナフサなど）の調達と輸送に深刻な課題を抱えている。",
+      "これは世界の半導体サプライチェーンに大きな影響を及ぼし、最終製品の供給遅延や価格高騰、ひいてはグローバル経済全体のリスクを高める可能性がある。",
+      "今後、企業は地政学リスクを考慮したサプライチェーンの多角化、代替輸送ルートの確保、そして戦略的な在庫管理の重要性が一層高まるだろう。"
+    ],
+    "insight": "現代のグローバルビジネスにおいて、地政学リスクはサプライチェーンの核心に直接影響を与え得る不可避な要素であり、特に半導体のような戦略的産業においては、物理的な流通経路のリスク評価と多元化戦略が企業のレジリエンスを決定します。",
+    "action_plan": "自社のサプライチェーンにおける重要部品や原材料の供給経路を再評価し、ホルムズ海峡のようなチョークポイントを抱えるリスク源を特定、代替ルートやサプライヤー確保の可能性について具体的な調査を開始しましょう。",
+    "image_keyword": "Hormuz Strait semiconductor, supply chain disruption, geopolitical risk",
+    "technical_terms": [
+      {
+        "term": "ホルムズ海峡",
+        "explanation": "ペルシャ湾とオマーン湾を結ぶ戦略的な海峡で、世界の石油・天然ガス輸送の主要ルート。地政学的な緊張が高まりやすい。"
+      },
+      {
+        "term": "半導体産業",
+        "explanation": "集積回路などの半導体デバイスの設計、製造、販売を行う産業。現代のあらゆる電子機器の中核をなす基幹産業。"
+      },
+      {
+        "term": "サプライチェーン",
+        "explanation": "製品やサービスが顧客に届くまでの、原材料の調達から製造、流通、販売までの一連のプロセス全体。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QSnRqMHhyRi1aS0xIZnI4NlhUYTNCOUtKZWxiYzN3RGRXX0RkZ01lVUlUQ3A4d1MxaGpGWXN6cFFEQmtPMmRxUy1ETjlpQjFINndQdUJ3?oc=5": {
+    "title": "北九州空港、輸出入額が3年連続で過去最高を更新！2025年には半導体関連需要が成長を牽引へ",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QSnRqMHhyRi1aS0xIZnI4NlhUYTNCOUtKZWxiYzN3RGRXX0RkZ01lVUlUQ3A4d1MxaGpGWXN6cFFEQmtPMmRxUy1ETjlpQjFINndQdUJ3?oc=5",
+    "summary_bullets": [
+      "北九州空港の輸出入額が3年連続で過去最高を記録し、地域経済の活性化に貢献している。",
+      "2025年には半導体関連貨物の増加がさらに輸出入額を押し上げ、国際的なサプライチェーンにおける日本の地方空港の重要性が高まる。",
+      "半導体需要の拡大トレンドが続き、物流インフラへの投資や関連産業での雇用創出が今後も期待される。"
+    ],
+    "insight": "半導体産業の活況が地方経済の成長ドライバーとなっていることを再認識すべきです。特に、地方空港が国際物流ハブとして存在感を増すことで、地域全体のビジネス機会が拡大し、サプライチェーン強靭化の新たな可能性が生まれている点に注目し、自社の物流戦略や地域連携の機会を見直しましょう。",
+    "action_plan": "半導体関連の市場動向や、地方空港を通じた新たな物流ルートの構築可能性について情報収集を開始し、自社のサプライチェーン最適化や新規事業展開への影響を検討してみましょう。",
+    "image_keyword": "Semiconductor logistics, cargo plane, economic growth",
+    "technical_terms": [
+      {
+        "term": "Semiconductor",
+        "explanation": "電子機器の頭脳として機能する、電気的特性を持つ材料で作られた集積回路のこと。現代のあらゆるデジタル機器に不可欠な部品。"
+      },
+      {
+        "term": "輸出入額",
+        "explanation": "特定の期間における国や地域の輸出（他国への販売）と輸入（他国からの購入）の合計金額。経済活動の活発さを示す重要な指標の一つ。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YM1VGdHo3dTRsbHd5NU5tN2NobmVsSjhFVHVEckplQmlUMWt6eGpQd0tvS1o0Z2tLd3ZVVW5HcGRGdl9NbHZORVp1VXY2dHZrbVdHbG5hN0xUQ25IbWR4UA?oc=5": {
+    "title": "日台半導体連携が加速：東北大と陽明交通大が最先端研究で協力強化へ",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "3時間前",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YM1VGdHo3dTRsbHd5NU5tN2NobmVsSjhFVHVEckplQmlUMWt6eGpQd0tvS1o0Z2tLd3ZVVW5HcGRGdl9NbHZORVp1VXY2dHZrbVdHbG5hN0xUQ25IbWR4UA?oc=5",
+    "summary_bullets": [
+      "東北大学と台湾の陽明交通大学が、最先端の半導体研究分野での連携強化を発表した。",
+      "今回の連携は、日本と台湾間の技術協力深化を促進し、国際的な半導体サプライチェーンの安定化と競争力向上に貢献する。",
+      "地政学的リスクが高まる現代において、主要国・地域間での半導体技術提携や共同研究が今後一層活発化するトレンドを示唆している。"
+    ],
+    "insight": "半導体産業における国際連携は、技術革新を加速させ、グローバルなサプライチェーンの強靭化に不可欠です。自社の技術戦略やパートナーシップを見直す上で、この潮流は重要な示唆となります。",
+    "action_plan": "自社の事業における半導体の重要性を再評価し、国内外の大学や研究機関との連携可能性を検討してみましょう。特に、台湾との技術交流の機会を積極的に探ることをお勧めします。",
+    "image_keyword": "semiconductor research collaboration, Japan Taiwan tech, university partnership",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "コンピューターやスマートフォン、自動車などあらゆる電子機器の頭脳となる電子部品。電気を通す導体と通さない絶縁体の中間の性質を持ち、情報の処理や記憶を担います。"
       }
     ]
   }
