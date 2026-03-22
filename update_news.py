@@ -30,7 +30,6 @@ CATEGORIES = [
     {"id": "tab-ai", "name": "AI", "rss": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"},
     {"id": "tab-robotics", "name": "ロボット", "rss": "https://news.yahoo.co.jp/rss/topics/it.xml"},
     {"id": "tab-semiconductor", "name": "半導体", "rss": "https://news.google.com/rss/search?q=%E5%8D%8A%E5%B0%8E%E4%BD%93&hl=ja&gl=JP&ceid=JP:ja"},
-    {"id": "tab-gadget", "name": "ガジェット", "rss": "https://www.gizmodo.jp/index.xml"},
     {"id": "tab-security", "name": "セキュリティ", "rss": "https://rss.itmedia.co.jp/rss/2.0/news_security.xml"}
 ]
 
@@ -136,9 +135,8 @@ def analyze_news_with_gemini(entry, time_ago):
         print("【エラー】環境変数 GEMINI_API_KEY が設定されていません。")
         return None
     genai.configure(api_key=API_KEY)
-    
     # 最新の高速モデルを使用
-    model = genai.GenerativeModel('gemini-2.5-flash')
+    model = genai.GenerativeModel('gemini-1.5-flash')
     
     prompt = f"""
 あなたは先進的なAI・テクノロジーニュースメディアの凄腕エディターです。
@@ -461,7 +459,7 @@ def main():
                         # 成功した場合はキャッシュに保存
                         cache[article_url] = article_data
                         
-                    time.sleep(15) # レートリミット対策 (Geminiの制限(15回/分)を完全に避けるため15秒待機)
+                    time.sleep(20) # レートリミット対策 (Geminiの制限を完全に避けるため20秒待機)
                 
                 if isinstance(article_data, dict):
                     thumb_url = extract_thumbnail_url(entry, article_data)
