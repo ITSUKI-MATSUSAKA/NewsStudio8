@@ -438,17 +438,17 @@ def main():
                 else:
                     article_data = analyze_news_with_gemini(entry, time_ago)
                     
-                    if article_data == "RATE_LIMIT":
-                        print("⚠️ API制限に達しました。フォールバック用の記事データを生成して続行します。")
+                    if article_data == "RATE_LIMIT" or not article_data:
+                        print("⚠️ APIエラーまたは制限に達しました。フォールバック用の記事データを生成して続行します。")
                         article_data = {
                             'title': entry.title,
-                            'tags': 'News',
+                            'tags': cat['name'],
                             'sentiment': 'neutral',
                             'sentiment_text': '最新ニュース',
                             'rating': 3,
                             'time_ago': time_ago,
                             'url': article_url,
-                            'summary_bullets': ['詳細なAI要約は現在API制限により取得できません。', 'リンク先より元記事をご覧ください。'],
+                            'summary_bullets': ['詳細なAI要約は現在API制限・またはエラーにより取得できません。', 'リンク先より元記事をご覧ください。'],
                             'insight': 'AIでの自動分析は現在一時的に停止中です。',
                             'action_plan': 'ニュースの最新情報をチェックする',
                             'image_keyword': 'technology news digital'
