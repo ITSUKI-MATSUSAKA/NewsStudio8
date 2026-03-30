@@ -451,7 +451,7 @@ def main():
                             'summary_bullets': ['詳細なAI要約は現在API制限・またはエラーにより取得できません。', 'リンク先より元記事をご覧ください。'],
                             'insight': 'AIでの自動分析は現在一時的に停止中です。',
                             'action_plan': 'ニュースの最新情報をチェックする',
-                            'image_keyword': 'technology news digital'
+                            'image_keyword': f"{cat['name']} {entry.title}"
                         }
                     elif isinstance(article_data, dict):
                         # URLをクリーンなものに上書き
