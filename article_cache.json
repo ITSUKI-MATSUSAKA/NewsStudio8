@@ -52,5 +52,63 @@
         "explanation": "台湾積体電路製造の略称で、世界の半導体産業を支える最大手の半導体受託製造（ファウンドリ）企業。多くのIT企業のチップを生産している。"
       }
     ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/01/news038.html": {
+    "title": "安全神話崩壊か？Anthropic「Mythos」機密流出から学ぶAI時代の情報セキュリティ教訓",
+    "tags": "AI Security",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/01/news038.html",
+    "summary_bullets": [
+      "AI開発大手Anthropicで、次世代最強AI「Mythos」の機密情報が流出する重大なセキュリティインシデントが発生。",
+      "「安全」を重視する企業の痛恨のミスは、AI利用企業や社会全体のAIに対する信頼性と倫理的懸念を増幅させる。",
+      "高度なAIモデルの普及に伴い、AI開発企業および利用企業のガバナンスと情報セキュリティ対策の強化が喫緊の課題となる。"
+    ],
+    "insight": "最先端のAI開発企業ですらセキュリティリスクに直面するという事実は、自社のAI導入・利用における情報ガバナンスとセキュリティ戦略の再構築が不可欠であることを示唆しています。",
+    "action_plan": "自社でAIを利用する際のデータ利用ポリシーとセキュリティプロトコルを今すぐ見直し、従業員へのセキュリティ教育を強化しましょう。",
+    "image_keyword": "AI data breach, security leak, Anthropic Mythos",
+    "technical_terms": [
+      {
+        "term": "Anthropic",
+        "explanation": "倫理的で安全なAIの開発を掲げる主要なAI研究・開発企業。"
+      },
+      {
+        "term": "Mythos",
+        "explanation": "Anthropicが開発中と報じられている、極めて高性能な次世代AIモデルの名称。"
+      },
+      {
+        "term": "機密流出",
+        "explanation": "企業や組織が保有する秘密情報や個人情報が、不正なアクセスやミスによって外部に漏洩すること。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/01/news011.html": {
+    "title": "衝撃！町工場で「6時間」アプリ開発の奇跡：500万円の生成AI教育がもたらしたDX革命",
+    "tags": "Generative AI",
+    "sentiment": "positive",
+    "sentiment_text": "DX推進の成功事例",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/01/news011.html",
+    "summary_bullets": [
+      "静岡の町工場が500万円を投じた生成AI教育により、非IT人材である溶接工がわずか6時間で業務アプリ開発に成功。",
+      "この事例は、中小企業における生成AI導入の費用対効果と、従業員のリスキリングによる劇的な生産性向上とDX推進の可能性を提示。",
+      "生成AIを活用したローコード・ノーコード開発は、業種を問わずDXを加速させ、人材育成と業務効率化の新たな標準となるトレンドを示す。"
+    ],
+    "insight": "生成AIへの戦略的な投資と従業員教育は、業種や専門知識の有無を問わず、驚異的なスピードでビジネス変革と生産性向上を実現する起爆剤となり、あらゆる企業にとって喫緊の課題であることを示唆しています。",
+    "action_plan": "自社の業務プロセスにおける非効率な点を洗い出し、生成AIで解決可能なタスクや自動化のアイデアを具体的なプロンプトとして書き出してみましょう。",
+    "image_keyword": "factory AI development",
+    "technical_terms": [
+      {
+        "term": "生成AI",
+        "explanation": "プロンプト（指示文）に基づいて、テキストや画像、コードなどを自動で生成する人工知能技術。"
+      },
+      {
+        "term": "DX (デジタルトランスフォーメーション)",
+        "explanation": "最新のデジタル技術を活用して、製品やサービス、ビジネスモデル、業務プロセスを変革し、競争優位性を確立すること。"
+      }
+    ]
   }
 }
