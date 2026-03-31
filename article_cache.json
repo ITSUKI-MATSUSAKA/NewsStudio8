@@ -1,0 +1,56 @@
+{
+  "https://www.itmedia.co.jp/aiplus/articles/2603/31/news149.html": {
+    "title": "東京都、データセンター建設の新ガイドライン策定：地域共生とデジタルインフラ強化の両立へ",
+    "tags": "Infrastructure",
+    "sentiment": "positive",
+    "sentiment_text": "前向きな取り組み",
+    "rating": 5,
+    "time_ago": "10時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/31/news149.html",
+    "summary_bullets": [
+      "東京都がデータセンター建設における新たなガイドラインを策定し、事業者と住民間の円滑な対話を促す。",
+      "AI需要増大に伴うデータセンター建設の加速に対し、地域との摩擦を軽減し、安定的なデジタルインフラ整備を後押しする。",
+      "他自治体も同様の地域共生型ガイドライン策定を検討し、データセンターと社会の共存モデルが全国的に普及する可能性が示唆される。"
+    ],
+    "insight": "データセンター需要の急増は避けられないが、地域との協調なしには事業継続が困難になる。このガイドラインは、事業者が地域社会と共生するための戦略を早期に構築する重要性を示唆している。",
+    "action_plan": "データセンター関連事業者は、自社の地域貢献戦略や住民対話プロセスを見直し、東京都のガイドラインを参考に先進的な取り組みを検討してみましょう。",
+    "image_keyword": "data center construction, urban infrastructure, community dialogue",
+    "technical_terms": [
+      {
+        "term": "データセンター",
+        "explanation": "インターネットサービスやクラウドコンピューティングなどを支える、大量のサーバーやネットワーク機器を集約した施設。"
+      },
+      {
+        "term": "ガイドライン",
+        "explanation": "特定の活動や行動の指針や基準を示すもの。遵守が推奨されるルールや手順をまとめたもの。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yTUoyMVlOeUw5bzBnTllYTEhtTDhucU1XZFBSTzJNTmdGTFZ3RWZhOU9pZkpJUmJObklfX0tCTkc4a0ppWUVpWWF1OGtuZXVTbHljUnM1YTRzTXB5bXdJQTNHdHZHZ2s?oc=5": {
+    "title": "TSMC、最先端3ナノ半導体生産を熊本で加速へ – 2028年量産体制で日本の技術基盤を強化",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "9時間前",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yTUoyMVlOeUw5bzBnTllYTEhtTDhucU1XZFBSTzJNTmdGTFZ3RWZhOU9pZkpJUmJObklfX0tCTkc4a0ppWUVpWWF1OGtuZXVTbHljUnM1YTRzTXB5bXdJQTNHdHZHZ2s?oc=5",
+    "summary_bullets": [
+      "TSMCは台湾当局から最先端3ナノ半導体の日本（熊本）での生産を許可され、2028年の量産開始を目指す。",
+      "これにより、日本の半導体産業の競争力強化と経済活性化、および地政学リスクを考慮したサプライチェーンのレジリエンス向上が期待される。",
+      "最先端半導体技術の国内開発・生産体制構築が加速し、世界的な半導体サプライチェーン再編における日本の戦略的地位が向上するだろう。"
+    ],
+    "insight": "最先端半導体技術の日本への誘致は、国の経済安全保障と産業競争力強化に直結します。これは、国内産業全体のDX推進や新たな技術開発を加速させる大きなチャンスとなります。",
+    "action_plan": "自社のサプライチェーンにおける半導体依存度と潜在的なリスクを評価し、この日本国内での生産能力強化がもたらすビジネスチャンスや、サプライヤー戦略の再検討に着手してみましょう。",
+    "image_keyword": "TSMC factory, 3nm semiconductor, Kumamoto Japan",
+    "technical_terms": [
+      {
+        "term": "3ナノ半導体",
+        "explanation": "半導体の回路線幅が3ナノメートル（10億分の3メートル）という、現在の最先端技術レベルを示す。数値が小さいほど高性能・省電力になる。"
+      },
+      {
+        "term": "TSMC",
+        "explanation": "台湾積体電路製造の略称で、世界の半導体産業を支える最大手の半導体受託製造（ファウンドリ）企業。多くのIT企業のチップを生産している。"
+      }
+    ]
+  }
+}
