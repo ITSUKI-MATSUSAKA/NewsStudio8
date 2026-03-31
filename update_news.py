@@ -7,15 +7,15 @@ import urllib.parse
 import urllib.request
 import random
 from datetime import datetime, timezone, timedelta
+from google import genai
 
 try:
     import feedparser
     import requests
-    import google.generativeai as genai
 except ImportError:
     print("【エラー】必要なライブラリが不足しています。")
     print("ターミナルで以下のコマンドを実行してインストールしてください：")
-    print("pip install feedparser requests google-generativeai")
+    print("pip install feedparser requests google-genai")
     exit(1)
 
 # ==========================================
@@ -134,9 +134,9 @@ def analyze_news_with_gemini(entry, time_ago):
     if not API_KEY:
         print("【エラー】環境変数 GEMINI_API_KEY が設定されていません。")
         return None
-    genai.configure(api_key=API_KEY)
-    # 最新の高速モデルを使用
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    
+    # 新しいSDKでのクライアント初期化
+    client = genai.Client(api_key=API_KEY)
     
     prompt = f"""
 あなたは先進的なAI・テクノロジーニュースメディアの凄腕エディターです。
@@ -175,7 +175,10 @@ def analyze_news_with_gemini(entry, time_ago):
 }}
 """
     try:
-        response = model.generate_content(prompt)
+        response = client.models.generate_content(
+            model='gemini-2.5-flash',
+            contents=prompt,
+        )
         
         # セーフティブロックなどのチェック
         if not response.candidates or not response.candidates[0].content.parts:

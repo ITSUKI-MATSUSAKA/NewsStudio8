@@ -4984,5 +4984,340 @@
         "explanation": "組織内で情報を管理・処理し、業務を効率化するためのソフトウェアやハードウェア、ネットワークなどの集合体です。"
       }
     ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2603/31/news118.html": {
+    "title": "IPA、情報処理技術者試験を大刷新！『データマネジメント試験』新設で問われるIT人材の未来",
+    "tags": "IT Education",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "11時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/31/news118.html",
+    "summary_bullets": [
+      "情報処理推進機構（IPA）が情報処理技術者試験の新制度導入を検討しており、「データマネジメント試験」などの新設が予定されている。",
+      "今回の改定は、DX時代に不可欠なデータ活用スキルやITリテラシーの重要性増大に対応し、企業の人材育成戦略に大きな影響を与える。",
+      "今後は、より実務に直結する専門スキルと、幅広い層が持つべきIT基礎知識が、IT人材評価の新たな基準となるだろう。"
+    ],
+    "insight": "デジタル時代に対応するため、企業は従業員のデータマネジメント能力やITパスポートレベルの基礎知識向上を急務と捉え、新たな資格制度への対応を検討すべきである。",
+    "action_plan": "自社のDX推進戦略と照らし合わせ、従業員の必要スキルと現在のスキルギャップを見直し、新試験制度に対応した研修・教育プログラムの導入を検討してみましょう。",
+    "image_keyword": "IT certification, data management, skill upgrade",
+    "technical_terms": [
+      {
+        "term": "IPA (情報処理推進機構)",
+        "explanation": "情報セキュリティ対策やIT人材育成など、情報化社会の推進を担う経済産業省所管の独立行政法人。情報処理技術者試験の運営も行う。"
+      },
+      {
+        "term": "情報処理技術者試験",
+        "explanation": "ITに関する幅広い知識・技能を評価する国家試験。ITパスポートから高度な専門職向けまで様々な区分がある。"
+      },
+      {
+        "term": "データマネジメント",
+        "explanation": "組織のデータを価値ある資産として効果的に活用できるよう、計画的に収集、保存、統合、管理、保護する一連の活動。"
+      },
+      {
+        "term": "ITパスポート",
+        "explanation": "ITを活用するすべての社会人を対象とした国家試験。情報セキュリティ、ネットワーク、データ活用などの基礎知識を問う。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2603/31/news108.html": {
+    "title": "コロプラが実践！社員のAI活用率90%超を実現した『心理的抵抗』克服戦略",
+    "tags": "AI Adoption",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "13時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/31/news108.html",
+    "summary_bullets": [
+      "ゲーム開発大手コロプラが、社員のAI活用率90%超を達成した具体的な取り組みを公開。",
+      "多くの企業が直面するAI導入時の『心理的抵抗』を、組織文化や教育で克服するヒントを提供。",
+      "従業員のAIリテラシー向上と心理的障壁の解消が、今後の企業競争力を左右する鍵となる。"
+    ],
+    "insight": "AIツールの導入だけでは不十分で、従業員の心理的障壁を取り除き、積極的に活用できる組織文化と教育体制を構築することが、AI活用成功の絶対条件であると認識すべきです。",
+    "action_plan": "自社内でのAI導入における心理的なハードルや懸念点を洗い出し、具体的な対策案や教育プログラムの策定に着手しましょう。",
+    "image_keyword": "Employee AI Adoption",
+    "technical_terms": []
+  },
+  "https://www.itmedia.co.jp/enterprise/articles/2603/19/news005.html": {
+    "title": "【事例研究】大阪ガス、AIを『優秀な部下』に変革するデータ基盤改革の秘訣",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "14時間前",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/19/news005.html",
+    "summary_bullets": [
+      "大阪ガスがAIを「優秀な部下」と位置づけ、高負荷なデータ基盤を改善し、AI活用を推進した事例。",
+      "データ基盤の最適化が、AI導入の成功と現場業務の効率化・高度化に不可欠であることを示す。",
+      "企業のDX推進において、AI活用は技術だけでなく、使いやすいデータ環境と組織文化の醸成が重要となるトレンドを予測。"
+    ],
+    "insight": "AIを単なるツールではなく真に「優秀な部下」として機能させるには、その前提となるデータ基盤の整備と、現場がスムーズにデータを利用できる環境構築が不可欠であり、これがDX成功の鍵を握ることを示唆しています。",
+    "action_plan": "自社のAI導入計画やDX戦略を見直し、現在のデータ基盤がAI活用に最適化されているか、また現場がデータを効果的に活用できる体制が整っているかを確認しましょう。",
+    "image_keyword": "AI data management, digital transformation, smart utility",
+    "technical_terms": [
+      {
+        "term": "AI (人工知能)",
+        "explanation": "人間の知能を模倣し、学習、推論、問題解決などのタスクを実行できる技術。"
+      },
+      {
+        "term": "データ基盤",
+        "explanation": "企業内の膨大なデータを収集、保存、処理、分析し、活用するためのシステム全体の基盤。"
+      },
+      {
+        "term": "DX (デジタルトランスフォーメーション)",
+        "explanation": "デジタル技術を活用して、製品、サービス、ビジネスモデル、組織文化を変革し、競争上の優位性を確立すること。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6574771?source=rss": {
+    "title": "デジタル時代の倫理と組織リスク：看護師のSNS不適切投稿が問うソーシャルメディアガバナンス",
+    "tags": "Social Media Risk",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "9時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6574771?source=rss",
+    "summary_bullets": [
+      "医療従事者によるX（旧Twitter）への不適切投稿が発覚し、所属する病院が公式に謝罪する事態に発展しました。",
+      "従業員の個人的なSNS利用が組織全体のレピュテーションリスクとなり、社会からの信頼失墜に直結する危険性を浮き彫りにしています。",
+      "今後、企業や組織は、従業員へのデジタルリテラシー教育とソーシャルメディアポリシーの厳格な運用がさらに不可欠となるでしょう。"
+    ],
+    "insight": "今日のデジタル社会では、一個人のオンライン上の行動が瞬時に組織全体の信頼とブランドイメージに壊滅的な影響を与え得るため、全従業員に対する包括的なソーシャルメディア教育と強固な危機管理体制の構築が必須です。",
+    "action_plan": "自社のソーシャルメディアポリシーを緊急で再評価し、従業員向けの定期的なデジタル倫理・ソーシャルメディア利用研修プログラムを導入・強化しましょう。",
+    "image_keyword": "Social media ethics, corporate reputation crisis, digital responsibility",
+    "technical_terms": [
+      {
+        "term": "X (旧Twitter)",
+        "explanation": "世界的に利用されている短文投稿型ソーシャルネットワーキングサービス。個人の発信が即座に広範囲に拡散される特性を持つ。"
+      },
+      {
+        "term": "ソーシャルメディアガバナンス",
+        "explanation": "企業や組織が、ソーシャルメディアの適切な利用とリスク管理のために定める方針、規則、プロセス。ブランド保護や情報漏洩防止を目的とする。"
+      },
+      {
+        "term": "レピュテーションリスク",
+        "explanation": "企業や個人の評判や信用が低下することによって生じる、事業機会の損失や経済的損失、人材獲得への悪影響などのリスク。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6574710?source=rss": {
+    "title": "AI生成コンテンツが問う著作権の未来：無許諾キャラクター動画の氾濫と対策",
+    "tags": "AI Ethics",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "20時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6574710?source=rss",
+    "summary_bullets": [
+      "AI技術により既存キャラクターに酷似した無許諾動画が大量に生成・流通し、著作権侵害の新たな問題が表面化している。",
+      "コンテンツクリエイターの権利保護が困難になるだけでなく、AI開発企業やプラットフォーム運営者にも法的責任や倫理的課題が突きつけられている。",
+      "AIによる著作権侵害に対処するため、法整備の加速、技術的な対策、および業界ガイドラインの策定が喫緊の課題となるだろう。"
+    ],
+    "insight": "AI技術の進化は、コンテンツ生成の可能性を広げる一方で、既存の著作権法やクリエイターの収益モデルを根本から揺るがすことを示しており、あらゆる業界で知的財産戦略とリスク管理の見直しが不可欠です。",
+    "action_plan": "自社でAIを活用したコンテンツ生成や知的財産を取り扱う部門は、既存の知的財産権を侵害しないための社内ガイドライン策定やリスク評価プロセスを今すぐ見直してみましょう。",
+    "image_keyword": "AI copyright infringement, character likeness, generative AI ethics",
+    "technical_terms": [
+      {
+        "term": "生成AI (Generative AI)",
+        "explanation": "テキスト、画像、音声など、人間が作ったかのような新しいコンテンツを自律的に生成できる人工知能。"
+      },
+      {
+        "term": "著作権侵害 (Copyright Infringement)",
+        "explanation": "著作権者の許諾なしに、著作物を複製、配布、公開などする行為。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6574711?source=rss": {
+    "title": "たばこ自販機「taspo」3月末で運用終了 - デジタル認証とキャッシュレス化の加速を読み解く",
+    "tags": "Payments",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "20時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6574711?source=rss",
+    "summary_bullets": [
+      "たばこ自動販売機の成人識別カード「taspo（タスポ）」が2024年3月末で運用を終了する。",
+      "タスポの役割終了は、運転免許証など他の身分証明書による認証やキャッシュレス決済の普及が背景にある。",
+      "物理的な認証カードからデジタル認証や既存の公的身分証を活用する流れが加速し、社会のキャッシュレス化・デジタルシフトが一層進展する可能性。"
+    ],
+    "insight": "タスポ終了は、単なる一枚のカード廃止に留まらず、社会全体のデジタル化、特に認証と決済の領域で物理的な媒体からデジタルへの移行が進んでいる明確な兆候です。企業はこのトレンドを捉え、顧客認証プロセスや決済システムの将来像を再考し、より効率的でセキュアなデジタルソリューションへの移行を検討すべきです。",
+    "action_plan": "自社のサービスや製品における顧客認証・決済プロセスが、今後も時代の変化に対応できるか見直してみましょう。物理的なカードやアナログな手続きに依存していないか、デジタル認証やキャッシュレス決済への移行ロードマップを策定・更新することを検討しましょう。",
+    "image_keyword": "digital identification, cashless payment, age verification",
+    "technical_terms": [
+      {
+        "term": "タスポ (taspo)",
+        "explanation": "たばこ自動販売機で成人であることを識別するためのICカードシステム。2008年に導入された。"
+      },
+      {
+        "term": "キャッシュレス決済",
+        "explanation": "現金を使用せず、クレジットカード、電子マネー、QRコード決済などで支払いを行う方式。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00SkdaWDJFa1lkOUZRWFlIdkgzU2g1S041OVlBa2xvd0toSi1OSHlKNE5OSkJIanhrTXpZYVNDMVhpMm9sUk5hSg?oc=5": {
+    "title": "東北物流、半導体サプライチェーンに革新：環境配慮型『紙素材クリーニング材』採用で持続可能性を追求",
+    "tags": "Materials Technology",
+    "sentiment": "positive",
+    "sentiment_text": "環境に配慮した革新的な進展",
+    "rating": 4,
+    "time_ago": "9時間前",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00SkdaWDJFa1lkOUZRWFlIdkgzU2g1S041OVlBa2xvd0toSi1OSHlKNE5OSkJIanhrTXpZYVNDMVhpMm9sUk5hSg?oc=5",
+    "summary_bullets": [
+      "東北物流が半導体製造工程において、従来のプラスチック製に代わる「紙素材」のクリーニング材を導入。",
+      "半導体サプライチェーンにおける環境負荷低減と脱プラスチック化に貢献し、企業のESG経営を加速させる。",
+      "今後、産業界全体で環境配慮型素材への転換が加速し、サステナブルなサプライチェーン構築が新たな標準となることが予測される。"
+    ],
+    "insight": "半導体のようなハイテク産業においても、サプライチェーン全体のサステナビリティが企業価値と競争優位性を決定づける時代へと移行しています。環境技術と効率性を両立させる素材選定と導入が、これからのビジネスの成功に不可欠な要素となります。",
+    "action_plan": "自社のサプライチェーンで使用している素材や消耗品を洗い出し、環境負荷の低い代替品（紙素材、リサイクル素材など）がないか、既存サプライヤーや新規ベンダーと協議・検討を開始しましょう。",
+    "image_keyword": "sustainable semiconductor manufacturing, paper material supply chain, eco-friendly logistics",
+    "technical_terms": [
+      {
+        "term": "半導体クリーニング材",
+        "explanation": "半導体の製造工程において、微細な塵や汚染物質を半導体チップの表面から除去するために使用される特殊な材料です。"
+      },
+      {
+        "term": "紙素材",
+        "explanation": "木材パルプなどを主原料とし、再生可能で環境負荷が低い特徴を持つ素材です。プラスチック代替として様々な産業で注目されています。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EVlFpWHZIWHhkU2w3N19zRW5iZGV6RFpEWW1HYzRSOV80VEU3UkZwak1tenFFTElJaTE1WjdWYWtLelEtbUhHdzdvbEM4VlhLMUZfc0hieUY1Vmx6ZldtS09CVWhGalNGcUxDS084NHVGMlRwSVlhQ3RvMkZtVm8?oc=5": {
+    "title": "デンソー社長、ローム買収提案巡り「多様な提携に制限なし」と表明",
+    "tags": "Hardware",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "9時間前",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EVlFpWHZIWHhkU2w3N19zRW5iZGV6RFpEWW1HYzRSOV80VEU3UkZwak1tenFFTElJaTE1WjdWYWtLelEtbUhHdzdvbEM4VlhLMUZfc0hieUY1Vmx6ZldtS09CVWhGalNGcUxDS084NHVGMlRwSVlhQ3RvMkZtVm8?oc=5",
+    "summary_bullets": [
+      "デンソー社長が、ロームへの買収提案を巡り、企業間の様々な連携や枠組みを排除すべきでないとの見解を表明。",
+      "自動車産業と半導体業界の連携深化を示唆し、今後の業界再編やサプライチェーン戦略に影響を与える可能性。",
+      "特定の枠組みにとらわれず、柔軟な資本提携や業務提携が進むという、今後のM&A戦略のトレンドを反映。"
+    ],
+    "insight": "現代の企業戦略においては、従来のM&Aに限らず、資本・業務提携など多様な連携モデルを柔軟に検討することが、競争力維持と成長の鍵となる。",
+    "action_plan": "自社の事業戦略における潜在的な提携先や協業の可能性を再評価し、従来の枠にとらわれない新しいパートナーシップモデルを検討してみましょう。",
+    "image_keyword": "corporate merger, automotive semiconductor, business partnership",
+    "technical_terms": [
+      {
+        "term": "M&A",
+        "explanation": "企業が他社を合併・買収すること。市場での競争力強化や事業拡大を目指す戦略の一つ。"
+      },
+      {
+        "term": "Semiconductor",
+        "explanation": "電気を通す導体と通さない絶縁体の中間の性質を持つ物質。IT機器や自動車の電子部品に不可欠な素材。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iZHR2Uk5YZ0UtdlFzMloxckdhWDQzMkVBMktBZkliOGQwYkxQSC1LbEYxMFdCcnhMQklYNTdFNDhaQV81MXhONzh3aWpSLVN5M1RCcWJSWDQyaHpRa201R3JFT2FocEFNclZMc2N3X0p6SjY5Q1FmMmtGaER1b1E?oc=5": {
+    "title": "半導体サプライチェーンに激震：大手投資家パリサー、味の素に絶縁材料の値上げを要求",
+    "tags": "Hardware",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "10時間前",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iZHR2Uk5YZ0UtdlFzMloxckdhWDQzMkVBMktBZkliOGQwYkxQSC1LbEYxMFdCcnhMQklYNTdFNDhaQV81MXhONzh3aWpSLVN5M1RCcWJSWDQyaHpRa201R3JFT2FocEFNclZMc2N3X0p6SjY5Q1FmMmtGaER1b1E?oc=5",
+    "summary_bullets": [
+      "大手投資ファンドのパリサーが味の素の株主となり、半導体向け絶縁材料の値上げを要求している。",
+      "半導体サプライチェーン全体のコスト増圧力となり、製品価格への影響や材料調達戦略の見直しを促す可能性がある。",
+      "投資家による企業への介入、特に重要産業のサプライヤーに対するアクティビズムが今後増加するトレンドを示唆している。"
+    ],
+    "insight": "このニュースは、半導体材料の戦略的価値が再認識され、サプライヤー企業への投資家からの圧力が強まっていることを示唆しています。企業は、安定供給と価格交渉力のバランスをいかに取るか、また株主との対話戦略をどう構築するかが今後の重要な経営課題となります。",
+    "action_plan": "自社のサプライチェーンを再評価し、主要な材料や部品の価格変動リスクに対する耐性を見直しましょう。また、投資家との積極的なコミュニケーションを通じて、企業価値向上に向けた戦略を明確に打ち出す準備を進めましょう。",
+    "image_keyword": "semiconductor material pricing, activist investor, supply chain pressure",
+    "technical_terms": [
+      {
+        "term": "絶縁材料",
+        "explanation": "電気を通さない性質を持つ材料で、半導体の回路がショートしないように保護するために使われます。"
+      },
+      {
+        "term": "ABFフィルム",
+        "explanation": "味の素ビルドアップフィルムの略で、高性能な半導体パッケージの基板に不可欠な絶縁材料です。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2603/26/news108.html": {
+    "title": "Google、量子耐性暗号（PQC）移行を2029年に前倒し：Android 17から導入、量子時代のセキュリティ転換点へ",
+    "tags": "Cybersecurity",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "5日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/26/news108.html",
+    "summary_bullets": [
+      "Googleは量子耐性暗号（PQC）への移行を2029年に前倒しし、Android 17から導入を開始すると発表した。",
+      "量子コンピュータによる既存暗号の解読リスクが高まる中、デジタルセキュリティの基盤が大きく変化する重要な転換点となる。",
+      "企業や開発者は、このGoogleの動きに追随し、自社のシステムや製品へのPQC対応を早期に検討・計画する必要がある。"
+    ],
+    "insight": "量子コンピュータの脅威はSFの世界ではなく、Googleの具体的な行動が示すように、デジタルインフラを扱うあらゆる企業にとって今すぐ対策を講じるべき喫緊のビジネスリスクかつ機会であると認識すべきだ。",
+    "action_plan": "自社の情報システム、製品、サービスで利用されている暗号技術が将来的な量子コンピュータ攻撃に対してどの程度脆弱か棚卸しし、PQC移行に向けたロードマップ策定に着手するための情報収集と社内検討を始めましょう。",
+    "image_keyword": "quantum resistant cryptography, android security future, cyber security network",
+    "technical_terms": [
+      {
+        "term": "量子耐性暗号 (PQC)",
+        "explanation": "量子コンピュータでも解読が困難とされる、次世代のセキュリティ暗号技術。"
+      },
+      {
+        "term": "Android 17",
+        "explanation": "Googleが開発するモバイルOS「Android」の将来バージョンで、PQCが導入される予定。"
+      },
+      {
+        "term": "量子コンピュータ",
+        "explanation": "量子力学の原理を利用し、特定の計算問題を従来のコンピュータより格段に速く解くことができる次世代のコンピュータ。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2603/24/news100.html": {
+    "title": "NICT、音声データ誤公開で個人情報漏えい発覚 – AI学習用データ管理に警鐘",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "7日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/24/news100.html",
+    "summary_bullets": [
+      "NICTがAI学習用音声コーパスを誤公開し、話者の氏名や呼称といった個人情報が漏えいした問題が発覚。",
+      "AI・データ利用企業は、データ収集から管理、公開に至るまでの個人情報保護体制の厳格化と倫理的なデータ利用が求められる。",
+      "今後のAI開発では、データプライバシー保護技術の導入や、より強固なデータガバナンス構築が業界全体の喫緊の課題となるだろう。"
+    ],
+    "insight": "AI技術の発展が加速する中で、企業はデータ活用による利益追求だけでなく、個人情報保護とデータ倫理に対する社会的な責任を全うする強固なガバナンス体制を構築することが、信頼性維持と持続的成長の鍵となる。",
+    "action_plan": "自社が取り扱うAI学習用データや顧客情報のデータ管理ポリシー、プライバシー保護対策、従業員へのデータ倫理教育について、現状のレビューと改善点を書き出してみましょう。",
+    "image_keyword": "data privacy breach, AI ethics, data security",
+    "technical_terms": [
+      {
+        "term": "音声コーパス",
+        "explanation": "音声認識や合成などのAI研究・開発に使われる、音声データとそれに付随するテキスト情報などの大規模なデータセット。"
+      },
+      {
+        "term": "個人情報漏えい",
+        "explanation": "企業や組織が管理する個人情報（氏名、住所、電話番号など）が、不正なアクセスや誤操作によって外部に流出したり、意図せず公開されたりすること。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2603/24/news095.html": {
+    "title": "【警鐘】看護師による電子カルテ画面SNS投稿、医療機関が直面する情報セキュリティと倫理の重大な課題",
+    "tags": "Cyber Security",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "7日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2603/24/news095.html",
+    "summary_bullets": [
+      "福岡の看護師が電子カルテの画面をInstagramストーリーズに投稿し、患者情報の漏洩リスクが発覚、複数の病院が謝罪した。",
+      "本件は、医療現場におけるデジタル化の進展と、従業員のSNS利用に伴う情報セキュリティ意識のギャップが引き起こした深刻なインシデントであり、社会的信頼の失墜に直結する。",
+      "今後、あらゆる業界で情報セキュリティ対策が技術的側面だけでなく、従業員教育や倫理規範の徹底という人的側面からも強化されるトレンドが加速するだろう。"
+    ],
+    "insight": "デジタル環境が不可避となる現代において、企業や組織は技術的なセキュリティ対策だけでなく、従業員一人ひとりの情報リテラシーとプロフェッショナルな倫理観を醸成する継続的な教育が、事業継続とブランド価値維持の生命線となることを深く認識すべきである。",
+    "action_plan": "自社の情報セキュリティポリシー、特に従業員のSNS利用に関するガイドラインを今すぐ見直し、全従業員向けの情報セキュリティとSNSリテラシーに関する再教育・研修プログラムの実施計画を策定しましょう。",
+    "image_keyword": "medical data breach, nurse social media, healthcare cyber security",
+    "technical_terms": [
+      {
+        "term": "電子カルテ",
+        "explanation": "患者の診療記録や検査結果などを電子データとして記録・管理するシステム。医療情報の共有と効率化を図る。"
+      },
+      {
+        "term": "Instagramストーリーズ",
+        "explanation": "写真や動画を24時間限定で共有できるInstagramの機能。気軽に日常を投稿できる点が特徴。"
+      }
+    ]
   }
 }
