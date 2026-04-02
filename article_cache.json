@@ -345,7 +345,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "6日前",
+    "time_ago": "7日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/26/news108.html",
     "summary_bullets": [
       "Googleが量子耐性暗号（PQC）への移行を2029年に前倒しし、Android 17から導入を開始すると発表した。",
@@ -372,7 +372,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "8日前",
+    "time_ago": "9日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/24/news100.html",
     "summary_bullets": [
       "NICTが研究開発用の音声コーパスを誤って公開し、話者の呼称など個人情報が漏えいしたことを発表。",
@@ -390,6 +390,264 @@
       {
         "term": "個人情報漏えい",
         "explanation": "個人を特定できる情報が、意図せず外部に流出したり、不正にアクセスされたりする事態。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/03/news061.html": {
+    "title": "OpenAI、メディア大手TBPN買収で『AI時代の対話』を再定義──情報とAI融合の新時代へ",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/03/news061.html",
+    "summary_bullets": [
+      "OpenAIがメディア企業TBPNを買収し、AI技術と情報流通の融合を加速させる戦略を発表しました。",
+      "AIが情報生成から発信まで一貫して関わる「AI時代の対話の場」が構築され、メディア業界に大きな変革をもたらす可能性があります。",
+      "今後は、AIとコンテンツの関係性が深まり、企業のコンテンツ戦略や情報発信のあり方が再定義されるトレンドが予測されます。"
+    ],
+    "insight": "AI企業がメディア事業を直接手中に収めることで、AIによる情報生成と発信が一体化し、コンテンツの信頼性や情報流通の透明性、そしてメディアとしての独立性について新たな課題と機会が生まれるでしょう。",
+    "action_plan": "自社の情報発信やブランドコミュニケーション戦略において、AIによるコンテンツ生成やメディア連携の可能性を再評価し、今後のロードマップに組み込むことを検討してみましょう。",
+    "image_keyword": "AI media acquisition",
+    "technical_terms": []
+  },
+  "https://www.itmedia.co.jp/enterprise/articles/2604/03/news048.html": {
+    "title": "東京ガス、1300万世帯にAIで個別最適化サービス：次世代顧客体験の全貌とは",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2604/03/news048.html",
+    "summary_bullets": [
+      "東京ガスがAIを活用した新たな顧客基盤を導入し、1300万人の顧客にパーソナライズされた体験提供を目指す。",
+      "大手インフラ企業によるAI導入は、顧客エンゲージメントの高度化と効率化を加速させ、パーソナライズが新たな業界標準となる可能性を示す。",
+      "AIによる大規模な顧客体験最適化は今後あらゆる業界で普及し、データ倫理やプライバシーへの配慮がより重要課題となるだろう。"
+    ],
+    "insight": "この動きは、AIが単なる業務効率化ツールに留まらず、大規模な顧客ベースを持つ企業にとって、顧客満足度向上と競争力強化を両立させるための不可欠な戦略的資産であることを示唆しています。特にインフラ系企業がデータに基づいた個別最適化へ舵を切ることは、全産業におけるDXの深化を加速させるでしょう。",
+    "action_plan": "自社の顧客接点においてAI活用の可能性を再評価し、パーソナライズされた体験提供に向けた具体的な戦略を検討してみましょう。特に、顧客データの収集・分析体制を見直し、AIによる効率的な活用方法を書き出してみることを推奨します。",
+    "image_keyword": "AI customer experience, smart utility, personalized service",
+    "technical_terms": [
+      {
+        "term": "AI顧客基盤",
+        "explanation": "人工知能（AI）を活用し、顧客データを分析・管理して、個々の顧客に最適化されたサービスや情報を提供するシステム。顧客体験の向上と業務効率化を目指す。"
+      },
+      {
+        "term": "パーソナライズ",
+        "explanation": "顧客一人ひとりの行動履歴、嗜好、属性に基づいて、最適な情報提供やサービスを個別に行うこと。一般的なアプローチではなく、個別のニーズに応えるアプローチ。"
+      }
+    ]
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2604/03/news043.html": {
+    "title": "「思考の蛇口」をひねる新時代へ：マクニカが提示するAI革命の最前線",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "「未来を拓く注目の技術革新」",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2604/03/news043.html",
+    "summary_bullets": [
+      "AIが高度な思考や知識へのアクセスを「蛇口をひねるように」容易にする新時代の到来を示唆。",
+      "マクニカがこのAI革命の最前線で、ビジネスや社会の変革を牽引する役割を担っていることを強調。",
+      "AIの普及により、誰もが高度な知性を活用できる「思考の民主化」が加速し、新たな産業やサービスが生まれる可能性。",
+      "AIが単なるツールを超え、人間の思考プロセスそのものに深く関与し、新たな価値創造の起点となることを理解すべきです。"
+    ],
+    "insight": "AIは単なる業務効率化ツールを超え、高度な思考や知性を誰もが利用できる「思考の民主化」を実現し、既存のビジネスモデルや社会構造を根本から変革する潜在力を持つことを認識すべきです。",
+    "action_plan": "自社の業務プロセスにおいて、AIが「思考の蛇口」となり得る領域を特定し、どのように高度な知性を活用できるか具体的なユースケースを書き出してみましょう。",
+    "image_keyword": "future AI faucet, AI brain connection, digital thought revolution",
+    "technical_terms": []
+  },
+  "https://news.yahoo.co.jp/pickup/6574961?source=rss": {
+    "title": "人気商品『ボンドロシール』の偽販売サイトが急増、消費者とブランドを守るための緊急対策",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "13時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6574961?source=rss",
+    "summary_bullets": [
+      "人気商品「ボンドロシール」を騙る偽販売サイトがインターネット上で急速に増加し、消費者に被害が広がるリスクがある。",
+      "偽サイトは消費者の金銭的被害や個人情報流出のリスクを高めるだけでなく、正規品ブランドの信用と価値を著しく毀損する。",
+      "AI技術の進化により偽サイトの生成が容易になるトレンドにあり、企業はデジタルブランド保護と消費者への情報提供を一層強化する必要がある。"
+    ],
+    "insight": "デジタル環境におけるブランド保護は企業の最優先事項であり、人気商品を持つ企業は偽サイトによるブランド毀損と顧客被害のリスクに常に備え、積極的な対策を講じる必要があります。",
+    "action_plan": "自社のブランド名や製品名を定期的にインターネットで検索し、偽サイトの有無を監視する体制を構築しましょう。また、顧客に対し、公式サイトの正しい識別方法や安全な購入経路について積極的に情報発信を行い、被害を未然に防ぐための啓発活動を強化しましょう。",
+    "image_keyword": "fake website, online fraud, brand protection",
+    "technical_terms": [
+      {
+        "term": "偽販売サイト",
+        "explanation": "有名ブランドや人気商品を装い、消費者を騙して商品代金を詐取したり、個人情報を抜き取ったりする悪質なウェブサイト。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6574960?source=rss": {
+    "title": "ドコモ3G停波で一部4G機種に不具合発生か？旧世代インフラ終了が突きつけるデバイス互換性の課題",
+    "tags": "Telecommunication",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "13時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6574960?source=rss",
+    "summary_bullets": [
+      "ドコモの3Gサービス停波に伴い、一部4G対応機種で通信不具合が報告されており、ユーザー体験に影響が出ている。",
+      "インフラの世代交代期におけるデバイス互換性問題は、企業のレガシーシステム対応や顧客サポート体制に大きな課題を提起する。",
+      "5G以降の通信インフラ進化においても、旧世代との円滑な移行支援や互換性確保が継続的な重要課題となることが予測される。"
+    ],
+    "insight": "デジタル化が加速する中、企業は自社の利用するレガシーデバイスやシステムが最新インフラに対応できるか、また顧客への移行サポート体制が十分かを定期的に検証し、潜在的なビジネスリスクを未然に防ぐ必要があります。",
+    "action_plan": "自社の業務で利用している通信デバイスやIoT機器が、将来的な通信インフラの変更にどのように対応するかを確認し、必要であればアップグレードや代替計画を今日から具体的に検討しましょう。",
+    "image_keyword": "mobile network transition, 4G device compatibility, communication disruption",
+    "technical_terms": [
+      {
+        "term": "3G停波",
+        "explanation": "第3世代移動通信システム（3G）のサービスが終了すること。これにより、3Gのみに対応する機器は通信できなくなる。"
+      },
+      {
+        "term": "4G機種",
+        "explanation": "第4世代移動通信システム（4G）に対応した携帯電話や通信機器。3Gの後継技術であり、より高速な通信が可能。"
+      },
+      {
+        "term": "互換性",
+        "explanation": "異なるシステムや機器、ソフトウェアなどが、相互に問題なく連携して機能する能力。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6574918?source=rss": {
+    "title": "22年のガラケー生活に終止符：デジタル未体験層を惹きつけるスマホUX進化の示唆",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "21時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6574918?source=rss",
+    "summary_bullets": [
+      "22年間ガラケーを愛用した女性が、使いやすさを理由にスマートフォンへの移行を決断した。",
+      "この事例は、デジタルデバイド解消に向けたUXデザインの重要性と、未開拓の高齢者市場への参入機会を示唆する。",
+      "今後、全世代が直感的に利用できるシンプルでパーソナライズされたデジタルサービスの開発競争が加速するだろう。"
+    ],
+    "insight": "この事例は、技術への心理的障壁が取り除かれれば、デジタル未体験層が巨大な潜在市場となり得ること、そしてその開拓には徹底したユーザー目線のUXデザインが不可欠であることをビジネスマンに強く示唆しています。",
+    "action_plan": "自社が提供するデジタルサービスや製品が、年齢やITリテラシーを問わず、あらゆるユーザーにとって直感的かつストレスなく利用できるか、今一度多角的な視点から検証し、改善計画を策定しましょう。",
+    "image_keyword": "smartphone elderly adoption, digital divide bridge",
+    "technical_terms": [
+      {
+        "term": "ガラケー",
+        "explanation": "日本で普及した従来の携帯電話で、スマートフォン登場前の主流だった多機能な携帯端末を指す。"
+      },
+      {
+        "term": "デジタルデバイド",
+        "explanation": "情報通信技術（ICT）の利用機会や恩恵において、個人や集団間に生じる格差や不均衡。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1UV1V4OWM3dWtVdG5UX2ZyMEpSeDJMYjVRbGRTSzBQUzhpVDhndENwUmpDQUotQnBKM2M0?oc=5": {
+    "title": "中国新興がAI半導体の熱問題を解決：ダイヤモンド複合材で市場を席巻かせるか",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1UV1V4OWM3dWtVdG5UX2ZyMEpSeDJMYjVRbGRTSzBQUzhpVDhndENwUmpDQUotQnBKM2M0?oc=5",
+    "summary_bullets": [
+      "中国の新興企業が、高い熱伝導性を持つダイヤモンド複合材を用いた熱制御材料でAI半導体市場への参入を強化している。",
+      "AI半導体の高性能化に伴う発熱問題の解決は業界全体の喫緊の課題であり、この技術は関連産業の発展に貢献する可能性を秘める。",
+      "熱制御技術は、AIやデータセンターの進化に不可欠な基盤技術として、今後も材料技術競争が激化すると予測される。"
+    ],
+    "insight": "AIの進化を支えるのはソフトウェアだけでなく、高性能を維持するための基礎技術、特に熱制御のような地味ながらも極めて重要な分野であることを再認識し、サプライチェーン全体での技術革新に目を向けるべきです。",
+    "action_plan": "自社の製品やサービスがAIの普及や高性能化によってどのような影響を受けるか、特にインフラや材料分野における隠れたニーズや新たなビジネス機会を書き出してみましょう。",
+    "image_keyword": "AI chip cooling, diamond composite material, thermal management tech",
+    "technical_terms": [
+      {
+        "term": "熱制御材料",
+        "explanation": "高性能デバイスから発生する熱を効率的に放散・管理し、安定した動作を保つための素材や部品。AI半導体などでは必須の技術。"
+      },
+      {
+        "term": "ダイヤモンド複合材",
+        "explanation": "高い熱伝導性を持つダイヤモンドを、他の素材と組み合わせることで、強度や加工性といった特性を向上させた新素材。次世代半導体冷却材として注目される。"
+      },
+      {
+        "term": "AI半導体",
+        "explanation": "人工知能の処理に特化した半導体で、データセンターやエッジデバイスで利用される。高い演算能力を持つ一方で、大きな発熱が課題となっている。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWm9jSE5XcVZGLXJLOG5oRWVlb0dRZ1BtNDlmd3lTVlBkY0xkdmRra0ZuMkRHbW9FMWFXTTlBb210NHFBVHB4ZWMtUVR1bkd3S1ptcFZqUWF1dkVXVHNsc3lIcHNfV0RjQk92TlFOUG5HOXhYcVZiSVNjTXhCejJRR1lycWg3UdIBiwFBVV95cUxQNlMzc2N3YXkzTFM3dENEQmVKRWx1M0RpQXlxRE1yYkFKMWdNUzZYSnJKVzg5OWxtd2hwT05rYUNJdFN0bmsxLU1Wd25CZ3o1T0Q5RXBGMXpJQ0JtYW9FN2p5U3dpRXhFZ3E5MWs3QVdJYXNXR2VIMjR3aTBBalc2b29DcF9nSldoQ3Zv?oc=5": {
+    "title": "半導体、ついに「1ナノ時代」へ突入！大手4社が量産目標を掲げ、技術競争が熾烈化",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWm9jSE5XcVZGLXJLOG5oRWVlb0dRZ1BtNDlmd3lTVlBkY0xkdmRra0ZuMkRHbW9FMWFXTTlBb210NHFBVHB4ZWMtUVR1bkd3S1ptcFZqUWF1dkVXVHNsc3lIcHNfV0RjQk92TlFOUG5HOXhYcVZiSVNjTXhCejJRR1lycWg3UdIBiwFBVV95cUxQNlMzc2N3YXkzTFM3dENEQmVKRWx1M0RpQXlxRE1yYkFKMWdNUzZYSnJKVzg5OWxtd2hwT05rYUNJdFN0bmsxLU1Wd25CZ3o1T0Q5RXBGMXpJQ0JtYW9FN2p5U3dpRXhFZ3E5MWs3QVdJYXNXR2VIMjR3aTBBalc2b29DcF9nSldoQ3Zv?oc=5",
+    "summary_bullets": [
+      "世界の主要半導体メーカー4社が、次世代技術である1ナノメートル（1nm）プロセスの量産目標を相次いで発表。",
+      "これは、AI、高性能コンピューティング、IoTなど、あらゆる先端技術の性能を飛躍的に向上させる基盤となり、産業界全体に大きな影響を与える。",
+      "技術の微細化競争は新たな局面に入り、材料科学や3D積層技術など、多角的なアプローチでの開発競争が今後さらに激化する見込み。"
+    ],
+    "insight": "半導体技術の最前線が1ナノ時代へと移行することは、単なる技術進歩に留まらず、国家間の経済安全保障や各企業の競争力を決定づける戦略的要因となります。自社のサプライチェーンや将来の製品ロードマップに与える影響を深く理解し、迅速な対応が求められます。",
+    "action_plan": "自社が依存する半導体サプライチェーンの現状と、この微細化トレンドがもたらす機会やリスクを再評価してみましょう。また、1ナノ技術の恩恵を受ける可能性のある次世代製品やサービスのアイデアをブレインストーミングし、パートナーシップの可能性を探り始めてみましょう。",
+    "image_keyword": "1nm semiconductor chip, nano chip competition, future microchip",
+    "technical_terms": [
+      {
+        "term": "1ナノメートル (1nm)",
+        "explanation": "10億分の1メートルという極めて微小な長さの単位で、半導体チップの回路線幅やゲート長など、最小加工寸法を表す。この数値が小さいほど、より高性能で省電力なチップが製造可能となる。"
+      },
+      {
+        "term": "半導体微細化",
+        "explanation": "半導体チップ上に形成される電子回路の構成要素を、より小さく、より高密度に集積する技術。これにより、チップの処理能力向上、消費電力削減、製造コスト低減が実現される。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wNTNVbTBCd3FWUVZjSmZaa2QtMUViVUhRZkctRnVWV0N5NjV4alRGNXpEX2RLalJxNVNiWVl1ZnhGRW9hZXc4QW91bzRVRkhGaklZ?oc=5": {
+    "title": "日本の半導体産業を牽引する次世代人材育成へ：高専教員向け実践研修、旭川・佐世保で同時開催",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wNTNVbTBCd3FWUVZjSmZaa2QtMUViVUhRZkctRnVWV0N5NjV4alRGNXpEX2RLalJxNVNiWVl1ZnhGRW9hZXc4QW91bzRVRkhGaklZ?oc=5",
+    "summary_bullets": [
+      "全国の高専教員を対象とした半導体製造研修が旭川・佐世保の両高専で同時開催され、実践的な教育指導力の強化を目指す。",
+      "本研修は、国の半導体産業復権に向けた人材育成の重要施策の一環であり、将来的な技術者不足解消に貢献する。",
+      "高専を核とした実践的教育モデルの確立が、産業界が求める高度な半導体人材の安定供給と技術力向上に繋がる可能性。",
+      "全国から集まった教員が最先端の製造現場を体験し、専門知識と実践スキルを習得する機会を得た。"
+    ],
+    "insight": "日本が半導体産業での国際競争力を再確立するためには、実践的な技術を持つ人材の育成が喫緊の課題です。今回の高専教員向け研修は、その基盤を強化する重要な一歩であり、企業はこうした教育機関との連携を通じて、将来の技術トレンドと人材確保の戦略を再考すべきです。",
+    "action_plan": "自社の技術ロードマップと必要とされるスキルセットを明確にし、高専を含む教育機関との連携プログラムやインターンシップの可能性を具体的に検討してみましょう。",
+    "image_keyword": "semiconductor education, technical training, wafer fabrication",
+    "technical_terms": [
+      {
+        "term": "半導体製造",
+        "explanation": "集積回路などの半導体デバイスを設計し、シリコンウェハー上に回路を形成する一連のプロセス。高度な技術とクリーンな環境が必要とされる。"
+      },
+      {
+        "term": "高専",
+        "explanation": "高等専門学校の略。実践的な技術者を育成することを目的とした5年制の高等教育機関で、卒業後は産業界で即戦力として活躍できる人材を輩出する。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/02/news075.html": {
+    "title": "マイナビ、クラウド不正アクセスで7万件超の個人情報流出か？ 企業が直面するサイバーセキュリティ危機",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "20時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/02/news075.html",
+    "summary_bullets": [
+      "マイナビが利用するクラウドサービスで不正アクセスが発生し、ユーザー情報約7万件の流出の可能性が判明。",
+      "今回の事態は、企業がクラウド活用を進める中で、サプライチェーン全体のセキュリティ対策が喫緊の課題であることを改めて示唆。",
+      "個人情報保護法改正や社会のセキュリティ意識の高まりにより、企業はより厳格な情報管理とインシデント対応が求められるトレンドが加速。"
+    ],
+    "insight": "クラウドサービス利用におけるセキュリティ対策は、自社だけでなくベンダー側のセキュリティまで含めたサプライチェーン全体で考える必要があり、万が一の事態に備えたインシデント対応計画の策定が不可欠である。",
+    "action_plan": "自社が利用するクラウドサービスのセキュリティ体制やベンダーとの責任範囲を再確認し、インシデント発生時の対応フローを見直してみましょう。",
+    "image_keyword": "data breach cloud security",
+    "technical_terms": [
+      {
+        "term": "不正アクセス",
+        "explanation": "権限のない者がシステムやネットワークに侵入し、データ閲覧や操作を行う行為。情報漏洩の主要因となる。"
+      },
+      {
+        "term": "クラウドサービス",
+        "explanation": "インターネット経由で提供される、サーバーやストレージ、ソフトウェアなどのコンピューティングサービス全般。多くの企業が利用している。"
       }
     ]
   }
