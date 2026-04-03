@@ -345,7 +345,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "7日前",
+    "time_ago": "8日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/26/news108.html",
     "summary_bullets": [
       "Googleが量子耐性暗号（PQC）への移行を2029年に前倒しし、Android 17から導入を開始すると発表した。",
@@ -372,7 +372,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "9日前",
+    "time_ago": "10日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/24/news100.html",
     "summary_bullets": [
       "NICTが研究開発用の音声コーパスを誤って公開し、話者の呼称など個人情報が漏えいしたことを発表。",
@@ -630,7 +630,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "20時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/02/news075.html",
     "summary_bullets": [
       "マイナビが利用するクラウドサービスで不正アクセスが発生し、ユーザー情報約7万件の流出の可能性が判明。",
@@ -648,6 +648,218 @@
       {
         "term": "クラウドサービス",
         "explanation": "インターネット経由で提供される、サーバーやストレージ、ソフトウェアなどのコンピューティングサービス全般。多くの企業が利用している。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2604/03/news113.html": {
+    "title": "IBMとArmが戦略提携：AI時代のメインフレーム、柔軟性で新境地を開く",
+    "tags": "Enterprise Tech",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "12時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news113.html",
+    "summary_bullets": [
+      "IBMとArmが戦略的提携を発表し、AI時代の要求に応えるメインフレームの柔軟性強化を共同で目指す。",
+      "この提携により、企業の基幹システムであるメインフレームがAI技術を取り込み、データ処理の効率化とサービス提供の革新を加速させる。",
+      "既存の堅牢なITインフラと最先端のAI技術の融合が進み、ハイブリッドクラウド戦略における新たな技術標準を確立する可能性が高まる。"
+    ],
+    "insight": "伝統的なITインフラの巨人であるIBMと最先端チップ技術のArmとの提携は、AI時代において既存資産をいかにモダナイズし、柔軟性を持たせるかが競争優位を築く鍵となることを明確に示しています。",
+    "action_plan": "自社のレガシーシステムや基幹インフラがAI時代のニーズにどれだけ対応できるか評価し、長期的な視点でのAI統合・柔軟性向上戦略の立案に着手しましょう。",
+    "image_keyword": "AI mainframe infrastructure",
+    "technical_terms": [
+      {
+        "term": "メインフレーム",
+        "explanation": "大規模なデータ処理や基幹業務を担う、高い信頼性と処理能力を持つ大型コンピュータシステム。"
+      },
+      {
+        "term": "AI対応",
+        "explanation": "人工知能技術をシステムに組み込み、データ分析、自動化、最適化などの機能を強化すること。"
+      },
+      {
+        "term": "戦略的提携",
+        "explanation": "複数の企業が共通の目標達成のため、資源や技術、ノウハウなどを共有し、協力関係を築くこと。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2604/03/news092.html": {
+    "title": "国立情報学研究所、国産LLMで「gpt-oss-20b」超えの日本語性能を達成 - AI国産化の次なる一手",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "12時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news092.html",
+    "summary_bullets": [
+      "国立情報学研究所が、既存の「gpt-oss-20b」を超える日本語性能を持つ新たな国産LLMを開発・公開した。",
+      "日本語に特化した高性能LLMの登場は、国内ビジネスにおけるAI導入を加速させ、データ主権の確保にも貢献する。",
+      "今後、日本独自の文化や専門分野に対応する多様なLLM開発が活発化し、AIエコシステムにおける日本の存在感が高まることが期待される。"
+    ],
+    "insight": "国産LLMの性能向上は、言語の壁やデータセキュリティの懸念を解消し、日本企業がより安全かつ効果的にAIを活用し、グローバル市場での競争力を強化する絶好の機会を提供します。",
+    "action_plan": "自社のビジネスにおける日本語特化型AIの具体的な活用シーンや課題を洗い出し、この新たな国産LLMを基盤としたソリューション導入の可能性について、情報収集と検討を開始してみましょう。",
+    "image_keyword": "Japanese LLM research, AI innovation Japan, National Institute Informatics",
+    "technical_terms": [
+      {
+        "term": "LLM",
+        "explanation": "Large Language Model（大規模言語モデル）の略。大量のテキストデータを学習し、人間のように自然な文章を理解・生成するAIモデルです。"
+      },
+      {
+        "term": "gpt-oss-20b",
+        "explanation": "特定のオープンソースの大規模言語モデルを指すと考えられます。一般に、高度な言語処理能力を持つモデルの一つとして認識されています。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6575084?source=rss": {
+    "title": "家族アルバムアプリ「みてね」が拓く新市場：想定外の快進撃が示すユーザー体験の価値",
+    "tags": "SaaS",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "11時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575084?source=rss",
+    "summary_bullets": [
+      "家族アルバムアプリ「みてね」が従来のSNSとは異なるアプローチで、想定外のユーザー獲得と成長を達成。",
+      "限定されたクローズドなコミュニティとシンプルで使いやすいUXが、子育て世代を中心に強い支持を獲得し、新たなコミュニケーションモデルを提示。",
+      "ユーザーの深いニーズを捉え、過度な機能追加ではなく本質的な価値に注力するサービスが、今後のアプリ市場で成功する鍵となる可能性。"
+    ],
+    "insight": "今日のデジタル世界において、すべてのユーザーにリーチしようとするのではなく、特定のニッチ市場の深い課題とニーズに徹底的に寄り添うことが、予想外の大きな成功を生み出す強力な戦略となり得る。",
+    "action_plan": "自社のサービスやプロダクトにおいて、「誰の、どのような具体的な課題を、どう解決しているのか」を再度明確にし、その本質的な価値を最大限に高める改善点を見直してみましょう。",
+    "image_keyword": "family album app, parenting tech, social growth",
+    "technical_terms": []
+  },
+  "https://news.yahoo.co.jp/pickup/6575032?source=rss": {
+    "title": "マイクロソフトが日本に1.6兆円巨額投資！AIインフラ強化で日本の未来を牽引",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "期待高まる話題",
+    "rating": 5,
+    "time_ago": "19時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575032?source=rss",
+    "summary_bullets": [
+      "米マイクロソフトが日本に1.6兆円規模のAI関連投資を行うと発表、同社として過去最大の対日投資となる。",
+      "今回の投資は、日本のAIインフラ強化（データセンター増設）、研究開発、AI人材育成に重点が置かれ、国内経済や産業の競争力向上に大きく貢献する。",
+      "日本のAI技術開発・導入が加速し、国際的なAIハブとしての地位確立に向けた動きが活発化すると予測される。"
+    ],
+    "insight": "マイクロソフトの巨額投資は、日本市場がAI戦略において極めて重要な拠点と位置づけられている証拠であり、国内企業は自社のAI戦略を見直し、新たなビジネス機会を積極的に模索すべきである。",
+    "action_plan": "自社のAI導入計画やDX戦略を再評価し、マイクロソフトのエコシステムとの連携可能性や、AI人材育成への投資について検討を始めましょう。",
+    "image_keyword": "Microsoft Japan AI Investment, Data Center Japan, AI infrastructure",
+    "technical_terms": [
+      {
+        "term": "AI",
+        "explanation": "人間が行う学習、推論、認識などの知的活動をコンピューターに模倣させる技術の総称。"
+      },
+      {
+        "term": "データセンター",
+        "explanation": "大量のサーバーやネットワーク機器を集約し、データ保存や処理を行うための施設。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6575017?source=rss": {
+    "title": "「デジタル遺言」時代到来：スマホ・PCで作成可能に、法改正のインパクト",
+    "tags": "Legal Tech",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "21時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575017?source=rss",
+    "summary_bullets": [
+      "遺言書の作成が、スマートフォンやPCなどのデジタルデバイスを通じて可能になる法改正が検討されている。",
+      "これにより遺言作成の敷居が大幅に下がり、リーガルテック市場の活性化や新たなサービス創出が期待される。",
+      "将来的にはデジタル終活がより普及し、デジタル資産管理や相続に関するサービス需要が飛躍的に増大する見込み。"
+    ],
+    "insight": "デジタル化の波は法務分野にも及び、伝統的なサービスモデルに変革を迫る。この変化をビジネスチャンスと捉え、デジタルサービス連携や新たなプラットフォーム構築を検討すべきだ。",
+    "action_plan": "自社のサービスや商品が、この「デジタル遺言」の流れとどのように連携できるか、具体的なアイデアをチームでブレインストーミングしてみましょう。",
+    "image_keyword": "digital will, online legal service, smart inheritance",
+    "technical_terms": [
+      {
+        "term": "リーガルテック",
+        "explanation": "法律サービスとテクノロジーを融合させたサービスや製品の総称。法務分野の効率化やアクセス向上を目指す。"
+      },
+      {
+        "term": "デジタル終活",
+        "explanation": "自身のデジタル資産（SNSアカウント、オンラインサービス、データなど）や情報を生前のうちに整理し、死後に備える活動。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVUzcVN6eDNod1pFR2NqYjFjeFU0R3RlVjFrdUZrb3dOXzFfUUZLQUpiS1JnOXloRnZoN0ZXeUtURlVjVzh1VXB2Y1JHWDNISk54anptZmphTWswYnp6b05ha2s1MndhOE91V1VZSVM1UXhfSjZRd2hXSi1uUXY4dVBVb0ppSkMwbnp4NkhBRkdLdk5mTk42QWNJbG13eV9qSmc?oc=5": {
+    "title": "信越化学、AI時代を拓く新工場建設：半導体材料増産でAI銘柄の旗手に躍進",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVUzcVN6eDNod1pFR2NqYjFjeFU0R3RlVjFrdUZrb3dOXzFfUUZLQUpiS1JnOXloRnZoN0ZXeUtURlVjVzh1VXB2Y1JHWDNISk54anptZmphTWswYnp6b05ha2s1MndhOE91V1VZSVM1UXhfSjZRd2hXSi1uUXY4dVBVb0ppSkMwbnp4NkhBRkdLdk5mTk42QWNJbG13eV9qSmc?oc=5",
+    "summary_bullets": [
+      "信越化学がAI関連需要の高まりを受け、56年ぶりとなる新工場を建設し、半導体材料の増産を加速する。",
+      "この戦略的な投資は、同社をAI銘柄としての地位を確立させ、AI産業の根幹を支えることで世界経済に大きな影響を与える。",
+      "伝統的な素材メーカーがAI・半導体分野へ大規模な投資を行う動きは、産業界全体の構造変革と新たな成長機会を示すトレンドを加速させる。",
+      "日本経済新聞の報道によると、信越化学はAIおよび高性能半導体向け材料市場でのリーダーシップをさらに強化する構えだ。"
+    ],
+    "insight": "大手化学メーカーがAI・半導体という最先端テクノロジー分野に大規模な投資を行うことは、AIがもたらす産業構造の変革と、サプライチェーン全体の重要性を浮き彫りにします。素材産業が技術革新の基盤を担い、今後のAI競争力を左右する鍵となるでしょう。",
+    "action_plan": "自社の事業がAI・半導体サプライチェーンのどの部分に貢献できるか、またはAI技術を自社プロセスにどのように統合できるかを再評価し、新たなビジネスチャンスを洗い出すためのクロスファンクショナルなチームを立ち上げてみましょう。",
+    "image_keyword": "semiconductor factory, AI material production, industrial innovation",
+    "technical_terms": [
+      {
+        "term": "AI銘柄",
+        "explanation": "AI技術やサービスに特化し、その成長性から株式市場で注目される企業の銘柄。"
+      },
+      {
+        "term": "半導体材料",
+        "explanation": "スマートフォンやPC、AIデバイスなどに使われる半導体チップを作るために必要なシリコンウェハーやフォトレジストなどの素材。"
+      },
+      {
+        "term": "増産加速",
+        "explanation": "製品の生産量を大幅に増やし、供給能力を高めること。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mcC1mTkpQcHFMSlh5ekdYRTgyU3pyTmpRWWt3YnlmaWIwN1F4LW8yVTRiUDY0RVpuNDNNWVpqZVBIaXVWN0JfNlBXLTNMc3FPQkl6cENCemZFRnJl?oc=5": {
+    "title": "信越化学、半導体素材の新工場を56年ぶり建設：サプライチェーン強化と国内生産能力向上へ",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mcC1mTkpQcHFMSlh5ekdYRTgyU3pyTmpRWWt3YnlmaWIwN1F4LW8yVTRiUDY0RVpuNDNNWVpqZVBIaXVWN0JfNlBXLTNMc3FPQkl6cENCemZFRnJl?oc=5",
+    "summary_bullets": [
+      "信越化学が半導体素材向けの新工場を56年ぶりに完成させ、生産能力を大幅に増強する。",
+      "半導体サプライチェーンの安定化と強化に貢献し、世界的な半導体需要の拡大に対応する。",
+      "日本の基幹産業である半導体分野において、国内の材料供給体制を盤石にし、国際競争力を維持する一助となる。"
+    ],
+    "insight": "半導体は現代社会の基盤であり、その素材供給の安定性は国家レベルの戦略的課題です。信越化学の今回の投資は、長期的な視点でサプライチェーンのレジリエンスを高め、地政学リスクにも対応する企業の責任と先見性を示しています。",
+    "action_plan": "自社の主要なサプライチェーンにおいて、特定地域や企業への過度な依存がないか改めて見直してみましょう。また、半導体業界全体の動向や関連技術の進化に継続的に注目し、事業戦略にどう影響するかを分析する機会を設けてみましょう。",
+    "image_keyword": "semiconductor factory, advanced materials, chip manufacturing",
+    "technical_terms": [
+      {
+        "term": "半導体素材",
+        "explanation": "半導体デバイス（集積回路やICチップなど）を製造するために使われる、シリコンウェハーやフォトレジストなどの高性能な基礎材料。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCcmh1dTJMNGw4cngtaFRPdGF3NU5tbFFLTVdKZmNGMi1qUjU5cXhiMjMtb2FPdXZzQ2ktTTVQdDVqSDBhekZqVXNpa3A2MXRKYUVFRUh1Rzk?oc=5": {
+    "title": "ローム主導「半導体再編」の行方：東芝・三菱電機との連携、そして「黒船」デンソーの戦略的動向を読み解く",
+    "tags": "Hardware",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCcmh1dTJMNGw4cngtaFRPdGF3NU5tbFFLTVdKZmNGMi1qUjU5cXhiMjMtb2FPdXZzQ2ktTTVQdDVqSDBhekZqVXNpa3A2MXRKYUVFRUh1Rzk?oc=5",
+    "summary_bullets": [
+      "ロームが東芝、三菱電機といった大手企業との連携を通じて、日本の半導体業界再編を画策している。",
+      "この再編は、激化する国際競争に対応し、日本の半導体産業の新たな勢力図と競争力強化に繋がる可能性がある。",
+      "自動車業界の巨人であるデンソーが「黒船」としてどのように市場に参入し、既存の半導体エコシステムに影響を与えるか注目される。"
+    ],
+    "insight": "ロームによる半導体業界再編の動きは、日本の電機・自動車産業における戦略的パートナーシップの重要性を浮き彫りにしています。デンソーのような異業種からの強力な参入者は、既存のサプライチェーンや市場競争のルールを大きく変える可能性を秘めており、企業は常にその動向を注視し、アライアンス戦略を再考する必要があります。",
+    "action_plan": "自社のサプライチェーンにおける半導体関連企業の動向を再評価し、リスクと機会を特定しましょう。また、異業種からの技術参入が自社ビジネスに与える影響について、シナリオプランニングを始めてみましょう。",
+    "image_keyword": "semiconductor industry strategy, corporate alliance, market disruption",
+    "technical_terms": [
+      {
+        "term": "半導体再編",
+        "explanation": "複数の半導体企業が合併・買収や提携を通じて、業界内の構造や勢力図を大きく変化させる動き。"
+      },
+      {
+        "term": "黒船",
+        "explanation": "特定の業界の慣習や既存秩序を大きく揺るがす、外部からの強力な競合や新規参入者を指す比喩表現。"
       }
     ]
   }
