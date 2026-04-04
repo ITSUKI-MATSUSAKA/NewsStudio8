@@ -345,7 +345,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "8日前",
+    "time_ago": "9日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/26/news108.html",
     "summary_bullets": [
       "Googleが量子耐性暗号（PQC）への移行を2029年に前倒しし、Android 17から導入を開始すると発表した。",
@@ -372,7 +372,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "10日前",
+    "time_ago": "11日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/24/news100.html",
     "summary_bullets": [
       "NICTが研究開発用の音声コーパスを誤って公開し、話者の呼称など個人情報が漏えいしたことを発表。",
@@ -630,7 +630,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/02/news075.html",
     "summary_bullets": [
       "マイナビが利用するクラウドサービスで不正アクセスが発生し、ユーザー情報約7万件の流出の可能性が判明。",
@@ -657,7 +657,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "12時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news113.html",
     "summary_bullets": [
       "IBMとArmが戦略的提携を発表し、AI時代の要求に応えるメインフレームの柔軟性強化を共同で目指す。",
@@ -688,7 +688,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "12時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news092.html",
     "summary_bullets": [
       "国立情報学研究所が、既存の「gpt-oss-20b」を超える日本語性能を持つ新たな国産LLMを開発・公開した。",
@@ -860,6 +860,180 @@
       {
         "term": "黒船",
         "explanation": "特定の業界の慣習や既存秩序を大きく揺るがす、外部からの強力な競合や新規参入者を指す比喩表現。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2604/03/news097.html": {
+    "title": "AI悪用で“偽本”がAmazonに流通、綾辻行人氏が警鐘鳴らす。生成AIが生む新たな著作権侵害の波紋",
+    "tags": "AI Ethics",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "1日前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news097.html",
+    "summary_bullets": [
+      "AIによって生成されたと見られる著名作家・綾辻行人氏の“偽本”がAmazonに出現し、本人が注意喚起を行った。",
+      "生成AIの悪用による著作権侵害が現実のものとなり、コンテンツプラットフォームの信頼性やクリエイターの権利保護に新たな課題を突きつけている。",
+      "今後、生成AIの普及に伴い、偽造コンテンツや誤情報がさらに拡大する可能性があり、真贋判定技術やプラットフォームの対応が喫緊の課題となる。"
+    ],
+    "insight": "生成AIはビジネス効率化の恩恵をもたらす一方で、著作権侵害やブランド毀損といった深刻なリスクも顕在化させています。自社の知的財産保護とブランド価値維持のためには、AIによる模倣や不正利用への具体的な対策を急ぎ検討すべきです。",
+    "action_plan": "自社が保有するコンテンツやブランドに対するAI悪用リスクを洗い出し、著作権保護のためのモニタリング体制構築や、プラットフォーム事業者との連携方法について検討を始めましょう。また、生成AIを利用する際の倫理ガイドラインを再確認し、従業員への教育を強化しましょう。",
+    "image_keyword": "AI copyright infringement, fake book amazon, generative AI threat",
+    "technical_terms": [
+      {
+        "term": "Generative AI (生成AI)",
+        "explanation": "テキスト、画像、音声など、新しいコンテンツを自律的に創造できる人工知能の技術。"
+      },
+      {
+        "term": "Copyright Infringement (著作権侵害)",
+        "explanation": "著作権者の許可なく、その著作物を複製、配布、公衆送信などを行う行為。"
+      },
+      {
+        "term": "Counterfeit (偽造品)",
+        "explanation": "本物を模倣して不正に製造された製品。本記事では「偽本」として言及される。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6575166?source=rss": {
+    "title": "AIが拓くクリエイティブの新境地：校歌作詞作曲に活用、その完成形",
+    "tags": "AI / LLM",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "15時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575166?source=rss",
+    "summary_bullets": [
+      "AIが校歌の作詞作曲という伝統的かつクリエイティブな分野で実践的に活用され、見事に完成した事例として注目される。",
+      "クリエイティブ産業や教育分野において、AIが人間の創造性を補完・拡張する具体的な方法論と可能性が示された。",
+      "今後はAIによるパーソナライズされたコンテンツ生成や、文化・教育現場でのAIツール導入が加速するトレンドが予測される。"
+    ],
+    "insight": "AIは単なる業務効率化ツールに留まらず、人間の創造性を拡張し、伝統的な分野に革新をもたらす強力なパートナーとなり得る。この事例は、AIとの協働が未開拓の価値を生み出す可能性を示唆している。",
+    "action_plan": "自社のクリエイティブ領域や、これまでAIとは無縁と思われていた業務プロセスを洗い出し、AI技術による新たな価値創造の可能性を検討するブレインストーミングを実施しましょう。",
+    "image_keyword": "AI music creation",
+    "technical_terms": [
+      {
+        "term": "AI (人工知能)",
+        "explanation": "人間の知的な活動をコンピューターで模倣する技術の総称で、学習、推論、問題解決などを行うことができます。"
+      },
+      {
+        "term": "作詞作曲",
+        "explanation": "楽曲の歌詞とメロディや伴奏部分を創作する行為で、近年はAIがこのプロセスを支援・自動化する技術も登場しています。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6575133?source=rss": {
+    "title": "OpenAI、経営陣に激震！その背景とAI業界への影響を読み解く",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "20時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575133?source=rss",
+    "summary_bullets": [
+      "AI開発の最前線を走るOpenAIで、経営層に大規模な変化が発生した模様。",
+      "今回の人事異動は、OpenAIの今後の製品開発やビジネス戦略、ガバナンス体制に大きく影響を与える見込み。",
+      "この経営層の変化が、AI技術の発展やエコシステム、そして競合他社の動向にどう影響するか、今後の展開が注視される。"
+    ],
+    "insight": "AIの未来を牽引するOpenAIの経営層変動は、AI技術の進化と市場競争のパラダイムシフトを示唆します。自社のAI戦略やパートナーシップを見直す上で、この動向を深く分析し、未来への適応力を高めるべきです。",
+    "action_plan": "OpenAIの公式発表やメディアの続報を定期的にチェックし、自社のAI戦略への潜在的な影響についてチーム内で議論する機会を設けましょう。競合AIベンダーの動向も合わせて注視し、リスクと機会の両面から評価してください。",
+    "image_keyword": "OpenAI leadership change, AI executive shakeup, tech governance",
+    "technical_terms": [
+      {
+        "term": "AI",
+        "explanation": "人間の知能を模倣したシステムや技術全般を指し、データ分析、学習、問題解決などを行う。"
+      },
+      {
+        "term": "経営陣",
+        "explanation": "企業の運営を指揮する最高責任者や幹部層の集団。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6575119?source=rss": {
+    "title": "SNSの信頼性危機：京都新聞、Xに誤情報削除を要請 - 企業ブランドと情報ガバナンスの課題",
+    "tags": "Digital Ethics",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "22時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575119?source=rss",
+    "summary_bullets": [
+      "京都新聞がソーシャルメディアX（旧Twitter）に対し、自社に関する誤情報の削除を正式に要請した。",
+      "企業のブランド毀損リスクが増大する中、SNSプラットフォーム側の誤情報対策と情報信頼性維持の責任が改めて問われている。",
+      "AIによる情報生成が加速する現代において、プラットフォームによるコンテンツ管理の厳格化や、メディアとプラットフォーム間の連携強化が今後のトレンドとなる可能性が高い。"
+    ],
+    "insight": "デジタル空間における誤情報の拡散は、企業の評判や事業活動に深刻な影響を及ぼすリスクがあるため、情報信頼性の確保と迅速な危機管理体制の構築はビジネスの最重要課題です。",
+    "action_plan": "自社や関連業界に関するSNS上の言及を常時モニタリングし、誤情報や風評被害に対して迅速かつ効果的に対応するためのガイドラインや緊急対応チームを今日中に見直しましょう。",
+    "image_keyword": "misinformation social media",
+    "technical_terms": [
+      {
+        "term": "X",
+        "explanation": "旧Twitterの名称で、世界的に利用される主要なソーシャルメディアプラットフォーム。ユーザーが短文や画像を共有できる。"
+      },
+      {
+        "term": "誤情報",
+        "explanation": "事実と異なる情報で、意図的であるか否かに関わらず、読者や視聴者に誤解を与える可能性のあるコンテンツ。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wdUNZZmVYMDR2NjRYMlo4UU1nZm1kQmcxMFNfR1B4Qk5LN3hXY0hSSURpZjQ4OUhSM015WGxPZy1VYWFwQU1zb0Y0WlU1SGwtanc?oc=5": {
+    "title": "半導体覇権の要衝：TSMCとNVIDIAが築くグローバル戦略トライアングル",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wdUNZZmVYMDR2NjRYMlo4UU1nZm1kQmcxMFNfR1B4Qk5LN3hXY0hSSURpZjQ4OUhSM015WGxPZy1VYWFwQU1zb0Y0WlU1SGwtanc?oc=5",
+    "summary_bullets": [
+      "TSMCとNVIDIAが中心となり、台湾（高雄）、日本（熊本）、米国（アリゾナ）が連携する「半導体戦略トライアングル」が形成されつつある。",
+      "この国際的な連携は、地政学的リスク分散とサプライチェーンの強靭化を目的とし、AI時代を支える半導体技術の安定供給とイノベーション加速に寄与する。",
+      "各地域の技術的・地政学的な強みを活かした協業が深化することで、グローバルな半導体産業地図が再構築され、新たな経済圏が生まれると予測される。"
+    ],
+    "insight": "このニュースは、単なる企業の投資動向を超え、地政学的リスクを分散し、サプライチェーンを強靭化するという現代ビジネスの最重要課題に対する、最先端のグローバル連携戦略を示しています。自社のビジネスにおけるサプライチェーンのレジリエンスと国際的な協業の可能性を再考する上で極めて重要な洞察を与えます。",
+    "action_plan": "自社のサプライチェーンにおいて、特定の国や地域への依存度を分析し、潜在的なリスクと機会を洗い出してみましょう。また、国際的なパートナーシップや技術連携を通じて、新たなビジネスモデルや市場開拓の可能性がないか検討してみましょう。",
+    "image_keyword": "semiconductor strategy, global supply chain, high-tech alliance",
+    "technical_terms": [
+      {
+        "term": "TSMC",
+        "explanation": "台湾積体電路製造の略。世界最大の半導体受託生産（ファウンドリ）企業で、最先端のチップ製造技術を持つ。"
+      },
+      {
+        "term": "NVIDIA",
+        "explanation": "米国に本社を置く半導体メーカー。特に高性能なGPU（画像処理装置）やAIチップの開発で知られ、AI時代のコンピューティングを牽引している。"
+      },
+      {
+        "term": "半導体戦略トライアングル",
+        "explanation": "特定の3つの地域（この場合は高雄、熊本、アリゾナ）が半導体産業において戦略的に重要な拠点を形成し、相互に連携することで全体の競争力や安定性を高める構造を指す。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzUUN3NV9iTGZFcUhtWElUY1N0YnRLWGpIeXVxSWhsM2VwdkV6TjRNZXdkem9PV0Z5ZklXODVDMmxCNjR6cWtLRUtFRFI4aHlHV2ltTFVOYmJKR0JHOENB?oc=5": {
+    "title": "三重県、国家戦略に「半導体クラスター」を提案へ：中部圏連携で半導体産業強化の新機軸",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "5時間前",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzUUN3NV9iTGZFcUhtWElUY1N0YnRLWGpIeXVxSWhsM2VwdkV6TjRNZXdkem9PV0Z5ZklXODVDMmxCNjR6cWtLRUtFRFI4aHlHV2ltTFVOYmJKR0JHOENB?oc=5",
+    "summary_bullets": [
+      "三重県が国戦略産業クラスター計画に半導体分野の提案を表明し、愛知・岐阜両県との連携を強化する方針を固めました。",
+      "この動きは、日本の半導体産業における中部圏の重要性を高め、サプライチェーンの強靭化と地域経済の活性化に貢献すると期待されます。",
+      "今後は中部地方が一体となった半導体産業の集積と技術革新が加速し、国際競争力を持つ新たなハブが形成される可能性があります。"
+    ],
+    "insight": "日本の半導体産業再興に向けた国家戦略の一環として、中部圏が重要な拠点となる可能性を示唆しており、関連企業は新たなビジネスチャンスと地域連携の可能性に注目すべきです。",
+    "action_plan": "中部圏における半導体関連産業の動向を注視し、サプライチェーン強化や人材育成に関する新たな補助金・連携プロジェクトの情報を収集しましょう。",
+    "image_keyword": "semiconductor cluster Japan, industrial strategy, regional collaboration",
+    "technical_terms": [
+      {
+        "term": "国戦略産業クラスター計画",
+        "explanation": "特定の産業分野において、企業、研究機関、自治体などが集積し、国際競争力を持つ拠点形成を目指す政府の取り組み。"
+      },
+      {
+        "term": "半導体",
+        "explanation": "コンピュータやスマートフォンなどあらゆる電子機器に不可欠な電子部品で、現代社会の基盤を支える技術。"
+      },
+      {
+        "term": "産業クラスター",
+        "explanation": "特定の産業に関連する企業や研究機関などが地理的に集積し、相互作用を通じてイノベーションや生産性向上を促進する地域経済圏。"
       }
     ]
   }
