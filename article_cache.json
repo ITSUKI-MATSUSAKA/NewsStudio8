@@ -345,7 +345,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "9日前",
+    "time_ago": "10日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/26/news108.html",
     "summary_bullets": [
       "Googleが量子耐性暗号（PQC）への移行を2029年に前倒しし、Android 17から導入を開始すると発表した。",
@@ -372,7 +372,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "11日前",
+    "time_ago": "12日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/24/news100.html",
     "summary_bullets": [
       "NICTが研究開発用の音声コーパスを誤って公開し、話者の呼称など個人情報が漏えいしたことを発表。",
@@ -630,7 +630,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/02/news075.html",
     "summary_bullets": [
       "マイナビが利用するクラウドサービスで不正アクセスが発生し、ユーザー情報約7万件の流出の可能性が判明。",
@@ -657,7 +657,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news113.html",
     "summary_bullets": [
       "IBMとArmが戦略的提携を発表し、AI時代の要求に応えるメインフレームの柔軟性強化を共同で目指す。",
@@ -900,7 +900,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 5,
-    "time_ago": "15時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6575166?source=rss",
     "summary_bullets": [
       "AIが校歌の作詞作曲という伝統的かつクリエイティブな分野で実践的に活用され、見事に完成した事例として注目される。",
@@ -927,7 +927,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "20時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6575133?source=rss",
     "summary_bullets": [
       "AI開発の最前線を走るOpenAIで、経営層に大規模な変化が発生した模様。",
@@ -1034,6 +1034,153 @@
       {
         "term": "産業クラスター",
         "explanation": "特定の産業に関連する企業や研究機関などが地理的に集積し、相互作用を通じてイノベーションや生産性向上を促進する地域経済圏。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/05/news019.html": {
+    "title": "OpenAI、AGI担当CEOが療養休職 ライトキャップCOOが『特別プロジェクト』を指揮へ",
+    "tags": "AI",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "21時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/05/news019.html",
+    "summary_bullets": [
+      "OpenAIのAGI担当CEOであるシモ氏が療養のため休職し、COOのライトキャップ氏が『特別プロジェクト』の責任者に就任。",
+      "AI業界の最重要企業であるOpenAIの幹部人事異動は、同社のAGI開発の継続性や戦略に影響を与える可能性があり、業界全体の注目を集める。",
+      "主要なリーダーシップの変更と『特別プロジェクト』の開始は、今後のOpenAIの技術ロードマップやビジネス戦略に新たな展開をもたらす兆候となるだろう。"
+    ],
+    "insight": "AI業界のリーダー企業であるOpenAIの主要な人事異動は、AGI開発戦略の継続性と進化を示す兆候であり、今後の技術ロードマップと市場動向を予測する上で極めて重要です。",
+    "action_plan": "自社のAI戦略が、トップ企業の動向や技術トレンドの変化に柔軟に対応できるか、いま一度見直してみましょう。特に、AGIのような長期的な目標を持つプロジェクトのリーダーシップ体制の強靭性について考察し、自社の組織運営にも活かせる点がないか洗い出しましょう。",
+    "image_keyword": "OpenAI leadership, AGI development, corporate strategy",
+    "technical_terms": [
+      {
+        "term": "AGI",
+        "explanation": "Artificial General Intelligence（汎用人工知能）の略で、人間と同等かそれ以上の知能を持ち、多様なタスクをこなせる究極のAIのこと。"
+      },
+      {
+        "term": "CEO",
+        "explanation": "Chief Executive Officer（最高経営責任者）の略で、企業の経営全体を統括する最高責任者。"
+      },
+      {
+        "term": "COO",
+        "explanation": "Chief Operating Officer（最高執行責任者）の略で、企業の日常業務や事業運営を統括する責任者。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6575267?source=rss": {
+    "title": "SNS投稿の罠：企業情報漏洩リスクから組織を守るための緊急提言",
+    "tags": "Cyber Security",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "16時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575267?source=rss",
+    "summary_bullets": [
+      "従業員によるSNSへの不用意な社内情報投稿が、企業にとって重大な情報漏洩リスクとなる現実。",
+      "情報漏洩は企業の信頼失墜、法的責任、経済的損害に直結し、組織全体の持続可能性を脅かす。",
+      "ソーシャルメディアの普及に伴い、企業は従業員教育と厳格な情報管理ポリシーの策定が不可欠となる。"
+    ],
+    "insight": "個人のSNS利用が企業のセキュリティホールとなり得る現代において、ビジネスマンは自身の発信が企業価値に与える影響を深く認識し、情報管理意識を根本から見直す洞察が求められる。",
+    "action_plan": "自社の情報セキュリティポリシーやSNS利用ガイドラインを再確認し、SNSで発信する情報が社内秘に該当しないか、今一度徹底的に見直しましょう。",
+    "image_keyword": "social media risk, data breach security, corporate information leak",
+    "technical_terms": [
+      {
+        "term": "情報セキュリティポリシー",
+        "explanation": "企業が情報資産を保護するために定める、方針や規則、手順などの全体像を示す文書。"
+      },
+      {
+        "term": "SNSガイドライン",
+        "explanation": "従業員がソーシャルネットワーキングサービス（SNS）を利用する際に遵守すべきルールや注意点をまとめた指針。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nRVBkdC1KU0s2M052bFJaVHRWdjc0TFR4VUZibkVUOVpaazZlOE5DTzJTUENtbllFTHUwQXBDV19vSks0ajBiREJKVk1LSFNXMWpnckdZSnYweGFUTmlQNnJ5d0xuaWU3b2l3UFZmZ0o?oc=5": {
+    "title": "ルネサス、脱国有化からM&A戦略で半導体市場を再構築：成長軌跡と未来への展望",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nRVBkdC1KU0s2M052bFJaVHRWdjc0TFR4VUZibkVUOVpaazZlOE5DTzJTUENtbllFTHUwQXBDV19vSks0ajBiREJKVk1LSFNXMWpnckdZSnYweGFUTmlQNnJ5d0xuaWU3b2l3UFZmZ0o?oc=5",
+    "summary_bullets": [
+      "ルネサスエレクトロニクスが「脱国有化」を経て、戦略的なM&Aと「選択と集中」で成長を達成した経緯が語られています。",
+      "この成功は、成熟産業における企業の再編と、グローバル競争力強化のためのM&Aの重要性を示唆しています。",
+      "今後、日本企業が国際市場で競争力を維持・向上させる上で、事業再編や大胆なM&A戦略がさらに加速する可能性があります。"
+    ],
+    "insight": "グローバルな競争環境下で企業が持続的な成長を遂げるには、過去の枠組みにとらわれず、戦略的なM&Aと事業の「選択と集中」による大胆な自己変革が不可欠であるという示唆を得られます。",
+    "action_plan": "自社の事業ポートフォリオを見直し、非中核事業のスリム化や、成長領域における戦略的M&Aの可能性を検討する機会を設けましょう。",
+    "image_keyword": "Renesas semiconductor M&A, growth strategy",
+    "technical_terms": [
+      {
+        "term": "脱国有化",
+        "explanation": "国や公的機関の支配下にあった企業が、民間の経営体制に移行すること。"
+      },
+      {
+        "term": "選択と集中",
+        "explanation": "経営資源を最も得意とする、または成長が見込める事業領域に集中させ、それ以外の事業から撤退・縮小する戦略。"
+      },
+      {
+        "term": "M&A",
+        "explanation": "Mergers and Acquisitions（合併と買収）の略。企業の合併や他社の買収により、事業規模の拡大や新規事業への参入を図る経営戦略。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QbjBHWnIxaXFZT25lekpic2NrU21CQVM3b0NKWWdRLWFybWZPdXNmWW1fbDFrN1BBbXVvUktyX3VEQUU5a25rVy1EOE9ZX0Y0cE1IS05iZGQ0MTNJaWVxVW5iQUo?oc=5": {
+    "title": "インテル、ベトナム半導体人材育成に初参画 – 東南アジア戦略を加速",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QbjBHWnIxaXFZT25lekpic2NrU21CQVM3b0NKWWdRLWFybWZPdXNmWW1fbDFrN1BBbXVvUktyX3VEQUU5a25rVy1EOE9ZX0Y0cE1IS05iZGQ0MTNJaWVxVW5iQUo?oc=5",
+    "summary_bullets": [
+      "米インテルが、ベトナム・ホーチミンの半導体・ME人材育成連盟に海外企業として初めて参画した。",
+      "インテルのこの動きは、グローバルサプライチェーンの再編と東南アジアにおける半導体産業の成長を加速させる可能性が高い。",
+      "ベトナムが新たな半導体生産・開発ハブとして浮上するトレンドを示唆し、他大手企業の追随も予測される。"
+    ],
+    "insight": "インテルのベトナム参画は、単なる投資にとどまらず、地政学的リスクの分散と長期的なグローバル人材供給網の構築という戦略的な意味合いを持つ。企業は、ベトナムが今後の半導体サプライチェーンにおいて重要な拠点となる可能性を認識し、アジア戦略の見直しを検討すべきだ。",
+    "action_plan": "ベトナムを含む東南アジア地域の半導体・ハイテク産業の動向、特に人材育成やサプライチェーン構築に関する政府や企業の動きを継続的にウォッチし、自社の事業戦略におけるアジア地域の重要性や投資機会を再評価しましょう。",
+    "image_keyword": "semiconductor training Vietnam, Intel Asia strategy, tech education Southeast Asia",
+    "technical_terms": [
+      {
+        "term": "ME人材",
+        "explanation": "メカトロニクスエンジニアリング（Mechanical Engineering）やマニュファクチャリングエンジニアリング（Manufacturing Engineering）など、製造技術や機械工学の専門知識を持つ人材を指すことが多い。"
+      },
+      {
+        "term": "半導体サプライチェーン",
+        "explanation": "半導体の設計、製造、組み立て、試験、販売に至るまでの一連の工程と関連企業・国々のネットワーク。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XSTk2cGUzQ3ZCR2dVMWV6RTZWVlhUX0FqaTlMQ25GaXF0dU56UnVNRjlIY3M1aENnakUwZzgweXVpUnh4S2ljX1BwUGhiaDhQOUNIVGd3cXJrVXNKenBnYW8tMnhjUFhfSjBKMVJaaEdIX2hlSkI4WGlwckRlWkE?oc=5": {
+    "title": "半導体リスク分散の真実：TSMC熊本誘致の先、中国が示すサプライチェーン戦略の成功",
+    "tags": "Hardware",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XSTk2cGUzQ3ZCR2dVMWV6RTZWVlhUX0FqaTlMQ25GaXF0dU56UnVNRjlIY3M1aENnakUwZzgweXVpUnh4S2ljX1BwUGhiaDhQOUNIVGd3cXJrVXNKenBnYW8tMnhjUFhfSjBKMVJaaEdIX2hlSkI4WGlwckRlWkE?oc=5",
+    "summary_bullets": [
+      "米歴史家は、日本のTSMC熊本誘致だけでは半導体サプライチェーンのリスク分散として不十分だと指摘している。",
+      "真のリスク分散に最も成功しているのは中国であり、その戦略は日本の半導体政策に再考を促す。",
+      "今後の半導体戦略は、単一企業誘致に留まらず、地政学的リスクや多角的なサプライチェーン構築の視点が不可欠となる。"
+    ],
+    "insight": "半導体の安定供給は国家安全保障に直結するため、地政学的リスクを考慮したサプライチェーンの多角化・強靭化は、単一企業の誘致のみならず、より広範なエコシステム構築と自国産業育成の視点が不可欠である。",
+    "action_plan": "自社の主要なサプライチェーンにおいて、特定の国や地域、または企業への依存度を改めて評価し、潜在的なリスク要因と代替案を洗い出すための検討チームを立ち上げましょう。",
+    "image_keyword": "semiconductor supply chain, global chip strategy, geopolitical technology",
+    "technical_terms": [
+      {
+        "term": "TSMC",
+        "explanation": "台湾積体電路製造(Taiwan Semiconductor Manufacturing Company)の略で、世界最大の半導体受託製造（ファウンドリ）企業。"
+      },
+      {
+        "term": "半導体サプライチェーン",
+        "explanation": "半導体の研究開発、設計、材料調達、製造、組立、テスト、流通に至るまでの一連の工程と企業群。"
+      },
+      {
+        "term": "リスク分散",
+        "explanation": "特定の供給源や地域への依存度を低減し、災害や地政学的変動などのリスクを複数の選択肢に分けることで、全体の安定性を高める戦略。"
       }
     ]
   }
