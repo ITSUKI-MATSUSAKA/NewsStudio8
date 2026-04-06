@@ -345,7 +345,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "10日前",
+    "time_ago": "11日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/26/news108.html",
     "summary_bullets": [
       "Googleが量子耐性暗号（PQC）への移行を2029年に前倒しし、Android 17から導入を開始すると発表した。",
@@ -372,7 +372,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "12日前",
+    "time_ago": "13日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/24/news100.html",
     "summary_bullets": [
       "NICTが研究開発用の音声コーパスを誤って公開し、話者の呼称など個人情報が漏えいしたことを発表。",
@@ -630,7 +630,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "3日前",
+    "time_ago": "4日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/02/news075.html",
     "summary_bullets": [
       "マイナビが利用するクラウドサービスで不正アクセスが発生し、ユーザー情報約7万件の流出の可能性が判明。",
@@ -1074,7 +1074,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "16時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6575267?source=rss",
     "summary_bullets": [
       "従業員によるSNSへの不用意な社内情報投稿が、企業にとって重大な情報漏洩リスクとなる現実。",
@@ -1181,6 +1181,223 @@
       {
         "term": "リスク分散",
         "explanation": "特定の供給源や地域への依存度を低減し、災害や地政学的変動などのリスクを複数の選択肢に分けることで、全体の安定性を高める戦略。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/07/news041.html": {
+    "title": "中小企業、AI導入の絶好機！「デジタル化・AI導入補助金」申請開始と変更点を徹底解説",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "中小企業にとっての成長機会",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/07/news041.html",
+    "summary_bullets": [
+      "中小企業庁が「デジタル化・AI導入補助金」の申請受付を開始、前制度からの変更点に注目が集まっている。",
+      "この補助金は中小企業のDX推進とAI活用を強力に支援し、生産性向上と競争力強化に直結する。",
+      "補助金を活用したAI導入が加速することで、中小企業のデジタル格差が縮小し、日本経済全体の活性化が期待される。",
+      "特にAI関連投資への支援強化は、今後のビジネスモデル変革の起爆剤となる可能性を秘めている。"
+    ],
+    "insight": "この補助金は単なる資金援助ではなく、中小企業がAI活用による事業変革を加速させ、持続的な成長を実現するための戦略的な投資機会であると捉え、迅速な計画策定と申請が成功への鍵を握ります。",
+    "action_plan": "自社の事業課題とAI活用の可能性を具体的に洗い出し、この補助金の要件と照らし合わせて導入計画を策定し、早期の申請準備に着手しましょう。",
+    "image_keyword": "SME AI grant, digital transformation, business innovation",
+    "technical_terms": [
+      {
+        "term": "デジタル化 (DX)",
+        "explanation": "企業がデジタル技術を活用して、ビジネスモデルや業務プロセスを変革し、競争優位性を確立すること。"
+      },
+      {
+        "term": "AI導入補助金",
+        "explanation": "人工知能（AI）技術を事業に導入する中小企業に対し、国や地方自治体が費用の一部を支援する制度。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/07/news019.html": {
+    "title": "データ統合が導く「5年連続最高益」：アシックス「元CIO社長」が語る、バラバラな管理を打破した執念",
+    "tags": "DX",
+    "sentiment": "positive",
+    "sentiment_text": "成功事例",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/07/news019.html",
+    "summary_bullets": [
+      "アシックスは、バラバラだった売上・在庫・利益の管理を統合することで、経営効率と収益性を劇的に改善した。",
+      "元CIOの社長が主導したこのデータ統合は、企業の最高益達成に不可欠なトップ層のIT戦略へのコミットメントの重要性を示している。",
+      "企業のデータドリブン経営への移行が加速する中、CIO経験を持つ経営者のリーダーシップが事業成長の鍵を握るトレンドが強まるだろう。"
+    ],
+    "insight": "経営層、特に社長がデータ統合の重要性を深く理解し、強力に推進することこそが、企業の持続的な成長と最高益達成の鍵となる。",
+    "action_plan": "自社の売上、在庫、利益といった基幹データの管理状況を可視化し、現状分断されているポイントを洗い出してみましょう。",
+    "image_keyword": "Data integration, Business transformation, CIO leadership",
+    "technical_terms": [
+      {
+        "term": "CIO",
+        "explanation": "企業のIT戦略全般を統括し、情報システム投資やデジタル変革を推進する最高情報責任者。"
+      },
+      {
+        "term": "データ統合",
+        "explanation": "企業内に散在する複数のデータを連携させ、一元的に管理・活用できるようにすること。"
+      },
+      {
+        "term": "DX (Digital Transformation)",
+        "explanation": "デジタル技術を活用してビジネスモデルや業務プロセスを変革し、競争優位性を確立すること。"
+      }
+    ]
+  },
+  "https://kn.itmedia.co.jp/kn/articles/2603/26/news010.html": {
+    "title": "顧客と従業員を魅了するAI戦略：中川政七商店が描く「心地よい」ECサイトの未来",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2603/26/news010.html",
+    "summary_bullets": [
+      "中川政七商店がAIを戦略的に活用し、顧客体験と従業員体験の双方を向上させるECサイト構築を目指している。",
+      "AI導入は単なる効率化に留まらず、ブランドの提供価値を深め、従業員の働きがいを高めるビジネスモデルとして注目される。",
+      "今後のEC市場では、AIによる個別最適化だけでなく、人間中心のデザインと持続可能な従業員エンゲージメントが成功の鍵となるだろう。"
+    ],
+    "insight": "AI導入の真価は、顧客満足度の向上と同時に、従業員の生産性や働きがいを高める両輪のアプローチにあることを、この事例は明確に示唆しています。",
+    "action_plan": "自社のAI導入計画を見直す際、顧客と従業員、双方にとっての「心地よさ」を測る具体的なKPI（重要業績評価指標）を定義し、その両立を目指す戦略を立案してみましょう。",
+    "image_keyword": "AI retail comfort, human-centric e-commerce, smart shop experience",
+    "technical_terms": [
+      {
+        "term": "AI",
+        "explanation": "人工知能 (Artificial Intelligence) の略で、人間の知的な行動をコンピューターで模倣する技術のこと。データ分析や自動化、パーソナライズなどに利用される。"
+      },
+      {
+        "term": "ECサイト",
+        "explanation": "Electronic Commerce (電子商取引) の略で、インターネットを通じて商品やサービスを売買するためのウェブサイトのこと。オンラインストアとも呼ばれる。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6575380?source=rss": {
+    "title": "ユーミンAI音声が声優デビュー：コンテンツ産業の未来を拓く生成AIの新地平",
+    "tags": "Generative AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "14時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575380?source=rss",
+    "summary_bullets": [
+      "松任谷由実氏のAI音声がアニメ『デッドデッドデーモンズデデデデデストラクション』で声優デビューすることが発表された。",
+      "著名人のAI音声活用は、コンテンツ制作における表現の可能性を広げ、エンターテインメント業界に新たなビジネスモデルを創出する契機となる。",
+      "AIによる声の再現技術は、権利者の許諾と管理が前提となりつつ、今後も多様な分野での活用が加速し、クリエイティブの未来を大きく変革していくと予測される。"
+    ],
+    "insight": "AI技術は単なる効率化ツールに留まらず、著名人の新たなキャリアパスやコンテンツ創造の可能性を拓く戦略的なパートナーとなり、ライセンスと創造性の新たな融合点を示している。",
+    "action_plan": "自社のコンテンツ戦略においてAI音声技術の導入可能性を検討し、どのような付加価値を生み出せるか、またその際の知的財産権の取り扱いについて具体的なガイドラインを書き出してみましょう。",
+    "image_keyword": "AI voice acting",
+    "technical_terms": [
+      {
+        "term": "AI音声",
+        "explanation": "人工知能技術を用いて人間の声を合成・再現する技術。"
+      },
+      {
+        "term": "生成AI",
+        "explanation": "テキスト、画像、音声などの新たなコンテンツを自動で作り出す人工知能の総称。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6575378?source=rss": {
+    "title": "驚異の浸透力！生成AI、15-69歳の日本で利用率が過半数に",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "15時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575378?source=rss",
+    "summary_bullets": [
+      "日本国内の15～69歳における生成AIの利用率が5割を超え、急速な社会浸透が調査で明らかに。",
+      "ビジネスシーンでは顧客接点、業務効率化、新規事業創出において生成AI活用が喫緊の課題となる。",
+      "今後も利用者は増加傾向にあり、企業は技術活用と同時にリテラシー教育や倫理的ガイドライン整備が必須となる。"
+    ],
+    "insight": "この調査結果は、生成AIが一部の専門家のものではなく、一般の人々の日常に深く浸透しつつある現状を示しており、企業は顧客との接点、内部業務効率化、新たなビジネスモデル創出において、生成AI活用を喫緊の課題として再評価する必要があります。",
+    "action_plan": "自社や自身の業務における生成AI活用の可能性を具体的に洗い出し、試験的な導入や社内での情報共有・学習機会を設けてみましょう。",
+    "image_keyword": "AI adoption, generative AI usage, digital transformation",
+    "technical_terms": [
+      {
+        "term": "生成AI",
+        "explanation": "テキスト、画像、音声など、様々なデータを学習し、新しいコンテンツを独自に生成することができる人工知能の技術。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PaGFhdEVaVS1LYjVTZHB2TFAyZU8yelFPUjZxWkozcVZJQXdEc0xwWDVXeGtzYUlUN2RFSDZoeTdSQkRWaldDR3hfMkpGcnQtY0lDdktmTDZURV9RSkxGRGdPaw?oc=5": {
+    "title": "激震！パワー半導体業界、ローム軸に東芝・三菱・デンソーが主導権争いへ",
+    "tags": "Hardware",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PaGFhdEVaVS1LYjVTZHB2TFAyZU8yelFPUjZxWkozcVZJQXdEc0xwWDVXeGtzYUlUN2RFSDZoeTdSQkRWaldDR3hfMkpGcnQtY0lDdktmTDZURV9RSkxGRGdPaw?oc=5",
+    "summary_bullets": [
+      "パワー半導体業界において、ロームを軸に東芝、三菱電機、デンソーなどが絡む業界再編の動きが活発化している。",
+      "電気自動車（EV）や再生可能エネルギーの需要拡大を背景に、日本企業が国際競争力を高めるための戦略的な提携や競争が加速。",
+      "各社の資本提携や共同開発を通じて、技術開発競争と供給体制の強化が進み、グローバルな半導体市場における日本の存在感が変化する見込み。"
+    ],
+    "insight": "パワー半導体業界の再編は、EVや再生可能エネルギーといった次世代産業の成長を加速させる戦略的動きであり、この変革期にどの企業が主導権を握るかは今後の技術トレンドとサプライチェーンに大きな影響を与えるでしょう。",
+    "action_plan": "関連企業の戦略発表や共同開発ニュースを追跡し、自社の事業がパワー半導体市場の動向からどのような影響を受ける可能性があるか、サプライチェーン全体で検討してみましょう。",
+    "image_keyword": "power semiconductor industry",
+    "technical_terms": [
+      {
+        "term": "パワー半導体",
+        "explanation": "高い電圧や電流を効率的に制御し、電力の変換や供給を行う半導体部品。電気自動車（EV）や産業機器、再生可能エネルギー分野などで不可欠な基幹部品です。"
+      },
+      {
+        "term": "業界再編",
+        "explanation": "市場の変化や競争激化に対応するため、企業間の合併、買収、提携などによって業界構造が変化し、競争環境や勢力図が変わる動きです。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkU1V1WEJMdEp0a2p1MkZPZllPWXFQVUh6T1BOcHY2SlNjSkw3MkV3V2JILS0yYTREdWgxZ09Fd1NNbUE2djFHNlZ2VWF3NEs5REh4emE3VjcwbjI0RW1kMHpyWW5QeDFzTTNGbTBFTGVMUXVlV2dHRFJMRG9YdkU?oc=5": {
+    "title": "半導体在庫サイクルが示す世界経済の行方：識者が語る\"あと1年の苦境\"と戦略",
+    "tags": "Semiconductor",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkU1V1WEJMdEp0a2p1MkZPZllPWXFQVUh6T1BOcHY2SlNjSkw3MkV3V2JILS0yYTREdWgxZ09Fd1NNbUE2djFHNlZ2VWF3NEs5REh4emE3VjcwbjI0RW1kMHpyWW5QeDFzTTNGbTBFTGVMUXVlV2dHRFJMRG9YdkU?oc=5",
+    "summary_bullets": [
+      "半導体在庫率の推移が世界経済や株式市場の先行指標として注目されている。",
+      "専門家は半導体市場のサイクルに基づき、今後約1年間は世界的に株価が苦しい相場が続くと予測している。",
+      "半導体の需給バランスと在庫調整の動向が、グローバルな経済回復のタイミングを左右する重要な鍵となる。"
+    ],
+    "insight": "半導体市場の動向は単なるIT産業の問題に留まらず、グローバル経済全体の先行指標であることを理解し、短期的な市場の変動に一喜一憂せず、長期的な視点で事業戦略や投資計画を見直す必要がある。",
+    "action_plan": "半導体関連企業の決算発表や市場レポートを定期的にチェックし、自社のサプライチェーンや投資ポートフォリオにおける半導体関連リスクを洗い出し、対策を検討してみましょう。",
+    "image_keyword": "Semiconductor stock graph",
+    "technical_terms": [
+      {
+        "term": "半導体在庫率",
+        "explanation": "半導体製品の在庫がどの程度あるかを示す指標で、需要と供給のバランス、ひいては景気動向を測るのに使われます。"
+      },
+      {
+        "term": "世界株価",
+        "explanation": "世界の主要な証券市場で取引される企業の株式の価格を総合的に示した指標で、世界経済全体の健全性を示す目安となります。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXREX2dfcnpzNHZVQk9xUmE0UUdzcGswcEFtMWZYWU9VYm1SQWNYWUwzTE0yWFd4SmpIX2t3eHRPWlpqQjRpc0x3NjBPeGloUWdjYmJ4T2NuYXk5czVSS3NYSDROSWhBakh0ZURrRC1QZTZVUm1lMzNEeGc0Z2h0cDluQXhMN3FvMURnb0F5bkp3bmMtcEE?oc=5": {
+    "title": "ラピダスが描く壮大なビジョン：月面半導体工場構想が示す未来技術の限界突破",
+    "tags": "Space Tech",
+    "sentiment": "positive",
+    "sentiment_text": "未来を拓く壮大な話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXREX2dfcnpzNHZVQk9xUmE0UUdzcGswcEFtMWZYWU9VYm1SQWNYWUwzTE0yWFd4SmpIX2t3eHRPWlpqQjRpc0x3NjBPeGloUWdjYmJ4T2NuYXk5czVSS3NYSDROSWhBakh0ZURrRC1QZTZVUm1lMzNEeGc0Z2h0cDluQXhMN3FvMURnb0F5bkp3bmMtcEE?oc=5",
+    "summary_bullets": [
+      "日本の次世代半導体企業ラピダスの社長が、将来的な月面での半導体工場建設という野心的なビジョンを提唱した。",
+      "この構想は、半導体製造のフロンティアを宇宙空間に広げ、地球のサプライチェーンに依存しない新たな生産基盤を模索する動きとして、国家戦略や産業構造に大きな影響を与える可能性を秘めている。",
+      "極限環境下での製造技術革新、宇宙資源の活用、そして宇宙と地球を結ぶ新たな経済圏の創出といった未来トレンドを加速させる兆候といえる。"
+    ],
+    "insight": "この月面工場構想は、単なる技術的な挑戦に留まらず、既存の常識や物理的制約を打ち破る「ムーンショット思考」が、いかに未来のビジネスや社会を再定義し得るかを示す強力な事例である。",
+    "action_plan": "自社の事業領域において、現状の課題をブレイクスルーするような、一見非現実的に思える「ムーンショット」的なアイデアを5つ書き出し、それぞれの潜在的インパクトと実現に向けた最初のステップを検討してみましょう。",
+    "image_keyword": "Lunar semiconductor factory, Moon base chip manufacturing, Future space tech",
+    "technical_terms": [
+      {
+        "term": "半導体工場",
+        "explanation": "半導体チップを製造するための、高度なクリーンルームや特殊な装置を備えた施設です。温度や湿度、塵の管理が非常に厳しく行われます。"
+      },
+      {
+        "term": "ラピダス",
+        "explanation": "日本の主要企業が出資し、次世代の先端半導体製造技術の国産化を目指して設立された企業です。国際競争力強化を目指しています。"
       }
     ]
   }
