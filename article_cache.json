@@ -345,7 +345,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "11日前",
+    "time_ago": "12日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/26/news108.html",
     "summary_bullets": [
       "Googleが量子耐性暗号（PQC）への移行を2029年に前倒しし、Android 17から導入を開始すると発表した。",
@@ -372,7 +372,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "13日前",
+    "time_ago": "14日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/24/news100.html",
     "summary_bullets": [
       "NICTが研究開発用の音声コーパスを誤って公開し、話者の呼称など個人情報が漏えいしたことを発表。",
@@ -630,7 +630,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "4日前",
+    "time_ago": "5日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/02/news075.html",
     "summary_bullets": [
       "マイナビが利用するクラウドサービスで不正アクセスが発生し、ユーザー情報約7万件の流出の可能性が判明。",
@@ -1398,6 +1398,242 @@
       {
         "term": "ラピダス",
         "explanation": "日本の主要企業が出資し、次世代の先端半導体製造技術の国産化を目指して設立された企業です。国際競争力強化を目指しています。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/08/news037.html": {
+    "title": "NECが川崎に開設する『AIパーク』：先端技術が織りなす次世代オフィス体験とは？",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/08/news037.html",
+    "summary_bullets": [
+      "NECが川崎にAIや先端技術を実装した未来型オフィス「AIパーク」をオープン。",
+      "最新テクノロジーを統合したオフィス環境が、企業の生産性向上と新しい働き方を推進するモデルとなる可能性。",
+      "AIやIoTを活用したスマートオフィスは、今後の企業オフィス設計の標準となり、多様なワークスタイルを支援するトレンドを加速させるでしょう。"
+    ],
+    "insight": "AIパークのような先端オフィスは、単なる作業空間を超え、従業員の創造性とコラボレーションを最大化する戦略的資産であると理解し、自社の未来の働き方を再考するきっかけとすべきです。",
+    "action_plan": "自社のオフィス環境がAIや最新テクノロジーをどのように取り入れられるか、具体的なユースケースをチームでブレインストーミングし、改善点を書き出してみましょう。",
+    "image_keyword": "smart tech office, AI park future, futuristic workplace",
+    "technical_terms": [
+      {
+        "term": "AI",
+        "explanation": "人工知能 (Artificial Intelligence) の略で、人間の知能を模倣して学習、推論、問題解決を行うコンピューターシステムです。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2604/08/news056.html": {
+    "title": "Anthropicが主導！AIでサイバーセキュリティを革新する「Project Glasswing」にApple, Microsoft, Googleら巨頭が結集",
+    "tags": "Cybersecurity",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/08/news056.html",
+    "summary_bullets": [
+      "AnthropicがAIを活用した脆弱性対策プロジェクト「Project Glasswing」を立ち上げ、Apple, Microsoft, Googleなど主要テック企業が参加。",
+      "AIモデルの悪用によるサイバー攻撃リスクが増大する中、業界横断的な協力体制でセキュリティ強化と信頼性向上に寄与する。",
+      "AIを基盤とした防御システムの開発が加速し、サイバーセキュリティのパラダイムシフトが期待される新たなトレンド。",
+      "AIがソフトウェアの脆弱性発見・修正を支援することで、開発プロセス全体のセキュリティが向上する可能性を秘める。"
+    ],
+    "insight": "AIの進化はビジネスを加速させる一方で、新たなセキュリティリスクも生み出す。業界の主要プレイヤーが連携して防御策を講じる動きは、あらゆる企業にとってAI導入時のセキュリティ戦略を再考する喫緊の契機となるでしょう。",
+    "action_plan": "自社が利用・開発しているAIシステムにおける潜在的な脆弱性を棚卸しし、AI時代のセキュリティガイドライン策定や専門家への相談を検討してみましょう。",
+    "image_keyword": "AI cybersecurity network",
+    "technical_terms": [
+      {
+        "term": "Anthropic",
+        "explanation": "OpenAIと並ぶ主要なAI研究開発企業で、安全性と倫理に重点を置いたAIモデルを開発。"
+      },
+      {
+        "term": "Project Glasswing",
+        "explanation": "Anthropicが主導する、AI技術を活用してソフトウェアの脆弱性を発見し修正することを目的とした共同プロジェクト。"
+      },
+      {
+        "term": "脆弱性対策",
+        "explanation": "ソフトウェアやシステムに存在するセキュリティ上の弱点（バグなど）を発見し、攻撃者が悪用できないように修正する取り組み。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/07/news124.html": {
+    "title": "TOPPAN、AI-OCRで難解「中世ギリシャ語」を解読成功 - 日本のくずし字技術が歴史を拓く",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "10時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/07/news124.html",
+    "summary_bullets": [
+      "TOPPANが日本語の「くずし字」解読技術を応用し、判読困難な中世ギリシャ語のAI-OCR開発に成功した。",
+      "この技術は、世界中の歴史的文献や文化財のデジタル化・研究を加速させ、学術分野に新たな道を開く可能性を秘めている。",
+      "特定ドメインに特化したAI-OCR技術の進化は、多言語・多文化コンテンツのデジタルアーカイブ化と活用を促進するトレンドとなるだろう。"
+    ],
+    "insight": "既存のAI技術を異なるドメインに応用することで、これまで不可能とされてきた歴史的・文化的な課題解決に大きく貢献できる可能性があり、自社の技術資産の再評価と異分野連携の機会を探るべきである。",
+    "action_plan": "自社が保有する技術やノウハウを、これまで接点がなかった異分野の課題解決に応用できないか、ブレインストーミングの機会を設けてみましょう。",
+    "image_keyword": "AI OCR ancient script",
+    "technical_terms": [
+      {
+        "term": "AI-OCR",
+        "explanation": "OCR（光学的文字認識）にAI技術を組み込み、手書き文字や複雑な書体の高精度な認識を可能にしたシステム。"
+      },
+      {
+        "term": "くずし字",
+        "explanation": "日本語の旧字体や筆記体が崩れた独特の書体で、現代人には判読が困難なことが多い。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6575462?source=rss": {
+    "title": "サムスン、四半期営業益が驚異の8倍超見込み！半導体市場の本格回復を告げるか",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "14時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575462?source=rss",
+    "summary_bullets": [
+      "サムスンの2024年1〜3月期連結営業利益が、前年同期比8倍以上となる約6兆4000億ウォン（約7000億円）に急増する見込み。",
+      "これは、AI需要に牽引されたメモリ半導体市場の顕著な回復を示唆し、グローバルテクノロジー産業全体へのポジティブな波及効果が期待される。",
+      "半導体サイクルが本格的な上昇局面に突入したことを裏付け、関連企業の設備投資や研究開発が加速するトレンドが予測される。"
+    ],
+    "insight": "サムスンの業績急回復は、AI需要に牽引される半導体市場の本格的なV字回復を明確に示しており、今後テクノロジー投資の加速、特にデータセンターやAIインフラ関連ビジネスにおける新たな機会創出が期待できるでしょう。",
+    "action_plan": "自社のテクノロジー戦略を見直し、AI関連技術や半導体依存度の高い製品・サービスの市場動向を改めて分析してみましょう。また、サプライチェーンにおける半導体調達戦略の最適化についても検討を始める良い機会です。",
+    "image_keyword": "Samsung earnings, semiconductor recovery, tech growth",
+    "technical_terms": [
+      {
+        "term": "営業利益",
+        "explanation": "企業が本業で稼いだ利益を示す指標で、売上高から売上原価と販売費・一般管理費を差し引いたもの。"
+      },
+      {
+        "term": "半導体",
+        "explanation": "電気を通したり通さなかったりする性質を持つ物質で、スマートフォンやPC、AIデバイスなどの電子機器の頭脳となる重要な部品。"
+      },
+      {
+        "term": "メモリ半導体",
+        "explanation": "データを一時的または永続的に保存するための半導体。DRAMやNANDフラッシュなどが代表的で、AI処理のデータ保存に不可欠。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6575459?source=rss": {
+    "title": "米AIトップ3社が戦略的連携：激化するグローバルAI覇権競争の最前線",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "14時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575459?source=rss",
+    "summary_bullets": [
+      "米国の主要AI開発企業3社が戦略的連携を組み、中国勢とのAI技術競争における優位性確立を目指している。",
+      "この連携は、AI技術開発の加速と米国主導のAIエコシステム強化に繋がり、地政学的リスクを伴う技術覇権争いを激化させる。",
+      "今後は、AI分野での国際的な協調と競争がさらに活発化し、技術標準や規制に関する議論にも大きな影響を与えるだろう。"
+    ],
+    "insight": "グローバルなAI技術開発競争は、単なる企業間競争を超え、国家レベルの戦略的課題となっています。今回の米大手3社の連携は、技術的優位性を確保し、将来のAI産業の方向性を決定づける重要な動きとして注目すべきです。",
+    "action_plan": "自社のAI戦略やサプライチェーンにおける地政学的リスクを再評価し、グローバルなAIエコシステムの動向に適応できるよう、情報収集と新たなパートナーシップの可能性を積極的に検討してみましょう。",
+    "image_keyword": "AI alliance, US China tech, global AI competition",
+    "technical_terms": []
+  },
+  "https://news.yahoo.co.jp/pickup/6575449?source=rss": {
+    "title": "激震！メモリ高騰がゲーム機市場を揺るがす未来予測",
+    "tags": "Hardware",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "18時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575449?source=rss",
+    "summary_bullets": [
+      "DRAMなどのメモリ価格高騰がゲーム機製造コストを直接的に押し上げ、市場全体に不確実性をもたらしている。",
+      "ゲーム機メーカーは価格戦略の見直しや供給網の安定化が急務となり、消費者の購買意欲や次世代機の開発・投入計画にも影響が及ぶ可能性がある。",
+      "半導体市場の変動が最終製品の価格決定や供給体制に直結し、今後もサプライチェーンの強靭化が産業界の重要課題として浮上する。"
+    ],
+    "insight": "半導体サプライチェーンの不安定性は、特定の市場だけでなく、広範な産業のコスト構造と事業戦略に大きな影響を与えるため、継続的な市場動向の監視とリスクヘッジが不可欠である。",
+    "action_plan": "自社の製品ポートフォリオにおける主要部品のサプライチェーンを再評価し、代替調達先の確保や長期契約の検討など、供給リスクへの対策を今日から具体的に洗い出してみましょう。",
+    "image_keyword": "Gaming hardware cost increase",
+    "technical_terms": [
+      {
+        "term": "メモリ (Memory)",
+        "explanation": "コンピュータがデータを一時的に保存するために使われる半導体部品。主にDRAMやNANDフラッシュがゲーム機などに利用されます。"
+      },
+      {
+        "term": "半導体 (Semiconductor)",
+        "explanation": "電気を通したり通さなかったりする性質を持つ物質で、IC（集積回路）やトランジスタなど、現代の電子機器に不可欠な素材です。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE15QUs1aEwxWWVpRGhnUXhkLTFCbUdsal83N2xkenNFZDZBVV9LemVjMDkxWFBxQmFsWUVyY2l5cHFoVmVfb05Eb05wM01XSHRkQ0hHR1ZjbzhZT1ljVEo3WDNoM25laEttUk1vblg3VVFoVUZtVFNFZ1BOWlgyM28?oc=5": {
+    "title": "韓国経済、歴史的躍進！輸出7000億ドル突破、半導体好況が牽引し日本超えの視界へ",
+    "tags": "Global Economy",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15QUs1aEwxWWVpRGhnUXhkLTFCbUdsal83N2xkenNFZDZBVV9LemVjMDkxWFBxQmFsWUVyY2l5cHFoVmVfb05Eb05wM01XSHRkQ0hHR1ZjbzhZT1ljVEo3WDNoM25laEttUk1vblg3VVFoVUZtVFNFZ1BOWlgyM28?oc=5",
+    "summary_bullets": [
+      "韓国の年間輸出額が歴史上初めて7000億ドルを突破した。",
+      "半導体産業の好況がこの輸出成長を強力に牽引しており、国際市場での競争力を高めている。",
+      "今回の経済的躍進により、韓国が日本の輸出規模を超え、世界経済における主要プレーヤーとしての地位を確立する可能性が視野に入っている。"
+    ],
+    "insight": "韓国の輸出拡大は半導体産業への依存度が高く、グローバルサプライチェーンの変化や技術革新の動向が、今後の国家経済の成長戦略を大きく左右する重要な要素となることを示唆しています。",
+    "action_plan": "自社の事業が半導体サプライチェーンや関連産業とどのように結びついているかを再評価し、韓国を含む東アジア経済の動向が事業に与える影響を分析してみましょう。",
+    "image_keyword": "South Korea export growth, semiconductor industry, global trade",
+    "technical_terms": [
+      {
+        "term": "半導体好況",
+        "explanation": "半導体の需要が世界的に大きく増加し、関連企業の業績が好調に推移している経済状態。デジタル化の進展やAI技術の普及が背景にある。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CdWxPNC11SDhpaE8zRkcyQmV5X3ZvbTJXeDg2cEVmbElRM3JYTTdIMTJubS1ETDAyZ1J6c29CR3MtWm5MQ0pUSkM0SFA0YXRNZFFIT0tDbWVtZC1CeVFwUHRGbFo0QTZmY0lXRkQzbWJueG45TDlrM0J3RzNnRFU?oc=5": {
+    "title": "NVIDIAが巨額投資するMarvell Technologyの核心：AI時代の半導体戦略を読み解く",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CdWxPNC11SDhpaE8zRkcyQmV5X3ZvbTJXeDg2cEVmbElRM3JYTTdIMTJubS1ETDAyZ1J6c29CR3MtWm5MQ0pUSkM0SFA0YXRNZFFIT0tDbWVtZC1CeVFwUHRGbFo0QTZmY0lXRkQzbWJueG45TDlrM0J3RzNnRFU?oc=5",
+    "summary_bullets": [
+      "NVIDIAが半導体企業Marvell Technologyに超大型投資を行っていることが判明。",
+      "この投資は、AIおよびデータセンター市場におけるNVIDIAの戦略的強化とエコシステム拡大を目的としている。",
+      "Marvell Technologyが持つ高性能半導体技術が、次世代AIインフラ構築の鍵を握る可能性を示唆する。",
+      "AI時代の到来により、NVIDIAはGPUに加えて周辺技術にも積極的に投資し、全体的な市場支配力を高めようとしている。"
+    ],
+    "insight": "AI時代の進展はGPUだけでなく、データセンターやネットワークインフラを支える多様な高性能半導体の重要性を高めており、NVIDIAのような業界リーダーは、エコシステム全体への戦略的投資を通じてその優位性を盤石にしようとしていることを理解すべきです。",
+    "action_plan": "自社のAI戦略やデータセンターインフラにおいて、GPU以外の半導体ソリューション（DPU、ASICなど）がどのような価値をもたらすか、最新の技術トレンドを調査し、潜在的なパートナーシップや技術導入の機会を検討してみましょう。",
+    "image_keyword": "AI semiconductor investment",
+    "technical_terms": [
+      {
+        "term": "AI半導体",
+        "explanation": "人工知能（AI）の計算処理に特化した半導体チップの総称。GPU、ASIC、FPGAなどが含まれる。"
+      },
+      {
+        "term": "データセンター",
+        "explanation": "大量のサーバーやネットワーク機器を集約し、データ処理、ストレージ、ネットワークサービスなどを提供する施設。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE10aDlBUnEtQ2MtY2lQR3BuUHE5ZlpBT2NZX2RPS0YtMWtEZURwS3hIT0lhRy1hNVVwWkhiSnpHMjItZnRPY3hYNHk3Z3BrWm40ck9XUW04alhHckZ1VkJieWQ2REJqeUoxLUptMnNBSEVHcFVjZnBEb0NiNEZUamc?oc=5": {
+    "title": "イーロン・マスク氏の半導体構想にインテルが参画：未来のAIチップを巡る協業の行方",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10aDlBUnEtQ2MtY2lQR3BuUHE5ZlpBT2NZX2RPS0YtMWtEZURwS3hIT0lhRy1hNVVwWkhiSnpHMjItZnRPY3hYNHk3Z3BrWm40ck9XUW04alhHckZ1VkJieWQ2REJqeUoxLUptMnNBSEVHcFVjZnBEb0NiNEZUamc?oc=5",
+    "summary_bullets": [
+      "イーロン・マスク氏が主導する半導体開発構想に、大手半導体メーカーの米インテルが支援体制で参画することが明らかになった。",
+      "これは、AI技術の進化を加速させる上で不可欠な高性能AIチップの供給網と開発競争における、極めて戦略的な提携と見られている。",
+      "両社の協業は、今後のAIインフラ、データセンター、さらには関連産業全体の技術革新と市場動向に大きな影響を与える可能性を秘めている。"
+    ],
+    "insight": "AI時代の覇権を握る上で、高性能な半導体チップの開発力と安定的な供給網の確保が企業の死活問題であり、今回の提携は異業種間の戦略的協業がさらに加速するトレンドを示唆している。",
+    "action_plan": "自社のAI戦略におけるハードウェアインフラのロードマップを見直し、半導体サプライチェーンの多様化や、新たなパートナーシップ構築の可能性を検討してみましょう。",
+    "image_keyword": "Elon Musk Intel Semiconductor",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "電気を通したり通さなかったりする性質を持つ物質で、コンピュータやスマートフォンなど、あらゆる電子機器の頭脳となる集積回路（ICチップ）の基盤材料です。"
+      },
+      {
+        "term": "AIチップ",
+        "explanation": "人工知能（AI）の計算処理に特化して設計された半導体チップで、大量のデータを高速かつ効率的に処理することで、AIの性能向上に不可欠な役割を果たします。"
       }
     ]
   }
