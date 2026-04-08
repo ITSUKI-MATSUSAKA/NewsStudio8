@@ -345,7 +345,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "12日前",
+    "time_ago": "13日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/26/news108.html",
     "summary_bullets": [
       "Googleが量子耐性暗号（PQC）への移行を2029年に前倒しし、Android 17から導入を開始すると発表した。",
@@ -630,7 +630,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "5日前",
+    "time_ago": "6日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/02/news075.html",
     "summary_bullets": [
       "マイナビが利用するクラウドサービスで不正アクセスが発生し、ユーザー情報約7万件の流出の可能性が判明。",
@@ -1489,7 +1489,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 5,
-    "time_ago": "14時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6575462?source=rss",
     "summary_bullets": [
       "サムスンの2024年1〜3月期連結営業利益が、前年同期比8倍以上となる約6兆4000億ウォン（約7000億円）に急増する見込み。",
@@ -1636,5 +1636,50 @@
         "explanation": "人工知能（AI）の計算処理に特化して設計された半導体チップで、大量のデータを高速かつ効率的に処理することで、AIの性能向上に不可欠な役割を果たします。"
       }
     ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/09/news013.html": {
+    "title": "音声AI×ハードウェア融合の最前線：”話す自販機”が拓く新ビジネスと日本の未来戦略",
+    "tags": "Voice AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/09/news013.html",
+    "summary_bullets": [
+      "音声AIとハードウェアの融合が急速に進展し、身近なデバイス（例: 自販機）の顧客体験を大きく変革する。",
+      "この技術進化は新たなビジネスモデル創出の機会を提供し、特に日本市場が世界をリードする勝機を秘めている。",
+      "AI搭載ハードウェアによるパーソナライズされたサービス提供が主流となり、多岐にわたる産業での応用が加速すると予測される。"
+    ],
+    "insight": "音声AIとハードウェアの組み合わせは、顧客接点やサービス提供方法を根本から再定義する戦略的な機会であり、自社の競争力を高める上でこの技術トレンドへの早期適応と活用は不可欠です。特に日本市場の特性を理解し、独自のソリューションを開発することが国際的な優位性を築く鍵となります。",
+    "action_plan": "自社の製品やサービスにおいて、音声AIとハードウェアの統合がどのような顧客体験の変革をもたらすか、具体的なユースケースを洗い出し、潜在的なビジネスチャンスを評価してみましょう。",
+    "image_keyword": "Voice AI Hardware Innovation",
+    "technical_terms": [
+      {
+        "term": "音声AI",
+        "explanation": "人間の音声を認識し、理解・処理することで、対話や指示応答を可能にする人工知能技術。"
+      },
+      {
+        "term": "ハードウェア",
+        "explanation": "コンピュータや情報機器を構成する物理的な装置や部品全般。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6575549?source=rss": {
+    "title": "メルカリ、売上金活用の新機能を発表：ユーザー利便性と決済エコシステム強化へ",
+    "tags": "FinTech",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "17時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575549?source=rss",
+    "summary_bullets": [
+      "メルカリが売上金に関する新機能を導入し、ユーザーの利便性向上と活用範囲の拡大を図る。",
+      "フリマアプリの経済圏をさらに拡大させ、デジタル決済市場におけるメルカリの存在感を強化する可能性が高い。",
+      "プラットフォーム事業者が自社エコシステム内で金融サービスを拡充するFinTechトレンドが加速し、他社も同様の戦略を強化すると予測される。"
+    ],
+    "insight": "プラットフォーム事業者は、単なる取引の場提供にとどまらず、決済や金融サービスを統合した包括的なエコシステムを構築することで、顧客エンゲージメントの深化と新たな収益源確保を実現できるという洞察が得られます。",
+    "action_plan": "自社のサービスやプラットフォームにおいて、既存顧客の利便性を高める決済機能や、売上金・ポイントなどの内部通貨を活用した新たなサービス連携の可能性について検討し、ビジネスモデルの多角化を模索してみましょう。",
+    "image_keyword": "Mercari payment, digital wallet, e-commerce fintech",
+    "technical_terms": []
   }
 }
