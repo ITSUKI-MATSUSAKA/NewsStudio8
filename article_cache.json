@@ -345,7 +345,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "13日前",
+    "time_ago": "14日前",
     "url": "https://www.itmedia.co.jp/news/articles/2603/26/news108.html",
     "summary_bullets": [
       "Googleが量子耐性暗号（PQC）への移行を2029年に前倒しし、Android 17から導入を開始すると発表した。",
@@ -630,7 +630,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "6日前",
+    "time_ago": "7日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/02/news075.html",
     "summary_bullets": [
       "マイナビが利用するクラウドサービスで不正アクセスが発生し、ユーザー情報約7万件の流出の可能性が判明。",
@@ -1681,5 +1681,90 @@
     "action_plan": "自社のサービスやプラットフォームにおいて、既存顧客の利便性を高める決済機能や、売上金・ポイントなどの内部通貨を活用した新たなサービス連携の可能性について検討し、ビジネスモデルの多角化を模索してみましょう。",
     "image_keyword": "Mercari payment, digital wallet, e-commerce fintech",
     "technical_terms": []
+  },
+  "https://kn.itmedia.co.jp/kn/articles/2604/10/news047.html": {
+    "title": "【速報】2026年、AI使いこなしの鍵は「現場力」！東京都と明治安田が示す未来の人材要件",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2604/10/news047.html",
+    "summary_bullets": [
+      "2026年に企業や行政でAIを「使いこなす人」に求められる具体的な条件とスキルセットが議論された。",
+      "東京都と明治安田の事例を通じて、現場の課題解決に直結するAI活用の重要性が浮き彫りになった。",
+      "AI技術の導入だけでなく、組織全体で現場の知見とAIを結びつける人材育成が今後の競争力に不可欠となるトレンドを示す。"
+    ],
+    "insight": "AI技術の導入だけでなく、現場の具体的な課題とビジネスプロセスを深く理解し、AIを実用レベルで活用できる人材の育成こそが、2026年以降の企業の競争力を決定づける核心的要素である。",
+    "action_plan": "自社の業務においてAIで解決できる課題を具体的に洗い出し、AI技術の学習と並行して現場社員のAIリテラシー向上に向けた社内教育プログラムの企画・見直しを始めてみましょう。",
+    "image_keyword": "AI workplace future, human AI collaboration, smart office strategy",
+    "technical_terms": [
+      {
+        "term": "AI",
+        "explanation": "人間の学習・推論・認識能力をコンピュータで再現しようとする技術。データ分析、自動化、予測などに活用される。"
+      },
+      {
+        "term": "現場力",
+        "explanation": "組織や業務の最前線で発生する具体的な課題を認識し、自ら解決策を見出して実行する能力。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/10/news026.html": {
+    "title": "「物探しに2時間」の非効率を打破！中小塗装工場がなぜDXに踏み切ったのか？元SE社長が示す「勝ち筋」",
+    "tags": "DX",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/10/news026.html",
+    "summary_bullets": [
+      "「物探しに2時間」という非効率が常態化していた中小塗装工場が、元SEの社長主導でDX導入に踏み切った。",
+      "中小企業が抱える業務効率化の課題に対し、外部に丸投げではなく、経営層の理解と主体的な関与が成功の鍵となることを示唆している。",
+      "今後、中小企業におけるDX推進は、経営層のITリテラシー向上と、自社の課題に合わせた最適なソリューション選定が重要トレンドとなるだろう。"
+    ],
+    "insight": "日本の中小企業が抱える「非効率」という共通課題に対し、経営者自らが過去の経験や知識を活かし、具体的な勝ち筋を持ってDXに取り組むことの重要性を強く示唆しています。安易なベンダー任せではなく、自社文化に根ざした変革こそが持続的な成長に繋がります。",
+    "action_plan": "自社内で「何となく当たり前になっている非効率な作業」をリストアップしてみましょう。そして、その課題に対してテクノロジーがどう貢献できるか、社内のITリテラシーが高い人物と議論する機会を設けてみましょう。",
+    "image_keyword": "small factory DX, lean manufacturing, digital transformation",
+    "technical_terms": [
+      {
+        "term": "DX",
+        "explanation": "デジタル技術を活用して、ビジネスモデルや業務プロセス、組織文化を変革し、競争優位性を確立すること。デジタルトランスフォーメーションの略。"
+      },
+      {
+        "term": "SE",
+        "explanation": "システムエンジニアの略。情報システムの設計、開発、運用などを行う技術者。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NbnlkTko1Slk3ZHNYZXJMUlhQS2UtcjZ4aUYtV0NWOHNKMVhINkItYTR5LTg5OXBlUG55SmRZblJMNFZpZ0hIaGl1VkhRWVlSdkcwcldEN2JNeWtDaEpHcF9ka09vRnA4dXp2WWl4LXpIcGpUa3dSV1Z5STNtWkE?oc=5": {
+    "title": "サムスン電子、半導体好調の裏でスマホ事業に陰り - 複雑化する収益構造の課題",
+    "tags": "Hardware",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NbnlkTko1Slk3ZHNYZXJMUlhQS2UtcjZ4aUYtV0NWOHNKMVhINkItYTR5LTg5OXBlUG55SmRZblJMNFZpZ0hIaGl1VkhRWVlSdkcwcldEN2JNeWtDaEpHcF9ka09vRnA4dXp2WWl4LXpIcGpUa3dSV1Z5STNtWkE?oc=5",
+    "summary_bullets": [
+      "サムスン電子は半導体事業がAI需要などに牽引され好況を享受する一方、主力のスマートフォン「ギャラクシー」部門の収益が悪化している。",
+      "グローバルなスマホ市場の競争激化と消費者の購買力低下が同社のモバイル事業に影響を与え、多角化企業としての収益源の偏りが露呈。",
+      "半導体市場の変動性とスマホ市場の成熟化は、今後、多様な事業を持つ企業のポートフォリオ戦略や新たな成長分野への投資を加速させる可能性を示唆している。"
+    ],
+    "insight": "このニュースは、多角化企業がいかに異なる市場環境の変化に同時に対応していくかという経営課題を浮き彫りにしています。特定の事業が好調でも、他事業の不振が全体に影響を与えるため、常にポートフォリオ全体のバランスとリスクを評価し、柔軟な戦略転換が求められます。",
+    "action_plan": "自社の事業ポートフォリオを定期的に見直し、各事業の市場環境変化への感度と収益貢献度を再評価してみましょう。また、今後の成長ドライバーとなりうる新たな技術や市場トレンドを調査し、潜在的な投資先やパートナーシップの可能性を書き出してみましょう。",
+    "image_keyword": "Samsung semiconductor smartphone, tech market struggle, corporate strategy",
+    "technical_terms": [
+      {
+        "term": "半導体好況",
+        "explanation": "AIやデータセンター、高性能コンピューティング需要の増加に牽引され、半導体産業全体の需要と収益が拡大している状況。"
+      },
+      {
+        "term": "ギャラクシー (Galaxy)",
+        "explanation": "韓国サムスン電子が展開するスマートフォン、タブレット、ウェアラブルデバイスなどの主要なブランドシリーズ。"
+      },
+      {
+        "term": "収益悪化",
+        "explanation": "企業の売上高が減少したり、経費が増加したりすることによって、利益が以前よりも少なくなる状態。"
+      }
+    ]
   }
 }
