@@ -1766,5 +1766,104 @@
         "explanation": "企業の売上高が減少したり、経費が増加したりすることによって、利益が以前よりも少なくなる状態。"
       }
     ]
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2604/11/news019.html": {
+    "title": "【緊急速報】AIが新卒採用枠を激減か？中途採用も半数影響で「売り手市場」終焉の危機",
+    "tags": "AI / Employment",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2604/11/news019.html",
+    "summary_bullets": [
+      "AIの進化により、新卒採用枠が激減する可能性が指摘され、中途採用にも約半数の職種で影響が及ぶ見込みです。",
+      "これにより、これまで続いた「売り手市場」は終焉を迎え、企業は採用戦略、個人はキャリア戦略の根本的な見直しを迫られます。",
+      "AIとの協業や高付加価値スキルへのシフトが急務となり、労働市場全体の再編が不可避となるでしょう。"
+    ],
+    "insight": "AIによる雇用市場の変化は、単なる効率化の波ではなく、従来の採用モデルやキャリアパスを根底から覆す構造的な変革であることを認識し、企業は人材戦略の再構築、個人はキャリアの再定義が喫緊の課題となる。",
+    "action_plan": "自社の採用戦略や部署ごとの業務内容をAIで代替可能か緊急で洗い出し、人材配置計画を見直してみましょう。また、個人としては、自身のスキルセットがAI時代に通用するか棚卸しし、リスキリング計画を具体的に立ててみましょう。",
+    "image_keyword": "AI job market transformation, recruitment impact",
+    "technical_terms": [
+      {
+        "term": "AI代替",
+        "explanation": "人工知能（AI）が人間の労働力や特定の業務を遂行し、置き換えること。これにより、効率化やコスト削減が期待される一方で、雇用への影響が懸念される。"
+      },
+      {
+        "term": "売り手市場",
+        "explanation": "労働市場において、求職者の数が求人数よりも少なく、企業が人材を獲得しにくい状況。求職者が有利な条件で仕事を選べる傾向にある。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/10/news132.html": {
+    "title": "AI戦略担当相、自身のAI活用は「業務で必要性感じず」と明言も、AI人材育成の推進を強調",
+    "tags": "AI Strategy",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "10時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/10/news132.html",
+    "summary_bullets": [
+      "小野田紀美AI戦略担当相が、自身の業務ではAIの必要性をまだ感じていないと発言。",
+      "一方で、日本のAI戦略としてAI人材育成の重要性を強く推進する姿勢を示した。",
+      "政府要人のAI利用実態と、国が目指すAI社会とのギャップが浮き彫りになり、企業や個人のAI導入意識に影響を与える可能性。"
+    ],
+    "insight": "AI推進の旗振り役である政府高官でさえ、業務でのAI活用に具体的な必要性を感じていないという事実は、多くの企業や従業員が直面するAI導入のハードルを象徴しています。AIの真の価値理解と具体的な活用事例の啓蒙が、社会全体のAIリテラシー向上には不可欠であると洞察できます。",
+    "action_plan": "自身の部署や業務で「AIはまだ必要ない」と感じている領域について、改めてAIツールを試用し、その潜在的な効果や効率化の可能性を具体的に書き出してみましょう。",
+    "image_keyword": "AI policy Japan, government AI strategy, digital transformation office",
+    "technical_terms": []
+  },
+  "https://news.yahoo.co.jp/pickup/6575813?source=rss": {
+    "title": "アニメOPの生成AI利用で制作会社が謝罪：問われるクリエイター倫理と透明性",
+    "tags": "AI Ethics",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "10時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575813?source=rss",
+    "summary_bullets": [
+      "アニメのオープニング映像に生成AIが使用されたことが発覚し、制作会社が謝罪に至った。",
+      "生成AIの利用における透明性や倫理規定の欠如が、コンテンツ業界の信頼性低下を招くリスクを露呈した。",
+      "クリエイティブ業界では生成AIの利用ガイドライン策定と技術的透明性確保が急務となることが予測される。"
+    ],
+    "insight": "生成AIを事業に導入する企業は、その技術的メリットだけでなく、倫理的側面、著作権、そして透明性に関する社会からの視線を強く意識し、明確なポリシーとコミュニケーション戦略を構築する必要がある。",
+    "action_plan": "自社でAIを活用する際の倫理ガイドラインや利用ポリシーを再確認し、従業員への周知徹底を図りましょう。また、AI生成コンテンツにおける透明性確保のための技術的・運用的なプロセスを検討し、ステークホルダーへの説明責任を果たす準備を始めましょう。",
+    "image_keyword": "AI art ethics, animation controversy, creative transparency",
+    "technical_terms": [
+      {
+        "term": "生成AI",
+        "explanation": "既存のデータ（画像、テキストなど）を学習し、新しいデータやコンテンツを自動的に作り出す人工知能技術。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/10/news023.html": {
+    "title": "1億DL超の人気ライブラリ『Axios』に激震！巧妙なアカウント乗っ取りから始まるサプライチェーン攻撃の脅威",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "19時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/10/news023.html",
+    "summary_bullets": [
+      "人気JavaScriptライブラリ「Axios」が、開発者アカウント乗っ取りを起点とする巧妙なサプライチェーン攻撃の標的となった。",
+      "オープンソースソフトウェアへの依存が高い現代において、サプライチェーン攻撃は企業のシステムやユーザーデータに広範かつ深刻な影響を及ぼす重大なリスクである。",
+      "開発プロセスのセキュリティ強化、多要素認証の徹底、そしてSaaSやOSSコンポーネントの継続的な信頼性検証が今後の業界標準となるだろう。"
+    ],
+    "insight": "この事件は、単にソフトウェアの脆弱性対策だけでなく、開発者アカウントの保護から、利用する全ての外部コンポーネントの供給源まで、サプライチェーン全体のセキュリティを網羅的に見直す必要性を企業に突きつけるものです。",
+    "action_plan": "自社が利用するオープンソースライブラリやSaaSの依存関係をすべて棚卸しし、開発者アカウントの多要素認証が徹底されているか、またソフトウェアコンポーネントの真正性を検証する仕組みが導入されているかを見直しましょう。",
+    "image_keyword": "supply chain attack, cyber security network, software vulnerability",
+    "technical_terms": [
+      {
+        "term": "サプライチェーン攻撃",
+        "explanation": "ソフトウェアの開発・配布プロセスを標的とし、正規の製品やサービスに悪意のあるコードを混入させる攻撃手法です。"
+      },
+      {
+        "term": "アカウント乗っ取り",
+        "explanation": "ユーザー名やパスワードなどの認証情報を不正に入手し、本人になりすましてサービスやシステムにアクセスすることです。"
+      },
+      {
+        "term": "ライブラリ",
+        "explanation": "プログラム開発において頻繁に利用される汎用的な機能やコードをまとめた部品集で、効率的な開発を可能にします。"
+      }
+    ]
   }
 }
