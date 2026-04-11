@@ -1773,7 +1773,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "たった今",
+    "time_ago": "1日前",
     "url": "https://monoist.itmedia.co.jp/mn/articles/2604/11/news019.html",
     "summary_bullets": [
       "AIの進化により、新卒採用枠が激減する可能性が指摘され、中途採用にも約半数の職種で影響が及ぶ見込みです。",
@@ -1800,7 +1800,7 @@
     "sentiment": "neutral",
     "sentiment_text": "注目の話題",
     "rating": 4,
-    "time_ago": "10時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/10/news132.html",
     "summary_bullets": [
       "小野田紀美AI戦略担当相が、自身の業務ではAIの必要性をまだ感じていないと発言。",
@@ -1841,7 +1841,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "19時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/10/news023.html",
     "summary_bullets": [
       "人気JavaScriptライブラリ「Axios」が、開発者アカウント乗っ取りを起点とする巧妙なサプライチェーン攻撃の標的となった。",
@@ -1863,6 +1863,254 @@
       {
         "term": "ライブラリ",
         "explanation": "プログラム開発において頻繁に利用される汎用的な機能やコードをまとめた部品集で、効率的な開発を可能にします。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/11/news018.html": {
+    "title": "経産省選定「DX銘柄2026」が発表：SMBCの500億円超投資が問うDXの真価",
+    "tags": "Digital Transformation",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "23時間前",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/11/news018.html",
+    "summary_bullets": [
+      "経済産業省がデジタル変革（DX）に優れた企業を選定する「DX銘柄2026」に30社を認定した。",
+      "3年連続選出のSMBCはDXに500億円超を投資しており、その具体的な成果と企業価値への貢献が注目されている。",
+      "今後の企業のDX戦略においては、単なる投資規模だけでなく、投資対効果（ROI）と明確な事業成果がより強く求められるトレンドが予測される。"
+    ],
+    "insight": "DX投資は規模だけでなく、それが具体的にどのような事業成果や企業価値向上に繋がっているのかを明確に示し、定量的に評価することが、企業が競争力を維持・向上させる上で不可欠となる。",
+    "action_plan": "自社のDX推進状況を再評価し、DX投資がもたらすビジネス成果を測定するためのKPI（重要業績評価指標）設定と、その進捗を追跡する仕組みを構築してみましょう。",
+    "image_keyword": "Digital Transformation success, corporate innovation investment, DX recognition",
+    "technical_terms": [
+      {
+        "term": "DX銘柄",
+        "explanation": "経済産業省が東京証券取引所と共同で、デジタル変革（DX）を推進し、企業価値向上に繋げている企業を選定する制度。"
+      },
+      {
+        "term": "DX",
+        "explanation": "デジタルトランスフォーメーションの略で、企業がデジタル技術やデータを活用してビジネスモデルや組織、企業文化を変革し、競争優位性を確立すること。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6575938?source=rss": {
+    "title": "AIが人間の「粘り強さ」を蝕む？最新研究が示す心理的影響とビジネスへの警鐘",
+    "tags": "AI Ethics",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "10時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575938?source=rss",
+    "summary_bullets": [
+      "AIの利用が人間の粘り強さや忍耐力を低下させる可能性が、最新の実証研究で明らかになった。",
+      "ビジネスにおいては、従業員の自律性や問題解決能力に悪影響を及ぼし、長期的な生産性やイノベーションを損なうリスクがある。",
+      "今後は、AI導入の際に効率性だけでなく、人間の心理的・行動的側面への影響を考慮した設計と運用がより一層求められるだろう。"
+    ],
+    "insight": "AIによる効率化は魅力的ですが、人間の内在的なモチベーションや問題解決スキルへの影響を深く理解し、意図しない負の側面を避けるための慎重な導入と運用がビジネスの持続的成長には不可欠です。",
+    "action_plan": "自社でAIツールを導入・活用する際、従業員の「粘り強さ」や自律的な問題解決スキルへの影響について、具体的な使用ガイドラインやトレーニング計画を見直してみましょう。",
+    "image_keyword": "AI human perseverance, psychological impact, human-AI interaction",
+    "technical_terms": [
+      {
+        "term": "粘り強さ (Perseverance)",
+        "explanation": "目標達成のために困難に直面しても努力を継続する能力や気概のこと。精神的な強さを示す。"
+      },
+      {
+        "term": "実証 (Empirical Study)",
+        "explanation": "観察や実験を通じてデータを収集し、仮説を検証する科学的な研究手法のこと。経験的な証拠に基づいて結論を導く。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6575932?source=rss": {
+    "title": "AIが国会審議を分析：予算案議論の時間は十分か、その深層を斬る",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "11時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575932?source=rss",
+    "summary_bullets": [
+      "AIが国会における予算案審議の時間を分析し、その十分性に疑問を呈している。",
+      "AIによる客観的なデータ分析が、政策決定プロセスの透明性と効率性を向上させる可能性があり、将来的には企業活動にも影響しうる。",
+      "政策決定や公共サービスにおいて、AIによるデータ分析や自動化の導入が加速し、よりデータドリブンなガバナンスへの移行が進むだろう。"
+    ],
+    "insight": "AIの適用範囲が政府の意思決定プロセスにまで広がっていることを認識し、自社の事業戦略やリスク管理において、政策決定の透明性向上やデータドリブンなアプローチの進化を考慮に入れるべきである。",
+    "action_plan": "自社の属する業界や関連する政策決定プロセスにおいて、AIやデータ分析がどのように導入されうるかを検討し、その潜在的な影響を分析してみましょう。",
+    "image_keyword": "AI government analysis, policy data analytics",
+    "technical_terms": [
+      {
+        "term": "AI分析",
+        "explanation": "人工知能を活用して大量のデータからパターンや傾向を抽出し、問題解決や意思決定を支援する技術。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6575928?source=rss": {
+    "title": "裁判官評価サイトが議論を呼ぶ：デジタル透明性が司法にもたらす影響とは？",
+    "tags": "Legal Tech",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "11時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575928?source=rss",
+    "summary_bullets": [
+      "裁判官を評価する新たなWebサイトが登場し、司法の透明性や市民参加のあり方に大きな議論を提起している。",
+      "デジタルプラットフォームが専門職の評価領域に進出し、その公平性、信頼性、社会への影響が新たなガバナンス課題として浮上。",
+      "今後、様々な専門分野で評価のデジタル化が進むと予測され、情報公開とプライバシー、評価の妥当性確保が重要課題となるだろう。"
+    ],
+    "insight": "デジタルプラットフォームによる評価・レビューは、企業や専門職の信用、評判形成に不可欠な要素となりつつあり、あらゆる業界でその影響と管理戦略の重要性が高まっている。",
+    "action_plan": "自社や業界におけるオンライン評価・レビューの現状を深く分析し、デジタル上での評判管理戦略の策定や既存戦略の最適化を今日から開始しましょう。",
+    "image_keyword": "judicial transparency platform",
+    "technical_terms": [
+      {
+        "term": "デジタルプラットフォーム",
+        "explanation": "インターネット上でサービスや情報を提供する基盤。ユーザー間の交流や取引を仲介する機能を持つことが多い。"
+      },
+      {
+        "term": "ガバナンス",
+        "explanation": "組織や社会を適切に統治・管理するための仕組みやプロセス。透明性、説明責任、公平性が重視される。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kRnd5M0ZEdkFCU01IWkxaUG1tQmZYMkU5TlE3ajlOTE9JWnhnbTdpdGtBa3F3Sno2ZlhMdlRHYWJub2VxNW1QRjMyNTQxbThOWEQwcnpnNEtaR0FUVl9nbmNvdHJSZ3N0YVNDTVpVTkw2R1E4WElmZnN5UjJ4NEU?oc=5": {
+    "title": "AI需要が半導体市場を牽引！メモリー価格が半年で4倍高騰、供給不足は深刻化",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kRnd5M0ZEdkFCU01IWkxaUG1tQmZYMkU5TlE3ajlOTE9JWnhnbTdpdGtBa3F3Sno2ZlhMdlRHYWJub2VxNW1QRjMyNTQxbThOWEQwcnpnNEtaR0FUVl9nbmNvdHJSZ3N0YVNDTVpVTkw2R1E4WElmZnN5UjJ4NEU?oc=5",
+    "summary_bullets": [
+      "AI技術の爆発的な発展に伴い、半導体、特にメモリーに対する需要が急増している。",
+      "需要増加によりメモリー価格は半年で4倍に高騰し、一般消費者向け製品の生産が減少し始めている。",
+      "製造工場が24時間体制で稼働しても需要に追いつかず、今後も供給不足が続くと予測される。",
+      "この状況は、AI関連産業やITインフラ投資に大きな影響を与える可能性がある。"
+    ],
+    "insight": "AIの進化が半導体市場に前例のない需要と価格高騰をもたらしており、これは単なる一時的な現象ではなく、デジタル経済全体のサプライチェーンとコスト構造に長期的な影響を与える兆候です。企業は、半導体不足と価格変動が事業に与えるリスクを評価し、新たな調達戦略や技術投資を検討する必要があります。",
+    "action_plan": "自社の製品やサービスにおける半導体コンポーネントの依存度を再評価し、代替部品の確保、サプライヤーとの長期契約、またはAI活用による効率化など、供給網のレジリエンスを高める戦略を具体的に検討してみましょう。",
+    "image_keyword": "AI semiconductor demand",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "電気を流したり止めたりする性質を持つ材料でできた部品。コンピュータやスマートフォンなど、あらゆる電子機器の頭脳や記憶装置として使われています。"
+      },
+      {
+        "term": "メモリー",
+        "explanation": "コンピュータがデータやプログラムを一時的、あるいは恒久的に保存するための半導体素子です。DRAMやNANDフラッシュなどが代表的で、AI処理には高性能なメモリーが不可欠です。"
+      },
+      {
+        "term": "AI (人工知能)",
+        "explanation": "人間のような学習、推論、判断などを行うコンピュータシステムや技術の総称です。近年、特に深層学習の発展により、様々な分野で活用が進んでいます。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00RTRBbEJVQjhuUzVZTVZCcldkaGc1NHhRa21ERmVxb1BuSGt0UmlzX0p2eG90d1hUaEt5ckg3ZTRLVHRQbzk4QTVTazZiS1ZQM1BwZHVIVUJWbDA2b3c?oc=5": {
+    "title": "AI半導体新時代到来か：次世代ガラス基板競争激化、Samsungが量産と戦略で先行",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00RTRBbEJVQjhuUzVZTVZCcldkaGc1NHhRa21ERmVxb1BuSGt0UmlzX0p2eG90d1hUaEt5ckg3ZTRLVHRQbzk4QTVTazZiS1ZQM1BwZHVIVUJWbDA2b3c?oc=5",
+    "summary_bullets": [
+      "AI半導体向け次世代ガラス基板の競争が本格化し、Samsung Electro-Mechanicsが量産化と顧客獲得戦略で優位に立っている。",
+      "ガラス基板は高性能AI半導体のボトルネックを解消し、AI技術のさらなる進化と応用範囲拡大を加速させる可能性を秘める。",
+      "今後、ガラス基板技術は半導体業界の新たな標準となり、関連技術開発やサプライチェーンにおける競争が激化すると予測される。"
+    ],
+    "insight": "AI半導体市場の急速な成長を背景に、基板技術が新たな競争軸となる兆候を捉え、自社の技術戦略やサプライチェーンにおける次世代技術の導入可能性を評価すべきです。",
+    "action_plan": "自社製品やサービスにおけるAI半導体の活用可能性を再評価し、次世代基板技術の動向がサプライヤー選定やロードマップに与える影響を分析してみましょう。",
+    "image_keyword": "AI semiconductor, glass substrate, advanced chip packaging",
+    "technical_terms": [
+      {
+        "term": "AI半導体",
+        "explanation": "人工知能（AI）の計算処理に特化した半導体チップで、高性能なデータ処理と効率的な電力消費を実現します。"
+      },
+      {
+        "term": "ガラス基板",
+        "explanation": "高性能半導体を製造する際に用いられる、従来の有機基板よりも高集積で高速な信号伝送が可能な次世代の基板材料です。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zY1lBN29MYmNVQUFRcW1JanViZkgwYkFIS195SjVZMkVsbDRvbXk2akFOdFR4cTNCLVVMeFE0RkVXVm5uQzJDbE1lZWxIUkVCQWJvNWw0endoWENwMjFDMFN6Mkk?oc=5": {
+    "title": "日本、先端半導体開発に本腰：政府、ラピダスに6315億円の追加支援で国産化を加速",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zY1lBN29MYmNVQUFRcW1JanViZkgwYkFIS195SjVZMkVsbDRvbXk2akFOdFR4cTNCLVVMeFE0RkVXVm5uQzJDbE1lZWxIUkVCQWJvNWw0endoWENwMjFDMFN6Mkk?oc=5",
+    "summary_bullets": [
+      "日本政府が先端半導体の研究・開発を行うラピダスに対し、6315億円の追加支援を決定した。",
+      "この巨額支援は、日本の半導体産業の国際競争力強化と経済安全保障の確立に極めて重要な役割を果たす。",
+      "国産半導体技術の確立に向けた動きが加速し、AIや次世代テクノロジーの基盤を国内で築くトレンドが強まる見込みだ。"
+    ],
+    "insight": "先端半導体はAIやデジタル化の根幹を支える戦略物資であり、この巨額の政府投資は、日本が国家レベルで経済安全保障と産業競争力再構築にコミットしている明確な証拠と捉えるべきです。",
+    "action_plan": "自社の事業において半導体サプライチェーンへの依存度を再評価し、ラピダスの動向や国産化の流れがもたらすビジネスチャンスやリスクについて、中長期的な戦略を今日から検討し始めましょう。",
+    "image_keyword": "semiconductor research Japan, advanced microchip development, government tech investment",
+    "technical_terms": [
+      {
+        "term": "ラピダス",
+        "explanation": "次世代半導体の国産化を目指す日本の企業連合。最先端の論理半導体の受託生産を目指している。"
+      },
+      {
+        "term": "先端半導体",
+        "explanation": "AI、5G/6G、高性能コンピューティングなどに不可欠な、微細化された高性能半導体。製造には高度な技術が必要となる。"
+      },
+      {
+        "term": "経済安全保障",
+        "explanation": "国民生活や経済活動に不可欠な物資や技術の安定供給を確保し、外部からの経済的脅威を防ぐための国家戦略。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/10/news131.html": {
+    "title": "米財務当局がAnthropic AIに警鐘：金融機関のサイバーセキュリティリスク増大",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/10/news131.html",
+    "summary_bullets": [
+      "米財務長官とFRB議長が、Anthropicの最新AI利用に伴うサイバーセキュリティリスクについて金融機関幹部に警告を発した。",
+      "AI導入を進める金融機関は、セキュリティ対策と規制遵守を一層強化する必要があり、業界全体のAI戦略に影響を与える可能性がある。",
+      "AIの急速な進化と普及に伴い、政府・規制当局によるAIガバナンスとセキュリティ監視が強化されるトレンドが予測される。"
+    ],
+    "insight": "AIのビジネス活用が不可避な現代において、技術導入と同時に潜在的なリスク、特にサイバーセキュリティリスクへの包括的な対策と規制動向への迅速な対応が、企業存続の鍵を握るという洞察が得られる。",
+    "action_plan": "自社のAI導入計画におけるサイバーセキュリティ評価プロセスを見直し、外部の専門家との連携や従業員のセキュリティ意識向上トレーニングを強化する計画を立案してみましょう。",
+    "image_keyword": "AI cyber security, financial regulation, risk management",
+    "technical_terms": [
+      {
+        "term": "FRB",
+        "explanation": "米国の中央銀行制度を統括する連邦準備制度理事会の略称で、金融政策を決定する重要な機関。"
+      },
+      {
+        "term": "Anthropic",
+        "explanation": "OpenAIと並ぶ主要なAI開発企業の一つで、倫理的AI開発に注力していることで知られる。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/08/news101.html": {
+    "title": "大手製造業に衝撃：村田製作所で個人情報流出、その影響と企業が学ぶべき教訓",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "3日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/08/news101.html",
+    "summary_bullets": [
+      "電子部品大手である村田製作所が不正アクセスを受け、顧客・取引先の個人情報が流出した。",
+      "大手製造業におけるサプライチェーン全体のセキュリティ脆弱性が露呈し、企業信頼性に大きな影響を及ぼす可能性がある。",
+      "今後、サプライチェーン全体でのセキュリティ監査の厳格化と、データ保護に関する迅速な対応策の策定が加速すると予測される。"
+    ],
+    "insight": "いかなる大企業であってもサイバー攻撃のリスクは避けられず、単体のセキュリティ強化だけでなく、サプライチェーンパートナーを含めた全体的なリスク管理と、有事の際の透明性ある情報開示体制の構築が喫緊の課題であることを示唆している。",
+    "action_plan": "自社の情報セキュリティ体制を改めて見直し、特にサプライチェーン上のパートナー企業との連携におけるセキュリティ基準や、緊急時のインシデント対応プロトコルを詳細に確認・強化しましょう。",
+    "image_keyword": "cyber security network, data breach, corporate risk",
+    "technical_terms": [
+      {
+        "term": "不正アクセス",
+        "explanation": "許可されていない者がコンピュータシステムやネットワークに侵入すること。データの盗難や改ざんなどを目的とする場合が多い。"
+      },
+      {
+        "term": "個人情報流出",
+        "explanation": "企業や団体が保有する氏名、住所、連絡先などの個人データが、意図せず外部に漏洩すること。信用失墜や法的責任につながる。"
       }
     ]
   }
