@@ -1841,7 +1841,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/10/news023.html",
     "summary_bullets": [
       "人気JavaScriptライブラリ「Axios」が、開発者アカウント乗っ取りを起点とする巧妙なサプライチェーン攻撃の標的となった。",
@@ -2066,7 +2066,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/10/news131.html",
     "summary_bullets": [
       "米財務長官とFRB議長が、Anthropicの最新AI利用に伴うサイバーセキュリティリスクについて金融機関幹部に警告を発した。",
@@ -2093,7 +2093,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "3日前",
+    "time_ago": "4日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/08/news101.html",
     "summary_bullets": [
       "電子部品大手である村田製作所が不正アクセスを受け、顧客・取引先の個人情報が流出した。",
@@ -2113,5 +2113,122 @@
         "explanation": "企業や団体が保有する氏名、住所、連絡先などの個人データが、意図せず外部に漏洩すること。信用失墜や法的責任につながる。"
       }
     ]
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2604/13/news006.html": {
+    "title": "産総研「フィジカルAI」が拓く未来：10万年のギャップを埋める革新的挑戦",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2604/13/news006.html",
+    "summary_bullets": [
+      "産総研が、AIが物理世界で自律的に学習し行動する能力を獲得するための「フィジカルAIプロジェクト」を推進している。",
+      "本プロジェクトは、産業現場や日常生活におけるAIの応用範囲を大幅に拡大し、より高度な自動化と問題解決能力を実現する可能性を秘める。",
+      "AIが仮想空間だけでなく現実世界で試行錯誤を通じて進化する技術は、次世代のロボティクスやスマートファクトリーの基盤として重要なトレンドとなるだろう。"
+    ],
+    "insight": "AIが物理世界で学習・行動する能力を獲得することは、これまで自動化が困難だった領域に革新をもたらし、新たなビジネスモデルやサービス創出の機会を広げる可能性を秘めています。この動きは、あらゆる産業における競争優位性を再定義するでしょう。",
+    "action_plan": "自社のビジネスプロセスにおいて、AIが物理世界で介入することで効率化や自動化が可能な領域がないか、具体的なユースケースをチームでブレインストーミングし、書き出してみましょう。",
+    "image_keyword": "Physical AI research, AIST robotics, future automation",
+    "technical_terms": [
+      {
+        "term": "フィジカルAI",
+        "explanation": "仮想空間だけでなく、物理的な現実世界で直接学習し、自律的に行動・判断する能力を持つAIのこと。"
+      },
+      {
+        "term": "産総研",
+        "explanation": "国立研究開発法人産業技術総合研究所の略称。日本の産業技術の発展を目的とした、大規模な公的研究機関。"
+      },
+      {
+        "term": "10万年ギャップ",
+        "explanation": "AIが仮想空間での学習能力は高いものの、物理世界での試行錯誤や知識獲得にはまだ大きな隔たりがある現状を比喩的に示したもの。"
+      }
+    ]
+  },
+  "https://atmarkit.itmedia.co.jp/ait/articles/2604/13/news014.html": {
+    "title": "手動PC作業はもう古い？ AIに仕事を任せる『Cowork』が拓く新時代の働き方",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/13/news014.html",
+    "summary_bullets": [
+      "PC作業をAIに任せる「AIエージェント」の活用が、チャットに続く新たなAIトレンドとして注目されている。",
+      "業務の自動化により従業員の生産性が向上し、企業はより戦略的なコア業務にリソースを集中できるようになる。",
+      "個人からチームまで、AIが自律的に作業を代行する時代が本格化し、ビジネスモデルや働き方に大きな変革をもたらすだろう。"
+    ],
+    "insight": "AIは単なる情報検索や対話ツールから、具体的な業務を自律的に実行する「作業者」へと進化しており、この流れを早期に捉え、自身の業務プロセスや組織戦略にAIエージェントをどう組み込むかを検討することが、今後の生産性向上と競争力維持に不可欠である。",
+    "action_plan": "自身の日常業務で「手動で繰り返し行っているが、AIに任せられる可能性のある作業」を具体的に書き出し、どの部分をAI化できるか検討してみましょう。",
+    "image_keyword": "AI office automation, smart assistant, future workspace",
+    "technical_terms": [
+      {
+        "term": "AIエージェント",
+        "explanation": "ユーザーの指示や設定に基づき、自律的に複数のタスクを実行したり、他のシステムと連携して複雑な業務を代行するAIのこと。"
+      },
+      {
+        "term": "業務自動化 (RPA)",
+        "explanation": "定型的で反復的なPC操作や業務プロセスを、ソフトウェアロボット（Bot）によって自動的に実行し、効率化を図る技術。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/12/news018.html": {
+    "title": "OpenAI サム・アルトマンCEO、批判報道と自宅襲撃事件に私的告白：家族写真で示す人間的側面",
+    "tags": "AI Business",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "22時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/12/news018.html",
+    "summary_bullets": [
+      "OpenAIのサム・アルトマンCEOが、自身に向けられた批判的報道と自宅への火炎瓶事件について、個人ブログで家族写真を交えながら心境を明かした。",
+      "AI業界のトップリーダーが直面する過度な注目とセキュリティリスク、精神的プレッシャーが浮き彫りになり、企業経営における危機管理の重要性を再認識させる。",
+      "今後のAI開発競争において、リーダー個人の安全確保、企業の透明性あるコミュニケーション、そして技術倫理と社会受容性のバランスをどう取るかがより一層問われるトレンドとなるだろう。"
+    ],
+    "insight": "AI技術の急速な発展は、その推進者であるリーダーたちに、技術的責任だけでなく、プライバシー侵害や身体的危険といった前例のない個人的な重圧とリスクをもたらします。ビジネスリーダーは、この新たなリスク環境において、従業員やキーパーソンの保護、そして社会との対話のあり方を戦略的に再考する必要があります。",
+    "action_plan": "自社のキーパーソンや経営陣が直面する潜在的なセキュリティリスクや精神的負担について、現状の危機管理体制を見直し、AI業界の最新事例も踏まえた包括的な対策プランを策定し始めましょう。",
+    "image_keyword": "Sam Altman personal security, OpenAI CEO family, AI leadership challenge",
+    "technical_terms": []
+  },
+  "https://news.yahoo.co.jp/pickup/6576003?source=rss": {
+    "title": "AIが紡ぐ地域愛：奈良県民botの自虐的ユーモアが示す新たなデジタルコミュニケーション戦略",
+    "tags": "AI Content",
+    "sentiment": "positive",
+    "sentiment_text": "共感を呼ぶ話題",
+    "rating": 4,
+    "time_ago": "18時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6576003?source=rss",
+    "summary_bullets": [
+      "AI（bot）が奈良県の地域性を自虐的に表現し、SNS上で大きな共感と話題を呼んでいる。",
+      "地域プロモーションやデジタルマーケティングにおいて、AIを用いたユニークなコンテンツ戦略の有効性を示す。",
+      "AIを活用した地域特化型・感情訴求型コンテンツが、今後のエンゲージメント戦略の鍵となるだろう。"
+    ],
+    "insight": "AIが生成するコンテンツは、単なる情報伝達に留まらず、地域文化や感情を巧みに取り入れることで、人々の共感を呼び、強固なコミュニティ形成やブランディングに貢献する可能性を秘めている。",
+    "action_plan": "自社のブランドイメージや顧客層に響くような、AIを活用したパーソナライズされた、あるいは感情を刺激するコンテンツ戦略の可能性を検討してみましょう。",
+    "image_keyword": "AI community engagement",
+    "technical_terms": [
+      {
+        "term": "bot",
+        "explanation": "インターネット上で自動的に情報発信や対話を行うプログラム。SNSなどでの情報収集や応答、コンテンツ生成などに用いられる。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6575967?source=rss": {
+    "title": "国産AI開発を加速！主要4社が結集し新会社を設立、国際競争力強化へ",
+    "tags": "AI Development",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "23時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6575967?source=rss",
+    "summary_bullets": [
+      "日本企業4社が中核となり、国産AI技術の開発・普及を目指す新会社が設立された。",
+      "国内AI産業の競争力強化と、特定企業への技術依存リスク低減に貢献が期待される。",
+      "今後は、日本の社会課題解決に特化したAIソリューションや、国際市場での存在感を示す技術が生まれる可能性が高まる。"
+    ],
+    "insight": "日本の主要企業が連携して国産AI開発に注力する動きは、AI技術の国家戦略的価値の高まりと、国内産業の自立性確保への強い意志を示すものであり、今後のビジネスモデルや投資戦略に大きな影響を与えるでしょう。",
+    "action_plan": "自社のDX戦略におけるAI導入計画を再評価し、国産AI技術の動向を定期的にチェックする体制を構築するとともに、新たな国産AIベンダーとの協業可能性を積極的に探りましょう。",
+    "image_keyword": "Japanese AI development company",
+    "technical_terms": []
   }
 }
