@@ -2395,7 +2395,7 @@
     "sentiment": "neutral",
     "sentiment_text": "注目の話題",
     "rating": 4,
-    "time_ago": "8時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6576285?source=rss",
     "summary_bullets": [
       "JASRACが動画プラットフォームでの楽曲利用に関する投稿を行い、デジタルコンテンツにおける著作権管理の新たな方向性を示唆した。",
@@ -2516,7 +2516,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 4,
-    "time_ago": "19時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/14/news080.html",
     "summary_bullets": [
       "TwilogがAI関連とみられる通常の数十倍のアクセスを受け、サービス保護のためログイン必須の緊急制限を発動しました。",
@@ -2534,6 +2534,282 @@
       {
         "term": "Twilog",
         "explanation": "X（旧Twitter）の投稿を自動で保存・アーカイブし、ウェブ上で閲覧可能にする外部サービスです。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/16/news016.html": {
+    "title": "日立「フィジカルAI」が切り拓く、熟練工の「暗黙知」データ化戦略：製造業DXの新標準",
+    "tags": "Industrial AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/16/news016.html",
+    "summary_bullets": [
+      "日立が熟練工本人も気づかない「暗黙知」をデータ化する「フィジカルAI」技術を発表。",
+      "属人化しがちな熟練技術の継承を可能にし、製造業の生産性向上とDX推進に大きく貢献する。",
+      "AIが物理的な現象や熟練者の微細な動作を解析する新たなアプローチが、製造業における自動化・最適化の未来を加速させる。",
+      "AIによる物理的プロセスの解明は、少子高齢化による労働力不足が深刻化する日本製造業の喫緊の課題解決に貢献し、グローバル競争力を高める。"
+    ],
+    "insight": "製造業において、熟練工の「勘」や「経験」といった非言語化された「暗黙知」は、AIを活用することで形式知化され、企業の競争力向上に直結する重要な資産となり得ます。単なる自動化に留まらず、人間とAIが協調して「暗黙知」を解放するアプローチが、DXの次のフェーズを決定づけるでしょう。",
+    "action_plan": "自社の製造現場やサービスプロセスにおいて、現在「熟練者の勘」に依存している工程や品質管理のポイントを洗い出してみましょう。そして、AIによる「暗黙知」データ化の具体的な事例を調査し、自社への導入可能性について部署横断で議論を始めてみましょう。",
+    "image_keyword": "Industrial AI Manufacturing",
+    "technical_terms": [
+      {
+        "term": "暗黙知 (Tacit Knowledge)",
+        "explanation": "言語化やマニュアル化が困難な、個人の経験、勘、直感に基づいた知識やスキル。"
+      },
+      {
+        "term": "フィジカルAI (Physical AI)",
+        "explanation": "物理的なプロセスや現象、機械の動作などを深く理解し、制御するために特化したAI技術。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/enterprise/articles/2604/15/news135.html": {
+    "title": "トヨタ・コニック・プロ、AI PC 800台導入の深層：失敗を避けるAI活用戦略とは？",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "13時間前",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2604/15/news135.html",
+    "summary_bullets": [
+      "トヨタ・コニック・プロが800台のAI PCを導入し、企業内での生成AI活用を本格化する方針を発表。",
+      "大規模なAIインフラの導入は、従業員の生産性向上とAI活用における失敗回避のための戦略的アプローチを示す。",
+      "AI PCの普及と成功のためのAI活用戦略は、今後の企業のデジタル変革における主要なトレンドとなる見込み。"
+    ],
+    "insight": "AI導入は単なる技術投資に留まらず、その活用を成功させるための綿密な戦略と、潜在的な失敗要因を事前に特定し対処する「くじけない」ための視点が極めて重要であることを示唆しています。",
+    "action_plan": "自社でのAI導入計画や既存のAI活用戦略を見直し、AI活用の目標達成を阻む可能性のある要因を洗い出し、具体的な対策案を策定してみましょう。",
+    "image_keyword": "AI PC office strategy",
+    "technical_terms": [
+      {
+        "term": "AI PC",
+        "explanation": "AI処理に特化した機能を内蔵し、生成AIなどをPC上で高速かつ効率的に実行できるパソコン。"
+      },
+      {
+        "term": "生成AI",
+        "explanation": "テキストや画像、音声など、様々な形式のコンテンツを自律的に生成できる人工知能。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/15/news105.html": {
+    "title": "日立、AIエージェントで貿易安全保障リスク管理を革新：審査時間60%短縮の秘訣",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "16時間前",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/15/news105.html",
+    "summary_bullets": [
+      "日立グループがAIエージェントを導入し、貿易における安全保障リスクの審査時間を60%短縮することに成功。",
+      "複雑化する国際情勢下での厳格な貿易管理とコンプライアンス遵守を、AI活用によって効率的に両立できることを実証。",
+      "AIによる高度なリスク評価と業務自動化が、今後のサプライチェーン全体のセキュリティと効率化のトレンドとなる可能性。",
+      "貿易取引における膨大な情報処理と専門知識をAIが代行し、ヒューマンエラーのリスクを低減しながら業務品質を向上。"
+    ],
+    "insight": "グローバルビジネスにおける規制強化と複雑化は避けられませんが、AI技術の戦略的導入によって、コンプライアンス遵守と業務効率化を両立し、競争優位性を確立できる時代が到来しています。",
+    "action_plan": "自社のサプライチェーンや貿易関連業務における潜在的なリスクポイントを洗い出し、AIを活用した審査・管理プロセスの効率化と自動化の可能性を検討してみましょう。",
+    "image_keyword": "AI trade compliance, risk management, supply chain security",
+    "technical_terms": [
+      {
+        "term": "AIエージェント",
+        "explanation": "特定の目的のために自律的に情報を収集・分析し、判断を下して行動する人工知能プログラム。"
+      },
+      {
+        "term": "貿易の安全保障リスク",
+        "explanation": "国際貿易において、輸出入される製品や技術が核・生物・化学兵器などの開発に転用されたり、テロ組織への流出など、国の安全保障を脅かす可能性のあるリスク。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6576391?source=rss": {
+    "title": "災害時の「誤情報」拡散を防ぐ：企業・組織が講じるべき戦略とAI活用の可能性",
+    "tags": "Crisis Management",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "12時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6576391?source=rss",
+    "summary_bullets": [
+      "災害時におけるデマや誤情報の急速な拡散が、社会混乱と復旧活動の妨げとなる深刻な問題として認識されている。",
+      "企業は誤情報によるブランド毀損や信頼失墜のリスクに直面し、正確な情報伝達と危機管理体制の強化がビジネス継続の鍵となる。",
+      "今後は、AIによる情報検証技術の導入、デジタルリテラシー教育の強化、そして官民連携による効果的な情報共有プラットフォーム構築がトレンドとなる。"
+    ],
+    "insight": "ビジネスリーダーは、災害時の誤情報が企業ブランド、従業員の安全、サプライチェーン全体に与える潜在的リスクを再評価し、平時から高度な情報戦略とAIを活用したファクトチェック体制の構築に投資すべきです。",
+    "action_plan": "自社の災害時BCP（事業継続計画）における情報発信ガイドラインを見直し、誤情報対策の項目を具体的に追加しましょう。また、AIを活用した情報検証ツールの導入可能性について調査を開始し、従業員向けにデジタルリテラシーとフェイクニュースを見分ける能力を高める研修を計画しましょう。",
+    "image_keyword": "Disaster misinformation, fake news prevention, crisis communication tech",
+    "technical_terms": [
+      {
+        "term": "ファクトチェック",
+        "explanation": "情報の真偽を検証し、誤りがあれば訂正するプロセス。"
+      },
+      {
+        "term": "デジタルリテラシー",
+        "explanation": "デジタル情報を適切に理解、評価、活用し、倫理的に行動する能力。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6576319?source=rss": {
+    "title": "Z世代の「顔隠しポーズ」：デジタルネイティブ世代の自己表現とプライバシー戦略を読み解く",
+    "tags": "Social Media Trends",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "20時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6576319?source=rss",
+    "summary_bullets": [
+      "女子高校生の間で顔の一部を隠すポーズが流行しており、その背景にはプライバシー保護意識やSNSでの見え方を意識した自己表現がある。",
+      "デジタルネイティブであるZ世代の行動様式は、企業がターゲット顧客を理解し、製品開発やマーケティング戦略を立てる上で重要なインサイトを提供する。",
+      "SNSを通じた自己表現とプライバシー管理のバランスは、今後も若年層のデジタル行動の主要なトレンドとして進化し続けると予測される。"
+    ],
+    "insight": "Z世代がSNSで見せる「顔隠し」などの行動は、単なるファッションではなく、デジタル空間における複雑な自己ブランディング、プライバシー管理、そして他者との関係性を巧みに操作する彼らならではの戦略であり、これを深く理解することが次世代の消費者行動を捉える鍵となる。",
+    "action_plan": "自社のサービスや製品が、Z世代のデジタル上での自己表現やプライバシー意識にどのように響くかを再評価し、彼らのニーズに合わせたコミュニケーション戦略や機能改善の可能性をチームでディスカッションしてみましょう。",
+    "image_keyword": "Gen Z social media, digital privacy, youth culture pose",
+    "technical_terms": [
+      {
+        "term": "Z世代",
+        "explanation": "1990年代中盤から2010年代序盤に生まれた世代で、インターネットやデジタル技術が生活に深く浸透した環境で育った世代を指します。"
+      },
+      {
+        "term": "デジタルリテラシー",
+        "explanation": "デジタル情報を理解し、適切に活用する能力のこと。情報の真偽を見抜く力や、オンラインでの適切なコミュニケーション能力なども含まれます。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5MzFiTHZsY3MtbndzREpHVWYtenNLTlc0YWVDUnBNYW5LYkFjOE42ZXNvWUxna09DT0JkdFZUYkZZVlk4bGdJSlJlZ0o2eHpiSlZGTVZORjRmVlV5ZGZnREF2SlhGN1VTakl0MlZJU3JHWHhRa0tfbWRGOWhienM?oc=5": {
+    "title": "半導体積層化の最前線：後工程の高精度化が拓く2次元スケール成長戦略",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5MzFiTHZsY3MtbndzREpHVWYtenNLTlc0YWVDUnBNYW5LYkFjOE42ZXNvWUxna09DT0JkdFZUYkZZVlk4bGdJSlJlZ0o2eHpiSlZGTVZORjRmVlV5ZGZnREF2SlhGN1VTakl0MlZJU3JHWHhRa0tfbWRGOWhienM?oc=5",
+    "summary_bullets": [
+      "半導体の高性能化を支える積層化（3Dスタッキング）において、後工程での極めて高い精度要求が高まっている。",
+      "この高精度化は、次世代半導体の量産化と性能向上を実現し、AIやIoTといった先端技術の進化を加速させる基盤となる。",
+      "微細な2次元スケールでの計測・制御技術が、積層化された半導体の品質と信頼性を保証する鍵となり、今後も技術革新が期待される。"
+    ],
+    "insight": "半導体産業の未来は、微細化の限界に挑む前工程だけでなく、積層化を可能にする後工程の精度向上にかかっています。この領域への戦略的投資と技術革新は、DX（デジタルトランスフォーメーション）を支える基盤技術として、各企業の競争力に直結するでしょう。",
+    "action_plan": "自社の製品やサービスが半導体技術に深く依存している場合、今後の半導体製造プロセスの進化、特に後工程技術の動向について情報収集し、サプライチェーンや製品開発戦略への影響を評価してみましょう。",
+    "image_keyword": "semiconductor stacking, wafer inspection, precision manufacturing",
+    "technical_terms": [
+      {
+        "term": "後工程",
+        "explanation": "半導体製造プロセスの後半部分で、シリコンウェハーを個別のチップに切り分け、電気的に接続し、保護ケースに封入（パッケージング）するまでの工程を指します。"
+      },
+      {
+        "term": "積層化",
+        "explanation": "複数の半導体チップや異なる機能を垂直に積み重ねて接続することで、限られたスペース内で高密度化、高性能化、多機能化を実現する技術です。"
+      },
+      {
+        "term": "2次元スケール",
+        "explanation": "極めて微細なレベルでの平面的な配置や計測、制御を指します。半導体製造では、ミクロンやナノメートルといった単位での精密な操作が求められます。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByOW1RZU1qS3k1aXUxZFl2a1A2RTh3Y2hfcnlSLWNSR3BKTktSeXRhSFgwZ0lqS1VmX3lYc0s4cFB3anRpMnF0d0tqWUtkME1GdEJKaUVSTQ?oc=5": {
+    "title": "三菱電機、福岡にパワー半導体新工場を建設：生産効率4割向上で市場競争力強化へ",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByOW1RZU1qS3k1aXUxZFl2a1A2RTh3Y2hfcnlSLWNSR3BKTktSeXRhSFgwZ0lqS1VmX3lYc0s4cFB3anRpMnF0d0tqWUtkME1GdEJKaUVSTQ?oc=5",
+    "summary_bullets": [
+      "三菱電機が福岡にパワー半導体の新工場を建設し、生産能力と効率の大幅な向上を目指す。",
+      "新工場は生産効率を4割改善し、電気自動車（EV）や再生可能エネルギー分野での世界的なパワー半導体需要増に対応する。",
+      "この投資は、脱炭素社会の実現に不可欠なパワー半導体の安定供給を強化し、日本の半導体産業の国際競争力を高めるトレンドを示す。"
+    ],
+    "insight": "パワー半導体は脱炭素化社会の基盤を支える戦略的部品であり、三菱電機の新工場投資は、日本の製造業がグローバルなサプライチェーンにおける重要性と競争力を維持しようとする強い意志の表れです。この動きは、関連産業の成長機会と国際的な技術競争の激化を示唆しています。",
+    "action_plan": "自社のサプライチェーンにおいて、パワー半導体を含む重要部品の調達戦略を見直し、安定供給リスクや技術革新への対応策を検討してみましょう。",
+    "image_keyword": "Power semiconductor factory, Mitsubishi Electric,福岡工場",
+    "technical_terms": [
+      {
+        "term": "パワー半導体",
+        "explanation": "電力の変換や制御に使われる半導体で、電気自動車（EV）、家電、産業機械、再生可能エネルギー設備など、幅広い分野で電力効率の向上に貢献する基幹部品です。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12Y0NZYnl2ejh5U0FPUmVpcVl1ejFEdkVNWl8wT0t3VVhzWWtvcUp4dXZ6bnpucVd2ZEQ0WTRIcDVucU91OWk2QVVyc0NYV0JNTXVEZ3VmY0d1U1l6bDhUeQ?oc=5": {
+    "title": "中国半導体国産化の深層：最先端技術への道のりと世界へのインパクト",
+    "tags": "Hardware",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12Y0NZYnl2ejh5U0FPUmVpcVl1ejFEdkVNWl8wT0t3VVhzWWtvcUp4dXZ6bnpucVd2ZEQ0WTRIcDVucU91OWk2QVVyc0NYV0JNTXVEZ3VmY0d1U1l6bDhUeQ?oc=5",
+    "summary_bullets": [
+      "中国は半導体国産化を国家戦略として強力に推進しており、特にレガシープロセス分野で一定の成果を上げつつある。",
+      "中国の半導体自給率向上は、グローバルなサプライチェーン構造に変化をもたらし、米国の輸出規制に対するカウンターとなる可能性を秘めている。",
+      "今後はレガシープロセスでの自給を固めつつ、最先端プロセスでの技術追いつきを目指すが、米国の規制強化が大きな障壁となり、技術競争は激化すると予測される。"
+    ],
+    "insight": "中国の半導体国産化の進展は、地政学的リスクとグローバルサプライチェーンの再編を加速させています。企業は、特定の国への依存度を再評価し、サプライチェーンの多角化や代替技術への投資を真剣に検討すべきです。",
+    "action_plan": "自社の製品やサービスにおける半導体の調達状況を棚卸しし、中国の国産化進展や米中対立がサプライチェーンに与える潜在的リスクを評価するシナリオプランニングを書き出してみましょう。",
+    "image_keyword": "China semiconductor manufacturing, chip geopolitics, global supply chain",
+    "technical_terms": [
+      {
+        "term": "半導体国産化",
+        "explanation": "特定の国が自国内で半導体の設計から製造までを一貫して行う能力を高めること。"
+      },
+      {
+        "term": "レガシープロセス",
+        "explanation": "比較的成熟した技術を用いた半導体製造プロセス。先端プロセスに比べて微細化の度合いは低いが、汎用性が高い。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/15/news126.html": {
+    "title": "【緊急警戒】国民健康保険の偽装請求でPayPay詐欺が横行！あなたの資産を守る対策とは",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "警戒すべき話題",
+    "rating": 4,
+    "time_ago": "15時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/15/news126.html",
+    "summary_bullets": [
+      "国民健康保険の支払いを装い、PayPayでの送金を要求するフィッシング詐欺が横行しており、フィッシング対策協議会が注意喚起した。",
+      "行政機関を騙る手口は巧妙化し、個人の金融資産が直接狙われるため、企業のセキュリティ教育やリスクマネジメントの重要性が一層高まる。",
+      "デジタル決済の普及に伴い、公的機関や有名サービスを装った詐欺は今後も増加・多様化し、個人および組織は継続的な警戒と対策が求められる。"
+    ],
+    "insight": "従業員の個人資産が狙われる詐欺は、企業全体のセキュリティ意識の低下や信頼失墜にも繋がりかねないため、個人レベルでのセキュリティリテラシー向上はもはや企業リスクマネジメントの一環として捉えるべきです。",
+    "action_plan": "公的機関からの連絡は必ず公式サイトや公的な問い合わせ先で真偽を確認する習慣をつけ、社内でのフィッシング詐欺対策に関する従業員向け再教育プログラムを検討しましょう。",
+    "image_keyword": "Phishing scam alert",
+    "technical_terms": [
+      {
+        "term": "フィッシング詐欺",
+        "explanation": "偽のウェブサイトやメールで個人情報や金銭を騙し取るサイバー犯罪の一種。"
+      },
+      {
+        "term": "PayPay",
+        "explanation": "スマートフォンを使用したQRコード決済サービスで、幅広い店舗やオンラインサービスで利用可能。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/15/news029.html": {
+    "title": "光ファイバーが盗聴器に？最新サイバー攻撃「Fiber Tapping」の脅威と対策",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/15/news029.html",
+    "summary_bullets": [
+      "中国の研究者が、光ファイバーを振動センサーとして悪用し、周囲の会話を盗聴する新たな攻撃手法「Fiber Tapping」を発表した。",
+      "既存の光ファイバーインフラが盗聴リスクに晒され、企業や政府機関の機密情報漏洩、プライバシー侵害の脅威が高まる。",
+      "光ファイバーの物理的セキュリティ対策や、異常振動検知技術の進化が喫緊の課題となり、新たなセキュリティ製品・サービスの需要が拡大する。"
+    ],
+    "insight": "デジタル化が進む現代において、物理インフラである光ファイバーすらも新たな攻撃ベクトルの対象となる可能性があり、サイバーセキュリティは単なるソフトウェア対策に留まらず、インフラ全体の物理的・論理的両面からの多層防御が不可欠であると再認識すべきです。",
+    "action_plan": "自社の光ファイバーネットワーク経路の見直し、不審な振動やアクセスがないか物理的監視体制の強化、そして新たな脅威に対応するためのセキュリティ研修の実施を検討しましょう。",
+    "image_keyword": "fiber optic tapping, cyber espionage, vibration sensor",
+    "technical_terms": [
+      {
+        "term": "光ファイバー",
+        "explanation": "光信号を用いて情報を高速で伝送するガラスやプラスチック製の細い繊維で、インターネットや通信ネットワークの基盤となっている。"
+      },
+      {
+        "term": "盗聴攻撃 (Fiber Tapping)",
+        "explanation": "光ファイバーケーブルが捉える微細な振動を解析し、近くで交わされる会話などの音情報を盗み取るサイバー攻撃の一種。"
+      },
+      {
+        "term": "振動センサー",
+        "explanation": "物理的な振動を電気信号などに変換して検知・測定する装置で、本件では光ファイバーがその役割を悪用される。"
       }
     ]
   }
