@@ -2626,7 +2626,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "12時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6576391?source=rss",
     "summary_bullets": [
       "災害時におけるデマや誤情報の急速な拡散が、社会混乱と復旧活動の妨げとなる深刻な問題として認識されている。",
@@ -2761,7 +2761,7 @@
     "sentiment": "negative",
     "sentiment_text": "警戒すべき話題",
     "rating": 4,
-    "time_ago": "15時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/15/news126.html",
     "summary_bullets": [
       "国民健康保険の支払いを装い、PayPayでの送金を要求するフィッシング詐欺が横行しており、フィッシング対策協議会が注意喚起した。",
@@ -2788,7 +2788,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/15/news029.html",
     "summary_bullets": [
       "中国の研究者が、光ファイバーを振動センサーとして悪用し、周囲の会話を盗聴する新たな攻撃手法「Fiber Tapping」を発表した。",
@@ -2810,6 +2810,114 @@
       {
         "term": "振動センサー",
         "explanation": "物理的な振動を電気信号などに変換して検知・測定する装置で、本件では光ファイバーがその役割を悪用される。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/17/news030.html": {
+    "title": "PC1台が企業を脅かす！アサヒ・アスクル事例から学ぶ、日本HPが説くサイバーセキュリティ投資の真意",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/17/news030.html",
+    "summary_bullets": [
+      "アサヒグループHDやアスクルがPC1台を起点とした情報漏洩リスクに直面した事例が示され、エンドポイントセキュリティの死角が浮き彫りに。",
+      "企業はPCのライフサイクル全体にわたる多層的なセキュリティ対策を怠ると、深刻なビジネスリスクに繋がる可能性が高い。",
+      "サイバー攻撃の巧妙化に対応するため、ハードウェアレベルからの統合的なセキュリティソリューションへの投資が今後の必須トレンドとなる。"
+    ],
+    "insight": "現代のサイバー攻撃は、従業員個人のPC1台からでも企業の機密情報や事業継続を脅かすため、エンドポイントセキュリティへの戦略的投資は、もはやコストではなく事業を守るための生命線であると認識すべきだ。",
+    "action_plan": "自社のPC管理ポリシーとエンドポイントセキュリティ対策の現状を速やかに見直し、専門家によるセキュリティ診断や最新のハードウェアおよびソフトウェア統合型ソリューションの導入を検討しましょう。",
+    "image_keyword": "cyber security, corporate risk, endpoint protection",
+    "technical_terms": [
+      {
+        "term": "エンドポイントセキュリティ",
+        "explanation": "PC、スマートフォン、サーバーなど、ネットワークに接続された末端のデバイス（エンドポイント）を保護するためのセキュリティ対策全般。"
+      },
+      {
+        "term": "死角",
+        "explanation": "企業や組織が見落としがちな、セキュリティ上の弱点や脆弱性のこと。本記事では特にPC1台から生じるリスクを指す。"
+      }
+    ]
+  },
+  "https://atmarkit.itmedia.co.jp/ait/articles/2604/17/news018.html": {
+    "title": "ColabにGemini学習モードが統合：AIがプログラミングの“先生”になる日",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "2時間前",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/17/news018.html",
+    "summary_bullets": [
+      "Google ColaboratoryにGeminiの学習支援機能が統合され、AIがコード解説やヒント提供をリアルタイムで行う。",
+      "プログラミング学習の障壁が大幅に低減し、AIを活用した効率的なスキル習得がビジネスパーソンにも加速する。",
+      "AIが個別の学習進度や課題に合わせてカスタマイズされた教育体験を提供する、パーソナライズされたプログラミング学習が主流となるだろう。"
+    ],
+    "insight": "AIの進化は、単なる作業効率化に留まらず、学習体験そのものを根本から変革するフェーズに入った。自社のリスキリング戦略や社員教育において、AIを”教師”として活用する視点が不可欠となる。",
+    "action_plan": "まずはGoogle ColaboratoryでGeminiの学習モードを実際に体験し、その効果と可能性を肌で感じてみましょう。自社のプログラミング教育や新規事業開発におけるAI活用方法について、具体的なアイデアを書き出してみましょう。",
+    "image_keyword": "AI programming learning, Colab Gemini, intelligent coding assistant",
+    "technical_terms": [
+      {
+        "term": "Google Colaboratory (Colab)",
+        "explanation": "Googleが提供するクラウドベースのPython実行環境で、Webブラウザを通じて無料でプログラミング学習やAI開発が可能。"
+      },
+      {
+        "term": "Gemini",
+        "explanation": "Googleが開発した大規模言語モデル（LLM）で、テキスト生成、翻訳、要約、コード生成など多岐にわたるタスクを実行できる強力なAI。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6576452?source=rss": {
+    "title": "AIキャラクター『ポケとも』成功の鍵：ユーザーエンゲージメントを最大化する秘訣",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "20時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6576452?source=rss",
+    "summary_bullets": [
+      "AIキャラクター「ポケとも」がユーザーの感情に寄り添うことで高いエンゲージメントを獲得し、ヒットしている。",
+      "AIによるパーソナライズされたコミュニケーションは、エンターテインメントのみならず、顧客エンゲージメントやサービス提供における新たなビジネスモデル創出の可能性を示す。",
+      "人間とAIが感情的に深く結びつく、次世代のインタラクティブなエンターテインメントやコミュニケーションサービスのトレンドが加速する。"
+    ],
+    "insight": "AI技術が高度化する中で、ユーザーの感情やパーソナルな体験に深く寄り添うAIキャラクターは、エンターテインメントのみならず、顧客サポートや教育など多様な分野で新たな市場を創出しうることを示唆している。",
+    "action_plan": "自社サービスにおけるAIキャラクターやパーソナライズされたAI対話システムの導入可能性を具体的に検討し、顧客体験向上のためのブレインストーミングを実施してみましょう。",
+    "image_keyword": "AI character engagement, Virtual companion AI",
+    "technical_terms": [
+      {
+        "term": "AIキャラクター",
+        "explanation": "人間のような対話や感情表現を通じてユーザーと交流する人工知能搭載のキャラクター。デジタルコンパニオンや仮想アシスタントとして機能する。"
+      },
+      {
+        "term": "ユーザーエンゲージメント",
+        "explanation": "サービスや製品に対してユーザーがどれだけ積極的に関与し、深い関係性を築いているかを示す指標。使用頻度、滞在時間、インタラクションの深さなどが含まれる。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCcHBJVklvTkpYaTBrT0tjMVZIUFBrMDZWOGNNbXVqSThJNnBqYVFVbFZBYXlmUS1xWlJmRTZrcUU3Y01VNGJjYnZpR19IY1dkMHZ5RXk2NjNjREFDajJsaWc2NFVYalRLaXJQUGQ1bUt0RkNZWHg5Q2930gF_QVVfeXFMT25CQUlhU2pCMktKYm5IS2ZweFNfWjVnX2drMjhGTThTSmpFS18yMmU1VVlPYkUybzF0SHFmMkVnMHB6M21zNGlHTlRPaEZDUVNGQXU1eS1sN3dKNjk5U0JuWmNNRmlxSGctR2xKMlR0clN2NFFQQjFIMDJIcUNkSQ?oc=5": {
+    "title": "「ムーアの法則」は終わらない？最先端半導体進化を支えるEUV技術の最前線",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCcHBJVklvTkpYaTBrT0tjMVZIUFBrMDZWOGNNbXVqSThJNnBqYVFVbFZBYXlmUS1xWlJmRTZrcUU3Y01VNGJjYnZpR19IY1dkMHZ5RXk2NjNjREFDajJsaWc2NFVYalRLaXJQUGQ1bUt0RkNZWHg5Q2930gF_QVVfeXFMT25CQUlhU2pCMktKYm5IS2ZweFNfWjVnX2drMjhGTThTSmpFS18yMmU1VVlPYkUybzF0SHFmMkVnMHB6M21zNGlHTlRPaEZDUVNGQXU1eS1sN3dKNjk5U0JuWmNNRmlxSGctR2xKMlR0clN2NFFQQjFIMDJIcUNkSQ?oc=5",
+    "summary_bullets": [
+      "「ムーアの法則」の持続可能性が問われる中、最先端半導体製造を可能にするEUV（極端紫外線）技術に大きな注目が集まっている。",
+      "EUV技術は、より微細な回路パターンの形成を可能にし、高性能なAIチップやデータセンター向け半導体の発展を加速させ、デジタル社会の基盤を強化する。",
+      "この技術の進化は、半導体産業における国際競争力を左右し、今後のテクノロジー全体の進歩を牽引する主要トレンドとなることが予測される。"
+    ],
+    "insight": "EUV技術は単なる製造プロセスの一部ではなく、半導体業界の未来、ひいてはAIやIoT、5G/6Gといった次世代テクノロジーの可能性を広げる鍵となります。この技術革新の動向は、自社のデジタル戦略やサプライチェーンに直接的な影響を及ぼすため、深く理解しておくべきです。",
+    "action_plan": "自社の事業において半導体の性能向上から受ける影響を具体的に書き出し、EUV技術の進化がもたらすビジネスチャンスやリスクについて、改めて見直してみましょう。",
+    "image_keyword": "EUV lithography, semiconductor manufacturing, advanced chip",
+    "technical_terms": [
+      {
+        "term": "ムーアの法則",
+        "explanation": "半導体の集積密度が約18〜24ヶ月で2倍になるという、インテル創業者が提唱した経験則。テクノロジー進化のペースを示す指標とされる。"
+      },
+      {
+        "term": "EUV技術",
+        "explanation": "Extrem Ultraviolet（極端紫外線）の略。半導体製造において、非常に短い波長の極端紫外線を用いて回路パターンをシリコンウェハーに転写する最先端のリソグラフィ技術。より微細な回路形成を可能にする。"
       }
     ]
   }
