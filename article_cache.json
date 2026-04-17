@@ -2761,7 +2761,7 @@
     "sentiment": "negative",
     "sentiment_text": "警戒すべき話題",
     "rating": 4,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/15/news126.html",
     "summary_bullets": [
       "国民健康保険の支払いを装い、PayPayでの送金を要求するフィッシング詐欺が横行しており、フィッシング対策協議会が注意喚起した。",
@@ -2918,6 +2918,68 @@
       {
         "term": "EUV技術",
         "explanation": "Extrem Ultraviolet（極端紫外線）の略。半導体製造において、非常に短い波長の極端紫外線を用いて回路パターンをシリコンウェハーに転写する最先端のリソグラフィ技術。より微細な回路形成を可能にする。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2604/18/news022.html": {
+    "title": "Anthropic、新AIデザインツール『Claude Design』発表──『Opus 4.7』搭載でデザインとコーディングを革新",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/18/news022.html",
+    "summary_bullets": [
+      "Anthropicが「Opus 4.7」を搭載したAIデザインツール「Claude Design」のプレビューを公開。",
+      "AIによるデザイン生成と既存のコーディングツールとの連携により、デザインから開発までのプロセスが劇的に効率化される可能性。",
+      "将来的にはAIがデザインと開発の境界線を曖昧にし、企業の製品開発サイクルを加速させる主要なトレンドとなることが予測される。"
+    ],
+    "insight": "AIが単なる補助ツールから、デザインと開発の統合プラットフォームへと進化していることを示唆。ビジネスリーダーは、AIを活用したエンドツーエンドのワークフロー最適化戦略を急ぎ、競争優位性を確立すべきです。",
+    "action_plan": "自社のデザインおよび開発ワークフローにおけるAI導入の機会を洗い出し、潜在的な効率化ポイントや新たな価値創造の可能性を具体的に書き出してみましょう。",
+    "image_keyword": "AI design tool, generative UI UX, AI code generation",
+    "technical_terms": [
+      {
+        "term": "Claude Design",
+        "explanation": "Anthropicが発表した、AIを用いてデザイン生成やプロトタイピングを支援するツール。"
+      },
+      {
+        "term": "Opus 4.7",
+        "explanation": "Anthropicの強力なAIモデル「Claude」の最新バージョン（または特定の機能に特化した派生版）で、高度な推論能力と処理能力を持つ。"
+      },
+      {
+        "term": "コーディングツールとの連携",
+        "explanation": "デザインツールが、VS Codeなどの開発環境と統合され、デザイン案から直接コード生成や既存コードへの反映を行う機能。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2604/17/news118.html": {
+    "title": "Salesforceが「Headless 360」を発表：エージェントはもうログイン不要？顧客体験を変革する新戦略",
+    "tags": "SaaS",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "15時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/17/news118.html",
+    "summary_bullets": [
+      "Salesforceがエージェント向け新ソリューション「Headless 360」を発表し、エージェントがSalesforceに直接ログインすることなく既存のワークフロー内で顧客情報にアクセス可能に。",
+      "これにより、エージェントの生産性向上と顧客対応の迅速化・パーソナライズ化が実現し、よりシームレスで質の高い顧客体験（CX）提供に貢献する。",
+      "CRMシステムがバックエンド機能に特化し、多様なフロントエンドシステムとAPI連携する「Headless CRM」のトレンドが加速し、企業は顧客接点構築の柔軟性を高められると予測される。"
+    ],
+    "insight": "「Headless 360」は、従業員が日常的に利用するシステムに基幹データへのアクセスを組み込むことで、SaaS導入におけるエンドユーザーの利便性を最大化し、システム統合の新たなパラダイムを提示しています。これは、既存の業務フローを尊重しつつ最新技術を導入する際の鍵となるでしょう。",
+    "action_plan": "自社のカスタマーサービス部門や営業部門のSaaS活用状況を棚卸し、従業員が情報アクセスで直面するログイン障壁やシステム間連携の課題点を洗い出してみましょう。また、「Headless」アーキテクチャが自社のシステム統合戦略にどのように応用できるか、技術部門やITベンダーと具体的な議論を開始してみましょう。",
+    "image_keyword": "Headless CRM, Agent experience, Customer service integration",
+    "technical_terms": [
+      {
+        "term": "Headless 360",
+        "explanation": "Salesforceが発表した、エージェントがSalesforceに直接ログインせず、既存のワークフロー内で顧客情報にアクセスできる新ソリューションです。"
+      },
+      {
+        "term": "Headless CRM",
+        "explanation": "ユーザーインターフェース（フロントエンド）とビジネスロジック・データ（バックエンド）を分離し、APIを通じて連携させるCRMのアーキテクチャ。これにより、様々なフロントエンドから柔軟にCRM機能を利用できます。"
+      },
+      {
+        "term": "SaaS (Software as a Service)",
+        "explanation": "ソフトウェアをインターネット経由でサービスとして提供するモデル。ユーザーはソフトウェアを所有せず、利用料金を支払ってサービスを利用します。"
       }
     ]
   }
