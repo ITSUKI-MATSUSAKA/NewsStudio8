@@ -2761,7 +2761,7 @@
     "sentiment": "negative",
     "sentiment_text": "警戒すべき話題",
     "rating": 4,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/15/news126.html",
     "summary_bullets": [
       "国民健康保険の支払いを装い、PayPayでの送金を要求するフィッシング詐欺が横行しており、フィッシング対策協議会が注意喚起した。",
@@ -2927,7 +2927,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "たった今",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/aiplus/articles/2604/18/news022.html",
     "summary_bullets": [
       "Anthropicが「Opus 4.7」を搭載したAIデザインツール「Claude Design」のプレビューを公開。",
@@ -2980,6 +2980,286 @@
       {
         "term": "SaaS (Software as a Service)",
         "explanation": "ソフトウェアをインターネット経由でサービスとして提供するモデル。ユーザーはソフトウェアを所有せず、利用料金を支払ってサービスを利用します。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/17/news137.html": {
+    "title": "政治家のAI活用最前線？岸田元首相、自身のディープフェイクを逆手に取り「この画像は公式です」と公式YouTubeでユーモア交え公開",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "23時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/17/news137.html",
+    "summary_bullets": [
+      "岸田元首相が、自身のディープフェイク映像を公式YouTubeチャンネルでセルフパロディーとして公開し、AI技術の話題性を活用した。",
+      "政治家がAI生成コンテンツの光と影を認識し、ユーモアを交えて大衆に提示することで、社会におけるAIリテラシー向上やフェイクニュース対策への示唆を与えている。",
+      "AI技術の進化に伴い、生成コンテンツの信頼性や、それを逆手に取った新しいコミュニケーション戦略が、今後の情報発信のトレンドとなる可能性を予測させる。"
+    ],
+    "insight": "生成AI、特にディープフェイク技術は、悪用リスクだけでなく、適切な文脈とユーモアを伴えば、斬新で効果的なメッセージ伝達やブランディングのツールになり得ると理解し、自社のコミュニケーション戦略に応用する視点を持つべきです。",
+    "action_plan": "自社や個人のブランド保護のため、生成AI技術の最新動向、悪用リスク、そして創造的な活用法について情報収集し、社内でのガイドライン策定や、ポジティブな活用機会の検討を始めましょう。",
+    "image_keyword": "Political AI, Deepfake Parody, Kishida AI",
+    "technical_terms": [
+      {
+        "term": "ディープフェイク",
+        "explanation": "AI技術を用いて、実在の人物の顔や声を別の映像や音声に合成し、あたかも本物であるかのように見せかける技術。"
+      },
+      {
+        "term": "AI",
+        "explanation": "人間の知能をコンピュータ上で再現しようとする技術や研究分野。画像生成、音声合成、データ分析など多岐にわたる応用が可能。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2604/17/news130.html": {
+    "title": "AI、ナレッジワーカーの日常に浸透：2割超が毎日活用、Notion調査で浮き彫り",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "1日前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/17/news130.html",
+    "summary_bullets": [
+      "ナレッジワーカーの21%が仕事でAIツールを毎日利用していることが、Notionの調査で判明。",
+      "企業はAIの日常的な活用を前提とした業務改革と従業員のスキルアップ戦略を加速する必要がある。",
+      "今後、AIツールの普及はさらに進み、生産性向上と業務プロセスの抜本的な変革が期待される。"
+    ],
+    "insight": "AIはもはや未来の技術ではなく、今日の業務効率を左右する必須ツールへと進化している。企業はAI活用を前提とした組織変革と人材育成を急務と捉え、競争力を高めるべきだ。",
+    "action_plan": "自社の業務プロセスを見直し、AIを導入することで効率化・高度化が期待できる領域を特定し、具体的なAIツールの導入や従業員へのトレーニング計画を立ててみましょう。",
+    "image_keyword": "AI at work, knowledge worker, office productivity",
+    "technical_terms": [
+      {
+        "term": "ナレッジワーカー",
+        "explanation": "知識や情報を生み出し、分析し、活用することで価値を創造する仕事に従事する人々。例：研究者、エンジニア、コンサルタント。"
+      },
+      {
+        "term": "AI",
+        "explanation": "人間の知能をコンピュータ上で再現しようとする技術。学習、推論、問題解決などの能力を持つ。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6576728?source=rss": {
+    "title": "子どものSNS規制、国際的課題と見過ごされる「抜け穴」の実態",
+    "tags": "Digital Policy",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "14時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6576728?source=rss",
+    "summary_bullets": [
+      "世界各国で導入されている子ども向けSNS利用規制が、技術的な抜け穴や運用上の課題により実効性を欠いている現状が露呈しています。",
+      "SNSプラットフォーム企業は、より厳格なコンプライアンスと国際的な協力体制の構築を迫られ、企業評価や法的リスクに直結する可能性があります。",
+      "今後、国際的な規制標準化の動きや、AI・生体認証を用いた高度な年齢確認・コンテンツフィルタリング技術の導入が進むと予測されます。"
+    ],
+    "insight": "SNS関連ビジネスを展開する企業は、単なる国内法規制の遵守に留まらず、国際的な規制動向と技術的な抜け穴への対応を常にアップデートし、子どもを含むユーザーの安全確保を最優先する戦略がブランド信頼と持続的成長の鍵となります。",
+    "action_plan": "自社のサービスが子どもに関連する場合、現在のSNS規制への対応状況を再評価し、技術的・運用上の「抜け穴」が存在しないか専門家と共に監査を実施してみましょう。",
+    "image_keyword": "child online safety, social media regulation, digital policy loopholes",
+    "technical_terms": [
+      {
+        "term": "SNS規制",
+        "explanation": "ソーシャルネットワーキングサービス（SNS）の利用に関して、特に未成年者の保護を目的に各国で設けられている法的ルールやガイドラインのことです。"
+      },
+      {
+        "term": "抜け穴",
+        "explanation": "規制や法律が意図する効果を回避できてしまう、制度上の不備や技術的な対策不足を指し、規制の実効性を損なう要因となります。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6576672?source=rss": {
+    "title": "第一生命、AI・デジタル技術に4000億円投資へ - 未来の保険ビジネスを再定義",
+    "tags": "AI / LLM",
+    "sentiment": "positive",
+    "sentiment_text": "未来志向の積極投資",
+    "rating": 5,
+    "time_ago": "23時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6576672?source=rss",
+    "summary_bullets": [
+      "第一生命がAIやその他のデジタル技術に今後5年間で約4000億円を投資する計画を発表した。",
+      "この大規模投資は、保険商品の開発、顧客体験の向上、業務効率化、およびデータ活用能力の強化を目的としている。",
+      "金融業界全体でDX競争が激化する中、本投資は顧客ニーズの変化に対応し、持続的な成長を実現するための重要な戦略となるだろう。"
+    ],
+    "insight": "金融機関におけるAI・デジタル投資は、単なるコスト削減ではなく、新たな顧客価値創出と競争力強化の不可欠な要素となっている。自社のDX戦略を改めて見直し、投資対効果の高い領域への集中を検討すべき時期だ。",
+    "action_plan": "自社のAI活用領域を洗い出し、競合他社の事例と比較して潜在的な機会や課題を特定してみましょう。また、AI投資がもたらす顧客体験向上とコスト削減の可能性を具体的に評価し、経営層への提案を準備しましょう。",
+    "image_keyword": "AI investment, digital transformation, insurance technology",
+    "technical_terms": [
+      {
+        "term": "AI",
+        "explanation": "人間の知能をコンピュータで模倣する技術で、データ分析、予測、自動化などに活用されます。"
+      },
+      {
+        "term": "DX (デジタルトランスフォーメーション)",
+        "explanation": "最新のデジタル技術（AI、IoT、クラウドなど）を導入し、ビジネスモデルや組織を変革することで、競争優位性を確立する取り組みです。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6576670?source=rss": {
+    "title": "AI時代の情報信頼性クライシス：京都の施設がデマに晒された背景と対策",
+    "tags": "Fake News",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "1日前",
+    "url": "https://news.yahoo.co.jp/pickup/6576670?source=rss",
+    "summary_bullets": [
+      "京都の施設が遺体に関するデマにより、深刻な風評被害と業務への影響に直面している。",
+      "デジタル時代の情報源の信頼性や情報リテラシーの欠如が、社会全体に甚大な悪影響を及ぼすことを示唆。",
+      "AI技術の進化に伴うフェイクニュース生成・拡散リスクの高まりに対し、企業や社会のデマ対策と情報検証の強化が急務となる。"
+    ],
+    "insight": "AIによるフェイクニュース生成が容易になる現代において、企業は自社ブランドがデマの標的となる可能性を常に考慮し、情報発信戦略と危機管理体制を再構築する必要がある。",
+    "action_plan": "自社が情報拡散によって不利益を被るリスクシナリオを複数想定し、デマ発生時の対応ガイドラインや情報発信ポリシーを見直してみましょう。",
+    "image_keyword": "Misinformation crisis, digital ethics, social impact",
+    "technical_terms": [
+      {
+        "term": "Disinformation",
+        "explanation": "意図的に誤解を招くよう作成され、拡散される虚偽の情報。社会や個人に悪影響を与える目的で使われることがあります。"
+      },
+      {
+        "term": "Information Literacy",
+        "explanation": "情報を探し出し、評価し、活用する能力。特にデマやフェイクニュースが蔓延する現代において、その重要性が高まっています。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjlDYkZMczdudDZzOFhOel94dGJuYm9DTzRTdDVJS2d1dHVsemhDalYyMlZFcTJOT0xCa1BjbWwxZ2d1SE1wd1QtQklEZkdydzhPWnoydXdlN1pSaGtWYU12d181cUV5cE9PbW1nWm4yTVdGN2VzVWJuR1dFRG1FSjBVX0VBLWpQTVRhTXI2QjV2dmw2cm56SFBpTldYb0N0LUE?oc=5": {
+    "title": "ザッカーバーグの半導体戦略：地政学リスクとAI覇権の狭間でメタが描く未来",
+    "tags": "Hardware",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjlDYkZMczdudDZzOFhOel94dGJuYm9DTzRTdDVJS2d1dHVsemhDalYyMlZFcTJOT0xCa1BjbWwxZ2d1SE1wd1QtQklEZkdydzhPWnoydXdlN1pSaGtWYU12d181cUV5cE9PbW1nWm4yTVdGN2VzVWJuR1dFRG1FSjBVX0VBLWpQTVRhTXI2QjV2dmw2cm56SFBpTldYb0N0LUE?oc=5",
+    "summary_bullets": [
+      "MetaのCEOザッカーバーグが、AI開発を加速するため半導体分野への大規模投資と自社開発を進めている。",
+      "この「半導体ドリーム」は、米中対立に代表される地政学的なサプライチェーンリスクという大きな課題に直面している。",
+      "AI時代の技術覇権争いにおいて、半導体の安定供給と自給能力が企業の競争力を左右する重要な要素となる。",
+      "Metaは半導体自給戦略を強化し、NVIDIA依存からの脱却を図ることで、AI市場における優位性の確立を目指す。"
+    ],
+    "insight": "AI時代の競争優位は、ソフトウェアだけでなく、その基盤となる半導体の安定供給と自社開発能力に大きく依存することを認識し、自社のサプライチェーンと技術投資戦略を再評価する必要がある。",
+    "action_plan": "自社のAI戦略において、半導体サプライチェーンの脆弱性や地政学リスクがもたらす影響を分析し、代替策や多角的な調達戦略の可能性を検討してみましょう。",
+    "image_keyword": "Zuckerberg AI chip",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "コンピューターやAIなどの電子機器の頭脳となる、情報を処理・記憶する微細な電子部品。AIの性能を左右する重要な要素です。"
+      },
+      {
+        "term": "地政学リスク",
+        "explanation": "特定の地域における政治的・地理的要因が、国際経済や企業のサプライチェーンに与える不確実性や脅威。例：米中対立による貿易規制。"
+      },
+      {
+        "term": "AI覇権",
+        "explanation": "人工知能分野において、技術開発、市場シェア、軍事応用などで他国や他社を凌駕し、主導的な地位を確立すること。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MTnM3SWJILXM5U2ZTODBqUnpzb29vZGVpeTE0X1VqM0xUX1NuRmVkeXZqY1lxUGRNd2gxYjViTktGblQ4T1VNc053c3jSAU9BVV95cUxPbng5Q2g2a1l4bk1mM09WQUI2WDFMbWNNWGFvT2ZHRF9HWUFPbDBidjM3WUdHNE5FckJ3RjhCakp4SG5Bbk9XZFBTejUtazNj?oc=5": {
+    "title": "パワー半導体再編の嵐！デンソー対ローム・東芝・三菱連合、激化する争奪戦の裏側",
+    "tags": "Semiconductor",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MTnM3SWJILXM5U2ZTODBqUnpzb29vZGVpeTE0X1VqM0xUX1NuRmVkeXZqY1lxUGRNd2gxYjViTktGblQ4T1VNc053c3jSAU9BVV95cUxPbng5Q2g2a1l4bk1mM09WQUI2WDFMbWNNWGFvT2ZHRF9HWUFPbDBidjM3WUdHNE5FckJ3RjhCakp4SG5Bbk9XZFBTejUtazNj?oc=5",
+    "summary_bullets": [
+      "デンソーによるロームへの買収提案が、ローム、東芝、三菱電機による「ローム連合」の形成を促し、パワー半導体業界の再編が激化している。",
+      "EVや脱炭素化の進展により需要が高まるパワー半導体の覇権を巡る動きは、日本の産業構造や国際競争力に大きな影響を与える可能性がある。",
+      "今後、ロームの株主判断や各社の戦略的提携の進展次第で、パワー半導体市場における新たな勢力図が形成される見通し。",
+      "パワー半導体市場の競争激化と再編は、自動車産業をはじめとする関連業界のサプライチェーンに直接的な影響を及ぼすだろう。"
+    ],
+    "insight": "パワー半導体市場は、EVシフトや脱炭素化を背景に今後もM&Aや戦略的提携が活発化する可能性が高く、サプライチェーンの安定性と技術リーダーシップ確保が企業の競争優位性を左右する鍵となる。",
+    "action_plan": "自社のサプライチェーンにおける重要部品（半導体など）の調達リスクを再評価し、代替供給源や戦略的パートナーシップの可能性について検討を開始しましょう。",
+    "image_keyword": "semiconductor acquisition, power device merger, corporate battle",
+    "technical_terms": [
+      {
+        "term": "パワー半導体",
+        "explanation": "電力の制御や変換を効率的に行う半導体。電気自動車（EV）や産業機器、再生可能エネルギーシステムなどに不可欠な部品で、高い電圧や電流を扱える特徴がある。"
+      },
+      {
+        "term": "M&A (Mergers & Acquisitions)",
+        "explanation": "企業買収（Acquisitions）と合併（Mergers）の総称。企業の成長戦略や事業再編の一環として、他社を買収したり、他社と合併したりすること。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjUnNYVHJyWXJoZERrRWxNYmZxR2pTNldkRUhjSzluQzVvaEt4X3FEUmtHUTE2amxWZGMta2laVnNrSjAwRGJpajFoaE5PZFhOd3dmbA?oc=5": {
+    "title": "米国半導体株へのスマート投資：ニッセイSOX指数ファンドが拓く未来",
+    "tags": "Semiconductor",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "4時間前",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjUnNYVHJyWXJoZERrRWxNYmZxR2pTNldkRUhjSzluQzVvaEt4X3FEUmtHUTE2amxWZGMta2laVnNrSjAwRGJpajFoaE5PZFhOd3dmbA?oc=5",
+    "summary_bullets": [
+      "ニッセイから、購入・換金手数料なしで米国半導体株に投資できる「SOX指数インデックスファンド」が提供されています。",
+      "AIやデータセンター需要の急増により、半導体産業がテクノロジー業界の成長エンジンとして注目され、関連投資が重要性を増しています。",
+      "世界的なデジタル化の加速を背景に、SOX指数連動型の投資信託は、今後の半導体市場拡大の恩恵を享受する有力な手段と見られます。"
+    ],
+    "insight": "AI時代の到来は半導体市場に前例のない成長機会をもたらしており、ビジネスリーダーは半導体セクターへの戦略的投資が、未来の技術革新と経済成長の恩恵を享受するための鍵となることを認識すべきです。",
+    "action_plan": "自身の投資ポートフォリオにおけるテクノロジー・半導体関連資産の比率を見直し、SOX指数など主要な半導体指標の動向を常にウォッチする習慣をつけましょう。",
+    "image_keyword": "semiconductor investment, tech stock chart, AI chip finance",
+    "technical_terms": [
+      {
+        "term": "SOX指数",
+        "explanation": "フィラデルフィア半導体株指数の略で、米国の主要な半導体関連企業の株価動向を示す、半導体産業の健全性を測る重要な指標です。"
+      },
+      {
+        "term": "インデックスファンド",
+        "explanation": "特定の株価指数（この場合はSOX指数）に連動する運用成果を目指す投資信託で、個別銘柄選定の手間なく分散投資が可能です。"
+      },
+      {
+        "term": "米国半導体株",
+        "explanation": "アメリカに拠点を置く半導体の設計・製造などを行う企業の株式を指し、グローバルな技術需要を背景に高い成長性が期待されています。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/17/news087.html": {
+    "title": "ソフトバンクG、社名不正利用に厳重警告！巧妙化するブランド詐欺から企業とユーザーを守るには",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "1日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/17/news087.html",
+    "summary_bullets": [
+      "ソフトバンクグループが「軟銀ソリューションズ」という商号が自社と一切関係ないことを公式に注意喚起した。",
+      "企業の商号やブランドの不正利用が巧妙化しており、企業は積極的なブランド保護戦略と消費者への情報提供が不可欠となっている。",
+      "模倣ビジネスやなりすまし詐欺の増加傾向を受け、企業はAI技術なども活用したブランド監視や法務的対応の強化を加速させる可能性がある。"
+    ],
+    "insight": "自社のブランドがいつ、どこで、どのように不正利用されるか予測困難な時代であり、企業はサイバーセキュリティだけでなく、商標・商号の積極的な監視と迅速な対応体制の構築が必須である。",
+    "action_plan": "自社の商号やブランド名がインターネット上で不正使用されていないか、定期的に検索やツールで監視する仕組みを見直してみましょう。また、社内においてブランド保護に関する緊急対応フローや広報戦略を再確認し、関連部署との連携体制を強化しましょう。",
+    "image_keyword": "corporate identity fraud",
+    "technical_terms": [
+      {
+        "term": "商号",
+        "explanation": "会社が営業活動を行う上で使用する名称のこと。法律で保護されており、他社が勝手に同じ名称を使うことはできない。"
+      },
+      {
+        "term": "不正使用",
+        "explanation": "企業やブランドの名称、ロゴなどを許可なく使い、消費者を誤解させたり、利益を得ようとする行為。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/16/news065.html": {
+    "title": "国家機関の盲点？偽装刑事による巧妙な手口で国税職員がLINEを通じ機密納税情報漏洩",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "2日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/16/news065.html",
+    "summary_bullets": [
+      "国税職員が「偽の刑事」を名乗る人物に騙され、LINEアプリを介して個人企業の機密納税情報を漏洩させた。",
+      "国家機関の職員がソーシャルエンジニアリングの被害に遭ったことで、組織全体における情報セキュリティ教育と意識の欠如が浮き彫りになった。",
+      "デジタルツールの利用が広がる現代において、巧妙化する詐欺手口への対策と、従業員一人ひとりのセキュリティリテラシー向上が急務となる。"
+    ],
+    "insight": "デジタルコミュニケーションが日常化する中で、組織の規模や役割に関わらず、巧妙なソーシャルエンジニアリング攻撃は常に情報漏洩のリスクをもたらします。従業員が安易な行動を取らないよう、継続的なセキュリティ教育と心理的な防御壁の構築が、組織の信頼と情報資産を守る上で不可欠であることを再認識すべきです。",
+    "action_plan": "自社の情報セキュリティガイドラインを直ちに再点検し、特にソーシャルエンジニアリングやフィッシング詐欺に対する従業員教育プログラムを強化しましょう。また、業務用連絡ツールでの機密情報取り扱いに関する具体的なルールを明確化し、定期的な訓練を通じて全従業員への周知徹底を図りましょう。",
+    "image_keyword": "data leak, cyber crime, social engineering",
+    "technical_terms": [
+      {
+        "term": "ソーシャルエンジニアリング",
+        "explanation": "人間の心理的な隙や行動のミスを悪用し、技術的な手法ではなく人とのコミュニケーションを通じて機密情報を不正に入手する手法。パスワードや機密情報などを聞き出す行為も含まれる。"
+      },
+      {
+        "term": "情報漏洩",
+        "explanation": "企業や組織、個人の持つ機密情報や個人情報などが、意図せずまたは不正な手段によって外部に流出してしまうこと。セキュリティインシデントの一つ。"
       }
     ]
   }
