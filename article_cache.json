@@ -3551,5 +3551,109 @@
         "explanation": "歯のエナメル質や歯肉が後退することで露出した象牙質が刺激を受け、一時的に歯がしみる症状（知覚過敏）を和らげるための対策や製品。"
       }
     ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/23/news021.html": {
+    "title": "ミツカン、AIプロジェクトに「退会OK」戦略で211人集結！失敗を糧にする共感型イノベーションの秘訣",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/23/news021.html",
+    "summary_bullets": [
+      "ミツカンが「いつでも退会OK」という柔軟な条件でAIプロジェクトの参加者を募り、予想をはるかに上回る211人が集結した。",
+      "失敗を許容し、参加者の自主性を重んじるオープンなアプローチが、企業内のイノベーション推進やAI導入における心理的ハードルを下げ、高いエンゲージメントを生み出す可能性を示唆する。",
+      "従業員が自律的に関わり、共創するスタイルのAI開発やDX推進が、今後の組織における新しいプロジェクト形成のトレンドとなるだろう。"
+    ],
+    "insight": "このニュースは、企業が新しい技術導入や変革を進める上で、従来のトップダウン型ではなく、心理的安全性を確保し、参加者の自律性を尊重するコミュニティ型アプローチが成功の鍵となることを明確に示しています。",
+    "action_plan": "自社で新たなプロジェクトやイノベーションを推進する際、参加者の心理的安全性を高めるためのルールや文化（例: 失敗を責めない、参加・離脱の自由）をどのように設計できるか、具体的な方法を書き出してみましょう。",
+    "image_keyword": "AI project, community collaboration, open innovation",
+    "technical_terms": [
+      {
+        "term": "AIプロジェクト",
+        "explanation": "人工知能技術を活用して特定のビジネス課題を解決したり、新しいサービスを開発したりする一連の取り組み。"
+      },
+      {
+        "term": "共創",
+        "explanation": "複数の主体（企業、従業員、顧客など）が協力し合い、アイデアを出し合って共に価値を創造していくプロセス。"
+      }
+    ]
+  },
+  "https://kn.itmedia.co.jp/kn/articles/2604/23/news046.html": {
+    "title": "議事録AIが「仕事が回る会社」と「ムダが増える会社」を分ける境界線：成功の秘訣を徹底解剖",
+    "tags": "AI",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2604/23/news046.html",
+    "summary_bullets": [
+      "議事録AIの導入効果が企業間で二極化しており、導入によって生産性が向上する会社と、かえって無駄が増える会社が存在することが調査で判明。",
+      "AIツールの導入は、単なる技術導入に留まらず、組織文化、運用体制、従業員のエンゲージメントといった要素が生産性への影響を左右する。",
+      "今後の企業は、AI導入に際して明確な戦略と適切な運用設計が求められ、成功事例から学び、自社に最適化された導入アプローチを構築することが重要となる。"
+    ],
+    "insight": "AIツールは導入すれば万能ではなく、それを最大限に活用できる組織体制や運用ルール、そして従業員のリテラシーが伴って初めて真価を発揮するため、テクノロジーだけでなく組織全体の変革を視野に入れる必要があります。",
+    "action_plan": "自社のAIツール導入状況を見直し、従業員の利用実態や課題点をヒアリングしてみましょう。その上で、具体的な運用ガイドラインの策定や教育プログラムの導入を検討し、AI活用の最大化を図りましょう。",
+    "image_keyword": "AI meeting productivity, office efficiency, smart tech office",
+    "technical_terms": [
+      {
+        "term": "議事録AI",
+        "explanation": "会議の音声データを自動的にテキスト化し、要約やタスク抽出、参加者の発言分析などを行う人工知能ツールです。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6577246?source=rss": {
+    "title": "SNS年齢確認、総務省が厳格化を要請：プラットフォーム企業の次なる課題と商機",
+    "tags": "Social Media",
+    "sentiment": "positive",
+    "sentiment_text": "保護強化と新たな技術開発が期待される話題",
+    "rating": 4,
+    "time_ago": "12時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6577246?source=rss",
+    "summary_bullets": [
+      "総務省がSNS事業者に対し、未成年保護のための年齢確認システムの厳格化を要請した。",
+      "SNSプラットフォームは、技術的な対応や運用コストの増加が見込まれる一方、信頼性向上への投資機会となる。",
+      "AIやデジタルIDを活用した高度な本人確認技術の導入が加速し、国際的な規制動向も注目されるトレンドとなるだろう。"
+    ],
+    "insight": "SNS事業者は、法的規制強化の動きを単なるコスト増と捉えるのではなく、先進的な年齢確認技術とプライバシー保護を両立させることで、プラットフォームの信頼性を高め、差別化を図る絶好の機会と捉えるべきです。",
+    "action_plan": "自社のサービスが未成年者への影響を持つ場合、既存の年齢確認プロセスやプライバシーポリシーの現状を見直し、今後の規制強化を見越した技術導入の可能性を評価してみましょう。",
+    "image_keyword": "social media age verification, online safety policy, digital identity protection",
+    "technical_terms": [
+      {
+        "term": "年齢確認 (Age Verification)",
+        "explanation": "オンラインサービスやアプリケーションにおいて、利用者が特定の年齢基準を満たしているかを確認するプロセス。法律や規約遵守のために用いられる。"
+      },
+      {
+        "term": "総務省 (Ministry of Internal Affairs and Communications)",
+        "explanation": "日本の省庁の一つで、情報通信政策、行政運営、地方自治などを所管し、SNSなどのデジタルサービスに関する政策提言や規制を行う機関。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qd3o4ejdSbDlfUS1wN3JGa1hxSGZHVm1oSUlBUkdDVzI2R0Z4WkxmYTV4TFgxekJrdVZ6M2dkS2ZBR2RVWGxSc2hHZEU3WXBpaVFiZUxINTJxT1RVQjFxWjZnUWFyYVhOWmVGVg?oc=5": {
+    "title": "TSMC、2029年AI革命を加速！次世代1.3ナノ半導体「A13」量産でAI性能を飛躍的に向上へ",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qd3o4ejdSbDlfUS1wN3JGa1hxSGZHVm1oSUlBUkdDVzI2R0Z4WkxmYTV4TFgxekJrdVZ6M2dkS2ZBR2RVWGxSc2hHZEU3WXBpaVFiZUxINTJxT1RVQjFxWjZnUWFyYVhOWmVGVg?oc=5",
+    "summary_bullets": [
+      "TSMCは2029年から次世代の1.3ナノメートル半導体「A13」の量産を開始する計画を発表した。",
+      "この超微細化技術はAIチップの処理能力と効率を劇的に向上させ、AI技術のさらなる進化と応用領域の拡大を加速させる。",
+      "先端半導体の開発競争が激化する中、TSMCの技術革新が今後のAI主導の産業構造や地政学的バランスに大きな影響を与えることが予測される。"
+    ],
+    "insight": "TSMCによる1.3ナノ半導体の量産は、単なる技術進化に留まらず、AIが社会やビジネスのあらゆる側面に浸透する未来において、企業の競争力と国家の優位性を決定づける基盤となるでしょう。",
+    "action_plan": "自社のAI戦略とロードマップを改めて見直し、次世代AIインフラへの投資計画や技術パートナーシップの可能性を検討しましょう。また、競合他社がどのように先端AIチップを活用し、新サービスを構築しようとしているかを分析し、自社の差別化ポイントを明確にしましょう。",
+    "image_keyword": "TSMC semiconductor, AI chip, nanotech manufacturing",
+    "technical_terms": [
+      {
+        "term": "1.3ナノ半導体",
+        "explanation": "半導体の回路線幅が1.3ナノメートル（10億分の1.3メートル）と極めて微細であることを示します。数字が小さいほど、より多くのトランジスタを搭載でき、性能向上と省電力化が可能になります。"
+      },
+      {
+        "term": "A13",
+        "explanation": "TSMCが開発中の次世代半導体チップのコードネームであり、主にAI処理能力の向上を目的とした最先端の製品群の一部と見られます。"
+      }
+    ]
   }
 }
