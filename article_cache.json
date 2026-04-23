@@ -3655,5 +3655,86 @@
         "explanation": "TSMCが開発中の次世代半導体チップのコードネームであり、主にAI処理能力の向上を目的とした最先端の製品群の一部と見られます。"
       }
     ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/24/news057.html": {
+    "title": "【独自戦略】富士通が描く『フィジカルAI』の全貌：米中AI覇権に対抗する日本企業の挑戦",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/24/news057.html",
+    "summary_bullets": [
+      "富士通が「フィジカルAI」という独自のAI戦略を発表し、「ドラえもんのような世界」の実現を通じて米中AI企業との競争に挑む。",
+      "物理空間と融合するAIの進化は、製造業、ヘルスケア、インフラなど多岐にわたる産業に革新的な変革をもたらす可能性を秘めている。",
+      "大規模言語モデル（LLM）一辺倒ではない、実世界での問題解決に特化したAIが今後のテクノロジートレンドの重要な方向性となることが予測される。"
+    ],
+    "insight": "LLM開発競争が激化する中、日本企業が現実世界への応用と独自性を追求する「フィジカルAI」戦略を打ち出すことは、今後のAI活用における競争優位の鍵が、技術の深掘りと実社会への具体的な価値提供にあることを示唆している。",
+    "action_plan": "自社のビジネスにおいて、物理世界とAIを融合させる「フィジカルAI」の具体的なユースケースやサービスアイデアをブレーンストーミングし、潜在的な技術パートナーシップや投資機会を今日から検討してみましょう。",
+    "image_keyword": "physical AI strategy, human-AI collaboration, futuristic robotics",
+    "technical_terms": [
+      {
+        "term": "フィジカルAI",
+        "explanation": "現実世界（物理空間）のデータや状況を理解し、物理的な行動を通じて問題解決や人とのインタラクションを行う人工知能のこと。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/24/news018.html": {
+    "title": "Claude Codeが開発現場を革新：開発時間70%削減、新機能リリースを5日に短縮するAIの衝撃",
+    "tags": "AI / LLM",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/24/news018.html",
+    "summary_bullets": [
+      "Claude Codeの導入により、開発時間を最大70%削減し、新機能のリリースサイクルを24日から5日に劇的に短縮できることが示された。",
+      "AIによるコード生成・支援ツールは、ソフトウェア開発の生産性と効率を飛躍的に向上させ、企業の市場投入速度と競争優位性を高める。",
+      "今後はAIが開発プロセスに不可欠な存在となり、開発者の役割はより高度な設計や創造的業務へとシフトし、開発体制の再構築が加速するだろう。"
+    ],
+    "insight": "AIを活用した開発ツールは、もはや単なる効率化の手段ではなく、ビジネスの成長とイノベーションを加速させるための戦略的投資であることを理解し、自社の導入可能性を早急に検討すべきである。",
+    "action_plan": "自社の開発プロセスにおけるAI導入の具体的な機会と課題を洗い出し、Claude Codeのような先進的なAI開発支援ツールの試用や導入計画の立案を開始してみましょう。",
+    "image_keyword": "AI Code Development, Software Productivity, Developer AI Assistant",
+    "technical_terms": [
+      {
+        "term": "Claude Code",
+        "explanation": "Anthropicが開発した大規模言語モデルClaudeを基盤とする、コード生成や開発支援に特化したAIツール。開発の自動化・効率化を支援します。"
+      },
+      {
+        "term": "LLM (Large Language Model)",
+        "explanation": "大量のテキストデータで学習し、人間のような自然言語の理解、生成、要約、翻訳などが可能なAIモデル。コード生成も得意とします。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6577372?source=rss": {
+    "title": "KDDI、衛星ブロードバンドで「圏外ゼロ」へ：緊急通報の新常識を創造",
+    "tags": "Telecommunication",
+    "sentiment": "positive",
+    "sentiment_text": "画期的な進展",
+    "rating": 5,
+    "time_ago": "9時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6577372?source=rss",
+    "summary_bullets": [
+      "KDDIが衛星ブロードバンドを活用し、携帯電話の圏外エリアからでも緊急通報（110/119/118番）が可能になる技術を開発。",
+      "災害時や山間部など従来の通信網が機能しない場所での安全性と命の保護を大幅に向上させ、社会インフラとしての通信の信頼性を高める。",
+      "既存ネットワークと衛星通信の融合が加速し、真の「どこでも繋がる」社会の実現に向けたトレンドを牽引、他キャリアにも影響を与える可能性。"
+    ],
+    "insight": "通信インフラの進化は、単なる利便性の向上に留まらず、社会のレジリエンスを強化し、新たな安全保障とビジネス機会を創出することを示す重要な事例である。",
+    "action_plan": "自社の事業における災害対策やBCP（事業継続計画）における通信要件を見直し、衛星通信などの新たな技術導入の可能性やパートナーシップ戦略を検討してみましょう。",
+    "image_keyword": "Satellite emergency call, Off-grid communication, Telecom innovation",
+    "technical_terms": [
+      {
+        "term": "圏外",
+        "explanation": "携帯電話の電波が届かず、通話や通信ができないエリア。"
+      },
+      {
+        "term": "緊急通報",
+        "explanation": "警察（110番）、消防・救急（119番）、海上保安庁（118番）など、緊急時に利用される電話番号への通報。"
+      },
+      {
+        "term": "衛星ブロードバンド",
+        "explanation": "人工衛星を経由して提供される高速インターネット接続サービス。地理的な制約を受けにくい特徴を持つ。"
+      }
+    ]
   }
 }
