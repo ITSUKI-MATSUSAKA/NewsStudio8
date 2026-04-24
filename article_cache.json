@@ -3736,5 +3736,90 @@
         "explanation": "人工衛星を経由して提供される高速インターネット接続サービス。地理的な制約を受けにくい特徴を持つ。"
       }
     ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/25/news024.html": {
+    "title": "MetaとAWSがタッグ！エージェントAIの飛躍を加速するArmベース『Graviton5』大規模導入の衝撃",
+    "tags": "AI Infrastructure",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/25/news024.html",
+    "summary_bullets": [
+      "Metaがエージェント型AIの強化に向け、AWSと提携しArmベースの最新チップ「Graviton5」を大量採用する。",
+      "今回の提携は、AIモデル開発のコスト効率と性能を大幅に向上させ、より高度なエージェントAIの普及を加速させる可能性を秘めている。",
+      "クラウドベンダーと大手テック企業の連携が深化し、AI専用ハードウェアとエコシステムの競争が今後さらに激化するトレンドを裏付ける。"
+    ],
+    "insight": "MetaとAWSの戦略的提携は、AI開発におけるコスト効率と高性能化が喫緊の課題であり、特定のハードウェアに依存しない柔軟なクラウド基盤が競争優位の鍵となることを示唆している。",
+    "action_plan": "自社のAI活用戦略を見直し、クラウドプロバイダーとの連携や最適なチップ選択が将来の競争力にどう影響するか、その潜在的なメリットとデメリットを具体的に評価し、新たな開発ロードマップを検討してみましょう。",
+    "image_keyword": "AI chip partnership, cloud AI infrastructure, Graviton5 data center",
+    "technical_terms": [
+      {
+        "term": "エージェント型AI",
+        "explanation": "自律的に目標を設定し、状況を判断して行動する、人間のように機能するAI。例えば、スケジュール管理や情報収集などを自動で行う。"
+      },
+      {
+        "term": "Armベースチップ",
+        "explanation": "Arm社の設計ライセンスに基づいたCPUチップ。低消費電力でありながら高い性能を発揮し、スマートフォンからサーバーまで幅広く利用されている。"
+      },
+      {
+        "term": "Graviton5",
+        "explanation": "AWSが自社開発するArmベースの最新世代プロセッサ。クラウドワークロードに最適化され、高いコストパフォーマンスを提供する。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2604/24/news116.html": {
+    "title": "Google AI講座、無料枠1万人分が1日で瞬殺！急加速するAI人材獲得競争と企業の戦略的対応",
+    "tags": "AI Training",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "14時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/24/news116.html",
+    "summary_bullets": [
+      "Googleの提供するAI講座の無料枠1万人分が募集開始からわずか1日で終了し、AI学習への極めて高い需要が浮き彫りに。",
+      "これはAI人材の育成と獲得が企業競争力に直結することを示す一方、Googleが自社のAIエコシステムへのユーザー囲い込みを強化している戦略的動きと推測される。",
+      "今後、AIスキル習得は個人のキャリアアップに不可欠となり、プラットフォーマーによる大規模なAI教育プログラム提供が加速するトレンドが予測される。"
+    ],
+    "insight": "AIスキルの重要性が高まる中、個人は自己投資としてAI学習を急務と捉え、企業は従業員のAIリテラシー向上と具体的な活用戦略の構築を喫緊の課題として取り組むべきである。",
+    "action_plan": "自社の業務におけるAI活用機会を洗い出し、従業員のAIスキルアップのための社内研修プログラムや外部講座導入の検討、または個人としてGoogle AI Proなどの学習リソースを活用した具体的な学習計画を立ててみましょう。",
+    "image_keyword": "AI education demand, online learning platform, Google AI training",
+    "technical_terms": [
+      {
+        "term": "AI講座",
+        "explanation": "人工知能（AI）に関する知識や技術を学ぶための研修プログラムやコースの総称。"
+      },
+      {
+        "term": "Google AI Pro",
+        "explanation": "Googleが提供する、AI関連の専門的なコンテンツやツール、特典などが含まれるサービス、または資格認定プログラムの可能性。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/24/news111.html": {
+    "title": "NECとAnthropic、電撃的協業の舞台裏：発表2日前決定、3週間のスピード交渉が示すAI新時代の幕開け",
+    "tags": "AI / LLM",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "15時間前",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/24/news111.html",
+    "summary_bullets": [
+      "NECと米AIスタートアップAnthropicが、発表2日前に決定した電撃的協業の実現に向けてわずか3週間で合意した。",
+      "この異例のスピード感は、グローバルなAI競争における日本企業の迅速な意思決定と戦略的パートナーシップ構築の重要性を示唆する。",
+      "両社の協業は、日本市場におけるAI技術の社会実装を加速させ、産業界全体のデジタル変革に大きな影響を与える可能性がある。"
+    ],
+    "insight": "AI分野における技術革新と競争のスピードは、従来のビジネス交渉プロセスをはるかに凌駕しており、企業は市場機会を捉えるために迅速な意思決定と戦略的なパートナーシップ構築を最優先すべきである。",
+    "action_plan": "自社のビジネスモデルや製品・サービスにおけるAI活用の可能性を再評価し、国内外の先進的なAI企業との協業機会を積極的に模索するためのロードマップを策定してみましょう。",
+    "image_keyword": "NEC Anthropic collaboration, AI partnership Japan, tech agreement",
+    "technical_terms": [
+      {
+        "term": "Anthropic",
+        "explanation": "OpenAIの元メンバーが創業した、安全かつ高性能なAI（特に大規模言語モデル）の開発に注力するアメリカのAIスタートアップ企業。"
+      },
+      {
+        "term": "LLM (Large Language Model)",
+        "explanation": "大量のテキストデータを学習し、人間のような自然な言語を理解・生成できるAIモデルのこと。GPTやClaudeなどがこれに該当する。"
+      }
+    ]
   }
 }
