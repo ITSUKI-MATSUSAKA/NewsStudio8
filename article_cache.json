@@ -3743,7 +3743,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "1時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/25/news024.html",
     "summary_bullets": [
       "Metaがエージェント型AIの強化に向け、AWSと提携しArmベースの最新チップ「Graviton5」を大量採用する。",
@@ -3774,7 +3774,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "14時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/aiplus/articles/2604/24/news116.html",
     "summary_bullets": [
       "Googleの提供するAI講座の無料枠1万人分が募集開始からわずか1日で終了し、AI学習への極めて高い需要が浮き彫りに。",
@@ -3819,6 +3819,244 @@
       {
         "term": "LLM (Large Language Model)",
         "explanation": "大量のテキストデータを学習し、人間のような自然な言語を理解・生成できるAIモデルのこと。GPTやClaudeなどがこれに該当する。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2604/26/news023.html": {
+    "title": "Anthropicの実験『Project Deal』が露呈したAIエージェント市場における経済格差の深層",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/26/news023.html",
+    "summary_bullets": [
+      "Anthropicが実施したAIエージェント市場実験「Project Deal」が、ユーザー間で無自覚な経済格差を生み出す可能性を浮き彫りにした。",
+      "AIの普及と商用利用が進む中で、意図せず新たな不平等を発生させる潜在的なリスクが社会的な課題として認識され始めている。",
+      "今後のAIエージェントや自律システムの開発・導入においては、技術的な側面だけでなく、倫理的、社会的な公平性への配慮がより一層求められるだろう。"
+    ],
+    "insight": "AIエージェント技術は効率化と新たな価値創出の可能性を秘める一方で、その設計や導入方法によっては意図せず社会に深い経済格差を生み出すリスクを内包します。この洞察は、AIの導入を検討するすべてのビジネスリーダーにとって、技術的側面だけでなく、倫理的・社会的な影響まで考慮した包括的な戦略立案が不可欠であることを示唆します。",
+    "action_plan": "自社でAIエージェントやAI技術を導入する際、利用モデルや報酬体系が既存の格差を助長しないか、公平性の観点から評価基準を策定し、見直してみましょう。",
+    "image_keyword": "AI agent economy, digital inequality, ethical AI market",
+    "technical_terms": [
+      {
+        "term": "Project Deal",
+        "explanation": "AnthropicがAIエージェントの経済的な振る舞いや相互作用を研究するために実施した市場実験の名称。"
+      },
+      {
+        "term": "AIエージェント",
+        "explanation": "特定の目標を達成するために、自律的に判断し行動する能力を持つ人工知能プログラム。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6577585?source=rss": {
+    "title": "ガラケー復活イベントが空前の盛況！レトロテックが拓く新たな市場トレンド",
+    "tags": "Consumer Electronics",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "15時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6577585?source=rss",
+    "summary_bullets": [
+      "ガラケーをテーマにしたイベントが予想を上回る盛況ぶりを見せ、幅広い世代からの関心を集めている。",
+      "レトロテックへの関心の高まりは、ノスタルジー消費を喚起し、関連サービスや製品開発に新たな機会をもたらす可能性がある。",
+      "デジタルデトックス志向や特定の機能に特化したデバイスへの需要が増加し、多様なライフスタイルに合わせた製品開発が進むと予測される。"
+    ],
+    "insight": "デジタル飽和時代において、ガラケーに代表されるレトロデバイスへの回帰は、単なるノスタルジーだけでなく、シンプルな機能性やデジタルデトックス、特定のコミュニティ体験を求める現代人の深層心理を反映しており、企業はこうした潜在ニーズを捉えた新たなプロダクトやサービス戦略を検討すべきである。",
+    "action_plan": "自社の製品・サービスにおいて、過去の成功モデルやユーザーが愛着を持っていた要素を再評価し、現代のニーズと融合させることで新たな価値を創造できないかブレインストーミングしてみましょう。",
+    "image_keyword": "retro flip phone, vintage tech event, nostalgic mobile",
+    "technical_terms": [
+      {
+        "term": "ガラケー",
+        "explanation": "スマートフォンが普及する以前に主流だった、通話やメールを中心とした携帯電話。フィーチャーフォンとも呼ばれる。"
+      },
+      {
+        "term": "デジタルデトックス",
+        "explanation": "スマートフォンやPCなどのデジタルデバイスから距離を置き、心身の疲労を軽減する試み。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6577525?source=rss": {
+    "title": "【速報】AI都知事『ユリコ』、驚異の月額2.5万円で始動か？ 未来の行政を担うコスト効率とは",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "23時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6577525?source=rss",
+    "summary_bullets": [
+      "AIが都知事の役割を担い、月額2万5000円という低コストで運用される可能性が報じられた。",
+      "行政サービスの画期的な効率化とコスト削減を実現し、公共部門におけるAI活用の新たなビジネスモデル創出を加速させるだろう。",
+      "AIによる意思決定とガバナンスの未来が議論され、スマートシティやデジタル政府への移行が加速するトレンドを予測させる。"
+    ],
+    "insight": "AIが高度な行政機能をも代替し得るという今回の報道は、単なるコスト削減を超え、あらゆる業界のビジネスモデル再構築と人間・AI協働の新たな役割分担を促す強力な示唆となる。",
+    "action_plan": "自社の業務プロセス全体を見直し、AIが代替し得る反復作業やデータ分析業務、さらには意思決定支援の領域を具体的に書き出して、AI導入による効率化と価値創造の可能性を検討してみましょう。",
+    "image_keyword": "AI governor, smart city, futuristic government",
+    "technical_terms": [
+      {
+        "term": "AI",
+        "explanation": "Artificial Intelligence（人工知能）の略で、人間の知能を模倣し、学習・推論・判断などを行うコンピュータシステム。"
+      },
+      {
+        "term": "ガバナンス",
+        "explanation": "組織や団体を適切に管理・運営するための仕組みや体制。特に、透明性や説明責任を重視する考え方。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1MTS1kUXd2azhIelEtVVhOT2txOGI1R0FsTkNzRmFPZDF1aDh3VDFMWk5HdzVZN0l6XzhZWnBlMHlZZw?oc=5": {
+    "title": "SCREENHD、米国にR&D拠点を新設：次世代半導体プロセス開発を戦略的に加速",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1MTS1kUXd2azhIelEtVVhOT2txOGI1R0FsTkNzRmFPZDF1aDh3VDFMWk5HdzVZN0l6XzhZWnBlMHlZZw?oc=5",
+    "summary_bullets": [
+      "SCREENHDが米国に研究開発拠点を設立し、次世代半導体プロセスの技術革新を加速させる方針を決定。",
+      "今回の米国進出は、国際的な半導体サプライチェーン再編と技術覇権競争の中で、企業の競争力強化に直結する重要な戦略的動き。",
+      "半導体製造技術の進化は、AI、IoT、自動運転といった先端産業の発展を支え、今後の技術トレンドを大きく左右すると予測される。"
+    ],
+    "insight": "グローバルな技術競争が激化する半導体分野において、企業が生き残るためには、最先端技術への先行投資と、主要市場での研究開発拠点の確保が不可欠であることを示唆しています。",
+    "action_plan": "自社の技術ロードマップにおけるR&D投資の優先順位を見直し、グローバル市場での技術連携や拠点展開の可能性について検討してみましょう。",
+    "image_keyword": "semiconductor R&D center, advanced chip manufacturing, US tech lab",
+    "technical_terms": [
+      {
+        "term": "次世代半導体プロセス",
+        "explanation": "より高性能で省電力、小型な半導体チップを製造するための最新技術や製造工程のこと。AIや高速通信の進化に不可欠です。"
+      },
+      {
+        "term": "研究開発拠点",
+        "explanation": "企業や組織が新しい技術や製品を生み出すために、専門的な研究や開発を行う施設。技術革新の最前線となる場所です。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1SSXZMUVItdm5qQ1VuRjNDdk4ySFpEQXpZaWpoMi1xbzBfRTE4U3gyNmNyREU4eENoaHBwQUc2bjNndw?oc=5": {
+    "title": "東大が革新！層状半導体で次世代高速デバイスの扉を開く正孔輸送技術",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1SSXZMUVItdm5qQ1VuRjNDdk4ySFpEQXpZaWpoMi1xbzBfRTE4U3gyNmNyREU4eENoaHBwQUc2bjNndw?oc=5",
+    "summary_bullets": [
+      "東京大学が層状半導体を用いた高速正孔輸送技術を開発し、次世代高速デバイスの実現に向けた画期的な基盤を確立しました。",
+      "この技術は、AI、IoT、5G/6Gといった最先端分野におけるデータ処理能力の劇的な向上と低消費電力化を加速させる可能性を秘めています。",
+      "半導体技術のブレイクスルーとして、今後の情報化社会を支える高性能化・省エネ化のトレンドを牽引し、新たな産業創出に繋がると期待されます。"
+    ],
+    "insight": "この東大の研究成果は、半導体技術の進化がデジタル社会全体のインフラを再定義し、AIやIoTデバイスの性能限界を押し上げる決定的な一歩となることを示唆しており、将来のテクノロジーシフトを見据えた戦略立案の重要性を浮き彫りにします。",
+    "action_plan": "自社の製品やサービスが将来的に享受しうる高速デバイスの恩恵について具体的に議論し、既存の技術ロードマップや開発戦略の見直しを始めてみましょう。",
+    "image_keyword": "futuristic semiconductor, high-speed electron transport, advanced material research",
+    "technical_terms": [
+      {
+        "term": "層状半導体",
+        "explanation": "複数の原子層が積層された特殊な構造を持つ半導体材料で、特定の電気的特性を発現しやすい特徴があります。"
+      },
+      {
+        "term": "正孔輸送",
+        "explanation": "半導体内部で、電子の不足（正孔）が移動することによって電流が流れる現象。電子輸送と並ぶ重要な電荷輸送メカニズムです。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YdHUta1l2a08zeVNxalhUQURWY0QxWUpmRnFCS25oMUJhWVNTMjJfZjRXMTNuRTZSUU5QX2llRUJJcTZjeDlDZXpqcFhteHBiLVRoQjJBdF93ckhfcTcyZFJWbmh6N3dFcGxnWFBXaEs?oc=5": {
+    "title": "AI半導体需要爆発でメモリ株が急騰の予感：今、注目の投資機会を掴め",
+    "tags": "Investment",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YdHUta1l2a08zeVNxalhUQURWY0QxWUpmRnFCS25oMUJhWVNTMjJfZjRXMTNuRTZSUU5QX2llRUJJcTZjeDlDZXpqcFhteHBiLVRoQjJBdF93ckhfcTcyZFJWbmh6N3dFcGxnWFBXaEs?oc=5",
+    "summary_bullets": [
+      "AI技術の急速な進化に伴い、AI半導体、特にデータ処理に不可欠なメモリの需要が飛躍的に高まっている。",
+      "アナリストは、この需要増がメモリ関連企業の収益を押し上げ、株式市場において魅力的な投資機会を生み出すと推奨している。",
+      "今後、AIのさらなる普及は半導体サプライチェーン全体、特にメモリ市場の成長を牽引し、関連技術への投資とイノベーションを加速させるだろう。"
+    ],
+    "insight": "AIの進化が単なる技術トレンドに留まらず、具体的な産業や投資機会を創出していることを理解し、自社の事業戦略や投資ポートフォリオにおけるAI関連分野への注力を検討すべきである。",
+    "action_plan": "AI半導体市場の最新動向を深掘りし、自社ビジネスへのAI導入戦略や投資機会について具体的な検討を開始しましょう。",
+    "image_keyword": "AI semiconductor investment",
+    "technical_terms": [
+      {
+        "term": "AI半導体",
+        "explanation": "人工知能（AI）の高速な計算処理に特化して設計された半導体のこと。データ処理能力や電力効率が通常の半導体より優れている。"
+      },
+      {
+        "term": "メモリ株",
+        "explanation": "半導体の中でも特にデータを一時的または永続的に保存する「メモリ」製品を製造・販売している企業の株式。AIやデータセンター需要に強く影響される。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/24/news127.html": {
+    "title": "はてな、11億円流出の衝撃：巧妙化するサイバー詐欺から企業資産を守る教訓",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/24/news127.html",
+    "summary_bullets": [
+      "IT企業はてなで約11億円もの資金流出が発生し、振り込め詐欺の可能性が指摘されている。",
+      "今回の事件は、デジタル化が進む現代において、企業の財務プロセスとセキュリティ対策の脆弱性を露呈させる。",
+      "AIの進化により詐欺手法がさらに巧妙化する中で、企業は技術的対策と従業員教育の強化が喫緊の課題となる。"
+    ],
+    "insight": "デジタル環境下での企業活動が拡大する今日、技術的な防御だけでなく、従業員に対する継続的なセキュリティ教育と、厳格な多層承認プロセスを組み合わせた包括的な危機管理体制こそが、未知のサイバー脅威から貴重な資産を守る鍵となる。",
+    "action_plan": "自社の経理・財務部門における高額な資金移動プロセスを見直し、多段階認証や承認者の多角化などセキュリティフローを強化しましょう。また、最新の詐欺手口に関する社内研修を定期的に実施し、従業員のセキュリティ意識向上に努めましょう。",
+    "image_keyword": "cyber fraud, corporate security, financial scam",
+    "technical_terms": []
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/24/news126.html": {
+    "title": "速報：CAMPFIREで最大22.5万人分の個人情報が流出か、GitHub不正アクセスが原因で口座情報も危険に",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/24/news126.html",
+    "summary_bullets": [
+      "クラウドファンディングのCAMPFIREで、最大22.5万人分の個人情報および一部口座情報が不正アクセスの影響で漏えいした可能性。",
+      "GitHubアカウントへの不正アクセスが発端となっており、開発環境へのセキュリティ対策の甘さが企業の信頼失墜に直結する事例。",
+      "SaaS連携や開発プラットフォームのセキュリティ強化、従業員のアカウント管理厳格化が、今後の情報セキュリティ対策の最重要課題となる。"
+    ],
+    "insight": "クラウドサービスや開発プラットフォームへの依存度が高まる現代において、自社の情報資産を守るためには、サプライチェーン全体のセキュリティ、特に開発関連のアカウントへの不正アクセス対策が事業継続の生命線となることを深く認識すべきです。",
+    "action_plan": "自社で利用している開発・運用関連のクラウドサービス（GitHubなど）におけるアカウントの多要素認証設定とアクセス権限を即座に見直し、定期的な監査計画を策定しましょう。",
+    "image_keyword": "data breach, cybersecurity incident, GitHub security",
+    "technical_terms": [
+      {
+        "term": "GitHubアカウント",
+        "explanation": "ソフトウェア開発者がソースコードの管理や共同作業を行うためのウェブサービス「GitHub」で利用するアカウントです。開発者コミュニティで広く使われています。"
+      },
+      {
+        "term": "不正アクセス",
+        "explanation": "許可されていない人物が、パスワードの推測やシステムの脆弱性を悪用するなどして、コンピューターシステムやネットワークに侵入する行為です。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/24/news112.html": {
+    "title": "AIの脅威が迫るサイバー戦線：片山金融相が警鐘、官民連携で防御体制を強化",
+    "tags": "Cyber Security",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/24/news112.html",
+    "summary_bullets": [
+      "高度AIを活用したサイバー攻撃が「今そこにある危機」として認識され、金融相が警鐘を鳴らした。",
+      "官民連携による作業部会が設置され、AI時代の新たなサイバーセキュリティ対策の構築が急務となる。",
+      "既存のセキュリティ対策では対応困難な新手の攻撃が増加する可能性があり、企業や組織は迅速な対応が求められる。"
+    ],
+    "insight": "AIの進化は攻撃者側にも強力なツールを提供するため、従来のサイバーセキュリティ戦略では不十分です。ビジネスリーダーは、自社のAIリスク評価と、新たな脅威に対応するための防御戦略の再構築を喫緊の課題として捉える必要があります。",
+    "action_plan": "AIを活用した最新のサイバー攻撃手法について情報収集を行い、自社のセキュリティ対策ロードマップを見直してみましょう。また、専門家や官民連携の取り組みから得られる最新の知見を積極的に取り入れ、防御体制を強化するための投資計画を策定してください。",
+    "image_keyword": "AI cyber security, digital threat, network defense",
+    "technical_terms": [
+      {
+        "term": "高度AI",
+        "explanation": "従来のAIよりも複雑な学習能力や推論能力を持つ人工知能で、サイバー攻撃に悪用されると予測されている。"
+      },
+      {
+        "term": "サイバー攻撃",
+        "explanation": "コンピュータネットワークや情報システムに対して、不正アクセスやデータ破壊、情報窃取などを試みる悪意のある行為。"
+      },
+      {
+        "term": "官民連携",
+        "explanation": "政府機関と民間企業が協力して、共通の課題解決や政策推進に取り組む体制のこと。"
       }
     ]
   }
