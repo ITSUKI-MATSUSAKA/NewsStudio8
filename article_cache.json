@@ -3855,7 +3855,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 4,
-    "time_ago": "15時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6577585?source=rss",
     "summary_bullets": [
       "ガラケーをテーマにしたイベントが予想を上回る盛況ぶりを見せ、幅広い世代からの関心を集めている。",
@@ -3990,7 +3990,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/24/news127.html",
     "summary_bullets": [
       "IT企業はてなで約11億円もの資金流出が発生し、振り込め詐欺の可能性が指摘されている。",
@@ -4008,7 +4008,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/24/news126.html",
     "summary_bullets": [
       "クラウドファンディングのCAMPFIREで、最大22.5万人分の個人情報および一部口座情報が不正アクセスの影響で漏えいした可能性。",
@@ -4035,7 +4035,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/24/news112.html",
     "summary_bullets": [
       "高度AIを活用したサイバー攻撃が「今そこにある危機」として認識され、金融相が警鐘を鳴らした。",
@@ -4059,5 +4059,140 @@
         "explanation": "政府機関と民間企業が協力して、共通の課題解決や政策推進に取り組む体制のこと。"
       }
     ]
+  },
+  "https://kn.itmedia.co.jp/kn/articles/2604/27/news043.html": {
+    "title": "「AI・デジタル化補助金2026」完全攻略ガイド：プロが明かす採択率9割超の極意",
+    "tags": "Digital Transformation",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2604/27/news043.html",
+    "summary_bullets": [
+      "「デジタル化・AI導入補助金2026」において、高い採択率を実現するための実践的な攻略法が専門家により解説された。",
+      "適切な補助金活用は、特に中小企業のAI・デジタル技術導入を加速させ、市場での競争力向上に不可欠となる。",
+      "今後、補助金申請の複雑化に伴い、専門知識に基づいた戦略立案やコンサルティングサービスの需要が一段と高まる見込みだ。"
+    ],
+    "insight": "AI・デジタル化補助金を最大限に活用するには、単なる書類申請ではなく、事業戦略と明確に連携した計画と、採択実績を持つ専門家の知見を取り入れる戦略的なアプローチが企業の成長を大きく左右する。",
+    "action_plan": "自社のAI導入やデジタル化計画が補助金の対象となり得るかを確認し、補助金情報の専門サイトやコンサルタントを通じて、具体的な申請戦略の構築に着手しましょう。",
+    "image_keyword": "AI grant strategy, digital transformation funding, business innovation",
+    "technical_terms": []
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/27/news048.html": {
+    "title": "NEC、主力事業「ブルーステラ」売上目標を1.3兆円へ大幅上方修正！成長戦略の全貌に迫る",
+    "tags": "Business Strategy",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/27/news048.html",
+    "summary_bullets": [
+      "NECは、基幹事業と位置付ける「ブルーステラ事業」の売上目標を従来の1兆円から1兆3000億円に上方修正した。",
+      "この大幅な目標引き上げは、NECが推進する事業構造改革と成長領域への集中投資が奏功し、成果が出始めたことを示唆している。",
+      "大手ITベンダーによる積極的な事業戦略の転換は、他のレガシー企業がデジタル変革を進める上での重要なモデルケースとなる可能性がある。"
+    ],
+    "insight": "大手企業が特定の戦略的事業にフォーカスし、明確な数値目標でその成長をコミットする姿勢は、市場の変化に対応し、企業価値を向上させるための強力なリーダーシップと実行力がいかに重要かを示している。",
+    "action_plan": "自社の主要事業や成長ドライバーを再評価し、具体的な売上目標や市場シェア目標を設定することで、事業戦略の明確化とチームのモチベーション向上を図りましょう。",
+    "image_keyword": "NEC business growth, financial projection, corporate strategy",
+    "technical_terms": []
+  },
+  "https://www.itmedia.co.jp/news/articles/2604/08/news014.html": {
+    "title": "生成AI活用失敗談から学ぶ：新入社員が“恥”をかかないための鉄則",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "注意喚起",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/news/articles/2604/08/news014.html",
+    "summary_bullets": [
+      "生成AIの普及が進む中、新入社員がその安易な利用により業務で「恥をかく」リスクが表面化している。",
+      "企業は生成AIの倫理的かつ実践的な利用ガイドラインを整備し、全社員への継続的な教育投資が急務となる。",
+      "今後、生成AIリテラシーはビジネスパーソンにとって必須のスキルとなり、組織全体の生産性向上とリスク回避に直結する。"
+    ],
+    "insight": "生成AIは強力なツールであると同時に、その安易な利用は情報の正確性、著作権、倫理といった面でプロフェッショナルとしての信頼を損ねる可能性があり、深い理解と慎重な運用が不可欠である。",
+    "action_plan": "自身の業務で生成AIを使用する際は、出力内容のファクトチェック、情報源の明記、そして著作権・機密保持に関する企業のガイドラインを事前に確認・遵守する習慣をつけましょう。",
+    "image_keyword": "Generative AI workplace mistake, AI ethics office, new employee AI challenge",
+    "technical_terms": [
+      {
+        "term": "生成AI",
+        "explanation": "テキスト、画像、音声など、新しいコンテンツを自動的に生成できる人工知能の技術。与えられたデータから学習し、新たな情報を作り出す。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6577627?source=rss": {
+    "title": "メタ、アマゾンとの戦略的提携で半導体調達を強化：AIインフラ競争の新局面へ",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://news.yahoo.co.jp/pickup/6577627?source=rss",
+    "summary_bullets": [
+      "米メタがアマゾンウェブサービス（AWS）と契約し、同社の開発したカスタム半導体を活用することで合意。",
+      "AI開発競争が激化する中、メタは半導体調達の多様化とコスト効率化を図り、AWSはクラウドサービスにおける存在感を強化する戦略的な動き。",
+      "今後のAIインフラ構築において、大手テック企業間の連携やカスタムチップ利用のトレンドが加速し、供給網の安定性が競争優位の鍵となることが予測される。"
+    ],
+    "insight": "AI時代における企業の競争力は、計算資源の安定確保とコスト効率に直結します。自社開発と外部連携のハイブリッド戦略が、今後の技術投資の主流となる可能性を示唆しています。",
+    "action_plan": "自社のAI開発ロードマップやインフラ戦略を見直し、半導体調達の多様化やクラウドサービスベンダーとの連携可能性について、改めて検討する会議を設定してみましょう。",
+    "image_keyword": "Meta Amazon Semiconductor, AI infrastructure deal, Cloud computing chips",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "電気を通す性質を持つ物質で作られた部品で、コンピューターの頭脳となるチップのこと。AIの複雑な計算処理に不可欠です。"
+      },
+      {
+        "term": "AWS (Amazon Web Services)",
+        "explanation": "アマゾンが提供する世界最大のクラウドコンピューティングサービスで、企業がインターネット経由でサーバーやストレージ、AIツールなどを利用できる基盤です。"
+      },
+      {
+        "term": "カスタム半導体",
+        "explanation": "特定の目的（例：AIの学習や推論）に特化して設計された半導体で、汎用品よりも高い効率や性能を発揮します。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX1IzSkYyMVVvbzI3OFB2SVlpcU5Rakc0bEx0OTJjUDNtQTJ5UGhDLUo2cVBsczZCVXQtV2xhRWc2dTB2RGJxWC1vejFFUHdGa0hEZ1AzM2J1SzFUMHRYRFJyVXBrYWVIMUJJUWgtcjZobzdialZVU253VGdEUUxNSS1oRzY0clNmSUpYMzZnV3RzY3F2cEZiR3BRUFJHZWNjc1o1NGhWQTM?oc=5": {
+    "title": "米半導体株が市場を牽引！日経平均、テクノロジー優位の追い風に乗る",
+    "tags": "Market Trend",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX1IzSkYyMVVvbzI3OFB2SVlpcU5Rakc0bEx0OTJjUDNtQTJ5UGhDLUo2cVBsczZCVXQtV2xhRWc2dTB2RGJxWC1vejFFUHdGa0hEZ1AzM2J1SzFUMHRYRFJyVXBrYWVIMUJJUWgtcjZobzdialZVU253VGdEUUxNSS1oRzY0clNmSUpYMzZnV3RzY3F2cEZiR3BRUFJHZWNjc1o1NGhWQTM?oc=5",
+    "summary_bullets": [
+      "米国の半導体関連株の上昇が、日本経済新聞の先行指標である日経平均株価に強い追い風となっている。",
+      "テクノロジー関連企業の業績期待が高まり、広範な産業の投資心理と景況感に好影響を与える可能性を秘めている。",
+      "グローバルな半導体需要と供給のバランスが、今後も国内外の株式市場全体の主要なトレンドを形成すると予測される。"
+    ],
+    "insight": "今日のビジネスにおいて、半導体市場の動向は単なる株価指標に留まらず、広範なテクノロジー産業の健全性と成長ポテンシャルを示す重要なバロメーターであり、戦略的な意思決定に不可欠な情報源であることを理解すべきです。",
+    "action_plan": "自社のサプライチェーンや顧客基盤における半導体関連技術への依存度を再評価し、次世代テクノロジーへの投資計画や事業戦略に本情報を組み込むことを検討しましょう。",
+    "image_keyword": "semiconductor stock market",
+    "technical_terms": [
+      {
+        "term": "日経平均",
+        "explanation": "日本の株式市場の代表的な株価指数で、東証プライム市場に上場する225銘柄の株価をもとに算出されます。"
+      },
+      {
+        "term": "半導体株",
+        "explanation": "半導体の設計、製造、販売などに携わる企業の株式を指し、テクノロジー産業の景況感を測る重要な指標です。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqeTNYeDhpRTdsTGJfaEFJeFVHblh5TWJCTUJZVTZvcU8zRlB0NEtJY1dWUnFoX1BlQTRtUXpKcHVSXzRrbzcwWm9xT2Z4RnF5N3NEVkhR?oc=5": {
+    "title": "半導体工場増設で沸く！高徳新都市の不動産、未分譲物件は「枯渇」か？",
+    "tags": "Real Estate",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqeTNYeDhpRTdsTGJfaEFJeFVHblh5TWJCTUJZVTZvcU8zRlB0NEtJY1dWUnFoX1BlQTRtUXpKcHVSXzRrbzcwWm9xT2Z4RnF5N3NEVkhR?oc=5",
+    "summary_bullets": [
+      "平沢市高徳新都市では、半導体工場の大規模な増設により、住宅などの未分譲物件がほぼ無くなる見込み。",
+      "工場増設に伴う設備・協力企業の進出と従業員流入で、実際の居住需要が大きく拡大し、地域経済が活性化する。",
+      "半導体産業の成長が周辺都市の不動産市場に直接的な影響を与え、投資機会や地域開発の新たなトレンドを創出する可能性がある。"
+    ],
+    "insight": "半導体産業のような巨大プロジェクトの進捗は、その周辺地域の不動産市場や経済活動に予測を超えるほどの波及効果をもたらします。ビジネスパーソンは、主要産業の投資動向を追うことで、新たな事業機会や投資先を見出す洞察力を養うべきです。",
+    "action_plan": "自社の事業領域に関連する大型産業プロジェクト（工場建設、研究拠点設立など）の地域経済への影響を分析し、潜在的なビジネスチャンスがないか検討してみましょう。",
+    "image_keyword": "semiconductor factory, new city development, real estate boom",
+    "technical_terms": []
   }
 }
