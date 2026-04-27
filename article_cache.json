@@ -3990,7 +3990,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/24/news127.html",
     "summary_bullets": [
       "IT企業はてなで約11億円もの資金流出が発生し、振り込め詐欺の可能性が指摘されている。",
@@ -4008,7 +4008,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2604/24/news126.html",
     "summary_bullets": [
       "クラウドファンディングのCAMPFIREで、最大22.5万人分の個人情報および一部口座情報が不正アクセスの影響で漏えいした可能性。",
@@ -4194,5 +4194,72 @@
     "action_plan": "自社の事業領域に関連する大型産業プロジェクト（工場建設、研究拠点設立など）の地域経済への影響を分析し、潜在的なビジネスチャンスがないか検討してみましょう。",
     "image_keyword": "semiconductor factory, new city development, real estate boom",
     "technical_terms": []
+  },
+  "https://www.itmedia.co.jp/business/articles/2604/28/news019.html": {
+    "title": "業界激震？S.RIDEが競合Uber・DiDiと電撃連携、インバウンド市場を制する革新戦略",
+    "tags": "Mobility",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2604/28/news019.html",
+    "summary_bullets": [
+      "タクシーアプリ「S.RIDE」が、競合である「Uber」および「DiDi」と連携し、インバウンド需要の獲得を目指す異例の戦略を発表した。",
+      "業界の常識を覆すこの協業は、訪日外国人観光客のタクシー利用における利便性を大幅に向上させ、日本の観光市場の活性化に貢献すると期待される。",
+      "今回の連携は、MaaS領域における新たなパートナーシップモデルを提示し、既存の競合関係にとらわれない柔軟な市場戦略が今後のトレンドとなる可能性を示唆している。"
+    ],
+    "insight": "既存の競合関係に囚われず、共通の目標（インバウンド需要獲得）のために戦略的提携を選ぶS.RIDEの決断は、市場変化に対応するための柔軟な思考と、固定観念を打ち破る勇気がビジネス成長の鍵であることを示唆しています。",
+    "action_plan": "自社のビジネスにおいて、既存の競合他社との連携可能性や、市場拡大のための新たなパートナーシップ戦略を今日から見直してみましょう。",
+    "image_keyword": "taxi app alliance, mobility partnership, inbound strategy",
+    "technical_terms": []
+  },
+  "https://news.yahoo.co.jp/pickup/6577810?source=rss": {
+    "title": "患者体験を劇的に革新：阪大病院が実現した「待ち時間短縮」の挑戦と未来",
+    "tags": "Healthcare Tech",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "20時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6577810?source=rss",
+    "summary_bullets": [
+      "大阪大学医学部附属病院が、長年の課題であった患者の待ち時間を大幅に改善した。",
+      "これは医療現場の生産性向上だけでなく、患者満足度向上を実現し、他業界の顧客体験改善のモデルケースとなり得る。",
+      "今後、医療機関におけるDX推進が加速し、テクノロジーを活用した効率化とパーソナライズされたサービス提供が標準となるだろう。"
+    ],
+    "insight": "今日のビジネスにおいて、顧客が感じる「待ち時間」は単なる不便ではなく、ブランドイメージや顧客ロイヤルティに直結する重要課題であり、テクノロジーを駆使した徹底的な改善が競争優位性を確立する鍵となる。",
+    "action_plan": "自社のサービスや業務フロー内で、顧客や従業員が「待つ」ことを強いられているポイントを全て洗い出し、どのようなテクノロジー（AI、予約システム、IoTなど）で解決できるかをブレインストーミングし、改善プロジェクトの検討を始めてみましょう。",
+    "image_keyword": "hospital waiting time reduction, patient experience improvement, healthcare efficiency",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTEdZMFBjYl81cFRxVjU5Z1UzcmVQd0FCemhzSnNrUTRwcHhhcXZ2NzdtU0xuVmdLQ0ZQaFRtRHVOTW1tcmQycXNlSFVmbWNmdVR5VWRXMXlBZ2tOZUJ0RGpfU0NFZEpOcVhLd3dqbUhSc0hFaTlmSlNpTFZhN0JXdUxSeDNhV1k?oc=5": {
+    "title": "【速報】市場は売り優勢：原油高と半導体株安が日本株を下押し、今後のトレンドに警戒",
+    "tags": "Market",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTEdZMFBjYl81cFRxVjU5Z1UzcmVQd0FCemhzSnNrUTRwcHhhcXZ2NzdtU0xuVmdLQ0ZQaFRtRHVOTW1tcmQycXNlSFVmbWNmdVR5VWRXMXlBZ2tOZUJ0RGpfU0NFZEpOcVhLd3dqbUhSc0hFaTlmSlNpTFZhN0JXdUxSeDNhV1k?oc=5",
+    "summary_bullets": [
+      "本日28日の株式市場は、原油価格の高騰と半導体関連株の不調により、売りが優勢となる見通し。",
+      "エネルギーコストの増加とテクノロジーセクターの逆風が、企業収益や消費者心理に悪影響を及ぼす可能性。",
+      "今後の市場動向は、グローバルなインフレ圧力と半導体産業の回復タイミングに大きく左右されると予測される。"
+    ],
+    "insight": "現在の市場は、マクロ経済要因（原油高）と特定産業要因（半導体株安）の複合的な下押し圧力に直面しており、企業はこれらの外部リスクに対するレジリエンス強化と、サプライチェーン・ポートフォリオの再評価が不可欠であることを示唆しています。",
+    "action_plan": "自社のコスト構造におけるエネルギー価格への感度を再評価し、半導体関連の事業や投資ポートフォリオがある場合は、現在のリスク状況と今後の見通しに基づいたヘッジ戦略を具体的に検討してみましょう。",
+    "image_keyword": "stock market downturn, oil price surge, semiconductor shares",
+    "technical_terms": [
+      {
+        "term": "売り優勢",
+        "explanation": "株式市場において、買い注文よりも売り注文が多く、株価が下落しやすい傾向にある状況を指します。"
+      },
+      {
+        "term": "原油高",
+        "explanation": "原油の国際価格が高騰している状態。輸送コストや製造コストの上昇を通じて、幅広い産業に影響を与えます。"
+      },
+      {
+        "term": "半導体株安",
+        "explanation": "半導体関連企業の株価が全体的に下落している状況。テクノロジーセクター全体やサプライチェーンに影響を及ぼします。"
+      }
+    ]
   }
 }
