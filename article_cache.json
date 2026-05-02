@@ -4547,7 +4547,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 4,
-    "time_ago": "12時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/01/news118.html",
     "summary_bullets": [
       "GoogleフォトにAIを活用した「バーチャル試着機能」が追加され、ユーザーは自身の写真から衣服を登録し、アプリ内で仮想的に組み合わせてコーディネートを試せるようになる。",
@@ -4574,7 +4574,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 4,
-    "time_ago": "14時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news110.html",
     "summary_bullets": [
       "ChatGPTの画像生成機能が「文字化け解消」など品質面で大きな改善と進化を遂げつつある。",
@@ -4601,7 +4601,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "14時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news108.html",
     "summary_bullets": [
       "英政府機関の評価により、次世代AI「GPT-5.5」がサイバー攻撃において既存の専門ツールや人間の能力を一部凌駕する可能性が示唆された。",
@@ -4632,7 +4632,7 @@
     "sentiment": "neutral",
     "sentiment_text": "注目の話題",
     "rating": 4,
-    "time_ago": "8時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6578426?source=rss",
     "summary_bullets": [
       "中国の旧正月である春節期間中、世界的にサイバー攻撃の件数が最大7割減少した。",
@@ -4793,7 +4793,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "11時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/01/news119.html",
     "summary_bullets": [
       "マネーフォワードが、GitHub経由でソースコードと一部ユーザー情報が流出した可能性を公表し、緊急措置として銀行連携サービスを一時停止した。",
@@ -4824,7 +4824,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 4,
-    "time_ago": "14時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/01/news112.html",
     "summary_bullets": [
       "LINEのiOS/Android間履歴移行機能において、公開鍵の保存不備が原因で一部チャット履歴が復元できない不具合が再度発生した。",
@@ -4851,7 +4851,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "14時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/01/news111.html",
     "summary_bullets": [
       "イエローハット子会社において、最大345万人分の顧客情報が外部に持ち出された痕跡が確認され、大規模な情報漏えいの可能性が浮上。",
@@ -4862,5 +4862,135 @@
     "action_plan": "自社の情報セキュリティ体制、特に外部委託先との情報共有・管理プロセスを緊急で見直し、潜在的な脆弱性を特定し対策を講じましょう。",
     "image_keyword": "data breach, personal data leak, cyber security incident",
     "technical_terms": []
+  },
+  "https://news.yahoo.co.jp/pickup/6578532?source=rss": {
+    "title": "SNS投稿が招く情報漏洩：従業員の『油断』が企業にもたらす重大リスク",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "10時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6578532?source=rss",
+    "summary_bullets": [
+      "従業員によるSNSへの内部情報投稿が頻発し、その背景にはセキュリティ意識の低さや「油断」が指摘されている。",
+      "情報漏洩は企業の信頼失墜、ブランドイメージの毀損、法的責任、経済的損失など甚大なビジネスリスクを招く。",
+      "企業は技術的対策に加え、従業員への継続的なセキュリティ教育と意識改革が喫緊の課題となり、情報ガバナンスの強化が必須となる。"
+    ],
+    "insight": "情報漏洩リスクは、外部からのサイバー攻撃だけでなく、従業員一人ひとりの日常的な行動や「うっかり」にも潜んでいます。企業はこれを深く認識し、技術だけでなく人によるセキュリティ対策を強化する視点が不可欠です。",
+    "action_plan": "自社の情報セキュリティポリシー、特にSNS利用に関するガイドラインが最新の脅威と合致しているかを見直してみましょう。また、全従業員向けに情報セキュリティ研修を定期的に実施し、最新の情報漏洩事例を共有する機会を設けてみましょう。",
+    "image_keyword": "Corporate Security Awareness",
+    "technical_terms": []
+  },
+  "https://news.yahoo.co.jp/pickup/6578446?source=rss": {
+    "title": "米国防総省、機密任務にAI企業8社を招集：その戦略的意図と影響",
+    "tags": "AI",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "23時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6578446?source=rss",
+    "summary_bullets": [
+      "米国防総省が機密情報領域でのAI活用を本格化するため、8社の民間AI企業と大規模な契約を締結した。",
+      "AI技術の軍事・安全保障分野への転用が加速し、AI産業にとって新たなビジネス機会が生まれる一方、技術倫理やガバナンスに関する国際的な議論がさらに活発化する。",
+      "国家安全保障におけるAI導入が世界的な標準となり、AI技術の信頼性、堅牢性、そして倫理的な利用原則の確立が今後の主要なトレンドとなるだろう。"
+    ],
+    "insight": "AI技術は、民間ビジネスだけでなく国家安全保障といった高機密・高信頼性が求められる領域での導入が加速しており、これはAI技術の成熟度と社会への浸透が新たなフェーズに入ったことを示唆している。",
+    "action_plan": "自社のAI戦略において、高機密性や倫理的課題への対応をどのように織り込むべきか、現在のリスク評価やガバナンス体制を見直してみましょう。",
+    "image_keyword": "military AI technology",
+    "technical_terms": [
+      {
+        "term": "AI",
+        "explanation": "Artificial Intelligence（人工知能）の略で、人間の知能をコンピュータで模倣・実現する技術全般を指します。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2djctTzZFT2p5U3dxZFVVdjFkWVo4cnlrOGVxV1hDZDhMZkxRY0JvNEFvQzk1Z29FUnF0VjlmVUxHSU5qcjhNOHVib2l0RmE1NnU3MTEtSDJJamZiRVE?oc=5": {
+    "title": "ウシオ電機、2026年「AI半導体・露光装置」でV字回復へ – 2nm世代・チップレットが牽引する世界シェア80%の衝撃",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2djctTzZFT2p5U3dxZFVVdjFkWVo4cnlrOGVxV1hDZDhMZkxRY0JvNEFvQzk1Z29FUnF0VjlmVUxHSU5qcjhNOHVib2l0RmE1NnU3MTEtSDJJamZiRVE?oc=5",
+    "summary_bullets": [
+      "ウシオ電機が2026年にAI半導体・露光装置分野でV字回復を計画し、世界シェア80%を目指す。",
+      "2nm世代の超微細化技術とチップレット戦略が、同社の成長と市場での優位性を強力に推進する。",
+      "AI半導体需要の爆発的な増加が露光装置市場を活性化させ、ウシオ電機の事業拡大に貢献すると予測される。"
+    ],
+    "insight": "AI半導体の進化は、表面的なチップメーカーだけでなく、その根幹を支える特殊な製造装置市場にも巨大なビジネスチャンスをもたらしており、ニッチながらも高い技術力を持つ企業が市場を席巻する可能性を示唆しています。",
+    "action_plan": "自社のコア技術や強みが、急成長するAIエコシステムのどの部分に貢献できるかを見直し、新たな連携や投資機会を検討してみましょう。",
+    "image_keyword": "AI semiconductor lithography",
+    "technical_terms": [
+      {
+        "term": "AI半導体",
+        "explanation": "人工知能（AI）の処理に特化した半導体チップで、大量のデータ処理や複雑な計算を高速かつ効率的に行うために設計されています。"
+      },
+      {
+        "term": "露光装置",
+        "explanation": "半導体製造プロセスの中心となる装置の一つで、光を使って回路パターンをシリコンウェーハに転写する役割を担います。半導体の性能を左右する重要な技術です。"
+      },
+      {
+        "term": "2nm世代",
+        "explanation": "半導体チップの回路線幅が2ナノメートルという極めて微細なレベルで製造される技術世代を指し、より高性能・高集積・低消費電力なチップの実現を可能にします。"
+      },
+      {
+        "term": "チップレット",
+        "explanation": "複数の小さな機能別半導体チップ（チップレット）を一つのパッケージ内で結合し、あたかも一つの大きなチップのように動作させる技術です。これにより、設計の柔軟性向上や製造コスト削減が期待されます。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oRTZ5eG5sZVJOQUg1VUZUNzRWM1hSY3FsdjZDNXF2YUpmMC0tdGtjYjh0dFQ3SUw4a3N3MTlCNWtUREpvdW12d05KclNiX2VwZVd4N216SHZLaENMaWxTMm0xb1MtbDJqY29Wczd3X0I4SklyczY3eTZhS05Zb0E?oc=5": {
+    "title": "半導体バブル到来か？日本株は原油高を乗り越え、日経平均6万円台を堅持する理由",
+    "tags": "Market",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oRTZ5eG5sZVJOQUg1VUZUNzRWM1hSY3FsdjZDNXF2YUpmMC0tdGtjYjh0dFQ3SUw4a3N3MTlCNWtUREpvdW12d05KclNiX2VwZVd4N216SHZLaENMaWxTMm0xb1MtbDJqY29Wczd3X0I4SklyczY3eTZhS05Zb0E?oc=5",
+    "summary_bullets": [
+      "原油価格高騰といった外部要因の影響を打ち消し、半導体産業が日本株の主要な牽引役となっている。",
+      "日経平均株価は半導体セクターの好調に支えられ、6万円台を維持するとの力強い見通しが示された。",
+      "この傾向は、今後の日本経済において半導体産業の重要性と持続的な成長性を強く示唆している。"
+    ],
+    "insight": "グローバルな経済リスクが高まる中でも、半導体のような特定の成長セクターが日本経済と株式市場の強靭性を担保していることを理解し、事業戦略や投資ポートフォリオに反映させるべきです。",
+    "action_plan": "自社の事業が半導体産業や関連テクノロジーの進化とどのように連携できるか、具体的な協業可能性や新規事業アイデアをブレーンストーミングしてみましょう。",
+    "image_keyword": "Semiconductor stock market",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "デジタル機器の頭脳となる電子部品で、現代社会のあらゆる技術を支える基幹産業です。"
+      },
+      {
+        "term": "日経平均株価",
+        "explanation": "東京証券取引所プライム市場上場の代表的な225銘柄で構成される、日本の主要な株価指数です。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1seUVzUThmSnJlZGVVTUpic2lZeHQ1ckxfUUkyTjUzVXBNM3NoTUhzS3JxeHUtUVRQMzhMbm8zb0lRUQ?oc=5": {
+    "title": "KOKUSAI、半導体市場の成長を見据え生産能力を大幅強化 - 約4.3万㎡の土地取得で戦略的投資を加速",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1seUVzUThmSnJlZGVVTUpic2lZeHQ1ckxfUUkyTjUzVXBNM3NoTUhzS3JxeHUtUVRQMzhMbm8zb0lRUQ?oc=5",
+    "summary_bullets": [
+      "KOKUSAI ELECTRICが半導体装置市場の持続的な成長に対応するため、砺波事業所隣接地に約4.3万㎡の土地を取得した。",
+      "今回の土地取得は、今後を見据えた生産能力の拡張と研究開発体制の強化を目的としており、半導体サプライチェーンの安定化に貢献する。",
+      "先端半導体需要の拡大が続く中で、製造装置メーカーによる戦略的な設備投資や拠点拡張の動きは今後も加速すると予測される。"
+    ],
+    "insight": "半導体市場の長期的な成長トレンドは確実であり、関連企業はサプライチェーンの強靭化と生産能力への継続的な投資が競争優位性を確立する上で不可欠であることを示唆しています。",
+    "action_plan": "自社の事業において半導体への依存度を再評価し、サプライチェーンの潜在的なボトルネックやリスク分散戦略について現状分析と将来計画を見直してみましょう。",
+    "image_keyword": "semiconductor factory expansion",
+    "technical_terms": [
+      {
+        "term": "半導体装置",
+        "explanation": "集積回路（ICチップ）などの半導体を製造するための、各種プロセス（成膜、エッチング、洗浄など）を行う機械やシステム。"
+      },
+      {
+        "term": "KOKUSAI ELECTRIC",
+        "explanation": "半導体製造装置、特に成膜装置（薄膜を形成する装置）の世界的な大手メーカー。"
+      }
+    ]
   }
 }
