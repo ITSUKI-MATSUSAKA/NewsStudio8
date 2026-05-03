@@ -4547,7 +4547,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 4,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/01/news118.html",
     "summary_bullets": [
       "GoogleフォトにAIを活用した「バーチャル試着機能」が追加され、ユーザーは自身の写真から衣服を登録し、アプリ内で仮想的に組み合わせてコーディネートを試せるようになる。",
@@ -4574,7 +4574,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 4,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news110.html",
     "summary_bullets": [
       "ChatGPTの画像生成機能が「文字化け解消」など品質面で大きな改善と進化を遂げつつある。",
@@ -4793,7 +4793,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/01/news119.html",
     "summary_bullets": [
       "マネーフォワードが、GitHub経由でソースコードと一部ユーザー情報が流出した可能性を公表し、緊急措置として銀行連携サービスを一時停止した。",
@@ -4824,7 +4824,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 4,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/01/news112.html",
     "summary_bullets": [
       "LINEのiOS/Android間履歴移行機能において、公開鍵の保存不備が原因で一部チャット履歴が復元できない不具合が再度発生した。",
@@ -4851,7 +4851,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/01/news111.html",
     "summary_bullets": [
       "イエローハット子会社において、最大345万人分の顧客情報が外部に持ち出された痕跡が確認され、大規模な情報漏えいの可能性が浮上。",
@@ -4869,7 +4869,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "10時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6578532?source=rss",
     "summary_bullets": [
       "従業員によるSNSへの内部情報投稿が頻発し、その背景にはセキュリティ意識の低さや「油断」が指摘されている。",
@@ -4990,6 +4990,180 @@
       {
         "term": "KOKUSAI ELECTRIC",
         "explanation": "半導体製造装置、特に成膜装置（薄膜を形成する装置）の世界的な大手メーカー。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/enterprise/articles/2605/03/news018.html": {
+    "title": "アクセンチュアと日本精工が戦略提携、AIで製造業DXを加速 - 間接業務と現場自動化の未来図",
+    "tags": "Industry DX",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "23時間前",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/03/news018.html",
+    "summary_bullets": [
+      "アクセンチュアと日本精工がAIを活用した戦略的提携を発表し、間接業務改革と製造現場の自動化を推進。",
+      "本提携は、製造業におけるAIとデジタルトランスフォーメーション（DX）の導入を加速させ、企業の生産性向上と競争力強化に貢献。",
+      "今後、AIによる業務効率化は製造業のコア業務からバックオフィスまで全方位に拡大し、新たなビジネスモデル創出の鍵となるトレンドが予測される。"
+    ],
+    "insight": "AIによる業務改革は、製造業において間接業務と現場作業の両面で大きな変革をもたらし、企業競争力向上の鍵となる。自社のDX戦略を多角的に見直す好機だ。",
+    "action_plan": "自社業務におけるAI適用可能性を部門横断で洗い出し、特に間接業務の効率化と現場自動化の観点から具体策を検討してみましょう。",
+    "image_keyword": "AI manufacturing automation",
+    "technical_terms": [
+      {
+        "term": "AI",
+        "explanation": "人工知能の略で、人間の知能を模倣して学習、推論、判断などを行う技術。"
+      },
+      {
+        "term": "DX (デジタルトランスフォーメーション)",
+        "explanation": "デジタル技術を活用してビジネスモデルや業務プロセス、組織文化を変革し、競争優位性を確立すること。"
+      },
+      {
+        "term": "間接業務",
+        "explanation": "製品の製造やサービスの提供に直接関わらない、営業、経理、人事、総務などのバックオフィス業務。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6578608?source=rss": {
+    "title": "デジタルデバイドの深層：スマホ非保有者が直面する社会課題とそのビジネス影響",
+    "tags": "Digital Divide",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "15時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6578608?source=rss",
+    "summary_bullets": [
+      "日本において、スマートフォンを保有せず、情報格差により生活に困難を抱える人々が依然として存在している実態が明らかになった。",
+      "デジタルサービスの浸透が進む中で、この通信困難層は行政手続き、医療アクセス、社会交流など多岐にわたる機会を逸しており、ビジネス機会の喪失や顧客層の限定化に繋がる。",
+      "今後、社会全体のデジタル化が加速するにつれて、このデジタルデバイドはさらに拡大する可能性があり、包括的なデジタルインクルージョン戦略が求められるだろう。"
+    ],
+    "insight": "デジタル変革を進める企業は、最新テクノロジーの導入だけでなく、テクノロジーから取り残される層への配慮が不可欠です。市場全体を見渡し、すべてのステークホルダーがデジタル化の恩恵を受けられるような包括的なサービス設計が、持続可能なビジネス成長の鍵となります。",
+    "action_plan": "自社のサービスや製品が、スマートフォン非保有者やデジタルリテラシーの低い層にもアクセス可能かを見直してみましょう。例えば、アナログな窓口対応の維持、簡便なインターフェース設計、または支援プログラムの導入などを検討し、新たな市場ニーズやCSR活動へと繋がる機会を発見してください。",
+    "image_keyword": "digital divide, information gap, societal tech barrier",
+    "technical_terms": [
+      {
+        "term": "デジタルデバイド (Digital Divide)",
+        "explanation": "インターネットやスマートフォンなどの情報通信技術を利用できる人とできない人の間に生じる、情報格差や機会格差のこと。"
+      },
+      {
+        "term": "デジタルインクルージョン (Digital Inclusion)",
+        "explanation": "すべての人々が情報通信技術を利用し、その恩恵を享受できる状態を目指す取り組みや概念。デジタル格差の解消を目指す。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6578584?source=rss": {
+    "title": "AIが数学の難問を次々解決：科学・技術革新を加速する新たな知性の台頭",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "19時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6578584?source=rss",
+    "summary_bullets": [
+      "AIがこれまで人間には困難だった数学の未解決問題を次々と解決し、科学的発見に大きく貢献している。",
+      "この技術は、研究開発の高速化、新技術の創出、さらには教育や産業における問題解決のパラダイムを変革する可能性を秘めている。",
+      "今後、AIの知的能力はさらに進化し、様々な分野での未踏の課題解決やイノベーション加速の鍵となることが予測される。"
+    ],
+    "insight": "AIが未解決問題すら解決する時代において、ビジネスリーダーはAIを単なる効率化ツールではなく、新たな知の発見やイノベーションを創出するパートナーとして捉え、自社の研究開発や戦略に組み込むべきです。",
+    "action_plan": "自社の抱える難題や未解決の課題を洗い出し、AI技術の活用可能性について専門家との対話を始めてみましょう。",
+    "image_keyword": "AI problem solving, mathematical intelligence, futuristic research",
+    "technical_terms": [
+      {
+        "term": "未解決問題",
+        "explanation": "数学や科学の分野で、まだ誰も解決策を見つけていない重要な問いや証明されていない仮説のこと。"
+      },
+      {
+        "term": "AI",
+        "explanation": "人間のような学習、推論、判断などを行うコンピューターシステムや技術の総称。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeGMyTXNlaFhyb051anpoWjR6M3czQ2o3UFpIZWVsRFhmTE9lZGd5eUJIMlNMRHUyeURCTnVfMjBVclJwNEVaSGJIX2dmZnVjc1NkNjJLWl8xbVhoQmloX3V1enp2U0pRQUZXdkJpeGt3VHlqaUF2dHE1dFpldmt6UjlRdkRia2NxY3M5RmRDYVVSdw?oc=5": {
+    "title": "日本が総力結集！次世代エッジAI半導体開発、500人規模の国家プロジェクト始動",
+    "tags": "AI Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeGMyTXNlaFhyb051anpoWjR6M3czQ2o3UFpIZWVsRFhmTE9lZGd5eUJIMlNMRHUyeURCTnVfMjBVclJwNEVaSGJIX2dmZnVjc1NkNjJLWl8xbVhoQmloX3V1enp2U0pRQUZXdkJpeGt3VHlqaUF2dHE1dFpldmt6UjlRdkRia2NxY3M5RmRDYVVSdw?oc=5",
+    "summary_bullets": [
+      "日本政府主導の下、大学・企業の研究者500人が参画する大規模な次世代エッジAI半導体開発プロジェクトが発足した。",
+      "この技術は、デバイス側でのAI処理を高速化・低消費電力化し、自動運転、IoT、スマートシティなど多様な産業のDXを加速させる基盤となる。",
+      "半導体技術の国際競争が激化する中、日本の競争力強化と新たな産業エコシステムの創出に貢献することが期待される。"
+    ],
+    "insight": "AI半導体、特にエッジAIは、これからのあらゆる産業のDXを加速させるキーテクノロジーです。自社の製品・サービスへの応用可能性や、この技術を活用した新たなビジネスモデル創出のチャンスを今すぐ見極めるべきです。",
+    "action_plan": "自社事業におけるエッジAIの潜在的な活用シーンを具体的に洗い出し、関連技術動向や競合の動きについて情報収集を開始してみましょう。",
+    "image_keyword": "Edge AI chip, national project, research collaboration",
+    "technical_terms": [
+      {
+        "term": "エッジAI半導体",
+        "explanation": "デバイス（エッジ）側でAI処理を効率的に行うために特化・最適化された半導体。クラウドへの通信を減らし、リアルタイム処理やプライバシー保護に貢献する。"
+      },
+      {
+        "term": "国家プロジェクト",
+        "explanation": "国が主導し、複数の大学や企業、研究機関が連携して特定の戦略的目標達成を目指す大規模な研究開発や事業。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1XMjY3ME10U3BWTXZwNlRsanNjaDR3dE8zeXVHVTJxdkVCaXR4S2Q2bEVKeklBbHFPMk9OTWNnbkc0dw?oc=5": {
+    "title": "先端半導体製造を加速！ヌヴォトン、高出力紫色レーザーの量産開始で次世代技術を牽引",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1XMjY3ME10U3BWTXZwNlRsanNjaDR3dE8zeXVHVTJxdkVCaXR4S2Q2bEVKeklBbHFPMk9OTWNnbkc0dw?oc=5",
+    "summary_bullets": [
+      "ヌヴォトンが先端半導体製造向けに、従来の1.5倍の出力を持つ紫色レーザーの量産を開始した。",
+      "この高出力レーザーは、半導体チップの微細化と性能向上に不可欠なプロセスでの効率化と信頼性向上に貢献する。",
+      "次世代半導体技術の発展を加速させ、AIや高速通信、データセンターなど、幅広い分野でのイノベーションを後押しする可能性が高い。"
+    ],
+    "insight": "先端半導体製造における基盤技術の進化は、製品の性能向上だけでなく、製造コスト削減や市場投入期間の短縮にも直結します。このニュースは、半導体サプライチェーン全体にポジティブな影響を与え、新たなビジネスチャンスを生み出す兆候と捉えるべきです。",
+    "action_plan": "自社の製品開発や製造プロセスにおいて、最新の半導体技術がどのように活用できるか、関連部署との連携を強化し、潜在的な応用範囲を具体的に書き出してみましょう。",
+    "image_keyword": "purple laser, semiconductor manufacturing, advanced chip technology",
+    "technical_terms": [
+      {
+        "term": "紫色レーザー",
+        "explanation": "半導体製造プロセス、特にリソグラフィやアニーリング工程で利用される、短波長で高エネルギーのレーザー。微細加工や精密な熱処理に適しています。"
+      },
+      {
+        "term": "先端半導体",
+        "explanation": "微細化された回路線幅や積層技術など、最新の製造プロセスによって作られる高性能な半導体デバイス。AI、高速通信、データ処理など、高度な計算能力を必要とする分野で不可欠です。"
+      },
+      {
+        "term": "ヌヴォトン (Nuvoton)",
+        "explanation": "台湾に本社を置く半導体メーカーで、マイクロコントローラー、オーディオ、パワーマネジメントICなどを手掛けています。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2LW5IVFpQa2pRWEE5Y0Q3R1MzTndhVG4xQ2UzaFNFWHRwY0NfNHpYRXhmQWk0TS1MUDdYUy1scy1fQW1DQ0RxQndHcDhBVkZWN3c3LTNJSXdGd3lxTTk0ZXBNN2h5Z2pFbTBvcVpRUVVrblgwNzVHSE5PN2w?oc=5": {
+    "title": "東京エレクトロン、2027年3月期売上高3兆円突破へ！半導体市場の好調を牽引する巨人",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2LW5IVFpQa2pRWEE5Y0Q3R1MzTndhVG4xQ2UzaFNFWHRwY0NfNHpYRXhmQWk0TS1MUDdYUy1scy1fQW1DQ0RxQndHcDhBVkZWN3c3LTNJSXdGd3lxTTk0ZXBNN2h5Z2pFbTBvcVpRUVVrblgwNzVHSE5PN2w?oc=5",
+    "summary_bullets": [
+      "半導体製造装置大手の東京エレクトロンが2026年3月期決算を発表し、アナリストコンセンサスでは2027年3月期に売上高3兆円突破が予測された。",
+      "この強気な予測は、半導体製造装置市場がAIやデータセンター需要に牽引され、引き続き力強い成長期にあることを示唆している。",
+      "半導体業界は景気循環の影響を受けつつも、長期的にはデジタル化の進展と共に拡大し続けるトレンドにあることが改めて浮き彫りになった。"
+    ],
+    "insight": "東京エレクトロンの業績見通しは、単に一企業の成長に留まらず、世界のデジタル化を支える半導体産業全体の活況と、その川上サプライヤーの重要性を明確に示しています。AIやデータセンター投資の拡大が、この基盤産業に大きな恩恵をもたらしていると理解すべきです。",
+    "action_plan": "自身のビジネスが半導体市場とどのように関連しているか（顧客、サプライヤー、競合など）を見直し、今後の市場動向が与える影響について戦略を書き出してみましょう。また、AI関連投資のトレンドがサプライチェーン全体にどう波及するかを分析し、新たな事業機会を検討してみてください。",
+    "image_keyword": "semiconductor manufacturing, financial growth chart, chip factory",
+    "technical_terms": [
+      {
+        "term": "半導体製造装置",
+        "explanation": "半導体（集積回路）を製造するために使われる専用の機械や設備。チップの性能と生産性を左右する重要な要素。"
+      },
+      {
+        "term": "アナリスト予想（コンセンサス）",
+        "explanation": "複数の証券アナリストが予測した企業の業績や株価の見通しを平均したもの。市場の期待値を示す指標。"
+      },
+      {
+        "term": "売上高",
+        "explanation": "企業が商品やサービスを販売して得た総収益のこと。企業の事業規模や成長性を示す主要な財務指標。"
       }
     ]
   }
