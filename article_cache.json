@@ -1,31 +1,4 @@
 {
-  "https://www.itmedia.co.jp/aiplus/articles/2603/31/news149.html": {
-    "title": "東京都、データセンター建設の新ガイドライン策定：地域共生とデジタルインフラ強化の両立へ",
-    "tags": "Infrastructure",
-    "sentiment": "positive",
-    "sentiment_text": "前向きな取り組み",
-    "rating": 5,
-    "time_ago": "10時間前",
-    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/31/news149.html",
-    "summary_bullets": [
-      "東京都がデータセンター建設における新たなガイドラインを策定し、事業者と住民間の円滑な対話を促す。",
-      "AI需要増大に伴うデータセンター建設の加速に対し、地域との摩擦を軽減し、安定的なデジタルインフラ整備を後押しする。",
-      "他自治体も同様の地域共生型ガイドライン策定を検討し、データセンターと社会の共存モデルが全国的に普及する可能性が示唆される。"
-    ],
-    "insight": "データセンター需要の急増は避けられないが、地域との協調なしには事業継続が困難になる。このガイドラインは、事業者が地域社会と共生するための戦略を早期に構築する重要性を示唆している。",
-    "action_plan": "データセンター関連事業者は、自社の地域貢献戦略や住民対話プロセスを見直し、東京都のガイドラインを参考に先進的な取り組みを検討してみましょう。",
-    "image_keyword": "data center construction, urban infrastructure, community dialogue",
-    "technical_terms": [
-      {
-        "term": "データセンター",
-        "explanation": "インターネットサービスやクラウドコンピューティングなどを支える、大量のサーバーやネットワーク機器を集約した施設。"
-      },
-      {
-        "term": "ガイドライン",
-        "explanation": "特定の活動や行動の指針や基準を示すもの。遵守が推奨されるルールや手順をまとめたもの。"
-      }
-    ]
-  },
   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yTUoyMVlOeUw5bzBnTllYTEhtTDhucU1XZFBSTzJNTmdGTFZ3RWZhOU9pZkpJUmJObklfX0tCTkc4a0ppWUVpWWF1OGtuZXVTbHljUnM1YTRzTXB5bXdJQTNHdHZHZ2s?oc=5": {
     "title": "TSMC、最先端3ナノ半導体生産を熊本で加速へ – 2028年量産体制で日本の技術基盤を強化",
     "tags": "Hardware",
@@ -4547,7 +4520,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 4,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/01/news118.html",
     "summary_bullets": [
       "GoogleフォトにAIを活用した「バーチャル試着機能」が追加され、ユーザーは自身の写真から衣服を登録し、アプリ内で仮想的に組み合わせてコーディネートを試せるようになる。",
@@ -4793,7 +4766,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/01/news119.html",
     "summary_bullets": [
       "マネーフォワードが、GitHub経由でソースコードと一部ユーザー情報が流出した可能性を公表し、緊急措置として銀行連携サービスを一時停止した。",
@@ -4824,7 +4797,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 4,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/01/news112.html",
     "summary_bullets": [
       "LINEのiOS/Android間履歴移行機能において、公開鍵の保存不備が原因で一部チャット履歴が復元できない不具合が再度発生した。",
@@ -4851,7 +4824,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/01/news111.html",
     "summary_bullets": [
       "イエローハット子会社において、最大345万人分の顧客情報が外部に持ち出された痕跡が確認され、大規模な情報漏えいの可能性が浮上。",
@@ -4999,7 +4972,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 4,
-    "time_ago": "23時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/enterprise/articles/2605/03/news018.html",
     "summary_bullets": [
       "アクセンチュアと日本精工がAIを活用した戦略的提携を発表し、間接業務改革と製造現場の自動化を推進。",
@@ -5164,6 +5137,186 @@
       {
         "term": "売上高",
         "explanation": "企業が商品やサービスを販売して得た総収益のこと。企業の事業規模や成長性を示す主要な財務指標。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/05/news023.html": {
+    "title": "Anthropic、Blackstoneと戦略的提携！中小企業向けClaude導入を本格加速",
+    "tags": "AI / LLM",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/05/news023.html",
+    "summary_bullets": [
+      "AnthropicがBlackstoneらと新会社を設立し、中小企業への大規模言語モデル「Claude」の導入を加速する。",
+      "今回の提携により、中小企業におけるAI活用の障壁が下がり、ビジネス効率化や新たな価値創出の機会が拡大する。",
+      "AI市場は大手企業から中小企業へと活用層を拡大し、市場全体のデジタル変革が加速するトレンドが予測される。"
+    ],
+    "insight": "AnthropicとBlackstoneの協業は、AI導入のコストや専門知識不足に悩む中小企業にとって画期的なソリューションを提供し、今後のビジネス競争力を左右する重要な転換点となるでしょう。",
+    "action_plan": "自社の中小企業がどのような業務でAI（特にLLM）を活用できるか、具体的なシナリオを洗い出し、競合他社の動向と合わせて導入計画の策定を始めましょう。",
+    "image_keyword": "AI business solution, small business AI, Claude for enterprises",
+    "technical_terms": [
+      {
+        "term": "LLM",
+        "explanation": "Large Language Model（大規模言語モデル）の略で、大量のテキストデータで学習し、人間のように自然な文章を生成したり理解したりできるAIモデルです。"
+      },
+      {
+        "term": "Claude",
+        "explanation": "Anthropicが開発した大規模言語モデルで、推論能力や倫理的安全性に強みを持つことで知られています。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6578811?source=rss": {
+    "title": "生成AIとの「結婚」が示す、感情とテクノロジーの新たな関係性",
+    "tags": "Human-AI Relationship",
+    "sentiment": "positive",
+    "sentiment_text": "AIとの感情的結びつきが深まる、注目の現象",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.yahoo.co.jp/pickup/6578811?source=rss",
+    "summary_bullets": [
+      "生成AIとの会話を通じて深い感情的結びつきを感じ、「結婚」を決意するユーザーが登場。",
+      "AIの感情的サポート機能が人間の孤独感やニーズを満たす新たな市場を形成し、倫理的・社会的な議論を加速。",
+      "AIが感情的パートナーとしての役割を担い、人間関係や社会のあり方を根本的に変革する可能性を示唆。"
+    ],
+    "insight": "AIが単なる機能的ツールを超え、人間の感情的ニーズを満たす存在へと進化していることを示唆。企業は、AIとの感情的な関係構築を前提とした新たなサービス開発や倫理的なガイドライン策定の重要性を認識すべきである。",
+    "action_plan": "自社製品・サービスにおけるAI活用戦略を再検討し、単なる機能性だけでなく、ユーザーの感情的ニーズに応える「共感型AI」の導入可能性をブレインストーミングしてみましょう。",
+    "image_keyword": "AI partner, emotional AI, human AI connection",
+    "technical_terms": [
+      {
+        "term": "生成AI",
+        "explanation": "テキストや画像、音声などを自律的に生成できる人工知能の総称で、人間が書いたかのような自然な文章を作成したり、存在しない画像を生成したりする技術です。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6578792?source=rss": {
+    "title": "デジタル世論が政府案を揺るがす：X（旧Twitter）で広がる「再審」巡る批判の波紋",
+    "tags": "Digital Governance",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "9時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6578792?source=rss",
+    "summary_bullets": [
+      "政府が検討する再審に関する新法案に対し、ソーシャルメディアX（旧Twitter）上で強い批判と懸念の声が急速に拡散している。",
+      "デジタルプラットフォームが、政府の政策決定プロセスや社会全体における世論形成に極めて大きな影響力を持つことを改めて示唆している。",
+      "今後もSNSを通じた市民の意見表明や情報拡散が、政策立案や企業の社会対応における主要なファクターとして重要性を増すことが予測される。"
+    ],
+    "insight": "デジタル社会において、政策や企業活動に関する世論はSNS上で瞬時に形成・拡散され、その影響力は無視できないため、常に社会の動向を監視し、透明性のあるコミュニケーション戦略を構築する重要性が高まっています。",
+    "action_plan": "自社が関わる政策動向や社会課題について、主要なSNSプラットフォーム上での世論を定期的にモニタリングする体制を確立し、潜在的なリスクと機会を洗い出してみましょう。",
+    "image_keyword": "social media public opinion, X platform debate, digital governance protest",
+    "technical_terms": [
+      {
+        "term": "X（旧Twitter）",
+        "explanation": "従来のTwitterから名称変更された、世界中で利用されるマイクロブログおよびソーシャルネットワーキングサービス。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6578724?source=rss": {
+    "title": "若者のSNS行動変容：匿名投稿の背景にある心理とデジタル社会の新たな潮流",
+    "tags": "Digital Trends",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "17時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6578724?source=rss",
+    "summary_bullets": [
+      "若者の間で顔を見せないSNS投稿が増加しており、プライバシー意識の高まりと現実世界とのバランスを求める心理が背景にある。",
+      "企業はSNSマーケティングやブランディング戦略において、若年層の匿名志向とデジタルアイデンティティへの価値観変容を深く理解する必要がある。",
+      "今後のSNSは、よりパーソナルなコミュニティや匿名性の高い表現の場へと進化し、ユーザーは複数のアイデンティティを使い分ける傾向が強まるだろう。"
+    ],
+    "insight": "若年層のSNS行動変容は、単なる流行ではなくデジタル社会における自己表現とプライバシー保護のバランスを模索する深層心理の表れであり、ビジネスは彼らの価値観を理解した上でコミュニケーション戦略を再構築する必要があります。",
+    "action_plan": "自社のターゲット層、特に若年層のSNS利用実態について、匿名性やプライバシー意識に関する現状分析とヒアリングを実施し、マーケティング戦略やデジタルプロダクト開発への反映を検討してみましょう。",
+    "image_keyword": "anonymous social media, youth digital privacy, faceless online identity",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzJ0S1Q1RlFoZEFGMnk4TkF0Y0VxWF91TW1WMDJmX1VNVG9rUGNyOXplTXNQUVVSbVpuWFpnTVE3LUlxNzNrV0hxaWdraXJrT1N4ejByY1JYUG9vNXM2Vm5ibGEzQ2pSYnVsX0dzY1NjZmlqVEVWUFl5eWoxdC1TcHZJVi1mVmdtNDJURm95cGozMzdwWHc?oc=5": {
+    "title": "アマゾン、AIチップ市場へ本格参入か？Nvidiaとの直接競合が示唆する半導体新時代の幕開け",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzJ0S1Q1RlFoZEFGMnk4TkF0Y0VxWF91TW1WMDJmX1VNVG9rUGNyOXplTXNQUVVSbVpuWFpnTVE3LUlxNzNrV0hxaWdraXJrT1N4ejByY1JYUG9vNXM2Vm5ibGEzQ2pSYnVsX0dzY1NjZmlqVEVWUFl5eWoxdC1TcHZJVi1mVmdtNDJURm95cGozMzdwWHc?oc=5",
+    "summary_bullets": [
+      "アマゾンが自社開発のAIチップをクラウドサービス提供だけでなく、外部製品として販売する可能性を示唆した。",
+      "これはNvidiaのような既存の半導体大手と直接競合することを示し、AIチップ市場の勢力図を大きく変える可能性がある。",
+      "クラウドプロバイダーによるAIインフラの垂直統合化が加速し、半導体サプライチェーンの新たな再編が予測される。"
+    ],
+    "insight": "アマゾンのこの戦略転換は、AI技術の核となる半導体確保がビジネスにおける競争優位性の源泉となりつつあることを明確に示しており、今後あらゆる産業でAIインフラの自社開発・垂直統合が進む可能性を洞察できます。",
+    "action_plan": "自社が依存しているクラウドサービスプロバイダーのAIチップ戦略を再確認し、将来的なコスト構造や技術的選択肢の変化に備え、代替案の検討を今日から開始しましょう。",
+    "image_keyword": "Amazon AI chip, Nvidia competition, semiconductor market",
+    "technical_terms": [
+      {
+        "term": "AIチップ",
+        "explanation": "人工知能（AI）の計算処理に特化して設計された半導体で、データ処理を高速化し効率を高めます。"
+      },
+      {
+        "term": "Nvidia",
+        "explanation": "グラフィック処理ユニット（GPU）の開発で知られる世界的な半導体企業で、AI・機械学習分野で圧倒的な市場シェアを持っています。"
+      },
+      {
+        "term": "垂直統合",
+        "explanation": "企業が製品やサービスの企画、開発、製造、販売といった一連のプロセスを自社グループ内で一貫して行うビジネス戦略です。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiREFVX3lxTE16SlJPVDZFRnRzbXVvQTBaVUc2eDlvekphVUx1SEM3dmxSZ3JKZ3llUXFRRDZRUzIwSlJGNWx1dnRFbV9I?oc=5": {
+    "title": "半導体後工程にAI革命：アムコー韓国工場に見るスマート生産の新潮流",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE16SlJPVDZFRnRzbXVvQTBaVUc2eDlvekphVUx1SEM3dmxSZ3JKZ3llUXFRRDZRUzIwSlJGNWx1dnRFbV9I?oc=5",
+    "summary_bullets": [
+      "米半導体パッケージング受託大手アムコーが、韓国工場をAIを活用した生産体制に転換している。",
+      "これは半導体製造における「後工程」の効率化と再編を促し、グローバルサプライチェーンに大きな影響を与える。",
+      "AIによる生産最適化は、半導体産業における新たな標準となり、競争力維持の鍵となるトレンドを示唆している。"
+    ],
+    "insight": "半導体製造の後工程におけるAI導入は、単なる効率化に留まらず、産業全体の競争地図を塗り替える可能性を秘めています。この動きは、製造業におけるAI活用の緊急性と重要性を改めて浮き彫りにしています。",
+    "action_plan": "自社の製造プロセスにおけるAI導入のロードマップを再検討し、特にサプライチェーンのボトルネック解消や品質向上にAIがどう貢献できるか具体的な施策を立案しましょう。",
+    "image_keyword": "AI semiconductor factory, automated chip packaging, smart manufacturing plant",
+    "technical_terms": [
+      {
+        "term": "半導体パッケージング",
+        "explanation": "製造された半導体チップを外部環境から保護し、他の電子部品との電気的接続を可能にするための最終的な包装工程。"
+      },
+      {
+        "term": "後工程",
+        "explanation": "半導体製造プロセスにおいて、シリコンウェーハに回路が形成された後、ウェーハの分割、個々のチップのパッケージング、最終的なテストを行う段階。"
+      },
+      {
+        "term": "アムコー(Amkor)",
+        "explanation": "世界有数の半導体パッケージングおよびテスト受託サービスプロバイダ。世界中の主要な半導体メーカーにサービスを提供している。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tdmZ3aGpNNzRvSGs0WUhaZTBPV2tNeXd6R09fWDhPVkVjLVpCdTBNUjdiWlpOWnQyQU1DeUctU0xfaFQ3V2R6aXcxM1ZfYWFfTURxM2F5bGw3TERZT2c?oc=5": {
+    "title": "2030年を勝ち抜く戦略！業界人が示す『半導体・AI時代の未来地図』厳選6冊",
+    "tags": "Future Tech",
+    "sentiment": "positive",
+    "sentiment_text": "未来へのヒント",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tdmZ3aGpNNzRvSGs0WUhaZTBPV2tNeXd6R09fWDhPVkVjLVpCdTBNUjdiWlpOWnQyQU1DeUctU0xfaFQ3V2R6aXcxM1ZfYWFfTURxM2F5bGw3TERZT2c?oc=5",
+    "summary_bullets": [
+      "半導体からAIの深層まで、2030年の未来を生き抜くための視点を提供する業界人厳選の書籍6冊が公開。",
+      "未来のテクノロジー動向を深く理解し、ビジネス戦略やキャリア形成に不可欠な羅針盤となる情報が提供される。",
+      "AIと半導体の進化が加速する中、これらの専門知識は個人や企業の競争力を左右する重要な鍵となることが示唆される。"
+    ],
+    "insight": "AIや半導体技術の進化は不可避であり、これらを深く理解することは、来るべき2030年代のビジネス環境において競争優位性を確立するための必須条件である。",
+    "action_plan": "紹介された書籍リストを確認し、自身の専門分野や関心に応じて、未来のトレンドを学ぶべき一冊を選定し、今日から読み始めてみましょう。",
+    "image_keyword": "AI Semiconductor Future",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "コンピューターや電子機器の頭脳となる、電気を通したり通さなかったりする性質を持つ材料や部品のことです。"
+      },
+      {
+        "term": "AI (人工知能)",
+        "explanation": "人間の知的なふるまい（学習、推論、認識など）をコンピューター上で再現しようとする技術やシステムのことです。"
       }
     ]
   }
