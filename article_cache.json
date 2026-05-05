@@ -1,120 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yTUoyMVlOeUw5bzBnTllYTEhtTDhucU1XZFBSTzJNTmdGTFZ3RWZhOU9pZkpJUmJObklfX0tCTkc4a0ppWUVpWWF1OGtuZXVTbHljUnM1YTRzTXB5bXdJQTNHdHZHZ2s?oc=5": {
-    "title": "TSMC、最先端3ナノ半導体生産を熊本で加速へ – 2028年量産体制で日本の技術基盤を強化",
-    "tags": "Hardware",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "9時間前",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yTUoyMVlOeUw5bzBnTllYTEhtTDhucU1XZFBSTzJNTmdGTFZ3RWZhOU9pZkpJUmJObklfX0tCTkc4a0ppWUVpWWF1OGtuZXVTbHljUnM1YTRzTXB5bXdJQTNHdHZHZ2s?oc=5",
-    "summary_bullets": [
-      "TSMCは台湾当局から最先端3ナノ半導体の日本（熊本）での生産を許可され、2028年の量産開始を目指す。",
-      "これにより、日本の半導体産業の競争力強化と経済活性化、および地政学リスクを考慮したサプライチェーンのレジリエンス向上が期待される。",
-      "最先端半導体技術の国内開発・生産体制構築が加速し、世界的な半導体サプライチェーン再編における日本の戦略的地位が向上するだろう。"
-    ],
-    "insight": "最先端半導体技術の日本への誘致は、国の経済安全保障と産業競争力強化に直結します。これは、国内産業全体のDX推進や新たな技術開発を加速させる大きなチャンスとなります。",
-    "action_plan": "自社のサプライチェーンにおける半導体依存度と潜在的なリスクを評価し、この日本国内での生産能力強化がもたらすビジネスチャンスや、サプライヤー戦略の再検討に着手してみましょう。",
-    "image_keyword": "TSMC factory, 3nm semiconductor, Kumamoto Japan",
-    "technical_terms": [
-      {
-        "term": "3ナノ半導体",
-        "explanation": "半導体の回路線幅が3ナノメートル（10億分の3メートル）という、現在の最先端技術レベルを示す。数値が小さいほど高性能・省電力になる。"
-      },
-      {
-        "term": "TSMC",
-        "explanation": "台湾積体電路製造の略称で、世界の半導体産業を支える最大手の半導体受託製造（ファウンドリ）企業。多くのIT企業のチップを生産している。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/business/articles/2604/01/news038.html": {
-    "title": "安全神話崩壊か？Anthropic「Mythos」機密流出から学ぶAI時代の情報セキュリティ教訓",
-    "tags": "AI Security",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://www.itmedia.co.jp/business/articles/2604/01/news038.html",
-    "summary_bullets": [
-      "AI開発大手Anthropicで、次世代最強AI「Mythos」の機密情報が流出する重大なセキュリティインシデントが発生。",
-      "「安全」を重視する企業の痛恨のミスは、AI利用企業や社会全体のAIに対する信頼性と倫理的懸念を増幅させる。",
-      "高度なAIモデルの普及に伴い、AI開発企業および利用企業のガバナンスと情報セキュリティ対策の強化が喫緊の課題となる。"
-    ],
-    "insight": "最先端のAI開発企業ですらセキュリティリスクに直面するという事実は、自社のAI導入・利用における情報ガバナンスとセキュリティ戦略の再構築が不可欠であることを示唆しています。",
-    "action_plan": "自社でAIを利用する際のデータ利用ポリシーとセキュリティプロトコルを今すぐ見直し、従業員へのセキュリティ教育を強化しましょう。",
-    "image_keyword": "AI data breach, security leak, Anthropic Mythos",
-    "technical_terms": [
-      {
-        "term": "Anthropic",
-        "explanation": "倫理的で安全なAIの開発を掲げる主要なAI研究・開発企業。"
-      },
-      {
-        "term": "Mythos",
-        "explanation": "Anthropicが開発中と報じられている、極めて高性能な次世代AIモデルの名称。"
-      },
-      {
-        "term": "機密流出",
-        "explanation": "企業や組織が保有する秘密情報や個人情報が、不正なアクセスやミスによって外部に漏洩すること。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/business/articles/2604/01/news011.html": {
-    "title": "衝撃！町工場で「6時間」アプリ開発の奇跡：500万円の生成AI教育がもたらしたDX革命",
-    "tags": "Generative AI",
-    "sentiment": "positive",
-    "sentiment_text": "DX推進の成功事例",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://www.itmedia.co.jp/business/articles/2604/01/news011.html",
-    "summary_bullets": [
-      "静岡の町工場が500万円を投じた生成AI教育により、非IT人材である溶接工がわずか6時間で業務アプリ開発に成功。",
-      "この事例は、中小企業における生成AI導入の費用対効果と、従業員のリスキリングによる劇的な生産性向上とDX推進の可能性を提示。",
-      "生成AIを活用したローコード・ノーコード開発は、業種を問わずDXを加速させ、人材育成と業務効率化の新たな標準となるトレンドを示す。"
-    ],
-    "insight": "生成AIへの戦略的な投資と従業員教育は、業種や専門知識の有無を問わず、驚異的なスピードでビジネス変革と生産性向上を実現する起爆剤となり、あらゆる企業にとって喫緊の課題であることを示唆しています。",
-    "action_plan": "自社の業務プロセスにおける非効率な点を洗い出し、生成AIで解決可能なタスクや自動化のアイデアを具体的なプロンプトとして書き出してみましょう。",
-    "image_keyword": "factory AI development",
-    "technical_terms": [
-      {
-        "term": "生成AI",
-        "explanation": "プロンプト（指示文）に基づいて、テキストや画像、コードなどを自動で生成する人工知能技術。"
-      },
-      {
-        "term": "DX (デジタルトランスフォーメーション)",
-        "explanation": "最新のデジタル技術を活用して、製品やサービス、ビジネスモデル、業務プロセスを変革し、競争優位性を確立すること。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/02/news068.html": {
-    "title": "GitHub、AnthropicのDMCA申請に応じ『Claude Code』流出リポジトリを削除──AI倫理と著作権の新たな局面",
-    "tags": "AI",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/02/news068.html",
-    "summary_bullets": [
-      "GitHubがAnthropicのDMCA申請を受け、AIモデル『Claude Code』に関連するコード流出リポジトリを複数削除した。",
-      "AIモデル開発における知的財産権保護の重要性と、プラットフォーム運営者の法的責任および倫理的ガバナンスが改めて浮き彫りになった。",
-      "今後、AI生成コードや学習データの著作権・倫理問題に関する法整備や業界ガイドラインの策定が加速し、AIエコシステム全体のルールメイキングに影響を与える可能性が高い。"
-    ],
-    "insight": "AI技術の急速な進化に伴い、コードの著作権保護とプラットフォームのガバナンスが喫緊の課題となっています。企業は自社のAI資産の保護戦略を再考し、倫理的かつ法的なリスク管理を強化する必要があるでしょう。",
-    "action_plan": "自社でAIモデル開発や利用を行っている場合、コードや学習データの著作権帰属と利用規約を今一度見直してみましょう。また、AIプラットフォームの利用規約やセキュリティポリシーも確認し、適切なリスクヘッジ策を検討してください。",
-    "image_keyword": "AI code security, intellectual property, DMCA takedown",
-    "technical_terms": [
-      {
-        "term": "DMCA",
-        "explanation": "デジタルミレニアム著作権法。オンライン上での著作権侵害に対して、ウェブサービスプロバイダーの責任を限定しつつ、権利者に迅速な削除要請手段を提供する米国の法律。"
-      },
-      {
-        "term": "Claude Code",
-        "explanation": "AI開発企業Anthropicが開発する大規模言語モデル『Claude』に関連する、またはその学習データに含まれるとされるコードの呼称。今回はその流出が問題となった。"
-      },
-      {
-        "term": "Anthropic",
-        "explanation": "OpenAIと並ぶ主要なAI開発企業の一つ。倫理的かつ安全なAIの開発を重視しており、大規模言語モデル『Claude』を開発・提供している。"
-      }
-    ]
-  },
   "https://atmarkit.itmedia.co.jp/ait/articles/2604/02/news015.html": {
     "title": "Claudeを最大限に活用する！ .claudeフォルダ徹底解説でAIプログラミングを加速",
     "tags": "AI",
@@ -4766,7 +4650,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "3日前",
+    "time_ago": "4日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/01/news119.html",
     "summary_bullets": [
       "マネーフォワードが、GitHub経由でソースコードと一部ユーザー情報が流出した可能性を公表し、緊急措置として銀行連携サービスを一時停止した。",
@@ -4797,7 +4681,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 4,
-    "time_ago": "3日前",
+    "time_ago": "4日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/01/news112.html",
     "summary_bullets": [
       "LINEのiOS/Android間履歴移行機能において、公開鍵の保存不備が原因で一部チャット履歴が復元できない不具合が再度発生した。",
@@ -4824,7 +4708,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "3日前",
+    "time_ago": "4日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/01/news111.html",
     "summary_bullets": [
       "イエローハット子会社において、最大345万人分の顧客情報が外部に持ち出された痕跡が確認され、大規模な情報漏えいの可能性が浮上。",
@@ -5146,7 +5030,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "たった今",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/05/news023.html",
     "summary_bullets": [
       "AnthropicがBlackstoneらと新会社を設立し、中小企業への大規模言語モデル「Claude」の導入を加速する。",
@@ -5317,6 +5201,118 @@
       {
         "term": "AI (人工知能)",
         "explanation": "人間の知的なふるまい（学習、推論、認識など）をコンピューター上で再現しようとする技術やシステムのことです。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2605/06/news022.html": {
+    "title": "信頼と透明性を再定義：OpenAI、新基盤モデル『GPT-5.5 Instant』で回答根拠のユーザー管理を実現",
+    "tags": "AI / LLM",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/06/news022.html",
+    "summary_bullets": [
+      "OpenAIがChatGPTの新デフォルトモデル「GPT-5.5 Instant」を発表し、ユーザーが回答の根拠を確認・管理可能になった。",
+      "AIの透明性と信頼性が大幅に向上し、特にエンタープライズ領域でのAI導入と活用が加速する。",
+      "AIの倫理と説明責任が重視される中、透明性確保は業界の新たな標準となり、今後のAI開発トレンドに影響を与えるだろう。"
+    ],
+    "insight": "AIのビジネス活用において、その「根拠」の透明性は信頼性確保とリスク管理の要です。新モデルは、これまでAI導入の障壁となっていた説明責任の問題に一石を投じ、より高度なAI連携を可能にする重要な一歩となります。",
+    "action_plan": "自社のAI導入や活用計画において、生成AIの「回答根拠の透明性」をどのように担保し、管理していくかを具体的に検討・書き出してみましょう。",
+    "image_keyword": "AI transparency, ChatGPT model, data origin",
+    "technical_terms": [
+      {
+        "term": "GPT-5.5 Instant",
+        "explanation": "OpenAIが開発したChatGPTの新しいデフォルトモデルで、回答の根拠確認機能などを通じて信頼性と利便性を向上させています。"
+      },
+      {
+        "term": "デフォルトモデル",
+        "explanation": "特定のサービス（今回の場合はChatGPT）において、利用者が設定を変更しない限り、自動的に適用される標準のAIモデルのことです。"
+      },
+      {
+        "term": "回答の根拠確認・管理",
+        "explanation": "AIが生成した情報や回答が、どのデータやプロセスに基づいて導き出されたのかをユーザーが確認し、必要に応じて制御できる機能です。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6578913?source=rss": {
+    "title": "図書館が導入する「読書通帳」：デジタル時代にアナログで読書習慣を育む新戦略",
+    "tags": "Education",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 3,
+    "time_ago": "13時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6578913?source=rss",
+    "summary_bullets": [
+      "図書館が「読書通帳」を導入し、利用者の読書履歴を可視化することで、読書習慣の定着を促進している。",
+      "アナログな手法ながら、利用者の達成感やエンゲージメントを高め、図書館利用の活性化とコミュニティ形成に貢献する好事例。",
+      "デジタル技術が進化する中、あえてアナログな体験を再構築し、データと組み合わせることで新たな価値を生み出すトレンドの兆し。"
+    ],
+    "insight": "デジタル化が進む現代において、アナログな記録や可視化といったシンプルな手法が、ユーザーの行動変容を促し、深いエンゲージメントを生み出す強力なツールとなり得ることを示唆しています。",
+    "action_plan": "自社のサービスや顧客体験において、顧客の行動を可視化・記録し、達成感を促すようなゲーミフィケーション要素やアナログな仕組みを取り入れられないか検討してみましょう。",
+    "image_keyword": "library book passbook, reading habit tracking, community library",
+    "technical_terms": [
+      {
+        "term": "読書通帳",
+        "explanation": "図書館利用者の読書履歴を記録し、読んだ本のタイトルや冊数を可視化するための手帳やサービス。達成感を促す目的がある。"
+      },
+      {
+        "term": "ゲーミフィケーション",
+        "explanation": "ゲームの要素やメカニズムをゲーム以外の分野（教育、マーケティングなど）に応用し、ユーザーのモチベーションやエンゲージメントを高める手法。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55R0ZKTmJnQmdXUkVzdVhab0lxN1dTeGRST2Z2bnpVRjVkMTVtWmlUeFpVUFV5UEdjRHdtRHRCckY4ZnAxUFRoWUEyZw?oc=5": {
+    "title": "AMDがAIデータセンター投資拡大でNVIDIA追撃：市場予想を上回る実績展望で存在感急上昇",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55R0ZKTmJnQmdXUkVzdVhab0lxN1dTeGRST2Z2bnpVRjVkMTVtWmlUeFpVUFV5UEdjRHdtRHRCckY4ZnAxUFRoWUEyZw?oc=5",
+    "summary_bullets": [
+      "米国の半導体企業AMDがAIデータセンターへの投資を拡大し、市場の期待を上回る実績展望を発表した。",
+      "NVIDIA中心のAIチップ市場においてAMDの存在感が急速に高まり、競争環境が激化する可能性を示唆している。",
+      "AIチップ供給の多角化が進み、企業はより多くの選択肢から最適なソリューションを選べるようになるだろう。"
+    ],
+    "insight": "AIチップ市場におけるNVIDIAの独占状態に変化の兆しが見え、複数の強力なプレイヤーの台頭は、AI技術の発展速度とコスト効率に大きな影響を与え、あらゆる企業のAI戦略に再考を促すでしょう。",
+    "action_plan": "自社のAIプロジェクトにおけるチップ選定戦略を見直し、AMDを含む複数のベンダーの最新技術ロードマップとコストパフォーマンスを比較検討してみましょう。",
+    "image_keyword": "AI data center, AMD chip, market competition",
+    "technical_terms": [
+      {
+        "term": "人工知能(AI)データセンター",
+        "explanation": "AIモデルの学習や推論といった計算負荷の高い処理を行うために特化した、高性能なサーバーやストレージ、ネットワーク設備を備えた大規模な施設。"
+      },
+      {
+        "term": "AIチップ",
+        "explanation": "人工知能の計算処理（特にディープラーニング）に最適化された半導体で、GPU（Graphics Processing Unit）などがその代表的な例。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR2pSMkVyRmlXT1JqRlZtcTJtT2ZaS29UZDNjZC1WZEpiV29GNHRfS2djS1lESE1zaUNXSm53VVZNT0trNWFTZmZQd3FYNTdmWGVGLTRXdlJfR1ktaFpnVWpLekxTelNDRmVsZFVPeXJvY2ZGeE1hTFlYNDc4WE43OXowONIBfEFVX3lxTE5sMUxnbEp3V3FKd3RiczZRY1RYUkdFeE1SX2hYVExKdzQwVnphRGxXUzFqNUIxWHU1b2lPQTlSWk5Td0xZVHdmYWdQRzBHNlFQVE43R05xZmRIcDJqZHQ2Y2JJR3piMF85TWJTMGhDRlhnX2Y1REN1U1NyTGw?oc=5": {
+    "title": "サムスン電子、中国家電・テレビ事業から撤退へ – 34年の歴史に幕、スマホ・半導体へ戦略集中",
+    "tags": "Hardware",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR2pSMkVyRmlXT1JqRlZtcTJtT2ZaS29UZDNjZC1WZEpiV29GNHRfS2djS1lESE1zaUNXSm53VVZNT0trNWFTZmZQd3FYNTdmWGVGLTRXdlJfR1ktaFpnVWpLekxTelNDRmVsZFVPeXJvY2ZGeE1hTFlYNDc4WE43OXowONIBfEFVX3lxTE5sMUxnbEp3V3FKd3RiczZRY1RYUkdFeE1SX2hYVExKdzQwVnphRGxXUzFqNUIxWHU1b2lPQTlSWk5Td0xZVHdmYWdQRzBHNlFQVE43R05xZmRIcDJqZHQ2Y2JJR3piMF85TWJTMGhDRlhnX2Y1REN1U1NyTGw?oc=5",
+    "summary_bullets": [
+      "サムスン電子が中国での家電・テレビ事業から撤退し、34年間の歴史に終止符を打つと発表した。",
+      "今回の戦略転換は、収益性の高いスマートフォンと半導体事業への経営資源集中を目的としている。",
+      "グローバル企業が特定の市場や事業分野で「選択と集中」を進めるトレンドを加速させ、中国市場における家電業界の競争環境にも影響を与える可能性を示唆している。"
+    ],
+    "insight": "中国市場の激しい競争と変化に対応するため、グローバル企業は自社のコアコンピタンスを活かせる分野に経営資源を集中させる戦略が不可欠である。これは、持続的な成長を実現するための重要な判断基準となる。",
+    "action_plan": "自社の事業ポートフォリオを改めて見直し、各市場・事業分野での競争優位性と将来性を評価し、選択と集中が必要な領域がないか検討してみましょう。",
+    "image_keyword": "Samsung China withdrawal, electronics industry shift, semiconductor focus",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "電気を通したり通さなかったりする性質を持つ物質で、スマートフォンやコンピューターなどの電子機器の頭脳となる部品です。"
+      },
+      {
+        "term": "事業ポートフォリオ",
+        "explanation": "企業が展開している複数の事業の組み合わせや構成を指します。資源配分や成長戦略を考える上で重要です。"
       }
     ]
   }
