@@ -1,216 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWm9jSE5XcVZGLXJLOG5oRWVlb0dRZ1BtNDlmd3lTVlBkY0xkdmRra0ZuMkRHbW9FMWFXTTlBb210NHFBVHB4ZWMtUVR1bkd3S1ptcFZqUWF1dkVXVHNsc3lIcHNfV0RjQk92TlFOUG5HOXhYcVZiSVNjTXhCejJRR1lycWg3UdIBiwFBVV95cUxQNlMzc2N3YXkzTFM3dENEQmVKRWx1M0RpQXlxRE1yYkFKMWdNUzZYSnJKVzg5OWxtd2hwT05rYUNJdFN0bmsxLU1Wd25CZ3o1T0Q5RXBGMXpJQ0JtYW9FN2p5U3dpRXhFZ3E5MWs3QVdJYXNXR2VIMjR3aTBBalc2b29DcF9nSldoQ3Zv?oc=5": {
-    "title": "半導体、ついに「1ナノ時代」へ突入！大手4社が量産目標を掲げ、技術競争が熾烈化",
-    "tags": "Hardware",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWm9jSE5XcVZGLXJLOG5oRWVlb0dRZ1BtNDlmd3lTVlBkY0xkdmRra0ZuMkRHbW9FMWFXTTlBb210NHFBVHB4ZWMtUVR1bkd3S1ptcFZqUWF1dkVXVHNsc3lIcHNfV0RjQk92TlFOUG5HOXhYcVZiSVNjTXhCejJRR1lycWg3UdIBiwFBVV95cUxQNlMzc2N3YXkzTFM3dENEQmVKRWx1M0RpQXlxRE1yYkFKMWdNUzZYSnJKVzg5OWxtd2hwT05rYUNJdFN0bmsxLU1Wd25CZ3o1T0Q5RXBGMXpJQ0JtYW9FN2p5U3dpRXhFZ3E5MWs3QVdJYXNXR2VIMjR3aTBBalc2b29DcF9nSldoQ3Zv?oc=5",
-    "summary_bullets": [
-      "世界の主要半導体メーカー4社が、次世代技術である1ナノメートル（1nm）プロセスの量産目標を相次いで発表。",
-      "これは、AI、高性能コンピューティング、IoTなど、あらゆる先端技術の性能を飛躍的に向上させる基盤となり、産業界全体に大きな影響を与える。",
-      "技術の微細化競争は新たな局面に入り、材料科学や3D積層技術など、多角的なアプローチでの開発競争が今後さらに激化する見込み。"
-    ],
-    "insight": "半導体技術の最前線が1ナノ時代へと移行することは、単なる技術進歩に留まらず、国家間の経済安全保障や各企業の競争力を決定づける戦略的要因となります。自社のサプライチェーンや将来の製品ロードマップに与える影響を深く理解し、迅速な対応が求められます。",
-    "action_plan": "自社が依存する半導体サプライチェーンの現状と、この微細化トレンドがもたらす機会やリスクを再評価してみましょう。また、1ナノ技術の恩恵を受ける可能性のある次世代製品やサービスのアイデアをブレインストーミングし、パートナーシップの可能性を探り始めてみましょう。",
-    "image_keyword": "1nm semiconductor chip, nano chip competition, future microchip",
-    "technical_terms": [
-      {
-        "term": "1ナノメートル (1nm)",
-        "explanation": "10億分の1メートルという極めて微小な長さの単位で、半導体チップの回路線幅やゲート長など、最小加工寸法を表す。この数値が小さいほど、より高性能で省電力なチップが製造可能となる。"
-      },
-      {
-        "term": "半導体微細化",
-        "explanation": "半導体チップ上に形成される電子回路の構成要素を、より小さく、より高密度に集積する技術。これにより、チップの処理能力向上、消費電力削減、製造コスト低減が実現される。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wNTNVbTBCd3FWUVZjSmZaa2QtMUViVUhRZkctRnVWV0N5NjV4alRGNXpEX2RLalJxNVNiWVl1ZnhGRW9hZXc4QW91bzRVRkhGaklZ?oc=5": {
-    "title": "日本の半導体産業を牽引する次世代人材育成へ：高専教員向け実践研修、旭川・佐世保で同時開催",
-    "tags": "Semiconductor",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wNTNVbTBCd3FWUVZjSmZaa2QtMUViVUhRZkctRnVWV0N5NjV4alRGNXpEX2RLalJxNVNiWVl1ZnhGRW9hZXc4QW91bzRVRkhGaklZ?oc=5",
-    "summary_bullets": [
-      "全国の高専教員を対象とした半導体製造研修が旭川・佐世保の両高専で同時開催され、実践的な教育指導力の強化を目指す。",
-      "本研修は、国の半導体産業復権に向けた人材育成の重要施策の一環であり、将来的な技術者不足解消に貢献する。",
-      "高専を核とした実践的教育モデルの確立が、産業界が求める高度な半導体人材の安定供給と技術力向上に繋がる可能性。",
-      "全国から集まった教員が最先端の製造現場を体験し、専門知識と実践スキルを習得する機会を得た。"
-    ],
-    "insight": "日本が半導体産業での国際競争力を再確立するためには、実践的な技術を持つ人材の育成が喫緊の課題です。今回の高専教員向け研修は、その基盤を強化する重要な一歩であり、企業はこうした教育機関との連携を通じて、将来の技術トレンドと人材確保の戦略を再考すべきです。",
-    "action_plan": "自社の技術ロードマップと必要とされるスキルセットを明確にし、高専を含む教育機関との連携プログラムやインターンシップの可能性を具体的に検討してみましょう。",
-    "image_keyword": "semiconductor education, technical training, wafer fabrication",
-    "technical_terms": [
-      {
-        "term": "半導体製造",
-        "explanation": "集積回路などの半導体デバイスを設計し、シリコンウェハー上に回路を形成する一連のプロセス。高度な技術とクリーンな環境が必要とされる。"
-      },
-      {
-        "term": "高専",
-        "explanation": "高等専門学校の略。実践的な技術者を育成することを目的とした5年制の高等教育機関で、卒業後は産業界で即戦力として活躍できる人材を輩出する。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/02/news075.html": {
-    "title": "マイナビ、クラウド不正アクセスで7万件超の個人情報流出か？ 企業が直面するサイバーセキュリティ危機",
-    "tags": "Cybersecurity",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "7日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/02/news075.html",
-    "summary_bullets": [
-      "マイナビが利用するクラウドサービスで不正アクセスが発生し、ユーザー情報約7万件の流出の可能性が判明。",
-      "今回の事態は、企業がクラウド活用を進める中で、サプライチェーン全体のセキュリティ対策が喫緊の課題であることを改めて示唆。",
-      "個人情報保護法改正や社会のセキュリティ意識の高まりにより、企業はより厳格な情報管理とインシデント対応が求められるトレンドが加速。"
-    ],
-    "insight": "クラウドサービス利用におけるセキュリティ対策は、自社だけでなくベンダー側のセキュリティまで含めたサプライチェーン全体で考える必要があり、万が一の事態に備えたインシデント対応計画の策定が不可欠である。",
-    "action_plan": "自社が利用するクラウドサービスのセキュリティ体制やベンダーとの責任範囲を再確認し、インシデント発生時の対応フローを見直してみましょう。",
-    "image_keyword": "data breach cloud security",
-    "technical_terms": [
-      {
-        "term": "不正アクセス",
-        "explanation": "権限のない者がシステムやネットワークに侵入し、データ閲覧や操作を行う行為。情報漏洩の主要因となる。"
-      },
-      {
-        "term": "クラウドサービス",
-        "explanation": "インターネット経由で提供される、サーバーやストレージ、ソフトウェアなどのコンピューティングサービス全般。多くの企業が利用している。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/aiplus/articles/2604/03/news113.html": {
-    "title": "IBMとArmが戦略提携：AI時代のメインフレーム、柔軟性で新境地を開く",
-    "tags": "Enterprise Tech",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "2日前",
-    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news113.html",
-    "summary_bullets": [
-      "IBMとArmが戦略的提携を発表し、AI時代の要求に応えるメインフレームの柔軟性強化を共同で目指す。",
-      "この提携により、企業の基幹システムであるメインフレームがAI技術を取り込み、データ処理の効率化とサービス提供の革新を加速させる。",
-      "既存の堅牢なITインフラと最先端のAI技術の融合が進み、ハイブリッドクラウド戦略における新たな技術標準を確立する可能性が高まる。"
-    ],
-    "insight": "伝統的なITインフラの巨人であるIBMと最先端チップ技術のArmとの提携は、AI時代において既存資産をいかにモダナイズし、柔軟性を持たせるかが競争優位を築く鍵となることを明確に示しています。",
-    "action_plan": "自社のレガシーシステムや基幹インフラがAI時代のニーズにどれだけ対応できるか評価し、長期的な視点でのAI統合・柔軟性向上戦略の立案に着手しましょう。",
-    "image_keyword": "AI mainframe infrastructure",
-    "technical_terms": [
-      {
-        "term": "メインフレーム",
-        "explanation": "大規模なデータ処理や基幹業務を担う、高い信頼性と処理能力を持つ大型コンピュータシステム。"
-      },
-      {
-        "term": "AI対応",
-        "explanation": "人工知能技術をシステムに組み込み、データ分析、自動化、最適化などの機能を強化すること。"
-      },
-      {
-        "term": "戦略的提携",
-        "explanation": "複数の企業が共通の目標達成のため、資源や技術、ノウハウなどを共有し、協力関係を築くこと。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/aiplus/articles/2604/03/news092.html": {
-    "title": "国立情報学研究所、国産LLMで「gpt-oss-20b」超えの日本語性能を達成 - AI国産化の次なる一手",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news092.html",
-    "summary_bullets": [
-      "国立情報学研究所が、既存の「gpt-oss-20b」を超える日本語性能を持つ新たな国産LLMを開発・公開した。",
-      "日本語に特化した高性能LLMの登場は、国内ビジネスにおけるAI導入を加速させ、データ主権の確保にも貢献する。",
-      "今後、日本独自の文化や専門分野に対応する多様なLLM開発が活発化し、AIエコシステムにおける日本の存在感が高まることが期待される。"
-    ],
-    "insight": "国産LLMの性能向上は、言語の壁やデータセキュリティの懸念を解消し、日本企業がより安全かつ効果的にAIを活用し、グローバル市場での競争力を強化する絶好の機会を提供します。",
-    "action_plan": "自社のビジネスにおける日本語特化型AIの具体的な活用シーンや課題を洗い出し、この新たな国産LLMを基盤としたソリューション導入の可能性について、情報収集と検討を開始してみましょう。",
-    "image_keyword": "Japanese LLM research, AI innovation Japan, National Institute Informatics",
-    "technical_terms": [
-      {
-        "term": "LLM",
-        "explanation": "Large Language Model（大規模言語モデル）の略。大量のテキストデータを学習し、人間のように自然な文章を理解・生成するAIモデルです。"
-      },
-      {
-        "term": "gpt-oss-20b",
-        "explanation": "特定のオープンソースの大規模言語モデルを指すと考えられます。一般に、高度な言語処理能力を持つモデルの一つとして認識されています。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6575084?source=rss": {
-    "title": "家族アルバムアプリ「みてね」が拓く新市場：想定外の快進撃が示すユーザー体験の価値",
-    "tags": "SaaS",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 4,
-    "time_ago": "11時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6575084?source=rss",
-    "summary_bullets": [
-      "家族アルバムアプリ「みてね」が従来のSNSとは異なるアプローチで、想定外のユーザー獲得と成長を達成。",
-      "限定されたクローズドなコミュニティとシンプルで使いやすいUXが、子育て世代を中心に強い支持を獲得し、新たなコミュニケーションモデルを提示。",
-      "ユーザーの深いニーズを捉え、過度な機能追加ではなく本質的な価値に注力するサービスが、今後のアプリ市場で成功する鍵となる可能性。"
-    ],
-    "insight": "今日のデジタル世界において、すべてのユーザーにリーチしようとするのではなく、特定のニッチ市場の深い課題とニーズに徹底的に寄り添うことが、予想外の大きな成功を生み出す強力な戦略となり得る。",
-    "action_plan": "自社のサービスやプロダクトにおいて、「誰の、どのような具体的な課題を、どう解決しているのか」を再度明確にし、その本質的な価値を最大限に高める改善点を見直してみましょう。",
-    "image_keyword": "family album app, parenting tech, social growth",
-    "technical_terms": []
-  },
-  "https://news.yahoo.co.jp/pickup/6575032?source=rss": {
-    "title": "マイクロソフトが日本に1.6兆円巨額投資！AIインフラ強化で日本の未来を牽引",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "期待高まる話題",
-    "rating": 5,
-    "time_ago": "19時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6575032?source=rss",
-    "summary_bullets": [
-      "米マイクロソフトが日本に1.6兆円規模のAI関連投資を行うと発表、同社として過去最大の対日投資となる。",
-      "今回の投資は、日本のAIインフラ強化（データセンター増設）、研究開発、AI人材育成に重点が置かれ、国内経済や産業の競争力向上に大きく貢献する。",
-      "日本のAI技術開発・導入が加速し、国際的なAIハブとしての地位確立に向けた動きが活発化すると予測される。"
-    ],
-    "insight": "マイクロソフトの巨額投資は、日本市場がAI戦略において極めて重要な拠点と位置づけられている証拠であり、国内企業は自社のAI戦略を見直し、新たなビジネス機会を積極的に模索すべきである。",
-    "action_plan": "自社のAI導入計画やDX戦略を再評価し、マイクロソフトのエコシステムとの連携可能性や、AI人材育成への投資について検討を始めましょう。",
-    "image_keyword": "Microsoft Japan AI Investment, Data Center Japan, AI infrastructure",
-    "technical_terms": [
-      {
-        "term": "AI",
-        "explanation": "人間が行う学習、推論、認識などの知的活動をコンピューターに模倣させる技術の総称。"
-      },
-      {
-        "term": "データセンター",
-        "explanation": "大量のサーバーやネットワーク機器を集約し、データ保存や処理を行うための施設。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6575017?source=rss": {
-    "title": "「デジタル遺言」時代到来：スマホ・PCで作成可能に、法改正のインパクト",
-    "tags": "Legal Tech",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "21時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6575017?source=rss",
-    "summary_bullets": [
-      "遺言書の作成が、スマートフォンやPCなどのデジタルデバイスを通じて可能になる法改正が検討されている。",
-      "これにより遺言作成の敷居が大幅に下がり、リーガルテック市場の活性化や新たなサービス創出が期待される。",
-      "将来的にはデジタル終活がより普及し、デジタル資産管理や相続に関するサービス需要が飛躍的に増大する見込み。"
-    ],
-    "insight": "デジタル化の波は法務分野にも及び、伝統的なサービスモデルに変革を迫る。この変化をビジネスチャンスと捉え、デジタルサービス連携や新たなプラットフォーム構築を検討すべきだ。",
-    "action_plan": "自社のサービスや商品が、この「デジタル遺言」の流れとどのように連携できるか、具体的なアイデアをチームでブレインストーミングしてみましょう。",
-    "image_keyword": "digital will, online legal service, smart inheritance",
-    "technical_terms": [
-      {
-        "term": "リーガルテック",
-        "explanation": "法律サービスとテクノロジーを融合させたサービスや製品の総称。法務分野の効率化やアクセス向上を目指す。"
-      },
-      {
-        "term": "デジタル終活",
-        "explanation": "自身のデジタル資産（SNSアカウント、オンラインサービス、データなど）や情報を生前のうちに整理し、死後に備える活動。"
-      }
-    ]
-  },
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVUzcVN6eDNod1pFR2NqYjFjeFU0R3RlVjFrdUZrb3dOXzFfUUZLQUpiS1JnOXloRnZoN0ZXeUtURlVjVzh1VXB2Y1JHWDNISk54anptZmphTWswYnp6b05ha2s1MndhOE91V1VZSVM1UXhfSjZRd2hXSi1uUXY4dVBVb0ppSkMwbnp4NkhBRkdLdk5mTk42QWNJbG13eV9qSmc?oc=5": {
     "title": "信越化学、AI時代を拓く新工場建設：半導体材料増産でAI銘柄の旗手に躍進",
     "tags": "Hardware",
@@ -5307,7 +5095,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "11時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/07/news117.html",
     "summary_bullets": [
       "大人向けビデオ通話アプリ「Kyuun」を含む11のアプリで、約4万件のユーザー情報が外部に漏洩した可能性が浮上。",
@@ -5334,7 +5122,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "15時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/07/news096.html",
     "summary_bullets": [
       "マネーフォワードの銀行連携サービスが、不正アクセス発覚から約1週間経っても停止が継続している。",
@@ -5356,6 +5144,187 @@
       {
         "term": "銀行連携",
         "explanation": "家計簿アプリなどがユーザーの同意に基づき、銀行口座から取引履歴などの情報を自動的に取得する機能。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2605/08/news109.html": {
+    "title": "【必見】国立国会図書館、最新AI動向調査資料を無料公開！ビジネス戦略策定の羅針盤に",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "14時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news109.html",
+    "summary_bullets": [
+      "国立国会図書館がAIに関する最新の調査資料をWeb上で無料公開し、幅広い層がアクセス可能に。",
+      "企業や研究者は、公的機関による信頼性の高いAI動向分析をビジネス戦略や研究開発に即座に活用できる。",
+      "AI技術の急速な進化に対応するため、政府や公的機関による情報公開がさらに活発化し、社会全体のAI理解促進に繋がるだろう。"
+    ],
+    "insight": "公的機関が提供する網羅的で中立的なAI動向分析は、市場の喧騒に惑わされない堅実な事業戦略や投資判断を下すための強力な羅針盤となる。",
+    "action_plan": "早速、国立国会図書館のWebサイトから当該資料をダウンロードし、自社のAI戦略やロードマップと照らし合わせてみましょう。",
+    "image_keyword": "AI trend report, digital library, data analysis",
+    "technical_terms": []
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/08/news100.html": {
+    "title": "Apple、AI開発遅延訴訟で390億円の巨額和解金：テック業界の競争とリスクが浮き彫りに",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "14時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news100.html",
+    "summary_bullets": [
+      "AppleがAI機能の開発遅延を巡る集団訴訟で、390億円（約2.5億ドル）の和解金を支払うことに合意した。",
+      "この和解は、AI開発競争の激化と、技術大手における開発スケジュールの遅延リスク、およびそれに伴う法的・財務的影響の増大を示唆している。",
+      "AI技術の進化が加速する中、企業は開発プロセスの透明性と顧客への期待値管理を一層強化する必要があり、同様の訴訟リスクも高まる可能性が予測される。"
+    ],
+    "insight": "AI開発競争の激化は、企業にイノベーションとスピードを求める一方で、開発遅延が巨額の賠償リスクとブランド毀損に直結するという、厳しすぎる現実を突きつけている。技術革新の裏にある法務・経営リスクの管理が、企業の生命線となる。",
+    "action_plan": "自社や関連業界におけるAI開発プロジェクトのロードマップと進捗状況を再確認し、潜在的な遅延リスクや顧客への影響、および法務・賠償リスクがないか緊急でアセスメントを見直してみましょう。",
+    "image_keyword": "AI development lawsuit",
+    "technical_terms": [
+      {
+        "term": "集団訴訟",
+        "explanation": "複数の原告が共通の損害に対して、代表者を通じて一つの裁判で訴えを起こす法的手続き。時間と費用を節約し、集団で権利を主張できる。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/08/news086.html": {
+    "title": "AIディープフェイクで自ら警鐘：メローニ伊首相が示す、偽造画像がもたらす『危険なツール』の脅威",
+    "tags": "AI Ethics",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "17時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news086.html",
+    "summary_bullets": [
+      "メローニ伊首相が、AI生成とみられる自身の捏造画像を投稿し、ディープフェイクの危険性を世界に警告した。",
+      "政治家がターゲットとなることで、AIによる情報操作や風評被害が社会の信頼性と民主主義に深刻な影響を及ぼすリスクが顕在化した。",
+      "ディープフェイク対策技術の開発加速、および国際的な法的・倫理的規制の議論が今後の喫緊の課題となるだろう。"
+    ],
+    "insight": "AIの悪用リスクは個人だけでなく企業やブランドにも及び、風評被害や信頼失墜に直結するため、AIリテラシーの向上と、AIを活用したリスクマネジメント体制の構築が急務であると認識すべきです。",
+    "action_plan": "自社のブランドや個人情報がディープフェイクの標的となる可能性を評価し、危機管理計画を見直すとともに、AIを活用したフェイクコンテンツ識別ツールの導入可能性について情報収集を開始してみましょう。",
+    "image_keyword": "AI deepfake warning",
+    "technical_terms": [
+      {
+        "term": "AI生成画像",
+        "explanation": "人工知能が学習したデータに基づいて、実際には存在しない画像を作り出す技術。高度な技術により、本物と見分けがつきにくい画像が生成されることがあります。"
+      },
+      {
+        "term": "ディープフェイク",
+        "explanation": "ディープラーニングというAI技術を用いて、既存の画像や動画、音声などを合成・改変し、あたかも本物であるかのように見せかける偽のコンテンツ。虚偽情報の拡散や名誉毀損に悪用されることがあります。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6579336?source=rss": {
+    "title": "ドコモが示唆する料金改定の波紋：通信市場の未来図",
+    "tags": "Mobile Carrier",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "7時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6579336?source=rss",
+    "summary_bullets": [
+      "ドコモの井伊社長が、今後の料金改定について『考えなければならない』と示唆し、料金値上げの可能性が浮上。",
+      "国内最大手のドコモの動きは、他キャリアの料金戦略や消費者の通信費負担に大きな影響を及ぼす可能性を秘めている。",
+      "通信業界全体で料金体系の見直しや付加価値サービスへの転換が加速する可能性があり、市場競争の行方に注目が集まる。"
+    ],
+    "insight": "通信業界の料金戦略は、単なる価格競争から、サービスの質や付加価値提供による収益モデルへの転換期を迎えています。これは、顧客エンゲージメントを深め、持続可能な成長を追求するあらゆるビジネスにとって重要な示唆となります。",
+    "action_plan": "自社の通信コストを見直すとともに、顧客が求める真の価値とは何かを再定義し、価格だけでなくサービスで差別化する戦略を検討してみましょう。",
+    "image_keyword": "Telecom price hike, Mobile network cost",
+    "technical_terms": [
+      {
+        "term": "料金改定",
+        "explanation": "通信サービスなどの価格体系を見直して変更すること。"
+      },
+      {
+        "term": "通信キャリア",
+        "explanation": "携帯電話やインターネットなどの通信サービスを提供する事業者。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6579320?source=rss": {
+    "title": "任天堂「次世代Switch」値上げか？初代モデルへの影響と市場戦略の波紋",
+    "tags": "Hardware",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "10時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6579320?source=rss",
+    "summary_bullets": [
+      "任天堂の次世代機「Switch2」（仮称）および現行Switchの値上げの可能性が報じられ、ゲーム市場に動揺が走っている。",
+      "部品コストの高騰や為替変動が背景にあり、消費者の購買意欲や市場競争に影響を与え、ゲーム業界全体の価格戦略に波紋を広げる可能性がある。",
+      "高性能化と価格維持のバランスが次世代ゲーム機開発の大きな課題となり、今後のメーカー各社の動向に注目が集まる。"
+    ],
+    "insight": "部品コスト高騰やインフレが続く中、プロダクトの性能向上と価格設定は企業の成長戦略において不可避な課題であり、市場と消費者の受容性をいかに見極めるかがビジネス成功の鍵となります。",
+    "action_plan": "自社の製品・サービスの価格戦略を見直し、コスト上昇圧力に対する対応策や、競合との差別化戦略を再検討してみましょう。",
+    "image_keyword": "Nintendo Switch price, console value, gaming hardware economy",
+    "technical_terms": []
+  },
+  "https://news.yahoo.co.jp/pickup/6579312?source=rss": {
+    "title": "任天堂の次世代機「Switch2」（仮称）、価格戦略の深層と市場への影響",
+    "tags": "Hardware",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "11時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6579312?source=rss",
+    "summary_bullets": [
+      "任天堂の次世代ゲーム機「Switch2」（仮称）が、前モデルから価格上昇して発表される見込み。",
+      "価格上昇は消費者の購買意欲や市場の競争環境に影響を与え、ゲーム業界全体の戦略再考を促す可能性。",
+      "高性能化に伴うコスト増と市場の期待値のバランスが、今後のハードウェア戦略における主要トレンドとなる。"
+    ],
+    "insight": "高性能化と価格上昇のバランスは、あらゆるテクノロジー製品における永遠の課題であり、消費者の期待値と市場の許容度を正確に見極める戦略的洞察が企業成長の鍵を握る。",
+    "action_plan": "自社の次世代製品・サービスの開発ロードマップを見直し、性能向上と価格戦略のバランスが顧客の価値観と合致しているか再評価してみましょう。",
+    "image_keyword": "Next-gen Console Pricing",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SRllRSmNDRDZZeU1UWGhkWFA0Wkd2TFhvMkxMWEFiaVBBdWdENDktdEtaNUhHczJ5Vk5MWUJ6S3FvUnJHcExpYTJ4LXEzSExWaWRjWG12VzUzOGJtVDJvYm45TF9TQQ?oc=5": {
+    "title": "イーロン・マスク、半導体サプライチェーン自立へ巨額投資「テラファブ」構想を発表",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SRllRSmNDRDZZeU1UWGhkWFA0Wkd2TFhvMkxMWEFiaVBBdWdENDktdEtaNUhHczJ5Vk5MWUJ6S3FvUnJHcExpYTJ4LXEzSExWaWRjWG12VzUzOGJtVDJvYm45TF9TQQ?oc=5",
+    "summary_bullets": [
+      "イーロン・マスク氏が半導体サプライチェーンの自立を目指し、「テラファブ」構想に最大174兆ウォン（約20兆円弱）規模の巨額投資を計画している。",
+      "半導体供給の地政学リスクが高まる中、特定企業による自社調達能力の強化は、産業界全体に新たな潮流を生む可能性を秘めている。",
+      "マスク氏の戦略が、他テクノロジー企業にも同様の動きを促し、半導体製造の分散化と地域化が進む新たなトレンドを形成する可能性が予測される。"
+    ],
+    "insight": "地政学的リスクや供給網の不安定化に対応するため、主要テクノロジー企業は従来の垂直統合モデルを超え、自社で基幹部品の製造能力を確保する動きを加速させ、産業構造に大きな変化をもたらすでしょう。",
+    "action_plan": "自社のサプライチェーンにおける特定部品への依存度を再評価し、有事のリスク分散策や代替調達先の検討を今日から始めてみましょう。",
+    "image_keyword": "Elon Musk, semiconductor factory, terrafab investment",
+    "technical_terms": [
+      {
+        "term": "テラファブ (Terrafab)",
+        "explanation": "イーロン・マスク氏が提唱する超大規模半導体製造工場を指す造語で、従来のギガファブを上回る生産能力を持つことを想定しています。"
+      },
+      {
+        "term": "半導体自立",
+        "explanation": "特定の国や外部サプライヤーに依存せず、自社または国内で半導体の設計から製造までを一貫して行える能力を持つことです。地政学リスクの高まりにより、各国や企業がこの実現を目指しています。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKOUI3UU10dTFja0dqNk5JSDlsa0RCejQtVjhoam5XbVdzRV9TWVJScGtQbXFSaG1CdTBKU2Z5VnIzZjlpcTAzWUtKYUtXWS1LX2ZiM2YzeGdZUQ?oc=5": {
+    "title": "インテル、Appleへ半導体供給か？テック巨人提携の衝撃",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKOUI3UU10dTFja0dqNk5JSDlsa0RCejQtVjhoam5XbVdzRV9TWVJScGtQbXFSaG1CdTBKU2Z5VnIzZjlpcTAzWUtKYUtXWS1LX2ZiM2YzeGdZUQ?oc=5",
+    "summary_bullets": [
+      "インテルがAppleに半導体を供給する提携合意が報じられた。",
+      "これはテック業界の二大巨頭間の戦略的なサプライチェーン再編を意味する可能性が高い。",
+      "今後の半導体市場の勢力図や、Appleのサプライヤー戦略に大きな影響を与えることが予測される。"
+    ],
+    "insight": "半導体サプライチェーンの不安定化やAI需要の急増を背景に、これまで競合関係にあった企業間でも戦略的な連携が加速しており、業界再編の動きは今後も注視すべき重要テーマである。",
+    "action_plan": "自社のサプライチェーンにおけるリスク要因を洗い出し、主要パートナーとの関係性強化や、新たな技術提携の可能性を検討し始めましょう。",
+    "image_keyword": "Intel Apple semiconductor",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "電気を通したり通さなかったりする性質を持つ物質で、スマートフォンやPC、データセンターなどあらゆる電子機器の頭脳や記憶装置に使われる基幹部品。"
       }
     ]
   }
