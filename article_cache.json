@@ -1,209 +1,4 @@
 {
-  "https://news.yahoo.co.jp/pickup/6575133?source=rss": {
-    "title": "OpenAI、経営陣に激震！その背景とAI業界への影響を読み解く",
-    "tags": "AI",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://news.yahoo.co.jp/pickup/6575133?source=rss",
-    "summary_bullets": [
-      "AI開発の最前線を走るOpenAIで、経営層に大規模な変化が発生した模様。",
-      "今回の人事異動は、OpenAIの今後の製品開発やビジネス戦略、ガバナンス体制に大きく影響を与える見込み。",
-      "この経営層の変化が、AI技術の発展やエコシステム、そして競合他社の動向にどう影響するか、今後の展開が注視される。"
-    ],
-    "insight": "AIの未来を牽引するOpenAIの経営層変動は、AI技術の進化と市場競争のパラダイムシフトを示唆します。自社のAI戦略やパートナーシップを見直す上で、この動向を深く分析し、未来への適応力を高めるべきです。",
-    "action_plan": "OpenAIの公式発表やメディアの続報を定期的にチェックし、自社のAI戦略への潜在的な影響についてチーム内で議論する機会を設けましょう。競合AIベンダーの動向も合わせて注視し、リスクと機会の両面から評価してください。",
-    "image_keyword": "OpenAI leadership change, AI executive shakeup, tech governance",
-    "technical_terms": [
-      {
-        "term": "AI",
-        "explanation": "人間の知能を模倣したシステムや技術全般を指し、データ分析、学習、問題解決などを行う。"
-      },
-      {
-        "term": "経営陣",
-        "explanation": "企業の運営を指揮する最高責任者や幹部層の集団。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6575119?source=rss": {
-    "title": "SNSの信頼性危機：京都新聞、Xに誤情報削除を要請 - 企業ブランドと情報ガバナンスの課題",
-    "tags": "Digital Ethics",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 4,
-    "time_ago": "22時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6575119?source=rss",
-    "summary_bullets": [
-      "京都新聞がソーシャルメディアX（旧Twitter）に対し、自社に関する誤情報の削除を正式に要請した。",
-      "企業のブランド毀損リスクが増大する中、SNSプラットフォーム側の誤情報対策と情報信頼性維持の責任が改めて問われている。",
-      "AIによる情報生成が加速する現代において、プラットフォームによるコンテンツ管理の厳格化や、メディアとプラットフォーム間の連携強化が今後のトレンドとなる可能性が高い。"
-    ],
-    "insight": "デジタル空間における誤情報の拡散は、企業の評判や事業活動に深刻な影響を及ぼすリスクがあるため、情報信頼性の確保と迅速な危機管理体制の構築はビジネスの最重要課題です。",
-    "action_plan": "自社や関連業界に関するSNS上の言及を常時モニタリングし、誤情報や風評被害に対して迅速かつ効果的に対応するためのガイドラインや緊急対応チームを今日中に見直しましょう。",
-    "image_keyword": "misinformation social media",
-    "technical_terms": [
-      {
-        "term": "X",
-        "explanation": "旧Twitterの名称で、世界的に利用される主要なソーシャルメディアプラットフォーム。ユーザーが短文や画像を共有できる。"
-      },
-      {
-        "term": "誤情報",
-        "explanation": "事実と異なる情報で、意図的であるか否かに関わらず、読者や視聴者に誤解を与える可能性のあるコンテンツ。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wdUNZZmVYMDR2NjRYMlo4UU1nZm1kQmcxMFNfR1B4Qk5LN3hXY0hSSURpZjQ4OUhSM015WGxPZy1VYWFwQU1zb0Y0WlU1SGwtanc?oc=5": {
-    "title": "半導体覇権の要衝：TSMCとNVIDIAが築くグローバル戦略トライアングル",
-    "tags": "Hardware",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "1時間前",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wdUNZZmVYMDR2NjRYMlo4UU1nZm1kQmcxMFNfR1B4Qk5LN3hXY0hSSURpZjQ4OUhSM015WGxPZy1VYWFwQU1zb0Y0WlU1SGwtanc?oc=5",
-    "summary_bullets": [
-      "TSMCとNVIDIAが中心となり、台湾（高雄）、日本（熊本）、米国（アリゾナ）が連携する「半導体戦略トライアングル」が形成されつつある。",
-      "この国際的な連携は、地政学的リスク分散とサプライチェーンの強靭化を目的とし、AI時代を支える半導体技術の安定供給とイノベーション加速に寄与する。",
-      "各地域の技術的・地政学的な強みを活かした協業が深化することで、グローバルな半導体産業地図が再構築され、新たな経済圏が生まれると予測される。"
-    ],
-    "insight": "このニュースは、単なる企業の投資動向を超え、地政学的リスクを分散し、サプライチェーンを強靭化するという現代ビジネスの最重要課題に対する、最先端のグローバル連携戦略を示しています。自社のビジネスにおけるサプライチェーンのレジリエンスと国際的な協業の可能性を再考する上で極めて重要な洞察を与えます。",
-    "action_plan": "自社のサプライチェーンにおいて、特定の国や地域への依存度を分析し、潜在的なリスクと機会を洗い出してみましょう。また、国際的なパートナーシップや技術連携を通じて、新たなビジネスモデルや市場開拓の可能性がないか検討してみましょう。",
-    "image_keyword": "semiconductor strategy, global supply chain, high-tech alliance",
-    "technical_terms": [
-      {
-        "term": "TSMC",
-        "explanation": "台湾積体電路製造の略。世界最大の半導体受託生産（ファウンドリ）企業で、最先端のチップ製造技術を持つ。"
-      },
-      {
-        "term": "NVIDIA",
-        "explanation": "米国に本社を置く半導体メーカー。特に高性能なGPU（画像処理装置）やAIチップの開発で知られ、AI時代のコンピューティングを牽引している。"
-      },
-      {
-        "term": "半導体戦略トライアングル",
-        "explanation": "特定の3つの地域（この場合は高雄、熊本、アリゾナ）が半導体産業において戦略的に重要な拠点を形成し、相互に連携することで全体の競争力や安定性を高める構造を指す。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzUUN3NV9iTGZFcUhtWElUY1N0YnRLWGpIeXVxSWhsM2VwdkV6TjRNZXdkem9PV0Z5ZklXODVDMmxCNjR6cWtLRUtFRFI4aHlHV2ltTFVOYmJKR0JHOENB?oc=5": {
-    "title": "三重県、国家戦略に「半導体クラスター」を提案へ：中部圏連携で半導体産業強化の新機軸",
-    "tags": "Hardware",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "5時間前",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzUUN3NV9iTGZFcUhtWElUY1N0YnRLWGpIeXVxSWhsM2VwdkV6TjRNZXdkem9PV0Z5ZklXODVDMmxCNjR6cWtLRUtFRFI4aHlHV2ltTFVOYmJKR0JHOENB?oc=5",
-    "summary_bullets": [
-      "三重県が国戦略産業クラスター計画に半導体分野の提案を表明し、愛知・岐阜両県との連携を強化する方針を固めました。",
-      "この動きは、日本の半導体産業における中部圏の重要性を高め、サプライチェーンの強靭化と地域経済の活性化に貢献すると期待されます。",
-      "今後は中部地方が一体となった半導体産業の集積と技術革新が加速し、国際競争力を持つ新たなハブが形成される可能性があります。"
-    ],
-    "insight": "日本の半導体産業再興に向けた国家戦略の一環として、中部圏が重要な拠点となる可能性を示唆しており、関連企業は新たなビジネスチャンスと地域連携の可能性に注目すべきです。",
-    "action_plan": "中部圏における半導体関連産業の動向を注視し、サプライチェーン強化や人材育成に関する新たな補助金・連携プロジェクトの情報を収集しましょう。",
-    "image_keyword": "semiconductor cluster Japan, industrial strategy, regional collaboration",
-    "technical_terms": [
-      {
-        "term": "国戦略産業クラスター計画",
-        "explanation": "特定の産業分野において、企業、研究機関、自治体などが集積し、国際競争力を持つ拠点形成を目指す政府の取り組み。"
-      },
-      {
-        "term": "半導体",
-        "explanation": "コンピュータやスマートフォンなどあらゆる電子機器に不可欠な電子部品で、現代社会の基盤を支える技術。"
-      },
-      {
-        "term": "産業クラスター",
-        "explanation": "特定の産業に関連する企業や研究機関などが地理的に集積し、相互作用を通じてイノベーションや生産性向上を促進する地域経済圏。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/05/news019.html": {
-    "title": "OpenAI、AGI担当CEOが療養休職 ライトキャップCOOが『特別プロジェクト』を指揮へ",
-    "tags": "AI",
-    "sentiment": "neutral",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "21時間前",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/05/news019.html",
-    "summary_bullets": [
-      "OpenAIのAGI担当CEOであるシモ氏が療養のため休職し、COOのライトキャップ氏が『特別プロジェクト』の責任者に就任。",
-      "AI業界の最重要企業であるOpenAIの幹部人事異動は、同社のAGI開発の継続性や戦略に影響を与える可能性があり、業界全体の注目を集める。",
-      "主要なリーダーシップの変更と『特別プロジェクト』の開始は、今後のOpenAIの技術ロードマップやビジネス戦略に新たな展開をもたらす兆候となるだろう。"
-    ],
-    "insight": "AI業界のリーダー企業であるOpenAIの主要な人事異動は、AGI開発戦略の継続性と進化を示す兆候であり、今後の技術ロードマップと市場動向を予測する上で極めて重要です。",
-    "action_plan": "自社のAI戦略が、トップ企業の動向や技術トレンドの変化に柔軟に対応できるか、いま一度見直してみましょう。特に、AGIのような長期的な目標を持つプロジェクトのリーダーシップ体制の強靭性について考察し、自社の組織運営にも活かせる点がないか洗い出しましょう。",
-    "image_keyword": "OpenAI leadership, AGI development, corporate strategy",
-    "technical_terms": [
-      {
-        "term": "AGI",
-        "explanation": "Artificial General Intelligence（汎用人工知能）の略で、人間と同等かそれ以上の知能を持ち、多様なタスクをこなせる究極のAIのこと。"
-      },
-      {
-        "term": "CEO",
-        "explanation": "Chief Executive Officer（最高経営責任者）の略で、企業の経営全体を統括する最高責任者。"
-      },
-      {
-        "term": "COO",
-        "explanation": "Chief Operating Officer（最高執行責任者）の略で、企業の日常業務や事業運営を統括する責任者。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6575267?source=rss": {
-    "title": "SNS投稿の罠：企業情報漏洩リスクから組織を守るための緊急提言",
-    "tags": "Cyber Security",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://news.yahoo.co.jp/pickup/6575267?source=rss",
-    "summary_bullets": [
-      "従業員によるSNSへの不用意な社内情報投稿が、企業にとって重大な情報漏洩リスクとなる現実。",
-      "情報漏洩は企業の信頼失墜、法的責任、経済的損害に直結し、組織全体の持続可能性を脅かす。",
-      "ソーシャルメディアの普及に伴い、企業は従業員教育と厳格な情報管理ポリシーの策定が不可欠となる。"
-    ],
-    "insight": "個人のSNS利用が企業のセキュリティホールとなり得る現代において、ビジネスマンは自身の発信が企業価値に与える影響を深く認識し、情報管理意識を根本から見直す洞察が求められる。",
-    "action_plan": "自社の情報セキュリティポリシーやSNS利用ガイドラインを再確認し、SNSで発信する情報が社内秘に該当しないか、今一度徹底的に見直しましょう。",
-    "image_keyword": "social media risk, data breach security, corporate information leak",
-    "technical_terms": [
-      {
-        "term": "情報セキュリティポリシー",
-        "explanation": "企業が情報資産を保護するために定める、方針や規則、手順などの全体像を示す文書。"
-      },
-      {
-        "term": "SNSガイドライン",
-        "explanation": "従業員がソーシャルネットワーキングサービス（SNS）を利用する際に遵守すべきルールや注意点をまとめた指針。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nRVBkdC1KU0s2M052bFJaVHRWdjc0TFR4VUZibkVUOVpaazZlOE5DTzJTUENtbllFTHUwQXBDV19vSks0ajBiREJKVk1LSFNXMWpnckdZSnYweGFUTmlQNnJ5d0xuaWU3b2l3UFZmZ0o?oc=5": {
-    "title": "ルネサス、脱国有化からM&A戦略で半導体市場を再構築：成長軌跡と未来への展望",
-    "tags": "Semiconductor",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "1時間前",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nRVBkdC1KU0s2M052bFJaVHRWdjc0TFR4VUZibkVUOVpaazZlOE5DTzJTUENtbllFTHUwQXBDV19vSks0ajBiREJKVk1LSFNXMWpnckdZSnYweGFUTmlQNnJ5d0xuaWU3b2l3UFZmZ0o?oc=5",
-    "summary_bullets": [
-      "ルネサスエレクトロニクスが「脱国有化」を経て、戦略的なM&Aと「選択と集中」で成長を達成した経緯が語られています。",
-      "この成功は、成熟産業における企業の再編と、グローバル競争力強化のためのM&Aの重要性を示唆しています。",
-      "今後、日本企業が国際市場で競争力を維持・向上させる上で、事業再編や大胆なM&A戦略がさらに加速する可能性があります。"
-    ],
-    "insight": "グローバルな競争環境下で企業が持続的な成長を遂げるには、過去の枠組みにとらわれず、戦略的なM&Aと事業の「選択と集中」による大胆な自己変革が不可欠であるという示唆を得られます。",
-    "action_plan": "自社の事業ポートフォリオを見直し、非中核事業のスリム化や、成長領域における戦略的M&Aの可能性を検討する機会を設けましょう。",
-    "image_keyword": "Renesas semiconductor M&A, growth strategy",
-    "technical_terms": [
-      {
-        "term": "脱国有化",
-        "explanation": "国や公的機関の支配下にあった企業が、民間の経営体制に移行すること。"
-      },
-      {
-        "term": "選択と集中",
-        "explanation": "経営資源を最も得意とする、または成長が見込める事業領域に集中させ、それ以外の事業から撤退・縮小する戦略。"
-      },
-      {
-        "term": "M&A",
-        "explanation": "Mergers and Acquisitions（合併と買収）の略。企業の合併や他社の買収により、事業規模の拡大や新規事業への参入を図る経営戦略。"
-      }
-    ]
-  },
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QbjBHWnIxaXFZT25lekpic2NrU21CQVM3b0NKWWdRLWFybWZPdXNmWW1fbDFrN1BBbXVvUktyX3VEQUU5a25rVy1EOE9ZX0Y0cE1IS05iZGQ0MTNJaWVxVW5iQUo?oc=5": {
     "title": "インテル、ベトナム半導体人材育成に初参画 – 東南アジア戦略を加速",
     "tags": "Hardware",
@@ -4955,7 +4750,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/07/news117.html",
     "summary_bullets": [
       "大人向けビデオ通話アプリ「Kyuun」を含む11のアプリで、約4万件のユーザー情報が外部に漏洩した可能性が浮上。",
@@ -4982,7 +4777,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/07/news096.html",
     "summary_bullets": [
       "マネーフォワードの銀行連携サービスが、不正アクセス発覚から約1週間経っても停止が継続している。",
@@ -5013,7 +4808,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news109.html",
     "summary_bullets": [
       "国立国会図書館がAIに関する最新の調査資料をWeb上で無料公開し、幅広い層がアクセス可能に。",
@@ -5194,7 +4989,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 4,
-    "time_ago": "19時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6579383?source=rss",
     "summary_bullets": [
       "IT先進国とされる地域でも、デジタル教科書の導入は期待通りの成果を出せず、運用面での多くの課題が浮上している。",
@@ -5324,6 +5119,198 @@
       {
         "term": "半導体受託製造",
         "explanation": "他の企業が設計した半導体チップを、契約に基づいて製造すること。自社で工場を持たない企業にとって不可欠なサービス。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2605/11/news014.html": {
+    "title": "NECとAnthropic、協業が呼ぶ「想像以上の反響」：社長が語る“日の丸AI”の未来戦略",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "期待高まる注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2605/11/news014.html",
+    "summary_bullets": [
+      "NECと米Anthropicの協業が市場で「想像以上の反響」を呼び、注目を集めている。",
+      "両社社長の対談では、グローバルなAI技術と日本の産業ノウハウを融合した「日の丸AI」の国際的な競争戦略が語られた。",
+      "国産AIが世界市場で存在感を増し、デファクトスタンダードを狙う可能性を示唆している。"
+    ],
+    "insight": "グローバルな先進AI企業との戦略的連携は、国内企業がAI領域で国際競争力を高め、新たな市場を切り拓く上で不可欠な成功要因である。",
+    "action_plan": "自社のビジネスモデルや技術開発において、国際的なパートナーシップをどのように活用できるか、具体的なAI戦略を見直してみましょう。",
+    "image_keyword": "Japan AI partnership",
+    "technical_terms": [
+      {
+        "term": "Anthropic",
+        "explanation": "アメリカのAI安全性研究企業で、大規模言語モデル「Claude」シリーズの開発元。"
+      },
+      {
+        "term": "日の丸AI",
+        "explanation": "日本企業が開発・主導するAI技術やサービスを指し、国産AIとしての競争力や独自性を強調する文脈で使われる。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/enterprise/articles/2605/09/news020.html": {
+    "title": "AI面接官の普及：採用現場に広がる「困惑」と「進化の可能性」【独自調査】",
+    "tags": "HR Tech",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "19時間前",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/09/news020.html",
+    "summary_bullets": [
+      "AI面接官の導入が普及する一方で、求職者・企業双方から「公平性」や「適切性」に関する困惑と改善要望が上がっている。",
+      "採用プロセスにおける効率化の恩恵と同時に、テクノロジーによる採用のあり方、倫理的課題、人間性の考慮が問われている。",
+      "AI面接技術は今後も進化を続け、より洗練されたアルゴリズムと人間との協調による最適な採用モデルが模索されるだろう。"
+    ],
+    "insight": "AI面接官の導入は採用業務の効率化に貢献する一方で、候補者の心理的側面や公平性を深く考慮した設計・運用が、企業の採用ブランド価値と将来的な人材獲得力を左右する重要な要素となります。",
+    "action_plan": "自社の採用プロセスにおけるAI活用の現状を評価し、求職者体験の向上と、AIによる評価の透明性・公平性確保に向けた改善点を洗い出してみましょう。",
+    "image_keyword": "AI interview, HR tech, recruitment AI",
+    "technical_terms": [
+      {
+        "term": "AI面接官",
+        "explanation": "人工知能を活用し、書類選考や一次面接などを自動で行うシステム。求職者の表情、声のトーン、話し方などを分析し評価する。"
+      },
+      {
+        "term": "HR Tech",
+        "explanation": "人事（Human Resources）とテクノロジーを組み合わせた造語。採用から育成、評価、給与計算まで人事関連業務を効率化・高度化する技術やサービス全般を指す。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6579467?source=rss": {
+    "title": "ゲーム産業の転換点か？ハードウェア価格高騰が描く未来戦略",
+    "tags": "Gaming",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "22時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6579467?source=rss",
+    "summary_bullets": [
+      "ゲーム機本体の値上げが相次ぎ、消費者の購買意欲や市場の成長に影響を及ぼす可能性が高まっている。",
+      "ハードウェア販売戦略の見直しが迫られ、サブスクリプションサービスやソフトウェア・コンテンツへの注力がビジネスの重点となる。",
+      "世界経済の動向やサプライチェーンの不安定さが続く中、ゲーム業界は新たな収益モデルと顧客体験維持の両立が求められる。"
+    ],
+    "insight": "ゲーム業界はハードウェア単体での収益追求から、サービスやコンテンツを中心としたエコシステム構築へと本格的にシフトする転換期を迎えており、企業は多角的な収益源の確保と顧客ロイヤルティの維持戦略が不可欠であると認識すべきです。",
+    "action_plan": "自社の製品・サービスが提供する「本質的な価値」を再定義し、価格変動に左右されない長期的な顧客関係を構築するためのデジタル戦略やコミュニティ形成策を検討してみましょう。",
+    "image_keyword": "gaming console price increase, video game market trend, consumer tech economy",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQVBkVEtTQTlDTkVUY0pHVWNTVTJWQmpqSmJkd1pTQ0tIYkQwUF9rX1lSTkhXeGRrbjZVazR5Z053OTdVRmFXRHgwQlVINzZwYnJ3ZXk2Z2Nrc2RWWm1kTkZvNno0a1VjNDFXR0V0eEFnTGNhU2VjYVpnRVMySVRaMHlXNnNfM3M?oc=5": {
+    "title": "FIG、台湾企業とAI半導体検査装置を開発しストップ高！先端技術の未来を開く",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQVBkVEtTQTlDTkVUY0pHVWNTVTJWQmpqSmJkd1pTQ0tIYkQwUF9rX1lSTkhXeGRrbjZVazR5Z053OTdVRmFXRHgwQlVINzZwYnJ3ZXk2Z2Nrc2RWWm1kTkZvNno0a1VjNDFXR0V0eEFnTGNhU2VjYVpnRVMySVRaMHlXNnNfM3M?oc=5",
+    "summary_bullets": [
+      "FIGが台湾企業と提携し、最先端AI半導体の検査工程向け自動化装置の開発を発表、株価はストップ高を記録した。",
+      "この技術は、AI半導体の生産効率と品質安定化を飛躍的に向上させ、AI産業全体の基盤を強化する。",
+      "AI需要の爆発的な増加に伴い、AI半導体製造および検査装置市場は今後も継続的な成長とイノベーションが期待される。"
+    ],
+    "insight": "AIの進化を支える半導体産業において、検査・自動化技術はサプライチェーン全体のボトルネック解消と品質保証に不可欠であり、この分野での技術革新が次世代AI競争力の鍵となることを示唆しています。",
+    "action_plan": "自社のAI関連事業やサプライチェーンにおいて、先端的な検査・自動化技術の導入余地がないか、または新たなパートナーシップ機会を探してみましょう。",
+    "image_keyword": "AI semiconductor inspection, automated chip testing, advanced hardware",
+    "technical_terms": [
+      {
+        "term": "AI半導体",
+        "explanation": "人工知能の計算処理に特化して設計された高性能な半導体チップ。推論や学習などのAI機能を高速かつ効率的に実行します。"
+      },
+      {
+        "term": "検査工程向け自動化装置",
+        "explanation": "半導体製造プロセスにおいて、製品の品質や性能を自動で評価・検査し、不良品を排除するための機械システムです。生産効率と品質向上に不可欠です。"
+      },
+      {
+        "term": "ストップ高",
+        "explanation": "証券取引において、株価が一日で変動できる上限まで値上がりし、それ以上は取引できない状態のこと。強い買い需要を示します。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85LVpWMGNBcU5hOG9SVkpqLVBfZUhzcXBYZkRqdmNWLVpEdFdJV09KNEhIOGpXR2pZRUpvVFhkSnp1ZG51VlZleWYtVTJsek0?oc=5": {
+    "title": "AIデータセンター投資がレガシー半導体市場に新風？旧型ファウンドリーに新たな商機",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85LVpWMGNBcU5hOG9SVkpqLVBfZUhzcXBYZkRqdmNWLVpEdFdJV09KNEhIOGpXR2pZRUpvVFhkSnp1ZG51VlZleWYtVTJsek0?oc=5",
+    "summary_bullets": [
+      "AIデータセンターへの大規模投資拡大により、最先端だけでなく旧型（レガシー）半導体まで需要が増加している。",
+      "これまでAIの恩恵を受けにくかったグローバルレガシーファウンドリー市場にもビジネスチャンスが波及し、サプライチェーン全体が活性化する兆しがある。",
+      "AI需要が半導体エコシステム全体に広がることで、成熟した技術や設備を持つ企業もAI進化の恩恵を享受し、新たな価値創出の可能性が高まるだろう。"
+    ],
+    "insight": "AIブームは特定の最先端分野に留まらず、広範な産業サプライチェーンに波及し、従来のビジネスモデルや技術資産にも予想外の価値創出の機会をもたらす可能性を秘めています。これは、既存事業の再評価と新たな視点での市場開拓の重要性を示唆しています。",
+    "action_plan": "自社の既存資産やレガシー技術が、AIエコシステムのどの部分に貢献できるか、改めて潜在的な用途や連携可能性をリストアップし、関係部署と連携して検討してみましょう。",
+    "image_keyword": "legacy semiconductor, AI data center, chip factory",
+    "technical_terms": [
+      {
+        "term": "人工知能(AI)データセンター",
+        "explanation": "AIの学習や推論に必要な大量の計算処理を行うために特化された高性能なデータ処理施設。GPUなどのAI専用チップが多数搭載される。"
+      },
+      {
+        "term": "グローバルレガシーファウンドリー市場",
+        "explanation": "最先端の製造プロセスではなく、成熟した旧世代の技術（例えば、28nm以上のプロセス）で半導体の受託生産を行う企業の市場。主に家電、自動車、産業機器などで使われるチップを供給する。"
+      },
+      {
+        "term": "半導体需要",
+        "explanation": "電子機器の頭脳となる半導体チップの市場での必要量。AIの進化により、その需要が爆発的に増加している。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56a2ZUVWVuY2I4LTJMV1RLV0RWQjR5aDJFblhvRzI0T1BEdlk5RWc1cmhCRkVzbi0xNFVuT2FHYnlKcUpTQTE5NTlxV1JlUEdiSEVr?oc=5": {
+    "title": "サムスン電子、半導体以外の事業戦略に労使対立の影か？政府仲裁を前に交渉激化",
+    "tags": "Corporate",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56a2ZUVWVuY2I4LTJMV1RLV0RWQjR5aDJFblhvRzI0T1BEdlk5RWc1cmhCRkVzbi0xNFVuT2FHYnlKcUpTQTE5NTlxV1JlUEdiSEVr?oc=5",
+    "summary_bullets": [
+      "サムスン電子で労使間の対立が激化し、政府による仲裁を前に最終交渉が難航している。",
+      "これは単なる賃金問題に留まらず、「半導体偏重」からの脱却を目指すサムスン電子の多様な事業戦略にも影響を及ぼす可能性を秘めている。",
+      "労使交渉の行方は、同社の経営安定性だけでなく、韓国の主要企業における労働環境やグローバルサプライチェーンに間接的な影響を与える可能性がある。"
+    ],
+    "insight": "巨大テック企業における労使関係は、単なるコスト問題に留まらず、企業のブランドイメージ、人材確保、そして将来の事業ポートフォリオ戦略の遂行能力にまで深く影響を及ぼすことを示唆しています。",
+    "action_plan": "自社の労使関係の健全性を定期的に見直し、従業員エンゲージメント向上策を検討してみましょう。また、サプライチェーン上にある主要パートナー企業の労務リスクについても情報収集を強化しましょう。",
+    "image_keyword": "Samsung labor dispute, corporate negotiation, government mediation",
+    "technical_terms": [
+      {
+        "term": "労使対立",
+        "explanation": "労働者側と経営者側との間で賃金、労働条件、待遇などを巡って意見が対立し、交渉が難航する状況。"
+      },
+      {
+        "term": "政府仲裁",
+        "explanation": "労使間の紛争が自己解決できない場合に、政府機関が中立的な立場から介入し、解決に向けた調整や斡旋を行うこと。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/08/news079.html": {
+    "title": "はてな、約11億円の資金流出で特別調査委員会を設置：企業ガバナンスとリスク管理の重要性",
+    "tags": "Risk Management",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "2日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news079.html",
+    "summary_bullets": [
+      "はてなが約11億円の資金流出を公表し、外部の専門家で構成される特別調査委員会を設置して原因究明に乗り出した。",
+      "企業の信頼性、ブランドイメージ、株価に甚大な影響を与える事態であり、類似事例を防ぐための他社への警鐘となる。",
+      "今後、企業における内部統制や情報セキュリティ対策の強化、ガバナンス体制の見直しがより一層求められるトレンドが加速すると予測される。"
+    ],
+    "insight": "企業の規模や業種を問わず、巨額の資金流出は経営を根底から揺るがす重大なリスクであり、強固な内部統制と迅速かつ透明性のある危機管理体制の構築がいかに重要かを再認識させる事例である。",
+    "action_plan": "自社の資金管理フロー、内部統制システム、および情報セキュリティ対策について、潜在的な脆弱性がないか改めて点検し、リスクアセスメントを実施することを経営陣に提言してみましょう。",
+    "image_keyword": "corporate scandal, financial investigation, risk management",
+    "technical_terms": [
+      {
+        "term": "特別調査委員会",
+        "explanation": "企業の不祥事や重大な問題が発生した際に、その原因究明や責任の所在を明らかにするため、社外の弁護士や会計士などの専門家で構成される独立した調査組織。"
+      },
+      {
+        "term": "資金流出",
+        "explanation": "企業の管理下から、不正な取引、システムエラー、詐欺などによって資金が外部に失われること。企業に経済的損害を与える。"
+      },
+      {
+        "term": "内部統制",
+        "explanation": "企業が経営目標を達成するために、組織内部に構築されるルールやプロセス、システムのこと。業務の効率性・有効性、財務報告の信頼性、法令遵守などを目的とする。"
       }
     ]
   }
