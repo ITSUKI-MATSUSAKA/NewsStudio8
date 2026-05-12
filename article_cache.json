@@ -1,240 +1,4 @@
 {
-  "https://www.itmedia.co.jp/business/articles/2604/08/news037.html": {
-    "title": "NECが川崎に開設する『AIパーク』：先端技術が織りなす次世代オフィス体験とは？",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 4,
-    "time_ago": "たった今",
-    "url": "https://www.itmedia.co.jp/business/articles/2604/08/news037.html",
-    "summary_bullets": [
-      "NECが川崎にAIや先端技術を実装した未来型オフィス「AIパーク」をオープン。",
-      "最新テクノロジーを統合したオフィス環境が、企業の生産性向上と新しい働き方を推進するモデルとなる可能性。",
-      "AIやIoTを活用したスマートオフィスは、今後の企業オフィス設計の標準となり、多様なワークスタイルを支援するトレンドを加速させるでしょう。"
-    ],
-    "insight": "AIパークのような先端オフィスは、単なる作業空間を超え、従業員の創造性とコラボレーションを最大化する戦略的資産であると理解し、自社の未来の働き方を再考するきっかけとすべきです。",
-    "action_plan": "自社のオフィス環境がAIや最新テクノロジーをどのように取り入れられるか、具体的なユースケースをチームでブレインストーミングし、改善点を書き出してみましょう。",
-    "image_keyword": "smart tech office, AI park future, futuristic workplace",
-    "technical_terms": [
-      {
-        "term": "AI",
-        "explanation": "人工知能 (Artificial Intelligence) の略で、人間の知能を模倣して学習、推論、問題解決を行うコンピューターシステムです。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/aiplus/articles/2604/08/news056.html": {
-    "title": "Anthropicが主導！AIでサイバーセキュリティを革新する「Project Glasswing」にApple, Microsoft, Googleら巨頭が結集",
-    "tags": "Cybersecurity",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/08/news056.html",
-    "summary_bullets": [
-      "AnthropicがAIを活用した脆弱性対策プロジェクト「Project Glasswing」を立ち上げ、Apple, Microsoft, Googleなど主要テック企業が参加。",
-      "AIモデルの悪用によるサイバー攻撃リスクが増大する中、業界横断的な協力体制でセキュリティ強化と信頼性向上に寄与する。",
-      "AIを基盤とした防御システムの開発が加速し、サイバーセキュリティのパラダイムシフトが期待される新たなトレンド。",
-      "AIがソフトウェアの脆弱性発見・修正を支援することで、開発プロセス全体のセキュリティが向上する可能性を秘める。"
-    ],
-    "insight": "AIの進化はビジネスを加速させる一方で、新たなセキュリティリスクも生み出す。業界の主要プレイヤーが連携して防御策を講じる動きは、あらゆる企業にとってAI導入時のセキュリティ戦略を再考する喫緊の契機となるでしょう。",
-    "action_plan": "自社が利用・開発しているAIシステムにおける潜在的な脆弱性を棚卸しし、AI時代のセキュリティガイドライン策定や専門家への相談を検討してみましょう。",
-    "image_keyword": "AI cybersecurity network",
-    "technical_terms": [
-      {
-        "term": "Anthropic",
-        "explanation": "OpenAIと並ぶ主要なAI研究開発企業で、安全性と倫理に重点を置いたAIモデルを開発。"
-      },
-      {
-        "term": "Project Glasswing",
-        "explanation": "Anthropicが主導する、AI技術を活用してソフトウェアの脆弱性を発見し修正することを目的とした共同プロジェクト。"
-      },
-      {
-        "term": "脆弱性対策",
-        "explanation": "ソフトウェアやシステムに存在するセキュリティ上の弱点（バグなど）を発見し、攻撃者が悪用できないように修正する取り組み。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/07/news124.html": {
-    "title": "TOPPAN、AI-OCRで難解「中世ギリシャ語」を解読成功 - 日本のくずし字技術が歴史を拓く",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 4,
-    "time_ago": "10時間前",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/07/news124.html",
-    "summary_bullets": [
-      "TOPPANが日本語の「くずし字」解読技術を応用し、判読困難な中世ギリシャ語のAI-OCR開発に成功した。",
-      "この技術は、世界中の歴史的文献や文化財のデジタル化・研究を加速させ、学術分野に新たな道を開く可能性を秘めている。",
-      "特定ドメインに特化したAI-OCR技術の進化は、多言語・多文化コンテンツのデジタルアーカイブ化と活用を促進するトレンドとなるだろう。"
-    ],
-    "insight": "既存のAI技術を異なるドメインに応用することで、これまで不可能とされてきた歴史的・文化的な課題解決に大きく貢献できる可能性があり、自社の技術資産の再評価と異分野連携の機会を探るべきである。",
-    "action_plan": "自社が保有する技術やノウハウを、これまで接点がなかった異分野の課題解決に応用できないか、ブレインストーミングの機会を設けてみましょう。",
-    "image_keyword": "AI OCR ancient script",
-    "technical_terms": [
-      {
-        "term": "AI-OCR",
-        "explanation": "OCR（光学的文字認識）にAI技術を組み込み、手書き文字や複雑な書体の高精度な認識を可能にしたシステム。"
-      },
-      {
-        "term": "くずし字",
-        "explanation": "日本語の旧字体や筆記体が崩れた独特の書体で、現代人には判読が困難なことが多い。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6575462?source=rss": {
-    "title": "サムスン、四半期営業益が驚異の8倍超見込み！半導体市場の本格回復を告げるか",
-    "tags": "Hardware",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://news.yahoo.co.jp/pickup/6575462?source=rss",
-    "summary_bullets": [
-      "サムスンの2024年1〜3月期連結営業利益が、前年同期比8倍以上となる約6兆4000億ウォン（約7000億円）に急増する見込み。",
-      "これは、AI需要に牽引されたメモリ半導体市場の顕著な回復を示唆し、グローバルテクノロジー産業全体へのポジティブな波及効果が期待される。",
-      "半導体サイクルが本格的な上昇局面に突入したことを裏付け、関連企業の設備投資や研究開発が加速するトレンドが予測される。"
-    ],
-    "insight": "サムスンの業績急回復は、AI需要に牽引される半導体市場の本格的なV字回復を明確に示しており、今後テクノロジー投資の加速、特にデータセンターやAIインフラ関連ビジネスにおける新たな機会創出が期待できるでしょう。",
-    "action_plan": "自社のテクノロジー戦略を見直し、AI関連技術や半導体依存度の高い製品・サービスの市場動向を改めて分析してみましょう。また、サプライチェーンにおける半導体調達戦略の最適化についても検討を始める良い機会です。",
-    "image_keyword": "Samsung earnings, semiconductor recovery, tech growth",
-    "technical_terms": [
-      {
-        "term": "営業利益",
-        "explanation": "企業が本業で稼いだ利益を示す指標で、売上高から売上原価と販売費・一般管理費を差し引いたもの。"
-      },
-      {
-        "term": "半導体",
-        "explanation": "電気を通したり通さなかったりする性質を持つ物質で、スマートフォンやPC、AIデバイスなどの電子機器の頭脳となる重要な部品。"
-      },
-      {
-        "term": "メモリ半導体",
-        "explanation": "データを一時的または永続的に保存するための半導体。DRAMやNANDフラッシュなどが代表的で、AI処理のデータ保存に不可欠。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6575459?source=rss": {
-    "title": "米AIトップ3社が戦略的連携：激化するグローバルAI覇権競争の最前線",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "14時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6575459?source=rss",
-    "summary_bullets": [
-      "米国の主要AI開発企業3社が戦略的連携を組み、中国勢とのAI技術競争における優位性確立を目指している。",
-      "この連携は、AI技術開発の加速と米国主導のAIエコシステム強化に繋がり、地政学的リスクを伴う技術覇権争いを激化させる。",
-      "今後は、AI分野での国際的な協調と競争がさらに活発化し、技術標準や規制に関する議論にも大きな影響を与えるだろう。"
-    ],
-    "insight": "グローバルなAI技術開発競争は、単なる企業間競争を超え、国家レベルの戦略的課題となっています。今回の米大手3社の連携は、技術的優位性を確保し、将来のAI産業の方向性を決定づける重要な動きとして注目すべきです。",
-    "action_plan": "自社のAI戦略やサプライチェーンにおける地政学的リスクを再評価し、グローバルなAIエコシステムの動向に適応できるよう、情報収集と新たなパートナーシップの可能性を積極的に検討してみましょう。",
-    "image_keyword": "AI alliance, US China tech, global AI competition",
-    "technical_terms": []
-  },
-  "https://news.yahoo.co.jp/pickup/6575449?source=rss": {
-    "title": "激震！メモリ高騰がゲーム機市場を揺るがす未来予測",
-    "tags": "Hardware",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 4,
-    "time_ago": "18時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6575449?source=rss",
-    "summary_bullets": [
-      "DRAMなどのメモリ価格高騰がゲーム機製造コストを直接的に押し上げ、市場全体に不確実性をもたらしている。",
-      "ゲーム機メーカーは価格戦略の見直しや供給網の安定化が急務となり、消費者の購買意欲や次世代機の開発・投入計画にも影響が及ぶ可能性がある。",
-      "半導体市場の変動が最終製品の価格決定や供給体制に直結し、今後もサプライチェーンの強靭化が産業界の重要課題として浮上する。"
-    ],
-    "insight": "半導体サプライチェーンの不安定性は、特定の市場だけでなく、広範な産業のコスト構造と事業戦略に大きな影響を与えるため、継続的な市場動向の監視とリスクヘッジが不可欠である。",
-    "action_plan": "自社の製品ポートフォリオにおける主要部品のサプライチェーンを再評価し、代替調達先の確保や長期契約の検討など、供給リスクへの対策を今日から具体的に洗い出してみましょう。",
-    "image_keyword": "Gaming hardware cost increase",
-    "technical_terms": [
-      {
-        "term": "メモリ (Memory)",
-        "explanation": "コンピュータがデータを一時的に保存するために使われる半導体部品。主にDRAMやNANDフラッシュがゲーム機などに利用されます。"
-      },
-      {
-        "term": "半導体 (Semiconductor)",
-        "explanation": "電気を通したり通さなかったりする性質を持つ物質で、IC（集積回路）やトランジスタなど、現代の電子機器に不可欠な素材です。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE15QUs1aEwxWWVpRGhnUXhkLTFCbUdsal83N2xkenNFZDZBVV9LemVjMDkxWFBxQmFsWUVyY2l5cHFoVmVfb05Eb05wM01XSHRkQ0hHR1ZjbzhZT1ljVEo3WDNoM25laEttUk1vblg3VVFoVUZtVFNFZ1BOWlgyM28?oc=5": {
-    "title": "韓国経済、歴史的躍進！輸出7000億ドル突破、半導体好況が牽引し日本超えの視界へ",
-    "tags": "Global Economy",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15QUs1aEwxWWVpRGhnUXhkLTFCbUdsal83N2xkenNFZDZBVV9LemVjMDkxWFBxQmFsWUVyY2l5cHFoVmVfb05Eb05wM01XSHRkQ0hHR1ZjbzhZT1ljVEo3WDNoM25laEttUk1vblg3VVFoVUZtVFNFZ1BOWlgyM28?oc=5",
-    "summary_bullets": [
-      "韓国の年間輸出額が歴史上初めて7000億ドルを突破した。",
-      "半導体産業の好況がこの輸出成長を強力に牽引しており、国際市場での競争力を高めている。",
-      "今回の経済的躍進により、韓国が日本の輸出規模を超え、世界経済における主要プレーヤーとしての地位を確立する可能性が視野に入っている。"
-    ],
-    "insight": "韓国の輸出拡大は半導体産業への依存度が高く、グローバルサプライチェーンの変化や技術革新の動向が、今後の国家経済の成長戦略を大きく左右する重要な要素となることを示唆しています。",
-    "action_plan": "自社の事業が半導体サプライチェーンや関連産業とどのように結びついているかを再評価し、韓国を含む東アジア経済の動向が事業に与える影響を分析してみましょう。",
-    "image_keyword": "South Korea export growth, semiconductor industry, global trade",
-    "technical_terms": [
-      {
-        "term": "半導体好況",
-        "explanation": "半導体の需要が世界的に大きく増加し、関連企業の業績が好調に推移している経済状態。デジタル化の進展やAI技術の普及が背景にある。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CdWxPNC11SDhpaE8zRkcyQmV5X3ZvbTJXeDg2cEVmbElRM3JYTTdIMTJubS1ETDAyZ1J6c29CR3MtWm5MQ0pUSkM0SFA0YXRNZFFIT0tDbWVtZC1CeVFwUHRGbFo0QTZmY0lXRkQzbWJueG45TDlrM0J3RzNnRFU?oc=5": {
-    "title": "NVIDIAが巨額投資するMarvell Technologyの核心：AI時代の半導体戦略を読み解く",
-    "tags": "Semiconductor",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CdWxPNC11SDhpaE8zRkcyQmV5X3ZvbTJXeDg2cEVmbElRM3JYTTdIMTJubS1ETDAyZ1J6c29CR3MtWm5MQ0pUSkM0SFA0YXRNZFFIT0tDbWVtZC1CeVFwUHRGbFo0QTZmY0lXRkQzbWJueG45TDlrM0J3RzNnRFU?oc=5",
-    "summary_bullets": [
-      "NVIDIAが半導体企業Marvell Technologyに超大型投資を行っていることが判明。",
-      "この投資は、AIおよびデータセンター市場におけるNVIDIAの戦略的強化とエコシステム拡大を目的としている。",
-      "Marvell Technologyが持つ高性能半導体技術が、次世代AIインフラ構築の鍵を握る可能性を示唆する。",
-      "AI時代の到来により、NVIDIAはGPUに加えて周辺技術にも積極的に投資し、全体的な市場支配力を高めようとしている。"
-    ],
-    "insight": "AI時代の進展はGPUだけでなく、データセンターやネットワークインフラを支える多様な高性能半導体の重要性を高めており、NVIDIAのような業界リーダーは、エコシステム全体への戦略的投資を通じてその優位性を盤石にしようとしていることを理解すべきです。",
-    "action_plan": "自社のAI戦略やデータセンターインフラにおいて、GPU以外の半導体ソリューション（DPU、ASICなど）がどのような価値をもたらすか、最新の技術トレンドを調査し、潜在的なパートナーシップや技術導入の機会を検討してみましょう。",
-    "image_keyword": "AI semiconductor investment",
-    "technical_terms": [
-      {
-        "term": "AI半導体",
-        "explanation": "人工知能（AI）の計算処理に特化した半導体チップの総称。GPU、ASIC、FPGAなどが含まれる。"
-      },
-      {
-        "term": "データセンター",
-        "explanation": "大量のサーバーやネットワーク機器を集約し、データ処理、ストレージ、ネットワークサービスなどを提供する施設。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE10aDlBUnEtQ2MtY2lQR3BuUHE5ZlpBT2NZX2RPS0YtMWtEZURwS3hIT0lhRy1hNVVwWkhiSnpHMjItZnRPY3hYNHk3Z3BrWm40ck9XUW04alhHckZ1VkJieWQ2REJqeUoxLUptMnNBSEVHcFVjZnBEb0NiNEZUamc?oc=5": {
-    "title": "イーロン・マスク氏の半導体構想にインテルが参画：未来のAIチップを巡る協業の行方",
-    "tags": "Semiconductor",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10aDlBUnEtQ2MtY2lQR3BuUHE5ZlpBT2NZX2RPS0YtMWtEZURwS3hIT0lhRy1hNVVwWkhiSnpHMjItZnRPY3hYNHk3Z3BrWm40ck9XUW04alhHckZ1VkJieWQ2REJqeUoxLUptMnNBSEVHcFVjZnBEb0NiNEZUamc?oc=5",
-    "summary_bullets": [
-      "イーロン・マスク氏が主導する半導体開発構想に、大手半導体メーカーの米インテルが支援体制で参画することが明らかになった。",
-      "これは、AI技術の進化を加速させる上で不可欠な高性能AIチップの供給網と開発競争における、極めて戦略的な提携と見られている。",
-      "両社の協業は、今後のAIインフラ、データセンター、さらには関連産業全体の技術革新と市場動向に大きな影響を与える可能性を秘めている。"
-    ],
-    "insight": "AI時代の覇権を握る上で、高性能な半導体チップの開発力と安定的な供給網の確保が企業の死活問題であり、今回の提携は異業種間の戦略的協業がさらに加速するトレンドを示唆している。",
-    "action_plan": "自社のAI戦略におけるハードウェアインフラのロードマップを見直し、半導体サプライチェーンの多様化や、新たなパートナーシップ構築の可能性を検討してみましょう。",
-    "image_keyword": "Elon Musk Intel Semiconductor",
-    "technical_terms": [
-      {
-        "term": "半導体",
-        "explanation": "電気を通したり通さなかったりする性質を持つ物質で、コンピュータやスマートフォンなど、あらゆる電子機器の頭脳となる集積回路（ICチップ）の基盤材料です。"
-      },
-      {
-        "term": "AIチップ",
-        "explanation": "人工知能（AI）の計算処理に特化して設計された半導体チップで、大量のデータを高速かつ効率的に処理することで、AIの性能向上に不可欠な役割を果たします。"
-      }
-    ]
-  },
   "https://www.itmedia.co.jp/business/articles/2604/09/news013.html": {
     "title": "音声AI×ハードウェア融合の最前線：”話す自販機”が拓く新ビジネスと日本の未来戦略",
     "tags": "Voice AI",
@@ -5314,6 +5078,261 @@
       {
         "term": "セキュリティ侵害",
         "explanation": "情報システムやネットワークに対し、許可されていないアクセスや操作が行われ、データが漏洩したり改ざんされたりする事態。"
+      }
+    ]
+  },
+  "https://kn.itmedia.co.jp/kn/articles/2605/13/news057.html": {
+    "title": "AIがkintoneカスタマイズを民主化：専門知識不要でシステム改善を加速する新サービス登場",
+    "tags": "SaaS",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "1時間前",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2605/13/news057.html",
+    "summary_bullets": [
+      "AIを活用し、専門知識がなくてもkintoneの高度なカスタマイズやシステム改善を可能にする新サービスが発表された。",
+      "企業のDX推進を加速し、IT人材不足に悩む中小企業でもSaaSの導入効果を最大化できる可能性を秘める。",
+      "AIによるノーコード/ローコード開発支援がSaaSの利用拡大と業務効率化の標準となるトレンドを加速させる見込み。"
+    ],
+    "insight": "AIがSaaS活用の障壁を下げ、これまで属人化しがちだったシステム運用を民主化することで、あらゆる企業がより迅速かつ柔軟にビジネスプロセスを最適化できる時代が到来している。",
+    "action_plan": "自社で利用しているSaaSや業務システムにおいて、カスタマイズや改善が必要な点を洗い出し、AIを活用した効率化・自動化ツールの導入可能性について情報収集を始めましょう。",
+    "image_keyword": "AI business customization",
+    "technical_terms": [
+      {
+        "term": "kintone",
+        "explanation": "サイボウズが提供する、プログラミング知識なしで業務アプリを作成できるクラウドサービス。"
+      },
+      {
+        "term": "AIカスタマイズ",
+        "explanation": "人工知能が、個別のニーズに合わせてシステムやソフトウェアの設定・機能を自動的に最適化する技術。"
+      }
+    ]
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/13/news024.html": {
+    "title": "純国産ヒューマノイドへの執念：KyoHAが「動かぬ検証機SEIMEI」で示す未来への覚悟",
+    "tags": "Robotics",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2605/13/news024.html",
+    "summary_bullets": [
+      "KyoHAが、動かぬ検証機「SEIMEI」を通して、純国産ヒューマノイド開発への強い決意と覚悟を示した。",
+      "これは日本のロボティクス技術の独立性を高め、将来的な産業競争力強化に貢献する可能性を秘めている。",
+      "技術的困難を乗り越え、独自技術によるヒューマノイド実用化が、新たなビジネスモデルや社会課題解決を加速するトレンドを予測させる。"
+    ],
+    "insight": "初期の課題を抱える検証段階であっても、揺るぎない覚悟と長期的な視点を持って技術開発に取り組む姿勢こそが、未来の産業を創造するブレイクスルーを生む原動力となることを示唆しています。",
+    "action_plan": "自社事業における自動化やロボティクス導入のロードマップを見直し、純国産技術との連携や投資の可能性について改めて検討してみましょう。",
+    "image_keyword": "Japanese humanoid robot, tech innovation",
+    "technical_terms": [
+      {
+        "term": "ヒューマノイド",
+        "explanation": "人間の姿や形、動きを模倣して作られたロボットのこと。"
+      },
+      {
+        "term": "検証機",
+        "explanation": "開発中の製品や技術が、設計通りに機能するか、性能を発揮するかを確認するための試験用機械。"
+      }
+    ]
+  },
+  "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news011.html": {
+    "title": "AIコスト効率の盲点：日本語利用で費用1.5倍増？トークン最適化が鍵",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "3時間前",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news011.html",
+    "summary_bullets": [
+      "AIを日本語で利用する場合、英語に比べてトークン効率が悪く、約1.5倍のコストがかかる可能性がある。",
+      "日本企業はAI導入・運用コストを再評価し、言語最適化やプロンプト設計の見直しによる費用対効果の改善が急務となる。",
+      "今後は、多言語対応AIのトークン効率向上や、利用言語に応じたコスト最適化戦略が重要なトレンドとなるだろう。"
+    ],
+    "insight": "AI導入を検討するビジネスマンは、単に機能面だけでなく、使用言語がもたらす運用コストへの影響を深く理解し、効率的なプロンプト設計や言語戦略を早期に策定することが、AI投資のROIを最大化する上で不可欠です。",
+    "action_plan": "現在利用中または導入予定のAIサービスについて、日本語と英語でのトークン消費量とコストシミュレーションを実施し、より効率的なプロンプト作成ガイドラインをチームで策定しましょう。",
+    "image_keyword": "AI cost analysis, token efficiency, multilingual AI",
+    "technical_terms": [
+      {
+        "term": "トークン",
+        "explanation": "AIがテキストを処理する際の最小単位で、単語や文字、記号のまとまり。AIサービスのコスト計算の基準となる。"
+      },
+      {
+        "term": "トークン効率",
+        "explanation": "同じ意味や情報を表現する際に、どれだけ少ないトークン数で済むかの指標。効率が良いほどコストが安くなる。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6579859?source=rss": {
+    "title": "【速報】コインチェックとKDDIが電撃提携！Web3時代の金融インフラはどう変わるか？",
+    "tags": "FinTech",
+    "sentiment": "positive",
+    "sentiment_text": "注目の提携ニュース",
+    "rating": 4,
+    "time_ago": "9時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6579859?source=rss",
+    "summary_bullets": [
+      "コインチェックが大手通信キャリアKDDIとの業務提携を発表し、ブロックチェーン技術を活用した新たな金融サービスの創出を目指す。",
+      "この提携により、Web3技術の社会実装が加速し、通信業界の広範な顧客基盤を通じて仮想通貨サービスがさらに一般に浸透する可能性が高まる。",
+      "異業種連携による新たなエコシステム構築が加速し、通信と金融の境界線が曖昧になる中で、ユーザー体験中心の次世代デジタルサービスが主流となるトレンドが予測される。"
+    ],
+    "insight": "この提携は、自社の強みを活かしつつ、Web3やブロックチェーンといった新興テクノロジーを既存ビジネスに融合させることで、新たな市場機会を創出する可能性を示唆しています。企業は、従来の枠にとらわれず、異業種との連携を通じて顧客価値を最大化する戦略を模索すべきでしょう。",
+    "action_plan": "自社の既存顧客基盤や技術アセットが、Web3やブロックチェーン技術とどのように連携し、新たなサービスや収益源を生み出せるかを具体的なプロジェクトとして検討し始めましょう。また、異業種提携の潜在的なパートナー候補をリストアップし、初期的なアイデアブレインストーミングを実施してみましょう。",
+    "image_keyword": "FinTech partnership, Web3 telecom, blockchain collaboration",
+    "technical_terms": [
+      {
+        "term": "仮想通貨",
+        "explanation": "インターネット上で取引される、暗号技術によって安全性が確保されたデジタル通貨の総称。法定通貨とは異なり、中央銀行や特定の管理者が存在しないものが多い。"
+      },
+      {
+        "term": "Web3",
+        "explanation": "ブロックチェーン技術を基盤とし、分散型アプリケーション（DApps）によってユーザーがデータの所有権を持つ次世代のインターネット概念。中央集権型サービスから分散型へ移行を目指す。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6579858?source=rss": {
+    "title": "中国企業が『有人二足歩行ロボ』を発表：未来の産業と働き方へのインパクトを予測",
+    "tags": "Robotics",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "9時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6579858?source=rss",
+    "summary_bullets": [
+      "中国企業が搭乗型（有人）の二足歩行ロボットの開発を発表、その革新的なデザインと機能を公開した。",
+      "この技術は、危険な環境での作業、災害救助、建設、物流など多岐にわたる産業分野での応用が期待され、作業効率と安全性を飛躍的に向上させる可能性を秘める。",
+      "将来的には、人間とロボットが協調して高度な作業を行う「ヒューマン・ロボット・インタラクション」の新たなトレンドを加速させ、産業構造の再編を促すだろう。"
+    ],
+    "insight": "ロボティクスの進化は従来の産業構造や働き方を根底から変える可能性があり、特に有人ロボットの登場は、人間の能力拡張と危険回避の新たな選択肢を提供します。",
+    "action_plan": "自社の事業において、危険作業や重労働を伴う分野でロボットが代替または支援できる可能性を洗い出し、技術導入の検討を始めましょう。",
+    "image_keyword": "humanoid robot, bipedal robot, future work",
+    "technical_terms": [
+      {
+        "term": "二足歩行ロボット",
+        "explanation": "人間のように二本の脚で歩行するメカニズムを持つロボット。不整地や階段など多様な地形での移動能力が特徴。"
+      },
+      {
+        "term": "有人ロボット",
+        "explanation": "人間が内部に搭乗し、直接操作を行うタイプのロボット。搭乗者の判断力とロボットの身体能力を融合させることを目指す。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6579837?source=rss": {
+    "title": "革新的ロボットが野生動物対策の最前線へ：オオカミ型ロボットの注文が3倍に急増",
+    "tags": "Robotics",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "13時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6579837?source=rss",
+    "summary_bullets": [
+      "野生動物による被害対策として開発されたオオカミ型ロボットの注文が3倍に急増している。",
+      "これは農作物被害や人身被害の軽減に貢献し、特定目的ロボット市場の成長を示唆する。",
+      "今後はAIやセンサー技術と組み合わせた、より高度な自律型野生動物対策ソリューションの普及が進むと予測される。"
+    ],
+    "insight": "古くからの社会課題である野生動物被害に対し、先進的なロボティクス技術が具体的な解決策として実用化され、大きなビジネスチャンスを生み出している現状を理解し、自社の技術やサービスを異なる分野に応用する可能性を探るべきです。",
+    "action_plan": "自社が持つ技術やサービスが、一見関係のない社会課題や異分野でどのように応用できるか、ブレインストーミングを行ってみましょう。",
+    "image_keyword": "wolf robot, wildlife deterrent, agricultural security",
+    "technical_terms": [
+      {
+        "term": "ロボティクス",
+        "explanation": "ロボットの設計、製造、運用、応用に関する科学技術分野で、自動化や特定の作業遂行を目的とした機械システムを指します。"
+      },
+      {
+        "term": "野生動物対策",
+        "explanation": "農作物や家畜への被害、人的被害を防ぐために、野生動物を特定のエリアから遠ざけたり、行動を制御したりする手法や技術の総称です。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYMmxGMkx5LTRwaTFmVWpOQk0zZmhaUWpJU0tCbVBWY0h6NHpkMUlfUjJDRkh0dXNGeWF2THk2YXgzZy1xS3VuRmJONGdVYkFHRHpSRWRZQ0JMNU1BNjBBUm5SSDBSRmIwNzhJTzdGaVp1SUNYMzZ1aVpwZFZhc1U?oc=5": {
+    "title": "AI相場に調整の波：米半導体株が一時6.8%急落、市場の警戒感高まる",
+    "tags": "Semiconductor",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYMmxGMkx5LTRwaTFmVWpOQk0zZmhaUWpJU0tCbVBWY0h6NHpkMUlfUjJDRkh0dXNGeWF2THk2YXgzZy1xS3VuRmJONGdVYkFHRHpSRWRZQ0JMNU1BNjBBUm5SSDBSRmIwNzhJTzdGaVp1SUNYMzZ1aVpwZFZhc1U?oc=5",
+    "summary_bullets": [
+      "米国の半導体株が一時6.8%の大幅な急落を記録し、AI関連銘柄に年内有数の調整圧力がかかった。",
+      "AI投資ブームに対する市場の過熱感と短期的なリスクが顕在化し、関連企業の株価や投資戦略に大きな影響を及ぼす可能性がある。",
+      "今後AI市場の長期的な成長性は維持されつつも、短期的なボラティリティが高まり、企業や投資家はより選別的かつ慎重なアプローチが求められるだろう。"
+    ],
+    "insight": "今回の半導体株急落は、AI市場が初期の熱狂期から現実的な評価を求める調整期に入った可能性を示唆しています。企業はAIへの投資や事業戦略において、短期的なトレンドに流されず、持続的な価値創出とリスク分散を意識した長期的な視点を持つことが不可欠です。",
+    "action_plan": "自社のAI関連プロジェクトやサプライチェーンにおける半導体依存度を再確認し、市場の変動リスクに耐えうる事業継続計画や代替案を検討するためのブレーンストーミングを今日から始めてみましょう。",
+    "image_keyword": "semiconductor stock market crash",
+    "technical_terms": [
+      {
+        "term": "半導体株",
+        "explanation": "半導体の製造、設計、販売を行う企業の株式。AIやテクノロジー産業の根幹を支えるため、市場の注目度が高い。"
+      },
+      {
+        "term": "AI相場",
+        "explanation": "人工知能（AI）関連技術やサービスを提供する企業に投資が集中し、株価が大きく変動する市場の状況。"
+      },
+      {
+        "term": "調整圧力",
+        "explanation": "株価や市場が過熱した状態から、実体経済や企業価値に見合った水準に戻ろうとする際に働く下落圧力のこと。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHYV9BUkNTNnZ0REowZmFfSlZUVDJabUF4SnN2Q0oya3FwWTZkVGR5Mm4wRGlQN0ZfR2tuRG1qcTVrNThUT2ZjSmd4cnBpNmdYMHBMRWNhTzBHYno3cWtYd2tIOWlpTE8yYV9ITDd6RXlqMGFJcmdYS1luRQ?oc=5": {
+    "title": "米中半導体対立の影：NVIDIA、訪中団欠席で高まる地政学リスク",
+    "tags": "Hardware",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHYV9BUkNTNnZ0REowZmFfSlZUVDJabUF4SnN2Q0oya3FwWTZkVGR5Mm4wRGlQN0ZfR2tuRG1qcTVrNThUT2ZjSmd4cnBpNmdYMHBMRWNhTzBHYno3cWtYd2tIOWlpTE8yYV9ITDd6RXlqMGFJcmdYS1luRQ?oc=5",
+    "summary_bullets": [
+      "米半導体大手NVIDIAが訪中団への参加を見送ったことが、各方面で波紋を呼んでいます。",
+      "この欠席は、半導体技術を巡る米中間の地政学的対立が深まっている現状を浮き彫りにしています。",
+      "今後の企業の中国市場戦略やグローバルな半導体サプライチェーンに、さらなる不確実性をもたらす可能性があります。"
+    ],
+    "insight": "ビジネスリーダーは、地政学的リスクが技術サプライチェーンに与える影響を再認識し、サプライチェーンの多様化や代替技術の開発など、より強靭な事業継続計画を策定すべきです。",
+    "action_plan": "自社の半導体調達戦略における中国への依存度を評価し、代替供給源の確保や地域分散の可能性について検討を開始しましょう。",
+    "image_keyword": "NVIDIA, semiconductor, geopolitics",
+    "technical_terms": [
+      {
+        "term": "NVIDIA",
+        "explanation": "AIや高性能グラフィックス処理に不可欠なGPU（画像処理装置）を開発する世界的な半導体企業。"
+      },
+      {
+        "term": "半導体",
+        "explanation": "電気を通す導体と通さない絶縁体の中間の性質を持つ物質で、現代の電子機器の頭脳となる集積回路の主要材料。"
+      },
+      {
+        "term": "地政学的リスク",
+        "explanation": "特定の地域の地理的・政治的要因が、国際関係や経済活動に与える不確実性や脅威のこと。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wc3k0djc2aTg1al9ENzZGT1VJdVhkTDhjeThHclZfdE5PWUlqYjV6Z3QyOS1JbnY0bW4yNGtOSUpZZ09ab2ltRl9fWlh4enBMb2VtYXIxLXdudw?oc=5": {
+    "title": "NVIDIA、訪中団に異例の不参加：米中半導体冷戦、その地政学的影響を読み解く",
+    "tags": "Semiconductor",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wc3k0djc2aTg1al9ENzZGT1VJdVhkTDhjeThHclZfdE5PWUlqYjV6Z3QyOS1JbnY0bW4yNGtOSUpZZ09ab2ltRl9fWlh4enBMb2VtYXIxLXdudw?oc=5",
+    "summary_bullets": [
+      "米中経済団体が主催する訪中団に、AI半導体大手NVIDIAが参加を見送ったことが物議を醸している。",
+      "この異例の欠席は、半導体技術を巡る米中間の地政学的対立が、企業の事業戦略に直接的な影響を与え始めていることを示唆する。",
+      "グローバル企業は今後、サプライチェーンや市場戦略において、政治的リスクの評価と対応がより一層求められる傾向が強まるだろう。"
+    ],
+    "insight": "NVIDIAの訪中団欠席は、単なる企業の判断を超え、米中技術覇権争いが企業のグローバル戦略に与える深刻な影響を浮き彫りにしています。ビジネスリーダーは、地政学的リスクを経営戦略の核として捉え、サプライチェーンの多様化や市場ポートフォリオの見直しを急ぐべきです。",
+    "action_plan": "自社のサプライチェーンや主要市場における地政学的リスクを改めて洗い出し、潜在的な制約や機会を具体的に書き出してみましょう。そして、代替供給源の確保や規制変更への対応計画を策定し、シナリオプランニングを開始しましょう。",
+    "image_keyword": "US China Tech War, Semiconductor Geopolitics",
+    "technical_terms": [
+      {
+        "term": "エヌビディア (NVIDIA)",
+        "explanation": "GPU（画像処理装置）を開発し、近年はAI・機械学習用半導体の分野で世界をリードする企業。"
+      },
+      {
+        "term": "半導体",
+        "explanation": "電気を通したり通さなかったりする性質を持つ物質で、集積回路（ICチップ）の主要な材料。電子機器の「頭脳」や「記憶」の役割を果たす。"
+      },
+      {
+        "term": "米中対立",
+        "explanation": "アメリカ合衆国と中華人民共和国の間で、経済、技術、政治、軍事など多岐にわたる分野で激化している競争や摩擦のこと。"
       }
     ]
   }
