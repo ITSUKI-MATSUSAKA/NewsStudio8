@@ -1,283 +1,4 @@
 {
-  "https://www.itmedia.co.jp/news/articles/2604/08/news101.html": {
-    "title": "大手製造業に衝撃：村田製作所で個人情報流出、その影響と企業が学ぶべき教訓",
-    "tags": "Cybersecurity",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "4日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/08/news101.html",
-    "summary_bullets": [
-      "電子部品大手である村田製作所が不正アクセスを受け、顧客・取引先の個人情報が流出した。",
-      "大手製造業におけるサプライチェーン全体のセキュリティ脆弱性が露呈し、企業信頼性に大きな影響を及ぼす可能性がある。",
-      "今後、サプライチェーン全体でのセキュリティ監査の厳格化と、データ保護に関する迅速な対応策の策定が加速すると予測される。"
-    ],
-    "insight": "いかなる大企業であってもサイバー攻撃のリスクは避けられず、単体のセキュリティ強化だけでなく、サプライチェーンパートナーを含めた全体的なリスク管理と、有事の際の透明性ある情報開示体制の構築が喫緊の課題であることを示唆している。",
-    "action_plan": "自社の情報セキュリティ体制を改めて見直し、特にサプライチェーン上のパートナー企業との連携におけるセキュリティ基準や、緊急時のインシデント対応プロトコルを詳細に確認・強化しましょう。",
-    "image_keyword": "cyber security network, data breach, corporate risk",
-    "technical_terms": [
-      {
-        "term": "不正アクセス",
-        "explanation": "許可されていない者がコンピュータシステムやネットワークに侵入すること。データの盗難や改ざんなどを目的とする場合が多い。"
-      },
-      {
-        "term": "個人情報流出",
-        "explanation": "企業や団体が保有する氏名、住所、連絡先などの個人データが、意図せず外部に漏洩すること。信用失墜や法的責任につながる。"
-      }
-    ]
-  },
-  "https://monoist.itmedia.co.jp/mn/articles/2604/13/news006.html": {
-    "title": "産総研「フィジカルAI」が拓く未来：10万年のギャップを埋める革新的挑戦",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 4,
-    "time_ago": "たった今",
-    "url": "https://monoist.itmedia.co.jp/mn/articles/2604/13/news006.html",
-    "summary_bullets": [
-      "産総研が、AIが物理世界で自律的に学習し行動する能力を獲得するための「フィジカルAIプロジェクト」を推進している。",
-      "本プロジェクトは、産業現場や日常生活におけるAIの応用範囲を大幅に拡大し、より高度な自動化と問題解決能力を実現する可能性を秘める。",
-      "AIが仮想空間だけでなく現実世界で試行錯誤を通じて進化する技術は、次世代のロボティクスやスマートファクトリーの基盤として重要なトレンドとなるだろう。"
-    ],
-    "insight": "AIが物理世界で学習・行動する能力を獲得することは、これまで自動化が困難だった領域に革新をもたらし、新たなビジネスモデルやサービス創出の機会を広げる可能性を秘めています。この動きは、あらゆる産業における競争優位性を再定義するでしょう。",
-    "action_plan": "自社のビジネスプロセスにおいて、AIが物理世界で介入することで効率化や自動化が可能な領域がないか、具体的なユースケースをチームでブレインストーミングし、書き出してみましょう。",
-    "image_keyword": "Physical AI research, AIST robotics, future automation",
-    "technical_terms": [
-      {
-        "term": "フィジカルAI",
-        "explanation": "仮想空間だけでなく、物理的な現実世界で直接学習し、自律的に行動・判断する能力を持つAIのこと。"
-      },
-      {
-        "term": "産総研",
-        "explanation": "国立研究開発法人産業技術総合研究所の略称。日本の産業技術の発展を目的とした、大規模な公的研究機関。"
-      },
-      {
-        "term": "10万年ギャップ",
-        "explanation": "AIが仮想空間での学習能力は高いものの、物理世界での試行錯誤や知識獲得にはまだ大きな隔たりがある現状を比喩的に示したもの。"
-      }
-    ]
-  },
-  "https://atmarkit.itmedia.co.jp/ait/articles/2604/13/news014.html": {
-    "title": "手動PC作業はもう古い？ AIに仕事を任せる『Cowork』が拓く新時代の働き方",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "2時間前",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/13/news014.html",
-    "summary_bullets": [
-      "PC作業をAIに任せる「AIエージェント」の活用が、チャットに続く新たなAIトレンドとして注目されている。",
-      "業務の自動化により従業員の生産性が向上し、企業はより戦略的なコア業務にリソースを集中できるようになる。",
-      "個人からチームまで、AIが自律的に作業を代行する時代が本格化し、ビジネスモデルや働き方に大きな変革をもたらすだろう。"
-    ],
-    "insight": "AIは単なる情報検索や対話ツールから、具体的な業務を自律的に実行する「作業者」へと進化しており、この流れを早期に捉え、自身の業務プロセスや組織戦略にAIエージェントをどう組み込むかを検討することが、今後の生産性向上と競争力維持に不可欠である。",
-    "action_plan": "自身の日常業務で「手動で繰り返し行っているが、AIに任せられる可能性のある作業」を具体的に書き出し、どの部分をAI化できるか検討してみましょう。",
-    "image_keyword": "AI office automation, smart assistant, future workspace",
-    "technical_terms": [
-      {
-        "term": "AIエージェント",
-        "explanation": "ユーザーの指示や設定に基づき、自律的に複数のタスクを実行したり、他のシステムと連携して複雑な業務を代行するAIのこと。"
-      },
-      {
-        "term": "業務自動化 (RPA)",
-        "explanation": "定型的で反復的なPC操作や業務プロセスを、ソフトウェアロボット（Bot）によって自動的に実行し、効率化を図る技術。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/12/news018.html": {
-    "title": "OpenAI サム・アルトマンCEO、批判報道と自宅襲撃事件に私的告白：家族写真で示す人間的側面",
-    "tags": "AI Business",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "22時間前",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/12/news018.html",
-    "summary_bullets": [
-      "OpenAIのサム・アルトマンCEOが、自身に向けられた批判的報道と自宅への火炎瓶事件について、個人ブログで家族写真を交えながら心境を明かした。",
-      "AI業界のトップリーダーが直面する過度な注目とセキュリティリスク、精神的プレッシャーが浮き彫りになり、企業経営における危機管理の重要性を再認識させる。",
-      "今後のAI開発競争において、リーダー個人の安全確保、企業の透明性あるコミュニケーション、そして技術倫理と社会受容性のバランスをどう取るかがより一層問われるトレンドとなるだろう。"
-    ],
-    "insight": "AI技術の急速な発展は、その推進者であるリーダーたちに、技術的責任だけでなく、プライバシー侵害や身体的危険といった前例のない個人的な重圧とリスクをもたらします。ビジネスリーダーは、この新たなリスク環境において、従業員やキーパーソンの保護、そして社会との対話のあり方を戦略的に再考する必要があります。",
-    "action_plan": "自社のキーパーソンや経営陣が直面する潜在的なセキュリティリスクや精神的負担について、現状の危機管理体制を見直し、AI業界の最新事例も踏まえた包括的な対策プランを策定し始めましょう。",
-    "image_keyword": "Sam Altman personal security, OpenAI CEO family, AI leadership challenge",
-    "technical_terms": []
-  },
-  "https://news.yahoo.co.jp/pickup/6576003?source=rss": {
-    "title": "AIが紡ぐ地域愛：奈良県民botの自虐的ユーモアが示す新たなデジタルコミュニケーション戦略",
-    "tags": "AI Content",
-    "sentiment": "positive",
-    "sentiment_text": "共感を呼ぶ話題",
-    "rating": 4,
-    "time_ago": "18時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6576003?source=rss",
-    "summary_bullets": [
-      "AI（bot）が奈良県の地域性を自虐的に表現し、SNS上で大きな共感と話題を呼んでいる。",
-      "地域プロモーションやデジタルマーケティングにおいて、AIを用いたユニークなコンテンツ戦略の有効性を示す。",
-      "AIを活用した地域特化型・感情訴求型コンテンツが、今後のエンゲージメント戦略の鍵となるだろう。"
-    ],
-    "insight": "AIが生成するコンテンツは、単なる情報伝達に留まらず、地域文化や感情を巧みに取り入れることで、人々の共感を呼び、強固なコミュニティ形成やブランディングに貢献する可能性を秘めている。",
-    "action_plan": "自社のブランドイメージや顧客層に響くような、AIを活用したパーソナライズされた、あるいは感情を刺激するコンテンツ戦略の可能性を検討してみましょう。",
-    "image_keyword": "AI community engagement",
-    "technical_terms": [
-      {
-        "term": "bot",
-        "explanation": "インターネット上で自動的に情報発信や対話を行うプログラム。SNSなどでの情報収集や応答、コンテンツ生成などに用いられる。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6575967?source=rss": {
-    "title": "国産AI開発を加速！主要4社が結集し新会社を設立、国際競争力強化へ",
-    "tags": "AI Development",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "23時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6575967?source=rss",
-    "summary_bullets": [
-      "日本企業4社が中核となり、国産AI技術の開発・普及を目指す新会社が設立された。",
-      "国内AI産業の競争力強化と、特定企業への技術依存リスク低減に貢献が期待される。",
-      "今後は、日本の社会課題解決に特化したAIソリューションや、国際市場での存在感を示す技術が生まれる可能性が高まる。"
-    ],
-    "insight": "日本の主要企業が連携して国産AI開発に注力する動きは、AI技術の国家戦略的価値の高まりと、国内産業の自立性確保への強い意志を示すものであり、今後のビジネスモデルや投資戦略に大きな影響を与えるでしょう。",
-    "action_plan": "自社のDX戦略におけるAI導入計画を再評価し、国産AI技術の動向を定期的にチェックする体制を構築するとともに、新たな国産AIベンダーとの協業可能性を積極的に探りましょう。",
-    "image_keyword": "Japanese AI development company",
-    "technical_terms": []
-  },
-  "https://www.itmedia.co.jp/business/articles/2604/14/news038.html": {
-    "title": "【SaaS新時代】「SaaSの死」論は本質を突く？ビズリーチ社長が解き明かす、次世代SaaSの必勝戦略",
-    "tags": "SaaS",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 4,
-    "time_ago": "たった今",
-    "url": "https://www.itmedia.co.jp/business/articles/2604/14/news038.html",
-    "summary_bullets": [
-      "「SaaSの死」という議論は、現代のSaaS市場の成熟と変化を象徴しており、旧来のSaaSモデルが限界に直面していることを示唆。",
-      "これからのSaaSは、単なる機能提供ではなく、顧客の深層的な課題解決に特化し、LTV（顧客生涯価値）を最大化する戦略への転換が不可欠。",
-      "個別最適化、データ活用、AI連携を通じた「伴走型SaaS」への進化がトレンドとなり、真の顧客価値創出が競争優位の鍵となる。"
-    ],
-    "insight": "SaaS市場が飽和する中、プロダクトアウト型のアプローチはもはや通用しません。顧客の本質的なニーズを深く理解し、単なるツール提供に留まらない、ビジネス成果に直結するパートナーシップを築くことが、生き残りと成長のための絶対条件です。",
-    "action_plan": "自社のSaaS提供価値、または導入しているSaaSの活用状況を「顧客のビジネス課題解決」という視点から再評価し、現状のギャップと潜在的な改善点を洗い出してみましょう。",
-    "image_keyword": "SaaS future strategy",
-    "technical_terms": [
-      {
-        "term": "SaaS",
-        "explanation": "Software as a Serviceの略。インターネット経由でソフトウェア機能を利用する形態。"
-      },
-      {
-        "term": "LTV",
-        "explanation": "Life Time Value（顧客生涯価値）の略。一人の顧客が企業にもたらす総利益の合計額。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RZkFCOVdQQVlWeWxpWTJnZFJUNnNCOXZHTUdDMWRTV1dVYTc2U0xJX0RlU01iQXJKMjU1el82VElpVFM2WUNQUU5veW1XWTNPaDFnZHgyVnZJN2VMYW8xU1k4NzJPdjI0MVE?oc=5": {
-    "title": "【速報】米国の対中半導体規制、日本企業にも波及か？ 新法案が示唆するサプライチェーンの激変",
-    "tags": "Geopolitics",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RZkFCOVdQQVlWeWxpWTJnZFJUNnNCOXZHTUdDMWRTV1dVYTc2U0xJX0RlU01iQXJKMjU1el82VElpVFM2WUNQUU5veW1XWTNPaDFnZHgyVnZJN2VMYW8xU1k4NzJPdjI0MVE?oc=5",
-    "summary_bullets": [
-      "米議会が対中半導体輸出規制を強化する新法案を検討しており、その内容が日本企業にも大きな影響を及ぼす可能性が浮上。",
-      "日本企業は半導体製造装置や素材供給において重要な役割を担っており、サプライチェーン再編や事業戦略の見直しを迫られるリスクがある。",
-      "米中間の技術覇権争いは今後も継続し、グローバルな半導体産業における地政学的リスクはさらに高まることが予測される。"
-    ],
-    "insight": "米国の対中半導体輸出規制は単なる二国間問題ではなく、日本を含むグローバルな半導体サプライチェーン全体に構造的な変革を促すものであり、自社の事業継続性や競争力を維持するためには、サプライチェーンの多様化と地政学的リスクへの対応戦略が不可欠である。",
-    "action_plan": "自社の半導体関連サプライチェーンにおける中国への依存度を再評価し、代替供給源の確保や製造拠点の分散化について検討を開始しましょう。また、米国の新たな規制動向を継続的にモニターし、事業戦略への影響を定期的に分析する体制を構築してください。",
-    "image_keyword": "semiconductor export restrictions, US China tech war, global supply chain impact",
-    "technical_terms": [
-      {
-        "term": "半導体",
-        "explanation": "集積回路や電子部品の基となる物質で、スマートフォンやPCなどあらゆる電子機器に不可欠な素材です。"
-      },
-      {
-        "term": "輸出規制",
-        "explanation": "特定の国や企業に対し、戦略物資や技術の輸出を制限する国家的な政策です。安全保障や経済的な理由で行われます。"
-      },
-      {
-        "term": "サプライチェーン",
-        "explanation": "製品が生産者から消費者に届くまでの、原材料の調達、製造、流通、販売までの一連の流れのことです。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14cVBqdlppWVVyRmd3NUFWZ0lydTlGaVJLanFQdHBiUkd5bks4UmkzWGYxVnRxRlhvNkNjY1JtVThDVVI2bGRiV1NicHV0czNPOUxjU0JhLUgtamxHU3JOU2g4d1NuWWJw?oc=5": {
-    "title": "半導体実装市場、2031年に24兆円規模へ急拡大：未来を拓く成長戦略とビジネスチャンス",
-    "tags": "Hardware",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "1時間前",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14cVBqdlppWVVyRmd3NUFWZ0lydTlGaVJLanFQdHBiUkd5bks4UmkzWGYxVnRxRlhvNkNjY1JtVThDVVI2bGRiV1NicHV0czNPOUxjU0JhLUgtamxHU3JOU2g4d1NuWWJw?oc=5",
-    "summary_bullets": [
-      "半導体実装関連部品・材料・装置市場が2031年には24兆円規模に急成長する見込み。",
-      "この市場拡大は、デジタル化やAIの進展を背景に、関連産業に新たなビジネス機会を創出する。",
-      "特に先進パッケージング技術への需要増加が予測され、技術革新とサプライチェーン強化が急務となる。"
-    ],
-    "insight": "AIやIoTといった先端技術の普及が加速する中、半導体実装市場の急成長は避けられない未来です。単なる半導体製造だけでなく、それを支える部品・材料・装置のエコシステム全体に目を向け、技術革新とサプライチェーンへの投資が競争力維持の鍵となるでしょう。",
-    "action_plan": "自社のサプライチェーンにおける半導体関連部品・材料・装置の調達戦略を見直しましょう。特に次世代実装技術や関連素材への投資、新たなパートナーシップ構築の可能性を検討し、来るべき市場拡大に備えましょう。",
-    "image_keyword": "semiconductor packaging, advanced chip, electronics manufacturing",
-    "technical_terms": [
-      {
-        "term": "半導体実装",
-        "explanation": "製造された半導体チップを基板に接続し、外部からの衝撃や環境変化から保護するための最終工程。デバイスの性能と信頼性を左右する重要な技術。"
-      },
-      {
-        "term": "先進パッケージング技術",
-        "explanation": "半導体チップの性能向上や小型化を実現するために、複数のチップを積層したり、特殊な方法で接続したりする最先端の実装技術。AIやHPCで特に重要。"
-      }
-    ]
-  },
-  "https://atmarkit.itmedia.co.jp/ait/articles/2604/15/news011.html": {
-    "title": "AIが知識を育てる新常識：「LLM Wiki」でメモや資料を「使える資産」に変革",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "2時間前",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/15/news011.html",
-    "summary_bullets": [
-      "「LLM Wiki」は、AIを活用して個人のメモや散在する資料を体系的な知識へと整理し、能動的に成長させる新しい発想のナレッジ管理ツールである。",
-      "ビジネスシーンでは、情報検索の効率化、チームの集合知の最大化、個人の生産性向上に貢献し、組織全体の情報活用力を飛躍的に高める可能性を秘めている。",
-      "今後、AIによる知識キュレーションは企業や個人の生産性向上における不可欠な要素となり、情報が「育つ」動的なナレッジベースが主流となるだろう。"
-    ],
-    "insight": "AIは単なる情報検索ツールから、個人の思考や組織の集合知を積極的に「育成」するパートナーへと進化しています。この変革を理解し、いかに自身のワークフローや組織のナレッジマネジメントに組み込むかが、情報過多時代における競争優位を築く鍵となります。",
-    "action_plan": "自社のナレッジマネジメントシステムや個人の情報整理方法について、AIを活用した「知識育成」の観点から課題を洗い出し、新しいツールの導入や既存システムのAI連携の可能性について検討してみましょう。",
-    "image_keyword": "AI knowledge management",
-    "technical_terms": [
-      {
-        "term": "LLM",
-        "explanation": "Large Language Model（大規模言語モデル）の略。膨大なテキストデータから学習し、人間のような自然な文章の生成や理解、要約、翻訳などができるAIモデル。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/14/news140.html": {
-    "title": "日産、AIドライブ搭載車9割目標を掲げ長期ビジョン発表 - 新型EV/SUVも初公開",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "10時間前",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/14/news140.html",
-    "summary_bullets": [
-      "日産は長期ビジョンを発表し、将来的にAIドライブ搭載車を9割とすることを目標に掲げた。",
-      "新型「ジュークEV」と「エクストレイル」を世界初公開し、電動化とAI技術への積極的な投資姿勢を示した。",
-      "自動車業界におけるAI技術の標準化とEVシフト加速のトレンドを明確に打ち出す動きであり、他社にも影響を与える可能性が高い。"
-    ],
-    "insight": "AIと電動化は自動車産業のみならず、エネルギー、インフラ、都市計画など多岐にわたる分野で不可逆的なトレンドとなっています。ビジネスリーダーはこの動向を深く理解し、自社の事業戦略にどのように組み込み、新たな価値を創造するかを具体的に検討することが急務です。",
-    "action_plan": "自社の事業や製品・サービスにおいて、AIの活用余地や電動化トレンドが与える影響を再評価し、具体的なロードマップや新規事業のアイデアをチームでブレインストーミングしてみましょう。",
-    "image_keyword": "futuristic car AI",
-    "technical_terms": [
-      {
-        "term": "AIドライブ",
-        "explanation": "人工知能（AI）技術を活用し、運転支援や自動運転、車内体験の向上などを実現する自動車技術の総称。"
-      },
-      {
-        "term": "EV (Electric Vehicle)",
-        "explanation": "ガソリンエンジンの代わりに電気モーターを動力源とする自動車。排気ガスを出さず、環境負荷が低いことが特徴。"
-      }
-    ]
-  },
   "https://www.itmedia.co.jp/news/articles/2604/14/news137.html": {
     "title": "トヨタ、新型AIバスケットボールロボット「CUE7」を初公開：完璧なシュートで技術の進化を証明",
     "tags": "Robotics",
@@ -5290,7 +5011,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "15時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/14/news119.html",
     "summary_bullets": [
       "津田塾大学が、別件で逮捕された元職員による個人情報漏えいを公表し謝罪した。",
@@ -5370,6 +5091,319 @@
       {
         "term": "DeNA Pay",
         "explanation": "株式会社DeNAが提供する決済サービス。DeNAアカウントと連携しており、オンラインでの支払いに利用される。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2605/15/news108.html": {
+    "title": "Runway、60億円超を投じ日本市場本格参入！動画生成AIが創るクリエイティブ新時代",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "11時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/15/news108.html",
+    "summary_bullets": [
+      "動画生成AIのRunwayが60億円超の投資で日本市場に本格参入し、事業拡大を目指す。",
+      "日本の豊かなクリエイティブ産業にAI技術が融合することで、新たなコンテンツ制作やビジネス創出が期待される。",
+      "Runwayの進出は、動画生成AI市場のグローバル競争激化と日本におけるAI技術活用の加速を予兆する。"
+    ],
+    "insight": "Runwayの日本市場参入は、日本の優れたクリエイティブ力と最先端の動画生成AIが融合することで、コンテンツ制作のあり方やビジネスモデルに革新をもたらす転換点となるでしょう。",
+    "action_plan": "自社のコンテンツ制作プロセスに動画生成AIをどのように組み込めるか、具体的なユースケースを洗い出してみましょう。Runwayなどの最新ツールを実際に試用し、その可能性と課題を把握することが重要です。",
+    "image_keyword": "AI video generation, Japan investment, creative industry",
+    "technical_terms": [
+      {
+        "term": "動画生成AI",
+        "explanation": "テキストや画像などの指示から、自動的に動画コンテンツを生成する人工知能技術。"
+      },
+      {
+        "term": "Runway",
+        "explanation": "動画生成や編集に特化したAIツールを提供するリーディングカンパニーで、AIを活用したクリエイティブワークフローの革新を目指している。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2605/15/news112.html": {
+    "title": "キオクシア、記録的増収増益達成！売上1兆円・純利益2990%増の背景と半導体市場の展望",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "11時間前",
+    "url": "https://www.itmedia.co.jp/business/articles/2605/15/news112.html",
+    "summary_bullets": [
+      "キオクシアが直近3ヶ月で売上収益1兆円、純利益2990%増という記録的な増収増益を達成した。",
+      "この好決算は、世界的なデータ需要の高まりとNAND型フラッシュメモリ市場の回復が背景にあり、半導体業界全体の回復トレンドを明確に示唆する。",
+      "AIやデータセンター需要の急増がストレージ市場を牽引し、今後も半導体企業の業績を押し上げる主要なトレンドとなると予測される。"
+    ],
+    "insight": "このキオクシアの好決算は、AIとデジタルトランスフォーメーションの加速がデータストレージ需要を爆発的に増大させていることを如実に示しており、関連サプライチェーンやデータ活用を基盤とするあらゆるビジネスへの投資機会が広がっていることを示唆しています。",
+    "action_plan": "自社のデータ戦略やAI活用計画を見直し、データストレージ技術の最新トレンドや半導体サプライチェーンへの影響を評価して、新たなビジネス機会や潜在的なリスク要因を洗い出してみましょう。",
+    "image_keyword": "Semiconductor growth, Kioxia revenue, data storage success",
+    "technical_terms": [
+      {
+        "term": "NAND型フラッシュメモリ",
+        "explanation": "電源を切ってもデータが消えない不揮発性メモリの一種で、スマートフォン、SSD、データセンターなどで大容量データを高速に保存・読み出しするために広く利用されています。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2605/15/news094.html": {
+    "title": "【速報】中小企業向けAI「Claude」がSaaS連携で業務効率を革新！DX推進の新標準か",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "16時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/15/news094.html",
+    "summary_bullets": [
+      "AnthropicのLLM「Claude」が中小企業向けに特化し、各種SaaSと連携して定型業務を自動代行するサービスが登場。",
+      "AI導入の障壁を下げ、コストを抑えながら中小企業の生産性向上と競争力強化に大きく貢献する可能性を秘めている。",
+      "今後は、既存SaaSとシームレスに連携する専門性の高いAIソリューションが、中小企業のDXを加速させる主要トレンドとなる見込み。"
+    ],
+    "insight": "中小企業にとって、高度なAI活用はもはや夢物語ではありません。既存のSaaS資産と連携可能なAIは、限られたリソースで最大限の業務効率化を実現し、事業成長の新たな原動力となるでしょう。自社のコア業務にAIをどう組み込むか、戦略的な視点での検討が急務です。",
+    "action_plan": "現在利用中のSaaSサービスと、それに伴うルーティン業務を全てリストアップし、どの部分をAI（特にClaudeのようなLLM）で自動化・効率化できるか具体的なユースケースを検討してみましょう。",
+    "image_keyword": "small business AI automation, SaaS integration office, Claude productivity",
+    "technical_terms": [
+      {
+        "term": "Claude",
+        "explanation": "Anthropic社が開発した高性能な大規模言語モデル（LLM）。自然言語処理やタスク実行能力に優れる。"
+      },
+      {
+        "term": "SaaS",
+        "explanation": "Software as a Serviceの略。インターネット経由でサービスとして提供されるソフトウェア。契約すればすぐに利用でき、自社でインフラを持つ必要がない。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6580265?source=rss": {
+    "title": "マイナンバーカード、93万枚が本人希望で廃止に - その背景と影響",
+    "tags": "Government Tech",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "14時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6580265?source=rss",
+    "summary_bullets": [
+      "全国で93万枚ものマイナンバーカードが、利用者の「本人希望」により廃止されたことが判明しました。",
+      "この大量廃止は、デジタル行政の推進における国民の不信感や制度設計・運用上の課題を浮き彫りにしています。",
+      "今後、政府はマイナンバーカード制度の信頼性回復と利便性向上に向けた抜本的な見直しを迫られるでしょう。"
+    ],
+    "insight": "マイナンバーカードの大量廃止は、企業がデジタルサービスや本人確認システムを構築する上で、公的なID基盤だけに依存することのリスクを示唆します。ユーザーの信頼獲得と多様な本人確認手段の検討が不可欠です。",
+    "action_plan": "自社のデジタルサービスにおける本人確認の選択肢や顧客データ管理のセキュリティポリシーについて、改めて課題がないか洗い出し、多角的な視点から現状を見直してみましょう。",
+    "image_keyword": "My Number card abolition, government ID issue, digital trust crisis",
+    "technical_terms": [
+      {
+        "term": "マイナンバーカード",
+        "explanation": "日本政府が国民に発行する、12桁のマイナンバー（個人番号）が記載された顔写真付きのICカードで、本人確認や行政手続きに利用されます。"
+      },
+      {
+        "term": "デジタル行政",
+        "explanation": "行政サービスをデジタル技術を活用してオンライン化・効率化し、国民の利便性向上や行政コスト削減を目指す取り組みです。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6580240?source=rss": {
+    "title": "中国市場を席巻する折りたたみスマホ：普及の背景と次世代デバイス戦略",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "18時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6580240?source=rss",
+    "summary_bullets": [
+      "世界最大のスマホ市場である中国で、折りたたみスマホが急速に普及し、その背景には激しいメーカー競争による価格下落と技術成熟がある。",
+      "このトレンドは、グローバルなスマートフォン市場の勢力図を変え、他国のメーカーや通信キャリア、関連サプライヤーのビジネス戦略に大きな影響を与える。",
+      "折りたたみスマホは今後、デザインと機能の多様化によりさらに市場を拡大し、新しいユーザー体験を創出する次世代の主力デバイスとなる可能性が高い。"
+    ],
+    "insight": "中国市場における折りたたみスマホの爆発的普及は、単なる製品トレンドではなく、技術革新、価格戦略、そして消費者の新たな価値観が融合した結果であり、この動向は日本を含む他国の市場戦略再構築を促す重要な指標となる。",
+    "action_plan": "自社の製品・サービスがスマートフォンデバイスとどのように連携しているかを再評価し、折りたたみスマホのような次世代フォームファクターが顧客体験やビジネスモデルに与える影響について、具体的なシナリオプランを策定しましょう。",
+    "image_keyword": "foldable smartphone china",
+    "technical_terms": [
+      {
+        "term": "フォルダブルディスプレイ",
+        "explanation": "折り曲げ可能な特性を持つディスプレイの総称で、折りたたみスマホの実現に不可欠な技術です。"
+      },
+      {
+        "term": "ヒンジ技術",
+        "explanation": "折りたたみスマホの画面を開閉する蝶番（ちょうつがい）部分の技術で、耐久性や開閉のスムーズさが製品の品質を左右します。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6580197?source=rss": {
+    "title": "AppleとOpenAIの提携交渉、暗礁に乗り上げか：AI市場の勢力図に変化の兆し",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "23時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6580197?source=rss",
+    "summary_bullets": [
+      "AppleとOpenAIのAI技術提携に関する交渉が難航し、暗礁に乗り上げている模様。",
+      "この提携の停滞は、AppleのAI戦略に影響を与え、今後の製品開発やサービス展開に不確実性をもたらす可能性。",
+      "GoogleのGeminiなど競合の存在が交渉の行方を左右し、AI市場における大手テック企業の提携・競争戦略がさらに複雑化する見込み。"
+    ],
+    "insight": "巨大テック企業間の提携交渉でさえ、競合環境の激化や戦略的思惑により容易に破綻するリスクがあることを理解し、自社のパートナーシップ戦略や市場動向への対応力を常に評価し続ける必要があります。",
+    "action_plan": "自社のAI関連プロジェクトや将来的な提携計画を再検討し、市場の急速な変化に対応できるよう複数のシナリオを想定した戦略策定を始めてみましょう。",
+    "image_keyword": "Apple OpenAI negotiation, AI partnership difficulties, tech collaboration conflict",
+    "technical_terms": [
+      {
+        "term": "AI (人工知能)",
+        "explanation": "人間の知能を模倣し、学習、推論、問題解決などのタスクを実行するコンピューターシステム。"
+      },
+      {
+        "term": "LLM (大規模言語モデル)",
+        "explanation": "大量のテキストデータから学習し、人間のような自然な言語を理解・生成できるAIモデル。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wN0RqWXh2SGp0Y25xa3JfN2V3LTZGdjdNcWpRMklzSWRYRzBMRlAyZGdacl9YWXdsQnlDZ01lR3hCeE9JVkQyb1JCa1IxRzZkYXNPVkdvY0xkMlVhY1k2RVEwRS1hdmJSbWJFQ0JUWG14OTVwZnM4Yld2TdIBgAFBVV95cUxNNjhaY2NfOHJSV21SWFdPRWRyMnFURktTM1dGQm9aTVVHTmNzSndiSjk5eHVRRThLUWluQjJBWXpZOG4xbS1aY01pU2NTQUIxRHFDaUhSc1pYZFFCbC15eE5EX2U4bVVCUzBoOE83TzQyc2tmSnFaZTJMV1pzM1N1bw?oc=5": {
+    "title": "国産半導体LENZO、NVIDIAの牙城に挑む！次世代アーキテクチャ「CGLA」の衝撃",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wN0RqWXh2SGp0Y25xa3JfN2V3LTZGdjdNcWpRMklzSWRYRzBMRlAyZGdacl9YWXdsQnlDZ01lR3hCeE9JVkQyb1JCa1IxRzZkYXNPVkdvY0xkMlVhY1k2RVEwRS1hdmJSbWJFQ0JUWG14OTVwZnM4Yld2TdIBgAFBVV95cUxNNjhaY2NfOHJSV21SWFdPRWRyMnFURktTM1dGQm9aTVVHTmNzSndiSjk5eHVRRThLUWluQjJBWXpZOG4xbS1aY01pU2NTQUIxRHFDaUhSc1pYZFFCbC15eE5EX2U4bVVCUzBoOE83TzQyc2tmSnFaZTJMV1pzM1N1bw?oc=5",
+    "summary_bullets": [
+      "国産半導体LENZOが、AI市場を席巻するNVIDIAに対抗する新アーキテクチャ「CGLA」を発表。",
+      "高性能AIプロセッサ市場における競争が激化し、国内技術の復権とサプライチェーンの多様化への期待が高まる。",
+      "CGLAが次世代コンピューティングやAI技術の進化を加速させ、産業構造に新たな変革をもたらす可能性を秘めている。"
+    ],
+    "insight": "NVIDIA一強のAI半導体市場に新たな選択肢が生まれつつあり、技術革新の加速とサプライチェーンの多様化は、DX推進や新たな事業機会創出の鍵となるでしょう。",
+    "action_plan": "自社のAI戦略において、既存のNVIDIAソリューションだけでなく、LENZOのような新興国産技術の採用可能性や提携機会を検討してみましょう。",
+    "image_keyword": "Japanese semiconductor, next-gen chip, AI architecture",
+    "technical_terms": [
+      {
+        "term": "LENZO",
+        "explanation": "NVIDIAに対抗を目指す日本の半導体企業またはそのブランド名。"
+      },
+      {
+        "term": "CGLA",
+        "explanation": "LENZOが開発した新しい半導体アーキテクチャ。AIや高性能計算処理の効率化を目指す。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YY0xRdU5rWXpRXzJZVEc4SWlxbGRLZnNwRU45enZqajBFS043c2duT01ueHp1T1BweDc0NXl3bG1DZV8tNE1IaG84YjZyOEJiQlhoaEtGQTBGQQ?oc=5": {
+    "title": "黒四電力が富山の未来を拓く：関電との包括協定でデータセンター・半導体工場誘致、再エネ「地産地消」を加速",
+    "tags": "Infrastructure",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YY0xRdU5rWXpRXzJZVEc4SWlxbGRLZnNwRU45enZqajBFS043c2duT01ueHp1T1BweDc0NXl3bG1DZV8tNE1IaG84YjZyOEJiQlhoaEtGQTBGQQ?oc=5",
+    "summary_bullets": [
+      "富山県と関西電力が包括協定を締結し、黒部第四発電所（黒四）の電力を県内で活用することで、データセンターや半導体工場などの高負荷産業誘致を推進する。",
+      "再生可能エネルギーの「地産地消」を実現し、安定かつクリーンな電力供給によって地域経済の活性化とDX推進に貢献する新たな産業集積モデル構築が期待される。",
+      "エネルギー供給の安定性や再生可能性が企業の立地選定における重要要素となる中、他地域でも同様のクリーンエネルギーを活用した先端産業誘致の動きが加速する可能性が高い。"
+    ],
+    "insight": "再生可能エネルギーを基盤とした地域連携モデルは、今後の日本における先端産業誘致と経済活性化の鍵となります。企業は、クリーン電力の安定供給能力を持つ地域への事業展開を真剣に検討すべきです。",
+    "action_plan": "自社のデータセンターや工場などの電力消費が大きい施設の立地戦略を見直し、再生可能エネルギーの供給が安定している地域への移転や新設の可能性について情報収集を始めてみましょう。",
+    "image_keyword": "Kurobe Dam renewable energy, data center",
+    "technical_terms": [
+      {
+        "term": "黒四（クロヨン）電力",
+        "explanation": "黒部第四発電所（黒部ダム）で発電された電力の通称です。"
+      },
+      {
+        "term": "データセンター",
+        "explanation": "サーバーやネットワーク機器を集中させ、データの保管や処理を行うための大規模施設です。"
+      },
+      {
+        "term": "半導体工場",
+        "explanation": "半導体（ICチップなど）を製造するための専門工場で、精密な環境と大量の電力を必要とします。"
+      },
+      {
+        "term": "再生可能エネルギー",
+        "explanation": "太陽光、風力、水力など、自然の力から持続的に得られる枯渇しないエネルギー源です。"
+      },
+      {
+        "term": "地産地消",
+        "explanation": "地域で生産されたものをその地域内で消費する取り組みを指します。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xeVNuSDJmT2E0YkZYdl9OSWxMVmhZaHBaa1loa2pUVWYwUDg1b24yLTBPYTRqazU5cnI0cUdPVjZTOVZzS3ZoRzZTcERxdGpiTjZvbGpYOF93TlVSc3Rockc1c3NHSmUtM080NzVxOU9VeF9BOUZxWlJn0gF_QVVfeXFMTlpBYjdYTmpmMEpnRlRyRUdZMnZ6ZmJiSThtUzlPUUtrdENUZ0VYQ2hTa2l0X05hSzNSbGV1bzBrZ044aG1BMXBxWkJKNFd5RlRUNTdfejU2dXBsV3FTRDdPRG5NLTExX1F3V0lYZTZIc2Nab3RPazVFNE5jTE1Haw?oc=5": {
+    "title": "野村證券、人気ファンドが米国テック株投資に回帰：日経・半導体・S&P500抑え注目の投資トレンド",
+    "tags": "Investment",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xeVNuSDJmT2E0YkZYdl9OSWxMVmhZaHBaa1loa2pUVWYwUDg1b24yLTBPYTRqazU5cnI0cUdPVjZTOVZzS3ZoRzZTcERxdGpiTjZvbGpYOF93TlVSc3Rockc1c3NHSmUtM080NzVxOU9VeF9BOUZxWlJn0gF_QVVfeXFMTlpBYjdYTmpmMEpnRlRyRUdZMnZ6ZmJiSThtUzlPUUtrdENUZ0VYQ2hTa2l0X05hSzNSbGV1bzBrZ044aG1BMXBxWkJKNFd5RlRUNTdfejU2dXBsV3FTRDdPRG5NLTExX1F3V0lYZTZIc2Nab3RPazVFNE5jTE1Haw?oc=5",
+    "summary_bullets": [
+      "野村證券の人気ファンドにおいて、日経225、世界半導体株投資、S&P500を抑え、米国テクノロジー株への投資が上位に浮上し回帰傾向にある。",
+      "大手証券会社の投資戦略の変化は、今後の市場の資金動向や成長セクターへの注目の高まりを示唆する。",
+      "AIやデジタルトランスフォーメーションの進化が続く中、米国テクノロジー株は引き続き主要な成長ドライバーとして市場を牽引すると予測される。"
+    ],
+    "insight": "大手金融機関の人気ファンドが米国テクノロジー株に回帰している事実は、AIなどの技術革新が牽引する成長セクターへの投資妙味が依然として健在であり、ビジネス戦略やポートフォリオ構築においてテック株の重要性を再認識すべき市場からの明確なシグナルである。",
+    "action_plan": "自身の投資ポートフォリオにおけるテクノロジー関連銘柄の比率を見直し、主要なテック企業の最新動向や新技術トレンドについて情報収集を強化しましょう。",
+    "image_keyword": "tech investment graph, stock market trend, US tech stocks",
+    "technical_terms": [
+      {
+        "term": "日経225",
+        "explanation": "東京証券取引所プライム市場上場銘柄のうち、日本経済新聞社が選定した225銘柄で構成される日本の代表的な株価指数。"
+      },
+      {
+        "term": "S&P500",
+        "explanation": "米国株式市場の代表的な株価指数で、ニューヨーク証券取引所やNASDAQに上場している主要500社の株式で構成される。"
+      },
+      {
+        "term": "米国テクノロジー株",
+        "explanation": "Apple、Microsoft、Google、NVIDIAなど、主にIT関連の技術革新を牽引する米国企業の株式。"
+      },
+      {
+        "term": "ファンド",
+        "explanation": "複数の投資家から集めた資金を一つにまとめ、専門家が株式や債券などに投資・運用する金融商品。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/15/news092.html": {
+    "title": "マネーフォワード、銀行連携を拡大再開！金融データ連携の安全と利便性がさらに向上",
+    "tags": "SaaS",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "16時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news092.html",
+    "summary_bullets": [
+      "マネーフォワードが東京スター銀行をはじめとする複数の金融機関とのデータ連携を再開、サービス利便性を拡大。",
+      "金融データ連携の安全性確保と利便性向上の両立が、個人の家計管理や企業の財務管理をより効率的にする。",
+      "今後もFinTechサービスと既存金融機関との連携は深化し、セキュアなデータ連携基盤が業界標準となる動きが加速する。"
+    ],
+    "insight": "FinTechサービスの競争力を維持・向上させるには、金融機関との安定した連携に加え、ユーザーが安心して利用できるセキュリティ対策の透明性が不可欠であり、これが顧客信頼と市場拡大の基盤となる。",
+    "action_plan": "現在利用しているFinTechサービスの連携状況を確認し、未連携の口座がある場合は再設定を検討して、自身の金融データ管理を最適化しましょう。",
+    "image_keyword": "fintech data connection, secure banking app, digital finance network",
+    "technical_terms": [
+      {
+        "term": "銀行連携",
+        "explanation": "FinTechサービスが利用者の銀行口座情報（入出金履歴など）を自動で取得し、一元管理できるようにする機能。"
+      },
+      {
+        "term": "FinTech",
+        "explanation": "Finance（金融）とTechnology（技術）を組み合わせた造語で、IT技術を活用した革新的な金融サービス全般を指す。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/15/news075.html": {
+    "title": "AIの雄OpenAIがサイバー攻撃の標的に：従業員端末侵害、macOSユーザーは緊急アプデ推奨",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "21時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news075.html",
+    "summary_bullets": [
+      "AI大手OpenAIがサプライチェーン攻撃の被害に遭い、従業員2名のmacOS端末が情報窃取マルウェアに感染した。",
+      "AI技術の最先端を走るOpenAIの被害は、サプライチェーン全体のセキュリティリスクの深刻化と、エンドポイント対策の喫緊性を浮き彫りにする。",
+      "今後、AI企業を含むあらゆる組織はサプライチェーン全体のリスク評価を強化し、ユーザー側もソフトウェアの定期更新で自衛する必要が高まるだろう。"
+    ],
+    "insight": "AI技術のイノベーションを牽引するOpenAIですらサイバー攻撃の標的となる現実を直視し、自社のサプライチェーンだけでなく、従業員のエンドポイントデバイスに至るまで多層的なセキュリティ対策の再構築が急務であると認識すべきです。",
+    "action_plan": "自社のサプライチェーンベンダーリストを再確認し、各社のセキュリティ対策状況についてリスクアセスメントを実施しましょう。また、従業員に対してOSやアプリケーションの最新バージョンへのアップデートを徹底するよう改めて周知徹底しましょう。",
+    "image_keyword": "OpenAI cybersecurity attack, supply chain breach, macOS security",
+    "technical_terms": [
+      {
+        "term": "サプライチェーン攻撃",
+        "explanation": "製品やサービスを提供する過程（供給網）に存在する脆弱な部分を狙い、最終的なターゲットに侵入するサイバー攻撃の一種。間接的なルートで侵入を図るのが特徴です。"
+      },
+      {
+        "term": "マルウェア",
+        "explanation": "悪意のあるソフトウェアの総称。ウイルス、トロイの木馬、ランサムウェアなど、コンピューターやネットワークに損害を与えたり、情報を盗み出したりする目的で作られたプログラムを指します。"
       }
     ]
   }
