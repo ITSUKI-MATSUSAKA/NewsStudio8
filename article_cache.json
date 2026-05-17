@@ -1,199 +1,4 @@
 {
-  "https://www.itmedia.co.jp/news/articles/2604/14/news080.html": {
-    "title": "AIによる異常スクレイピングか？Twilogが数十倍アクセスで緊急ログイン制限を実施",
-    "tags": "Cybersecurity",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 4,
-    "time_ago": "1日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/14/news080.html",
-    "summary_bullets": [
-      "TwilogがAI関連とみられる通常の数十倍のアクセスを受け、サービス保護のためログイン必須の緊急制限を発動しました。",
-      "AIの進化がデータスクレイピングの脅威を増大させ、プラットフォームの安定運用やユーザーデータの保護に深刻な課題を突きつけています。",
-      "今後、AIによるデータ収集に対する法的規制や技術的対策の強化が加速し、サービス提供者にはより高度なセキュリティ対策が求められるでしょう。"
-    ],
-    "insight": "AIの普及はビジネスチャンスだけでなく、データプライバシーとセキュリティに関する新たなリスクを生み出しています。自社サービスがAIによる不適切なデータ収集の標的とならないよう、先手を打った防御策と監視体制の強化が不可欠です。",
-    "action_plan": "自社サービスのアクセスログ監視体制を見直し、異常なアクセスパターンやスクレイピング行為がないか定期的にチェックする仕組みを構築しましょう。また、データ利用規約とプライバシーポリシーを再確認し、AIによるデータ利用に対する明確な姿勢を明記することも検討してください。",
-    "image_keyword": "AI data scraping, cyber security, data privacy",
-    "technical_terms": [
-      {
-        "term": "スクレイピング",
-        "explanation": "ウェブサイトから情報を自動的に抽出し、収集する技術です。"
-      },
-      {
-        "term": "Twilog",
-        "explanation": "X（旧Twitter）の投稿を自動で保存・アーカイブし、ウェブ上で閲覧可能にする外部サービスです。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/business/articles/2604/16/news016.html": {
-    "title": "日立「フィジカルAI」が切り拓く、熟練工の「暗黙知」データ化戦略：製造業DXの新標準",
-    "tags": "Industrial AI",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://www.itmedia.co.jp/business/articles/2604/16/news016.html",
-    "summary_bullets": [
-      "日立が熟練工本人も気づかない「暗黙知」をデータ化する「フィジカルAI」技術を発表。",
-      "属人化しがちな熟練技術の継承を可能にし、製造業の生産性向上とDX推進に大きく貢献する。",
-      "AIが物理的な現象や熟練者の微細な動作を解析する新たなアプローチが、製造業における自動化・最適化の未来を加速させる。",
-      "AIによる物理的プロセスの解明は、少子高齢化による労働力不足が深刻化する日本製造業の喫緊の課題解決に貢献し、グローバル競争力を高める。"
-    ],
-    "insight": "製造業において、熟練工の「勘」や「経験」といった非言語化された「暗黙知」は、AIを活用することで形式知化され、企業の競争力向上に直結する重要な資産となり得ます。単なる自動化に留まらず、人間とAIが協調して「暗黙知」を解放するアプローチが、DXの次のフェーズを決定づけるでしょう。",
-    "action_plan": "自社の製造現場やサービスプロセスにおいて、現在「熟練者の勘」に依存している工程や品質管理のポイントを洗い出してみましょう。そして、AIによる「暗黙知」データ化の具体的な事例を調査し、自社への導入可能性について部署横断で議論を始めてみましょう。",
-    "image_keyword": "Industrial AI Manufacturing",
-    "technical_terms": [
-      {
-        "term": "暗黙知 (Tacit Knowledge)",
-        "explanation": "言語化やマニュアル化が困難な、個人の経験、勘、直感に基づいた知識やスキル。"
-      },
-      {
-        "term": "フィジカルAI (Physical AI)",
-        "explanation": "物理的なプロセスや現象、機械の動作などを深く理解し、制御するために特化したAI技術。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/enterprise/articles/2604/15/news135.html": {
-    "title": "トヨタ・コニック・プロ、AI PC 800台導入の深層：失敗を避けるAI活用戦略とは？",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "13時間前",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2604/15/news135.html",
-    "summary_bullets": [
-      "トヨタ・コニック・プロが800台のAI PCを導入し、企業内での生成AI活用を本格化する方針を発表。",
-      "大規模なAIインフラの導入は、従業員の生産性向上とAI活用における失敗回避のための戦略的アプローチを示す。",
-      "AI PCの普及と成功のためのAI活用戦略は、今後の企業のデジタル変革における主要なトレンドとなる見込み。"
-    ],
-    "insight": "AI導入は単なる技術投資に留まらず、その活用を成功させるための綿密な戦略と、潜在的な失敗要因を事前に特定し対処する「くじけない」ための視点が極めて重要であることを示唆しています。",
-    "action_plan": "自社でのAI導入計画や既存のAI活用戦略を見直し、AI活用の目標達成を阻む可能性のある要因を洗い出し、具体的な対策案を策定してみましょう。",
-    "image_keyword": "AI PC office strategy",
-    "technical_terms": [
-      {
-        "term": "AI PC",
-        "explanation": "AI処理に特化した機能を内蔵し、生成AIなどをPC上で高速かつ効率的に実行できるパソコン。"
-      },
-      {
-        "term": "生成AI",
-        "explanation": "テキストや画像、音声など、様々な形式のコンテンツを自律的に生成できる人工知能。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/business/articles/2604/15/news105.html": {
-    "title": "日立、AIエージェントで貿易安全保障リスク管理を革新：審査時間60%短縮の秘訣",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "16時間前",
-    "url": "https://www.itmedia.co.jp/business/articles/2604/15/news105.html",
-    "summary_bullets": [
-      "日立グループがAIエージェントを導入し、貿易における安全保障リスクの審査時間を60%短縮することに成功。",
-      "複雑化する国際情勢下での厳格な貿易管理とコンプライアンス遵守を、AI活用によって効率的に両立できることを実証。",
-      "AIによる高度なリスク評価と業務自動化が、今後のサプライチェーン全体のセキュリティと効率化のトレンドとなる可能性。",
-      "貿易取引における膨大な情報処理と専門知識をAIが代行し、ヒューマンエラーのリスクを低減しながら業務品質を向上。"
-    ],
-    "insight": "グローバルビジネスにおける規制強化と複雑化は避けられませんが、AI技術の戦略的導入によって、コンプライアンス遵守と業務効率化を両立し、競争優位性を確立できる時代が到来しています。",
-    "action_plan": "自社のサプライチェーンや貿易関連業務における潜在的なリスクポイントを洗い出し、AIを活用した審査・管理プロセスの効率化と自動化の可能性を検討してみましょう。",
-    "image_keyword": "AI trade compliance, risk management, supply chain security",
-    "technical_terms": [
-      {
-        "term": "AIエージェント",
-        "explanation": "特定の目的のために自律的に情報を収集・分析し、判断を下して行動する人工知能プログラム。"
-      },
-      {
-        "term": "貿易の安全保障リスク",
-        "explanation": "国際貿易において、輸出入される製品や技術が核・生物・化学兵器などの開発に転用されたり、テロ組織への流出など、国の安全保障を脅かす可能性のあるリスク。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6576391?source=rss": {
-    "title": "災害時の「誤情報」拡散を防ぐ：企業・組織が講じるべき戦略とAI活用の可能性",
-    "tags": "Crisis Management",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://news.yahoo.co.jp/pickup/6576391?source=rss",
-    "summary_bullets": [
-      "災害時におけるデマや誤情報の急速な拡散が、社会混乱と復旧活動の妨げとなる深刻な問題として認識されている。",
-      "企業は誤情報によるブランド毀損や信頼失墜のリスクに直面し、正確な情報伝達と危機管理体制の強化がビジネス継続の鍵となる。",
-      "今後は、AIによる情報検証技術の導入、デジタルリテラシー教育の強化、そして官民連携による効果的な情報共有プラットフォーム構築がトレンドとなる。"
-    ],
-    "insight": "ビジネスリーダーは、災害時の誤情報が企業ブランド、従業員の安全、サプライチェーン全体に与える潜在的リスクを再評価し、平時から高度な情報戦略とAIを活用したファクトチェック体制の構築に投資すべきです。",
-    "action_plan": "自社の災害時BCP（事業継続計画）における情報発信ガイドラインを見直し、誤情報対策の項目を具体的に追加しましょう。また、AIを活用した情報検証ツールの導入可能性について調査を開始し、従業員向けにデジタルリテラシーとフェイクニュースを見分ける能力を高める研修を計画しましょう。",
-    "image_keyword": "Disaster misinformation, fake news prevention, crisis communication tech",
-    "technical_terms": [
-      {
-        "term": "ファクトチェック",
-        "explanation": "情報の真偽を検証し、誤りがあれば訂正するプロセス。"
-      },
-      {
-        "term": "デジタルリテラシー",
-        "explanation": "デジタル情報を適切に理解、評価、活用し、倫理的に行動する能力。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6576319?source=rss": {
-    "title": "Z世代の「顔隠しポーズ」：デジタルネイティブ世代の自己表現とプライバシー戦略を読み解く",
-    "tags": "Social Media Trends",
-    "sentiment": "neutral",
-    "sentiment_text": "注目の話題",
-    "rating": 4,
-    "time_ago": "20時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6576319?source=rss",
-    "summary_bullets": [
-      "女子高校生の間で顔の一部を隠すポーズが流行しており、その背景にはプライバシー保護意識やSNSでの見え方を意識した自己表現がある。",
-      "デジタルネイティブであるZ世代の行動様式は、企業がターゲット顧客を理解し、製品開発やマーケティング戦略を立てる上で重要なインサイトを提供する。",
-      "SNSを通じた自己表現とプライバシー管理のバランスは、今後も若年層のデジタル行動の主要なトレンドとして進化し続けると予測される。"
-    ],
-    "insight": "Z世代がSNSで見せる「顔隠し」などの行動は、単なるファッションではなく、デジタル空間における複雑な自己ブランディング、プライバシー管理、そして他者との関係性を巧みに操作する彼らならではの戦略であり、これを深く理解することが次世代の消費者行動を捉える鍵となる。",
-    "action_plan": "自社のサービスや製品が、Z世代のデジタル上での自己表現やプライバシー意識にどのように響くかを再評価し、彼らのニーズに合わせたコミュニケーション戦略や機能改善の可能性をチームでディスカッションしてみましょう。",
-    "image_keyword": "Gen Z social media, digital privacy, youth culture pose",
-    "technical_terms": [
-      {
-        "term": "Z世代",
-        "explanation": "1990年代中盤から2010年代序盤に生まれた世代で、インターネットやデジタル技術が生活に深く浸透した環境で育った世代を指します。"
-      },
-      {
-        "term": "デジタルリテラシー",
-        "explanation": "デジタル情報を理解し、適切に活用する能力のこと。情報の真偽を見抜く力や、オンラインでの適切なコミュニケーション能力なども含まれます。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5MzFiTHZsY3MtbndzREpHVWYtenNLTlc0YWVDUnBNYW5LYkFjOE42ZXNvWUxna09DT0JkdFZUYkZZVlk4bGdJSlJlZ0o2eHpiSlZGTVZORjRmVlV5ZGZnREF2SlhGN1VTakl0MlZJU3JHWHhRa0tfbWRGOWhienM?oc=5": {
-    "title": "半導体積層化の最前線：後工程の高精度化が拓く2次元スケール成長戦略",
-    "tags": "Semiconductor",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5MzFiTHZsY3MtbndzREpHVWYtenNLTlc0YWVDUnBNYW5LYkFjOE42ZXNvWUxna09DT0JkdFZUYkZZVlk4bGdJSlJlZ0o2eHpiSlZGTVZORjRmVlV5ZGZnREF2SlhGN1VTakl0MlZJU3JHWHhRa0tfbWRGOWhienM?oc=5",
-    "summary_bullets": [
-      "半導体の高性能化を支える積層化（3Dスタッキング）において、後工程での極めて高い精度要求が高まっている。",
-      "この高精度化は、次世代半導体の量産化と性能向上を実現し、AIやIoTといった先端技術の進化を加速させる基盤となる。",
-      "微細な2次元スケールでの計測・制御技術が、積層化された半導体の品質と信頼性を保証する鍵となり、今後も技術革新が期待される。"
-    ],
-    "insight": "半導体産業の未来は、微細化の限界に挑む前工程だけでなく、積層化を可能にする後工程の精度向上にかかっています。この領域への戦略的投資と技術革新は、DX（デジタルトランスフォーメーション）を支える基盤技術として、各企業の競争力に直結するでしょう。",
-    "action_plan": "自社の製品やサービスが半導体技術に深く依存している場合、今後の半導体製造プロセスの進化、特に後工程技術の動向について情報収集し、サプライチェーンや製品開発戦略への影響を評価してみましょう。",
-    "image_keyword": "semiconductor stacking, wafer inspection, precision manufacturing",
-    "technical_terms": [
-      {
-        "term": "後工程",
-        "explanation": "半導体製造プロセスの後半部分で、シリコンウェハーを個別のチップに切り分け、電気的に接続し、保護ケースに封入（パッケージング）するまでの工程を指します。"
-      },
-      {
-        "term": "積層化",
-        "explanation": "複数の半導体チップや異なる機能を垂直に積み重ねて接続することで、限られたスペース内で高密度化、高性能化、多機能化を実現する技術です。"
-      },
-      {
-        "term": "2次元スケール",
-        "explanation": "極めて微細なレベルでの平面的な配置や計測、制御を指します。半導体製造では、ミクロンやナノメートルといった単位での精密な操作が求められます。"
-      }
-    ]
-  },
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByOW1RZU1qS3k1aXUxZFl2a1A2RTh3Y2hfcnlSLWNSR3BKTktSeXRhSFgwZ0lqS1VmX3lYc0s4cFB3anRpMnF0d0tqWUtkME1GdEJKaUVSTQ?oc=5": {
     "title": "三菱電機、福岡にパワー半導体新工場を建設：生産効率4割向上で市場競争力強化へ",
     "tags": "Hardware",
@@ -4867,7 +4672,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/14/news119.html",
     "summary_bullets": [
       "津田塾大学が、別件で逮捕された元職員による個人情報漏えいを公表し謝罪した。",
@@ -5215,7 +5020,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 4,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/15/news092.html",
     "summary_bullets": [
       "マネーフォワードが東京スター銀行をはじめとする複数の金融機関とのデータ連携を再開、サービス利便性を拡大。",
@@ -5242,7 +5047,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/15/news075.html",
     "summary_bullets": [
       "AI大手OpenAIがサプライチェーン攻撃の被害に遭い、従業員2名のmacOS端末が情報窃取マルウェアに感染した。",
@@ -5300,7 +5105,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 4,
-    "time_ago": "15時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6580388?source=rss",
     "summary_bullets": [
       "SNS上での個人的な『助けてください』投稿が頻発し、その情報拡散の是非や社会的な責任が議論の的となっている。",
@@ -5421,6 +5226,187 @@
       {
         "term": "AIアクセラレータ",
         "explanation": "AI処理を高速化するために設計された専用ハードウェア（GPU、TPU、FPGAなど）。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2605/18/news038.html": {
+    "title": "イーロン・マスクの「プロダクトファースト」哲学が中国を変える：次世代起業家を突き動かす技術への執着",
+    "tags": "Business Strategy",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2605/18/news038.html",
+    "summary_bullets": [
+      "イーロン・マスクが貫く「プロダクトファースト」と「技術への執着」が、中国の若手起業家たちに大きな影響を与えている。",
+      "マスク氏の哲学は、中国におけるイノベーション推進と競争激化の原動力となり、次世代技術リーダーの育成に貢献している。",
+      "今後も技術ドリブンの製品開発と市場投入が加速し、特に中国市場ではマスク氏に続く「技術狂」起業家が増加するトレンドが予測される。"
+    ],
+    "insight": "表面的な市場トレンドに流されず、顧客価値を最大化する「プロダクト」と、それを可能にする「技術」への深い執着こそが、真の競争優位を生み出し、グローバル市場で影響力を持つための源泉であると理解すべきです。",
+    "action_plan": "自社の製品開発プロセスにおいて、顧客視点での「プロダクトファースト」が徹底されているか、そしてその裏付けとなる「技術」への投資と探求が十分であるかを見直してみましょう。",
+    "image_keyword": "Elon Musk influence, Chinese tech startups, Product first strategy",
+    "technical_terms": [
+      {
+        "term": "プロダクトファースト",
+        "explanation": "企業が顧客にとって価値のある製品（プロダクト）を最優先に考え、その開発・改善に集中する経営戦略や思想。"
+      }
+    ]
+  },
+  "https://kn.itmedia.co.jp/kn/articles/2605/18/news034.html": {
+    "title": "【速報】AI約款のリスクをわずか1分で可視化！「天秤AI Biz」新機能で法務・リスク管理を革新",
+    "tags": "Legal Tech",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2605/18/news034.html",
+    "summary_bullets": [
+      "「天秤AI Biz」が、膨大なAI約款のリスクをわずか1分で可視化する新機能を提供開始。",
+      "企業のAI導入における法的・倫理的リスク管理を劇的に効率化し、コンプライアンス強化に貢献。",
+      "AI活用が進む中で、法務・リスク管理領域でのAIツール導入が加速し、専門知識のハードルを低減するトレンドを加速させる。"
+    ],
+    "insight": "AIの利活用が進む現代において、法務リスク管理は避けて通れない課題です。本機能は、複雑なAI約款のチェックを自動化・高速化し、企業がAI技術を安全かつ迅速に導入・活用するための強力な基盤を提供します。これにより、法的専門知識が不足しがちな中小企業でも、大企業と同レベルのリスク管理が可能になり、競争力向上に直結するでしょう。",
+    "action_plan": "自社のAI利用における既存の約款レビュープロセスを見直し、天秤AI BizのようなAI法務支援ツールの導入可能性を検討してみましょう。",
+    "image_keyword": "AI Legal Tech, AI Contract Risk, Digital Compliance",
+    "technical_terms": [
+      {
+        "term": "AI約款",
+        "explanation": "AIサービスやシステムを利用する際に合意する利用規約や契約条件のこと。利用範囲、データ利用、責任範囲などが詳細に定められる。"
+      },
+      {
+        "term": "リスクの見える化",
+        "explanation": "潜在的な危険や不確実な要素を明確にし、具体的な指標や図表などを用いて誰もが理解できる形にすること。"
+      },
+      {
+        "term": "Legal Tech",
+        "explanation": "法律業務にテクノロジーを活用する動きやサービス全般を指す。契約書レビュー、訴訟予測、法務リサーチなどを効率化する。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2605/18/news017.html": {
+    "title": "AI電力需要の現実：Jパワー社長が明かす「急増」報道の“温度差”",
+    "tags": "Energy",
+    "sentiment": "neutral",
+    "sentiment_text": "議論の焦点",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2605/18/news017.html",
+    "summary_bullets": [
+      "AIデータセンターの電力需要急増に関する報道に対し、発電大手Jパワー社長が電力供給側の視点から「報道との温度差」を表明。",
+      "AI技術の普及を支える電力インフラの課題と、それに対する現実的な需給認識の重要性が浮き彫りに。",
+      "持続可能なAIインフラ構築のため、電力供給側と需要側の連携強化および長期的なエネルギー戦略策定が求められる。"
+    ],
+    "insight": "AI関連技術の導入を計画するビジネスマンは、表面的な情報に惑わされず、電力供給側の実情を深く理解し、現実的な需給バランスと長期的なインフラ計画を考慮した戦略を立てるべきです。",
+    "action_plan": "自社のAI導入計画における電力需要と供給リスクについて再評価し、長期的な電力供給戦略の策定に着手しましょう。",
+    "image_keyword": "AI data center power grid",
+    "technical_terms": [
+      {
+        "term": "AIデータセンター",
+        "explanation": "大規模なAIモデルの学習や推論を支えるために、高性能なGPUサーバー群とそれを冷却する設備を備えたデータセンター。"
+      },
+      {
+        "term": "電力需要",
+        "explanation": "特定の期間や地域において、経済活動や生活のために必要とされる電力の総量。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6580534?source=rss": {
+    "title": "Xperia新型モデル、3万円超の値上げ：その背景とスマホ市場の価格戦略",
+    "tags": "Hardware",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "13時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6580534?source=rss",
+    "summary_bullets": [
+      "ソニーの新型Xperiaが前モデルから3万円を超える大幅な値上げを実施する見込みである。",
+      "この値上げは、部品コストの高騰、円安、開発費の増大といった複合的な要因が背景にあると推測され、スマートフォン市場全体の価格戦略に影響を与える可能性がある。",
+      "高機能化とコスト増大が続くスマートフォン市場において、メーカーは価格競争力と収益性のバランスをいかに取るかが今後のトレンドとなるだろう。"
+    ],
+    "insight": "現在の世界的なインフレや円安、サプライチェーンの混乱といったマクロ経済要因は、製品の価格決定に直接的な影響を及ぼし、消費者の購買行動や企業の収益構造を大きく変える可能性があるため、ビジネスリーダーは常にこれらの動向を注視し、戦略に組み込む必要があります。",
+    "action_plan": "自社製品・サービスのコスト構造と価格設定について、原材料費、人件費、物流費、為替変動などの外部要因が与える影響を改めて分析し、今後の価格改定やコスト削減戦略のオプションを洗い出してみましょう。",
+    "image_keyword": "Xperia smartphone price increase",
+    "technical_terms": [
+      {
+        "term": "サプライチェーンコスト",
+        "explanation": "製品が消費者の手元に届くまでの、原材料の調達から製造、流通、販売までの一連のプロセスにかかる総費用。"
+      },
+      {
+        "term": "為替変動",
+        "explanation": "異なる通貨間の交換レートが変動すること。輸入部品の仕入れ価格や輸出製品の収益性に影響を与える。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6580495?source=rss": {
+    "title": "未成年者を巻き込む組織的犯罪：社会とテクノロジーで防ぐ方策",
+    "tags": "Public Safety",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "18時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6580495?source=rss",
+    "summary_bullets": [
+      "未成年が組織的強盗に利用される深刻な社会問題が浮上しており、その対策が急務となっている。",
+      "企業は従業員の安全確保や社会的責任の観点から、治安悪化のリスクを考慮し、地域社会との連携強化や新たな防犯技術への投資を検討する必要がある。",
+      "今後は、AIによる犯罪予測システムやデジタルリテラシー教育の強化、未成年者保護を目的とした官民連携のプラットフォーム構築がトレンドとなるだろう。"
+    ],
+    "insight": "社会全体の治安悪化はビジネスリスクに直結するため、企業は単なる経済活動に留まらず、社会課題解決への貢献を通じて持続可能なビジネス環境を構築する視点が不可欠です。",
+    "action_plan": "自社の事業活動やサプライチェーンにおいて、未成年者や脆弱な人々が関わるリスクがないかを再評価し、倫理的な調達基準や雇用ポリシーを見直す議論を始めてみましょう。",
+    "image_keyword": "juvenile crime, public security, youth protection",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxNajhHQ3YtdUVXT3A0QXJpRXM2TFMwejJUM2NOajR0WTdYdnY5bW1NRnZkS0IwZXhjeGFpZDBvY0tSbVBmUy1PLUxSbi1nYVJpMFBVbjdQUDd5d1Bqc2JBRG5BN1RVWkZyN0o5N2VmYnoxVmhYZnlCbFptMThzS0hwV0gxOHdpd3p1cGFORQ?oc=5": {
+    "title": "警告：AI半導体ブームの過熱が「自滅の種」を蒔く可能性 - WSJ分析",
+    "tags": "Hardware",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNajhHQ3YtdUVXT3A0QXJpRXM2TFMwejJUM2NOajR0WTdYdnY5bW1NRnZkS0IwZXhjeGFpZDBvY0tSbVBmUy1PLUxSbi1nYVJpMFBVbjdQUDd5d1Bqc2JBRG5BN1RVWkZyN0o5N2VmYnoxVmhYZnlCbFptMThzS0hwV0gxOHdpd3p1cGFORQ?oc=5",
+    "summary_bullets": [
+      "AI半導体市場の現在の過熱が、将来的に市場の自滅を招くリスクがあるとWSJが指摘。",
+      "半導体メーカー各社の過剰な設備投資や競争激化が、供給過多や価格競争を引き起こす可能性。",
+      "過去のITバブルや半導体サイクルの教訓から、持続可能性に欠ける成長モデルへの警鐘。",
+      "AI技術の進化が需要を牽引する一方で、市場の健全な成長に必要な慎重な戦略の重要性が高まる。"
+    ],
+    "insight": "AI半導体市場の爆発的成長は魅力的ですが、その裏に潜むバブル崩壊のリスクを理解し、短期的な利益追求だけでなく、長期的な視点での事業戦略とリスク管理が不可欠です。",
+    "action_plan": "自社のAI関連投資（特にハードウェア関連）が、市場の過熱によるリスクにどの程度晒されているかを見直しましょう。また、代替サプライチェーンや技術オプションの検討を開始し、将来的な市場変動に備える計画を立てましょう。",
+    "image_keyword": "AI chip market bubble, semiconductor industry risk, technology oversupply warning",
+    "technical_terms": [
+      {
+        "term": "AI半導体",
+        "explanation": "人工知能（AI）の計算処理に特化して設計された高性能な半導体チップ。特にGPU（Graphics Processing Unit）などが代表的。"
+      },
+      {
+        "term": "市場のバブル",
+        "explanation": "特定の資産や市場の価格が、その本質的価値や実体経済の成長を超えて異常に高騰し、やがて崩壊する現象。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fR3UyNVMzeXNUSWpqVE9tbmhacHE1cEMyY2hoaFZJZEJsUzhqR3lYWDAxaHBNRFp1N1Q4MVFGVDdDVWxCRmJSb05ITl80WUFiX3FfcXBTLURLOFhEaFltSVU0SUMzTWVuNnp4NjBLdEk3MEM3ZEdnVWRlcFRhSlU?oc=5": {
+    "title": "半導体覇権争奪戦：日本が「王国再建」を加速する中、韓国は「果実分配」へ向かうか？",
+    "tags": "Semiconductor",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fR3UyNVMzeXNUSWpqVE9tbmhacHE1cEMyY2hoaFZJZEJsUzhqR3lYWDAxaHBNRFp1N1Q4MVFGVDdDVWxCRmJSb05ITl80WUFiX3FfcXBTLURLOFhEaFltSVU0SUMzTWVuNnp4NjBLdEk3MEM3ZEdnVWRlcFRhSlU?oc=5",
+    "summary_bullets": [
+      "韓国の半導体産業が成熟期を迎え「果実」を分かち合う局面にある一方、日本は政府主導で「半導体王国」の再建を加速している。",
+      "日韓両国の半導体戦略は、グローバルサプライチェーンの安定性や国際的な技術覇権争奪に大きな影響を与え、経済安全保障上の重要性が高まる。",
+      "日本の官民一体の巨額投資と韓国の既存技術基盤を巡る戦略的な動きが、今後の世界半導体市場の勢力図を大きく塗り替える競争を激化させるだろう。"
+    ],
+    "insight": "半導体産業における国際競争は激化の一途を辿っており、特定国に依存しない強靭なサプライチェーンの構築や、次世代技術への戦略的投資の重要性が改めて浮き彫りになります。自社の事業が半導体エコシステムとどのように関連するかを再評価し、未来の技術トレンドを見据えた戦略を立てるべき時です。",
+    "action_plan": "自社のサプライチェーンにおける半導体関連リスクを洗い出し、代替調達先の検討や多様化の可能性を評価してみましょう。また、AIやIoTなど半導体需要を喚起する新技術の動向を定期的にチェックし、自社ビジネスへの応用可能性を具体的に書き出してみましょう。",
+    "image_keyword": "Semiconductor competition, Japan Korea tech, Global chip strategy",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "電気を通す導体と通さない絶縁体の中間の性質を持つ物質で、ICチップなどの電子部品の主要材料。現代のあらゆる電子機器に不可欠です。"
+      },
+      {
+        "term": "半導体王国",
+        "explanation": "かつて高い競争力を持っていた、または現在世界市場で支配的な地位を占める半導体産業を持つ国を指す表現です。"
       }
     ]
   }
