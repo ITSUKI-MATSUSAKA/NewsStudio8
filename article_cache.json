@@ -1,193 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByOW1RZU1qS3k1aXUxZFl2a1A2RTh3Y2hfcnlSLWNSR3BKTktSeXRhSFgwZ0lqS1VmX3lYc0s4cFB3anRpMnF0d0tqWUtkME1GdEJKaUVSTQ?oc=5": {
-    "title": "三菱電機、福岡にパワー半導体新工場を建設：生産効率4割向上で市場競争力強化へ",
-    "tags": "Hardware",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "1時間前",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByOW1RZU1qS3k1aXUxZFl2a1A2RTh3Y2hfcnlSLWNSR3BKTktSeXRhSFgwZ0lqS1VmX3lYc0s4cFB3anRpMnF0d0tqWUtkME1GdEJKaUVSTQ?oc=5",
-    "summary_bullets": [
-      "三菱電機が福岡にパワー半導体の新工場を建設し、生産能力と効率の大幅な向上を目指す。",
-      "新工場は生産効率を4割改善し、電気自動車（EV）や再生可能エネルギー分野での世界的なパワー半導体需要増に対応する。",
-      "この投資は、脱炭素社会の実現に不可欠なパワー半導体の安定供給を強化し、日本の半導体産業の国際競争力を高めるトレンドを示す。"
-    ],
-    "insight": "パワー半導体は脱炭素化社会の基盤を支える戦略的部品であり、三菱電機の新工場投資は、日本の製造業がグローバルなサプライチェーンにおける重要性と競争力を維持しようとする強い意志の表れです。この動きは、関連産業の成長機会と国際的な技術競争の激化を示唆しています。",
-    "action_plan": "自社のサプライチェーンにおいて、パワー半導体を含む重要部品の調達戦略を見直し、安定供給リスクや技術革新への対応策を検討してみましょう。",
-    "image_keyword": "Power semiconductor factory, Mitsubishi Electric,福岡工場",
-    "technical_terms": [
-      {
-        "term": "パワー半導体",
-        "explanation": "電力の変換や制御に使われる半導体で、電気自動車（EV）、家電、産業機械、再生可能エネルギー設備など、幅広い分野で電力効率の向上に貢献する基幹部品です。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12Y0NZYnl2ejh5U0FPUmVpcVl1ejFEdkVNWl8wT0t3VVhzWWtvcUp4dXZ6bnpucVd2ZEQ0WTRIcDVucU91OWk2QVVyc0NYV0JNTXVEZ3VmY0d1U1l6bDhUeQ?oc=5": {
-    "title": "中国半導体国産化の深層：最先端技術への道のりと世界へのインパクト",
-    "tags": "Hardware",
-    "sentiment": "neutral",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "1時間前",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12Y0NZYnl2ejh5U0FPUmVpcVl1ejFEdkVNWl8wT0t3VVhzWWtvcUp4dXZ6bnpucVd2ZEQ0WTRIcDVucU91OWk2QVVyc0NYV0JNTXVEZ3VmY0d1U1l6bDhUeQ?oc=5",
-    "summary_bullets": [
-      "中国は半導体国産化を国家戦略として強力に推進しており、特にレガシープロセス分野で一定の成果を上げつつある。",
-      "中国の半導体自給率向上は、グローバルなサプライチェーン構造に変化をもたらし、米国の輸出規制に対するカウンターとなる可能性を秘めている。",
-      "今後はレガシープロセスでの自給を固めつつ、最先端プロセスでの技術追いつきを目指すが、米国の規制強化が大きな障壁となり、技術競争は激化すると予測される。"
-    ],
-    "insight": "中国の半導体国産化の進展は、地政学的リスクとグローバルサプライチェーンの再編を加速させています。企業は、特定の国への依存度を再評価し、サプライチェーンの多角化や代替技術への投資を真剣に検討すべきです。",
-    "action_plan": "自社の製品やサービスにおける半導体の調達状況を棚卸しし、中国の国産化進展や米中対立がサプライチェーンに与える潜在的リスクを評価するシナリオプランニングを書き出してみましょう。",
-    "image_keyword": "China semiconductor manufacturing, chip geopolitics, global supply chain",
-    "technical_terms": [
-      {
-        "term": "半導体国産化",
-        "explanation": "特定の国が自国内で半導体の設計から製造までを一貫して行う能力を高めること。"
-      },
-      {
-        "term": "レガシープロセス",
-        "explanation": "比較的成熟した技術を用いた半導体製造プロセス。先端プロセスに比べて微細化の度合いは低いが、汎用性が高い。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/15/news126.html": {
-    "title": "【緊急警戒】国民健康保険の偽装請求でPayPay詐欺が横行！あなたの資産を守る対策とは",
-    "tags": "Cybersecurity",
-    "sentiment": "negative",
-    "sentiment_text": "警戒すべき話題",
-    "rating": 4,
-    "time_ago": "4日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/15/news126.html",
-    "summary_bullets": [
-      "国民健康保険の支払いを装い、PayPayでの送金を要求するフィッシング詐欺が横行しており、フィッシング対策協議会が注意喚起した。",
-      "行政機関を騙る手口は巧妙化し、個人の金融資産が直接狙われるため、企業のセキュリティ教育やリスクマネジメントの重要性が一層高まる。",
-      "デジタル決済の普及に伴い、公的機関や有名サービスを装った詐欺は今後も増加・多様化し、個人および組織は継続的な警戒と対策が求められる。"
-    ],
-    "insight": "従業員の個人資産が狙われる詐欺は、企業全体のセキュリティ意識の低下や信頼失墜にも繋がりかねないため、個人レベルでのセキュリティリテラシー向上はもはや企業リスクマネジメントの一環として捉えるべきです。",
-    "action_plan": "公的機関からの連絡は必ず公式サイトや公的な問い合わせ先で真偽を確認する習慣をつけ、社内でのフィッシング詐欺対策に関する従業員向け再教育プログラムを検討しましょう。",
-    "image_keyword": "Phishing scam alert",
-    "technical_terms": [
-      {
-        "term": "フィッシング詐欺",
-        "explanation": "偽のウェブサイトやメールで個人情報や金銭を騙し取るサイバー犯罪の一種。"
-      },
-      {
-        "term": "PayPay",
-        "explanation": "スマートフォンを使用したQRコード決済サービスで、幅広い店舗やオンラインサービスで利用可能。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/15/news029.html": {
-    "title": "光ファイバーが盗聴器に？最新サイバー攻撃「Fiber Tapping」の脅威と対策",
-    "tags": "Cybersecurity",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "2日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/15/news029.html",
-    "summary_bullets": [
-      "中国の研究者が、光ファイバーを振動センサーとして悪用し、周囲の会話を盗聴する新たな攻撃手法「Fiber Tapping」を発表した。",
-      "既存の光ファイバーインフラが盗聴リスクに晒され、企業や政府機関の機密情報漏洩、プライバシー侵害の脅威が高まる。",
-      "光ファイバーの物理的セキュリティ対策や、異常振動検知技術の進化が喫緊の課題となり、新たなセキュリティ製品・サービスの需要が拡大する。"
-    ],
-    "insight": "デジタル化が進む現代において、物理インフラである光ファイバーすらも新たな攻撃ベクトルの対象となる可能性があり、サイバーセキュリティは単なるソフトウェア対策に留まらず、インフラ全体の物理的・論理的両面からの多層防御が不可欠であると再認識すべきです。",
-    "action_plan": "自社の光ファイバーネットワーク経路の見直し、不審な振動やアクセスがないか物理的監視体制の強化、そして新たな脅威に対応するためのセキュリティ研修の実施を検討しましょう。",
-    "image_keyword": "fiber optic tapping, cyber espionage, vibration sensor",
-    "technical_terms": [
-      {
-        "term": "光ファイバー",
-        "explanation": "光信号を用いて情報を高速で伝送するガラスやプラスチック製の細い繊維で、インターネットや通信ネットワークの基盤となっている。"
-      },
-      {
-        "term": "盗聴攻撃 (Fiber Tapping)",
-        "explanation": "光ファイバーケーブルが捉える微細な振動を解析し、近くで交わされる会話などの音情報を盗み取るサイバー攻撃の一種。"
-      },
-      {
-        "term": "振動センサー",
-        "explanation": "物理的な振動を電気信号などに変換して検知・測定する装置で、本件では光ファイバーがその役割を悪用される。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/business/articles/2604/17/news030.html": {
-    "title": "PC1台が企業を脅かす！アサヒ・アスクル事例から学ぶ、日本HPが説くサイバーセキュリティ投資の真意",
-    "tags": "Cybersecurity",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://www.itmedia.co.jp/business/articles/2604/17/news030.html",
-    "summary_bullets": [
-      "アサヒグループHDやアスクルがPC1台を起点とした情報漏洩リスクに直面した事例が示され、エンドポイントセキュリティの死角が浮き彫りに。",
-      "企業はPCのライフサイクル全体にわたる多層的なセキュリティ対策を怠ると、深刻なビジネスリスクに繋がる可能性が高い。",
-      "サイバー攻撃の巧妙化に対応するため、ハードウェアレベルからの統合的なセキュリティソリューションへの投資が今後の必須トレンドとなる。"
-    ],
-    "insight": "現代のサイバー攻撃は、従業員個人のPC1台からでも企業の機密情報や事業継続を脅かすため、エンドポイントセキュリティへの戦略的投資は、もはやコストではなく事業を守るための生命線であると認識すべきだ。",
-    "action_plan": "自社のPC管理ポリシーとエンドポイントセキュリティ対策の現状を速やかに見直し、専門家によるセキュリティ診断や最新のハードウェアおよびソフトウェア統合型ソリューションの導入を検討しましょう。",
-    "image_keyword": "cyber security, corporate risk, endpoint protection",
-    "technical_terms": [
-      {
-        "term": "エンドポイントセキュリティ",
-        "explanation": "PC、スマートフォン、サーバーなど、ネットワークに接続された末端のデバイス（エンドポイント）を保護するためのセキュリティ対策全般。"
-      },
-      {
-        "term": "死角",
-        "explanation": "企業や組織が見落としがちな、セキュリティ上の弱点や脆弱性のこと。本記事では特にPC1台から生じるリスクを指す。"
-      }
-    ]
-  },
-  "https://atmarkit.itmedia.co.jp/ait/articles/2604/17/news018.html": {
-    "title": "ColabにGemini学習モードが統合：AIがプログラミングの“先生”になる日",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 4,
-    "time_ago": "2時間前",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/17/news018.html",
-    "summary_bullets": [
-      "Google ColaboratoryにGeminiの学習支援機能が統合され、AIがコード解説やヒント提供をリアルタイムで行う。",
-      "プログラミング学習の障壁が大幅に低減し、AIを活用した効率的なスキル習得がビジネスパーソンにも加速する。",
-      "AIが個別の学習進度や課題に合わせてカスタマイズされた教育体験を提供する、パーソナライズされたプログラミング学習が主流となるだろう。"
-    ],
-    "insight": "AIの進化は、単なる作業効率化に留まらず、学習体験そのものを根本から変革するフェーズに入った。自社のリスキリング戦略や社員教育において、AIを”教師”として活用する視点が不可欠となる。",
-    "action_plan": "まずはGoogle ColaboratoryでGeminiの学習モードを実際に体験し、その効果と可能性を肌で感じてみましょう。自社のプログラミング教育や新規事業開発におけるAI活用方法について、具体的なアイデアを書き出してみましょう。",
-    "image_keyword": "AI programming learning, Colab Gemini, intelligent coding assistant",
-    "technical_terms": [
-      {
-        "term": "Google Colaboratory (Colab)",
-        "explanation": "Googleが提供するクラウドベースのPython実行環境で、Webブラウザを通じて無料でプログラミング学習やAI開発が可能。"
-      },
-      {
-        "term": "Gemini",
-        "explanation": "Googleが開発した大規模言語モデル（LLM）で、テキスト生成、翻訳、要約、コード生成など多岐にわたるタスクを実行できる強力なAI。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6576452?source=rss": {
-    "title": "AIキャラクター『ポケとも』成功の鍵：ユーザーエンゲージメントを最大化する秘訣",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 4,
-    "time_ago": "20時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6576452?source=rss",
-    "summary_bullets": [
-      "AIキャラクター「ポケとも」がユーザーの感情に寄り添うことで高いエンゲージメントを獲得し、ヒットしている。",
-      "AIによるパーソナライズされたコミュニケーションは、エンターテインメントのみならず、顧客エンゲージメントやサービス提供における新たなビジネスモデル創出の可能性を示す。",
-      "人間とAIが感情的に深く結びつく、次世代のインタラクティブなエンターテインメントやコミュニケーションサービスのトレンドが加速する。"
-    ],
-    "insight": "AI技術が高度化する中で、ユーザーの感情やパーソナルな体験に深く寄り添うAIキャラクターは、エンターテインメントのみならず、顧客サポートや教育など多様な分野で新たな市場を創出しうることを示唆している。",
-    "action_plan": "自社サービスにおけるAIキャラクターやパーソナライズされたAI対話システムの導入可能性を具体的に検討し、顧客体験向上のためのブレインストーミングを実施してみましょう。",
-    "image_keyword": "AI character engagement, Virtual companion AI",
-    "technical_terms": [
-      {
-        "term": "AIキャラクター",
-        "explanation": "人間のような対話や感情表現を通じてユーザーと交流する人工知能搭載のキャラクター。デジタルコンパニオンや仮想アシスタントとして機能する。"
-      },
-      {
-        "term": "ユーザーエンゲージメント",
-        "explanation": "サービスや製品に対してユーザーがどれだけ積極的に関与し、深い関係性を築いているかを示す指標。使用頻度、滞在時間、インタラクションの深さなどが含まれる。"
-      }
-    ]
-  },
   "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCcHBJVklvTkpYaTBrT0tjMVZIUFBrMDZWOGNNbXVqSThJNnBqYVFVbFZBYXlmUS1xWlJmRTZrcUU3Y01VNGJjYnZpR19IY1dkMHZ5RXk2NjNjREFDajJsaWc2NFVYalRLaXJQUGQ1bUt0RkNZWHg5Q2930gF_QVVfeXFMT25CQUlhU2pCMktKYm5IS2ZweFNfWjVnX2drMjhGTThTSmpFS18yMmU1VVlPYkUybzF0SHFmMkVnMHB6M21zNGlHTlRPaEZDUVNGQXU1eS1sN3dKNjk5U0JuWmNNRmlxSGctR2xKMlR0clN2NFFQQjFIMDJIcUNkSQ?oc=5": {
     "title": "「ムーアの法則」は終わらない？最先端半導体進化を支えるEUV技術の最前線",
     "tags": "Hardware",
@@ -5407,6 +5218,200 @@
       {
         "term": "半導体王国",
         "explanation": "かつて高い競争力を持っていた、または現在世界市場で支配的な地位を占める半導体産業を持つ国を指す表現です。"
+      }
+    ]
+  },
+  "https://kn.itmedia.co.jp/kn/articles/2605/19/news024.html": {
+    "title": "福岡銀行、AIで年間7000時間削減へ：契約書検索を革新するDX戦略",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2605/19/news024.html",
+    "summary_bullets": [
+      "福岡銀行がAIを導入し、契約書検索業務の効率化により年間約7000時間の業務削減を目指す。",
+      "金融業界におけるAI活用の具体例として、定型業務の自動化による生産性向上と人手不足解消への貢献が期待される。",
+      "契約書レビューや文書管理など、反復性の高い業務へのAI導入は他業種にも波及し、全産業でのDX加速を促すトレンドとなるだろう。"
+    ],
+    "insight": "定型業務における「見えないムダ」はどの企業にも存在します。AIはそれらを可視化し、劇的な効率改善をもたらす強力なツールであり、自社の業務プロセスを改めて見直す絶好の機会です。",
+    "action_plan": "自社の日常業務で、AIが代替・効率化できそうなルーティン作業やデータ検索業務を3つ書き出してみましょう。そして、その改善による時間短縮効果を試算してみましょう。",
+    "image_keyword": "AI bank efficiency, smart document search, digital financial office",
+    "technical_terms": [
+      {
+        "term": "AI",
+        "explanation": "人工知能。人間のような学習、推論、問題解決能力を持つコンピューターシステムやソフトウェア。"
+      },
+      {
+        "term": "DX",
+        "explanation": "デジタルトランスフォーメーション。デジタル技術を活用して、製品、サービス、ビジネスモデル、そして組織文化や業務プロセスそのものを変革すること。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2605/19/news032.html": {
+    "title": "会議室型AIラボが製薬業界を席巻!? 異色AI企業の革新的新拠点に大手製薬会社が熱視線",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://www.itmedia.co.jp/business/articles/2605/19/news032.html",
+    "summary_bullets": [
+      "従来のラボイメージを覆す「会議室のような」AI創薬拠点が注目を集め、製薬大手が積極的にアプローチしている。",
+      "AIを活用した効率的な新薬開発が、高コスト・長期化が課題だった製薬業界に変革をもたらし、医療DXを加速させる可能性を秘めている。",
+      "これは、既存の業界常識にとらわれない柔軟な発想と異業種からのAI技術導入が、今後のイノベーションを牽引するトレンドを示す。",
+      "AI創薬の民主化や研究開発拠点の多様化が進むことが予測される。"
+    ],
+    "insight": "本質的な技術力があれば、従来の枠組みや見た目に囚われない柔軟なアプローチが、既存産業に大きな変革と競争優位をもたらすことを示唆しています。自社のビジネスモデルや研究開発プロセスにおいて、非伝統的なアプローチの可能性を再考する機会となるでしょう。",
+    "action_plan": "自社の既存ビジネスプロセスや研究開発環境において、「会議室型ラボ」のような既存概念を覆す新しいアプローチができないか、チームでブレインストーミングを実施してみましょう。",
+    "image_keyword": "AI drug discovery lab, innovative AI startup, pharmaceutical innovation",
+    "technical_terms": [
+      {
+        "term": "AI創薬",
+        "explanation": "人工知能（AI）を活用して、新薬の候補となる化合物の探索、設計、評価を効率的かつ高速に行う技術。開発期間やコストの大幅な削減が期待される。"
+      },
+      {
+        "term": "医療DX",
+        "explanation": "デジタルトランスフォーメーション（DX）を医療分野に応用し、AIやIoTなどのデジタル技術を用いて医療プロセス、サービス、組織文化を変革すること。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6580737?source=rss": {
+    "title": "AIの誤解を払拭せよ！政府が『ミュトス』対策の新方針を策定",
+    "tags": "AI Policy",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.yahoo.co.jp/pickup/6580737?source=rss",
+    "summary_bullets": [
+      "政府がAIに対する誤解や間違った情報を解消するための「AIミュトス対策」方針を策定した。",
+      "これによりAI技術の健全な社会実装が促進され、ビジネスや政策決定において信頼性の高い情報に基づいた判断が求められるようになる。",
+      "今後はAIリテラシーの向上と、信頼できるAI情報源の確立が社会全体のトレンドとなり、AI導入障壁の低減に寄与する見込みだ。"
+    ],
+    "insight": "AIの信頼性と社会受容は、今後のビジネス展開において不可欠な要素となります。政府の方針は、企業がAI技術を導入・活用する上で、情報発信の透明性や従業員への適切な教育の重要性を再認識する契機となるでしょう。",
+    "action_plan": "自社でのAI活用に関する情報発信や、従業員向けのAI教育プログラムを見直し、誤解を生じさせないためのガイドラインを策定してみましょう。また、信頼できるAI関連情報源を特定し、定期的にキャッチアップする体制を整えましょう。",
+    "image_keyword": "AI myth bust, government AI policy, AI understanding",
+    "technical_terms": [
+      {
+        "term": "AIミュトス",
+        "explanation": "AI（人工知能）に関する根拠のない誤解や、間違った認識・情報、あるいは神話のように広まっている非現実的な期待や懸念を指す言葉。"
+      },
+      {
+        "term": "AIガバナンス",
+        "explanation": "AI技術の開発、導入、運用において、倫理的、法的、社会的な側面から適切に管理し、リスクを低減するための枠組みや一連のルール。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DRmNYX1ZrNU5YZEFmME5PNXk5M0Jac25zUTF3bjlPSk1YRXNDdHJ5Smh4c2VZVThzWTVTU2JPNnV2TFFzY1FuZlhOaURlcy1FUno5UDNLWlpaQjN5RWoxOUpxX0hnZmprZEYwRG5RQQ?oc=5": {
+    "title": "住友ベークライト、次世代半導体の性能を飛躍させる革新的な新液状封止材を発表",
+    "tags": "Materials Tech",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DRmNYX1ZrNU5YZEFmME5PNXk5M0Jac25zUTF3bjlPSk1YRXNDdHJ5Smh4c2VZVThzWTVTU2JPNnV2TFFzY1FuZlhOaURlcy1FUno5UDNLWlpaQjN5RWoxOUpxX0hnZmprZEYwRG5RQQ?oc=5",
+    "summary_bullets": [
+      "住友ベークライトが、次世代半導体の高集積化と高性能化を可能にする画期的な新液状封止材を開発した。",
+      "この新材料は、微細化が進む半導体パッケージの信頼性を大幅に向上させ、製造プロセスの効率化にも寄与する。",
+      "半導体技術の限界を突破する材料革新として、AIやIoTデバイスのさらなる進化と普及を加速させる重要な一歩となるだろう。"
+    ],
+    "insight": "半導体産業の進化は、微細加工技術だけでなく、それを支える材料科学の革新によってもたらされることを改めて認識し、サプライチェーン全体の技術動向を注視する必要がある。",
+    "action_plan": "自社が関わる産業において、基盤となる材料技術や部品技術の最新動向を調査し、将来的なサプライチェーンの変化や競合優位性の源泉となり得る領域を特定してみましょう。",
+    "image_keyword": "semiconductor material, advanced chip, liquid encapsulant",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "電気の流れを制御することで、様々な電子機器の頭脳や記憶装置として機能する素材や部品。AIやIoTの基盤技術。"
+      },
+      {
+        "term": "液状封止材",
+        "explanation": "半導体チップを外部環境から保護するために使用される液体状の材料。硬化することで、衝撃や湿気、熱などからチップを守る。"
+      },
+      {
+        "term": "次世代半導体",
+        "explanation": "現在の主流技術をさらに進化させ、より高性能、高効率、多機能を実現する新しいタイプの半導体。AIや高速通信、データセンターなどで需要が高まる。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMickFVX3lxTE1UcWo3NlZ0SVRzTy12NDVTYkJCTk12bHFiNDB4dmJqSHRQZ2t3V1FabDRLRFR6eEhoZ09rU0tRUHBQZEprclY2WHc2emtmcl94Z3NBcGNGVFFkUllFN3dtSGRaQTB0LTEtZnRWVFRKNU9zdw?oc=5": {
+    "title": "半導体市場回復の兆し：マイクロチップ・テクノロジーのSWOT分析で探る成長戦略と株価動向",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UcWo3NlZ0SVRzTy12NDVTYkJCTk12bHFiNDB4dmJqSHRQZ2t3V1FabDRLRFR6eEhoZ09rU0tRUHBQZEprclY2WHc2emtmcl94Z3NBcGNGVFFkUllFN3dtSGRaQTB0LTEtZnRWVFRKNU9zdw?oc=5",
+    "summary_bullets": [
+      "マイクロチップ・テクノロジーは半導体市場の回復期において、詳細なSWOT分析によってその競争力と成長機会が評価されている。",
+      "この企業の健全な成長は、半導体業界全体の回復トレンドを示すものであり、関連するテクノロジー産業への投資動向に影響を与える可能性が高い。",
+      "半導体市場は回復基調にあり、主要企業の戦略的ポジションとイノベーションが今後の市場シェアと収益拡大の鍵となる。"
+    ],
+    "insight": "半導体市場の回復は、テクノロジー産業全体の活性化を示す重要な指標であり、各企業は市場動向と自社の強みを再評価し、戦略的な投資やパートナーシップを加速させるべきです。",
+    "action_plan": "自社の事業における半導体関連のサプライチェーンや技術依存度を再確認し、市場回復期の機会を捉えるためのSWOT分析を改めて行いましょう。",
+    "image_keyword": "semiconductor stock chart, microchip growth, tech market analysis",
+    "technical_terms": [
+      {
+        "term": "SWOT分析",
+        "explanation": "企業の強み(Strength)、弱み(Weakness)、機会(Opportunity)、脅威(Threat)を分析し、戦略立案に役立てるフレームワーク。"
+      },
+      {
+        "term": "半導体",
+        "explanation": "電気を通したり通さなかったりする性質を持つ物質で、ICチップやコンピューターの主要部品に使われる電子材料。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/18/news101.html": {
+    "title": "ユニバーサル ミュージック、ECサイト利用者310万人の大規模個人情報漏えいを最終確認 - 不正アクセス被害の詳細が判明",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "14時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/18/news101.html",
+    "summary_bullets": [
+      "ユニバーサル ミュージックは、過去に公表した不正アクセスにより、ECサイト利用者約310万人の個人情報漏えいを正式に確認した。",
+      "今回の事態は、企業が抱えるデータセキュリティリスクの大きさと、不正アクセス発生時の影響範囲特定および対応の難しさを示している。",
+      "大規模なデータ漏えい事件が相次ぐ中、企業は顧客データ保護のための高度なセキュリティ対策と、緊急時の迅速かつ透明性のある情報開示体制の構築が喫待の課題となるだろう。"
+    ],
+    "insight": "今日のデジタル社会において、個人情報漏えいは企業のブランド価値と顧客信頼を根底から揺るがす重大なリスクです。いかに強固なセキュリティを構築しても、ゼロリスクは存在せず、インシデント発生時の迅速かつ誠実な対応が企業のレジリエンスを測る重要な指標となることを、この事例は改めて示しています。",
+    "action_plan": "自社の顧客情報管理システムやECサイトのセキュリティ監査を改めて実施し、多要素認証の導入、定期的な脆弱性診断、そしてインシデントレスポンス計画の見直しを今日から着手しましょう。",
+    "image_keyword": "data breach, cyber security, personal data leak",
+    "technical_terms": [
+      {
+        "term": "個人情報漏えい",
+        "explanation": "個人を特定できる情報（氏名、住所、電話番号、メールアドレスなど）が、外部に不正に流出したり、閲覧可能な状態になってしまうこと。"
+      },
+      {
+        "term": "不正アクセス",
+        "explanation": "正当な権限を持たない者が、コンピュータシステムやネットワークに侵入し、データを盗み見たり、改ざんしたりする行為。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/18/news073.html": {
+    "title": "緊急警戒！PayPayを狙う巧妙なフィッシング詐欺、公金・料金未払いを装い送金機能を悪用 – あなたの資産を守るための緊急対策",
+    "tags": "Cyber Security",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "18時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/18/news073.html",
+    "summary_bullets": [
+      "PayPayが公金や料金未払いを装い、利用者の送金機能を悪用するフィッシング詐欺への緊急注意喚起を行った。",
+      "スマートフォン決済の普及に伴い、サービスを模倣した詐欺の手口が巧妙化し、ユーザーの金銭的被害リスクとサービス信頼性の低下が懸念される。",
+      "今後はデジタル決済サービスを狙ったサイバー攻撃がさらに多様化し、個人・法人双方におけるセキュリティ意識と教育の重要性が増すトレンドが予測される。"
+    ],
+    "insight": "デジタル決済の利便性が高まるほど、それを悪用するサイバー犯罪の手口は巧妙化するため、企業は従業員へのセキュリティ教育を徹底し、個人は常に最新の詐欺情報を確認し警戒を怠らない姿勢が不可欠である。",
+    "action_plan": "不審なSMSやメールのリンクは開かず、公式アプリや公式サイトから情報を直接確認する習慣を徹底し、PayPay等の決済アプリの二段階認証設定を見直しましょう。",
+    "image_keyword": "PayPay fraud alert",
+    "technical_terms": [
+      {
+        "term": "フィッシング詐欺",
+        "explanation": "金融機関や有名企業を装い、偽のメールやウェブサイトで個人情報やパスワードなどを盗み出す詐欺行為。"
+      },
+      {
+        "term": "送金機能",
+        "explanation": "スマートフォン決済アプリなどで、ユーザーが他のユーザーや銀行口座へ資金を移動できる機能。"
       }
     ]
   }
