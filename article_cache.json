@@ -1,147 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCcHBJVklvTkpYaTBrT0tjMVZIUFBrMDZWOGNNbXVqSThJNnBqYVFVbFZBYXlmUS1xWlJmRTZrcUU3Y01VNGJjYnZpR19IY1dkMHZ5RXk2NjNjREFDajJsaWc2NFVYalRLaXJQUGQ1bUt0RkNZWHg5Q2930gF_QVVfeXFMT25CQUlhU2pCMktKYm5IS2ZweFNfWjVnX2drMjhGTThTSmpFS18yMmU1VVlPYkUybzF0SHFmMkVnMHB6M21zNGlHTlRPaEZDUVNGQXU1eS1sN3dKNjk5U0JuWmNNRmlxSGctR2xKMlR0clN2NFFQQjFIMDJIcUNkSQ?oc=5": {
-    "title": "「ムーアの法則」は終わらない？最先端半導体進化を支えるEUV技術の最前線",
-    "tags": "Hardware",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCcHBJVklvTkpYaTBrT0tjMVZIUFBrMDZWOGNNbXVqSThJNnBqYVFVbFZBYXlmUS1xWlJmRTZrcUU3Y01VNGJjYnZpR19IY1dkMHZ5RXk2NjNjREFDajJsaWc2NFVYalRLaXJQUGQ1bUt0RkNZWHg5Q2930gF_QVVfeXFMT25CQUlhU2pCMktKYm5IS2ZweFNfWjVnX2drMjhGTThTSmpFS18yMmU1VVlPYkUybzF0SHFmMkVnMHB6M21zNGlHTlRPaEZDUVNGQXU1eS1sN3dKNjk5U0JuWmNNRmlxSGctR2xKMlR0clN2NFFQQjFIMDJIcUNkSQ?oc=5",
-    "summary_bullets": [
-      "「ムーアの法則」の持続可能性が問われる中、最先端半導体製造を可能にするEUV（極端紫外線）技術に大きな注目が集まっている。",
-      "EUV技術は、より微細な回路パターンの形成を可能にし、高性能なAIチップやデータセンター向け半導体の発展を加速させ、デジタル社会の基盤を強化する。",
-      "この技術の進化は、半導体産業における国際競争力を左右し、今後のテクノロジー全体の進歩を牽引する主要トレンドとなることが予測される。"
-    ],
-    "insight": "EUV技術は単なる製造プロセスの一部ではなく、半導体業界の未来、ひいてはAIやIoT、5G/6Gといった次世代テクノロジーの可能性を広げる鍵となります。この技術革新の動向は、自社のデジタル戦略やサプライチェーンに直接的な影響を及ぼすため、深く理解しておくべきです。",
-    "action_plan": "自社の事業において半導体の性能向上から受ける影響を具体的に書き出し、EUV技術の進化がもたらすビジネスチャンスやリスクについて、改めて見直してみましょう。",
-    "image_keyword": "EUV lithography, semiconductor manufacturing, advanced chip",
-    "technical_terms": [
-      {
-        "term": "ムーアの法則",
-        "explanation": "半導体の集積密度が約18〜24ヶ月で2倍になるという、インテル創業者が提唱した経験則。テクノロジー進化のペースを示す指標とされる。"
-      },
-      {
-        "term": "EUV技術",
-        "explanation": "Extrem Ultraviolet（極端紫外線）の略。半導体製造において、非常に短い波長の極端紫外線を用いて回路パターンをシリコンウェハーに転写する最先端のリソグラフィ技術。より微細な回路形成を可能にする。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/aiplus/articles/2604/18/news022.html": {
-    "title": "Anthropic、新AIデザインツール『Claude Design』発表──『Opus 4.7』搭載でデザインとコーディングを革新",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "2日前",
-    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/18/news022.html",
-    "summary_bullets": [
-      "Anthropicが「Opus 4.7」を搭載したAIデザインツール「Claude Design」のプレビューを公開。",
-      "AIによるデザイン生成と既存のコーディングツールとの連携により、デザインから開発までのプロセスが劇的に効率化される可能性。",
-      "将来的にはAIがデザインと開発の境界線を曖昧にし、企業の製品開発サイクルを加速させる主要なトレンドとなることが予測される。"
-    ],
-    "insight": "AIが単なる補助ツールから、デザインと開発の統合プラットフォームへと進化していることを示唆。ビジネスリーダーは、AIを活用したエンドツーエンドのワークフロー最適化戦略を急ぎ、競争優位性を確立すべきです。",
-    "action_plan": "自社のデザインおよび開発ワークフローにおけるAI導入の機会を洗い出し、潜在的な効率化ポイントや新たな価値創造の可能性を具体的に書き出してみましょう。",
-    "image_keyword": "AI design tool, generative UI UX, AI code generation",
-    "technical_terms": [
-      {
-        "term": "Claude Design",
-        "explanation": "Anthropicが発表した、AIを用いてデザイン生成やプロトタイピングを支援するツール。"
-      },
-      {
-        "term": "Opus 4.7",
-        "explanation": "Anthropicの強力なAIモデル「Claude」の最新バージョン（または特定の機能に特化した派生版）で、高度な推論能力と処理能力を持つ。"
-      },
-      {
-        "term": "コーディングツールとの連携",
-        "explanation": "デザインツールが、VS Codeなどの開発環境と統合され、デザイン案から直接コード生成や既存コードへの反映を行う機能。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/aiplus/articles/2604/17/news118.html": {
-    "title": "Salesforceが「Headless 360」を発表：エージェントはもうログイン不要？顧客体験を変革する新戦略",
-    "tags": "SaaS",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "15時間前",
-    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/17/news118.html",
-    "summary_bullets": [
-      "Salesforceがエージェント向け新ソリューション「Headless 360」を発表し、エージェントがSalesforceに直接ログインすることなく既存のワークフロー内で顧客情報にアクセス可能に。",
-      "これにより、エージェントの生産性向上と顧客対応の迅速化・パーソナライズ化が実現し、よりシームレスで質の高い顧客体験（CX）提供に貢献する。",
-      "CRMシステムがバックエンド機能に特化し、多様なフロントエンドシステムとAPI連携する「Headless CRM」のトレンドが加速し、企業は顧客接点構築の柔軟性を高められると予測される。"
-    ],
-    "insight": "「Headless 360」は、従業員が日常的に利用するシステムに基幹データへのアクセスを組み込むことで、SaaS導入におけるエンドユーザーの利便性を最大化し、システム統合の新たなパラダイムを提示しています。これは、既存の業務フローを尊重しつつ最新技術を導入する際の鍵となるでしょう。",
-    "action_plan": "自社のカスタマーサービス部門や営業部門のSaaS活用状況を棚卸し、従業員が情報アクセスで直面するログイン障壁やシステム間連携の課題点を洗い出してみましょう。また、「Headless」アーキテクチャが自社のシステム統合戦略にどのように応用できるか、技術部門やITベンダーと具体的な議論を開始してみましょう。",
-    "image_keyword": "Headless CRM, Agent experience, Customer service integration",
-    "technical_terms": [
-      {
-        "term": "Headless 360",
-        "explanation": "Salesforceが発表した、エージェントがSalesforceに直接ログインせず、既存のワークフロー内で顧客情報にアクセスできる新ソリューションです。"
-      },
-      {
-        "term": "Headless CRM",
-        "explanation": "ユーザーインターフェース（フロントエンド）とビジネスロジック・データ（バックエンド）を分離し、APIを通じて連携させるCRMのアーキテクチャ。これにより、様々なフロントエンドから柔軟にCRM機能を利用できます。"
-      },
-      {
-        "term": "SaaS (Software as a Service)",
-        "explanation": "ソフトウェアをインターネット経由でサービスとして提供するモデル。ユーザーはソフトウェアを所有せず、利用料金を支払ってサービスを利用します。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/17/news137.html": {
-    "title": "政治家のAI活用最前線？岸田元首相、自身のディープフェイクを逆手に取り「この画像は公式です」と公式YouTubeでユーモア交え公開",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 4,
-    "time_ago": "1日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/17/news137.html",
-    "summary_bullets": [
-      "岸田元首相が、自身のディープフェイク映像を公式YouTubeチャンネルでセルフパロディーとして公開し、AI技術の話題性を活用した。",
-      "政治家がAI生成コンテンツの光と影を認識し、ユーモアを交えて大衆に提示することで、社会におけるAIリテラシー向上やフェイクニュース対策への示唆を与えている。",
-      "AI技術の進化に伴い、生成コンテンツの信頼性や、それを逆手に取った新しいコミュニケーション戦略が、今後の情報発信のトレンドとなる可能性を予測させる。"
-    ],
-    "insight": "生成AI、特にディープフェイク技術は、悪用リスクだけでなく、適切な文脈とユーモアを伴えば、斬新で効果的なメッセージ伝達やブランディングのツールになり得ると理解し、自社のコミュニケーション戦略に応用する視点を持つべきです。",
-    "action_plan": "自社や個人のブランド保護のため、生成AI技術の最新動向、悪用リスク、そして創造的な活用法について情報収集し、社内でのガイドライン策定や、ポジティブな活用機会の検討を始めましょう。",
-    "image_keyword": "Political AI, Deepfake Parody, Kishida AI",
-    "technical_terms": [
-      {
-        "term": "ディープフェイク",
-        "explanation": "AI技術を用いて、実在の人物の顔や声を別の映像や音声に合成し、あたかも本物であるかのように見せかける技術。"
-      },
-      {
-        "term": "AI",
-        "explanation": "人間の知能をコンピュータ上で再現しようとする技術や研究分野。画像生成、音声合成、データ分析など多岐にわたる応用が可能。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/aiplus/articles/2604/17/news130.html": {
-    "title": "AI、ナレッジワーカーの日常に浸透：2割超が毎日活用、Notion調査で浮き彫り",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 4,
-    "time_ago": "1日前",
-    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/17/news130.html",
-    "summary_bullets": [
-      "ナレッジワーカーの21%が仕事でAIツールを毎日利用していることが、Notionの調査で判明。",
-      "企業はAIの日常的な活用を前提とした業務改革と従業員のスキルアップ戦略を加速する必要がある。",
-      "今後、AIツールの普及はさらに進み、生産性向上と業務プロセスの抜本的な変革が期待される。"
-    ],
-    "insight": "AIはもはや未来の技術ではなく、今日の業務効率を左右する必須ツールへと進化している。企業はAI活用を前提とした組織変革と人材育成を急務と捉え、競争力を高めるべきだ。",
-    "action_plan": "自社の業務プロセスを見直し、AIを導入することで効率化・高度化が期待できる領域を特定し、具体的なAIツールの導入や従業員へのトレーニング計画を立ててみましょう。",
-    "image_keyword": "AI at work, knowledge worker, office productivity",
-    "technical_terms": [
-      {
-        "term": "ナレッジワーカー",
-        "explanation": "知識や情報を生み出し、分析し、活用することで価値を創造する仕事に従事する人々。例：研究者、エンジニア、コンサルタント。"
-      },
-      {
-        "term": "AI",
-        "explanation": "人間の知能をコンピュータ上で再現しようとする技術。学習、推論、問題解決などの能力を持つ。"
-      }
-    ]
-  },
   "https://news.yahoo.co.jp/pickup/6576728?source=rss": {
     "title": "子どものSNS規制、国際的課題と見過ごされる「抜け穴」の実態",
     "tags": "Digital Policy",
@@ -5412,6 +5269,137 @@
       {
         "term": "送金機能",
         "explanation": "スマートフォン決済アプリなどで、ユーザーが他のユーザーや銀行口座へ資金を移動できる機能。"
+      }
+    ]
+  },
+  "https://kn.itmedia.co.jp/kn/articles/2605/20/news029.html": {
+    "title": "AIエージェント導入支援で業務DXを加速：NHNテコラスが提供する新サービスが注目",
+    "tags": "AI Solution",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "1時間前",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2605/20/news029.html",
+    "summary_bullets": [
+      "NHNテコラスが、AIエージェントの導入から運用改善までを包括的に支援する新サービスを開始。",
+      "企業はAIエージェント導入の障壁を下げ、業務効率化や顧客体験向上を加速させることが可能になる。",
+      "AI活用が広がる中、専門知識やリソース不足を解消する「AI導入・運用支援サービス」の市場がさらに拡大すると予測される。"
+    ],
+    "insight": "AIエージェントの導入は企業の競争力強化に不可欠であるものの、その複雑さから導入を見送るケースも多い。このサービスは、専門家の知見を活用し、ビジネス課題解決に直結するAI活用を後押しする絶好の機会と捉え、自社でのAI導入戦略を再考すべきだ。",
+    "action_plan": "自社でAIエージェント導入を検討している業務領域や潜在的課題を洗い出し、どのような外部支援が最適かを具体的にリストアップしてみましょう。",
+    "image_keyword": "AI agent support, business DX consulting, AI integration service",
+    "technical_terms": [
+      {
+        "term": "AIエージェント",
+        "explanation": "人間の指示を理解し、自律的に情報収集や判断、作業を行うことで、業務の自動化や効率化を実現するAIプログラムのこと。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/19/news100.html": {
+    "title": "Appleの堅牢なセキュリティが5日で突破？ 新型攻撃「Mythos」が突きつけたサイバー防御の現実",
+    "tags": "Cyber Security",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/19/news100.html",
+    "summary_bullets": [
+      "Appleが5年をかけて開発したとされる先進的なセキュリティ対策が、新型の脆弱性攻撃「Mythos」によってわずか5日で突破された。",
+      "企業が多大なリソースを投じた防御策も絶対ではないことを示し、現代のサイバー脅威の進化速度と対応の難しさを浮き彫りにした。",
+      "従来の多層防御に加え、AI活用による自律的な脅威検知・対応や、ゼロトラストモデルへの本格的な移行が加速する可能性が高い。"
+    ],
+    "insight": "最先端の防御策をもってしても、進化し続けるサイバー攻撃の前には絶対的な安全は存在しない。企業は攻撃の前提に立ち、常に最新の脅威情報に基づいた多層防御とインシデントレスポンス体制の強化が不可欠である。",
+    "action_plan": "自社のセキュリティシステムが最新の脅威に対応できているか、第三者機関による脆弱性診断を定期的に実施し、見直しを徹底しましょう。また、インシデント発生時の対応プロトコル（CSIRTなど）を再確認し、従業員のセキュリティ意識向上のためのトレーニングを強化しましょう。",
+    "image_keyword": "cyber security breach, network vulnerability, digital threat",
+    "technical_terms": [
+      {
+        "term": "Mythos",
+        "explanation": "Appleのセキュリティ対策を突破したとされる新型の脆弱性攻撃の名前。"
+      },
+      {
+        "term": "脆弱性攻撃",
+        "explanation": "システムの弱点（脆弱性）を突いて、不正アクセスやデータ破壊などを行うサイバー攻撃の一種。"
+      },
+      {
+        "term": "セキュリティ対策",
+        "explanation": "情報資産を脅威から守るための技術的・組織的な予防策や防御策。"
+      }
+    ]
+  },
+  "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news006.html": {
+    "title": "ビジネス変革を加速するベイズ統計：古典統計との賢い使い分けでデータ駆動型意思決定を深化",
+    "tags": "Data Science",
+    "sentiment": "positive",
+    "sentiment_text": "学習の好機",
+    "rating": 4,
+    "time_ago": "3時間前",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news006.html",
+    "summary_bullets": [
+      "ベイズ統計学の基本概念と、古典的な統計手法との根本的な違い、それぞれの適用場面を分かりやすく解説。",
+      "不確実性の高い現代ビジネスにおいて、限られたデータや事前情報からより精度の高い予測と意思決定を可能にする。",
+      "AIや機械学習の発展と共に、より複雑なデータ分析や予測モデル構築におけるベイズ統計の活用が今後一層拡大する見込み。"
+    ],
+    "insight": "ベイズ統計は、データが少ない状況や不確実性が高い意思決定において、既存の知識や経験を活かしながら最適な判断を下すための強力なツールです。古典統計との戦略的な使い分けを理解することで、ビジネスにおけるデータ分析の質と幅を飛躍的に向上させることができます。",
+    "action_plan": "自社の事業における不確実性の高い意思決定プロセスや、限定的なデータしか得られない課題（例: 新規事業の市場予測、A/Bテストの最適化）を具体的に書き出し、ベイズ統計の適用可能性について社内データサイエンティストや専門家と議論を開始してみましょう。",
+    "image_keyword": "Bayesian statistics data analysis, statistical modeling business, data driven decision",
+    "technical_terms": [
+      {
+        "term": "ベイズ統計",
+        "explanation": "事前情報（仮説や過去のデータ）を考慮しながら、新しいデータに基づいて確率や信念を更新していく統計的手法。不確実な状況での意思決定に強い。"
+      },
+      {
+        "term": "古典統計",
+        "explanation": "限られた標本データから母集団の特性を推測し、仮説検定などを行う伝統的な統計学。主に客観的なデータのみに基づいて結論を導く。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6580888?source=rss": {
+    "title": "Google、24時間稼働のAIエージェントを発表 - 新時代の働き方へ変革か",
+    "tags": "AI",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.yahoo.co.jp/pickup/6580888?source=rss",
+    "summary_bullets": [
+      "Googleが24時間体制で稼働する新型AIエージェントを発表し、高度なタスクの自動実行を可能に。",
+      "労働生産性の劇的な向上や新たなビジネスモデルの創出が期待される一方、倫理的課題や雇用への影響も不可避となる可能性。",
+      "AIによる自律的な業務遂行が加速し、企業はAIとの協働を前提とした戦略構築と人材育成が急務となるトレンドが予測される。"
+    ],
+    "insight": "AIエージェントの常時稼働は、企業の生産性向上とコスト削減の新たな機会をもたらすと同時に、従業員の役割再定義や倫理的ガバナンス構築の必要性を浮き彫りにします。",
+    "action_plan": "自社業務における「定型業務」や「時間外業務」でAIエージェントが代替可能な領域を洗い出し、潜在的な導入メリットと課題を評価してみましょう。",
+    "image_keyword": "AI agent working, 24/7 automation, futuristic office",
+    "technical_terms": [
+      {
+        "term": "AI agent",
+        "explanation": "人間のように特定の目標やタスクを自律的に理解し、実行する人工知能プログラム。"
+      },
+      {
+        "term": "無休",
+        "explanation": "24時間365日、停止することなく継続的に稼働できる状態を指し、AIの常時稼働能力を示す。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/19/news083.html": {
+    "title": "原子力規制庁、業務用スマホ10台紛失で情報セキュリティ課題浮上 – 2台は未発見のまま",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "18時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/19/news083.html",
+    "summary_bullets": [
+      "原子力規制庁が2025年度に業務用スマートフォン10台を紛失し、そのうち2台は未発見の状態が続いている。",
+      "政府機関における情報端末管理の脆弱性が露呈し、類似組織や民間企業のモバイルデバイス管理（MDM）体制の再評価を促す。",
+      "今後、公的機関および企業におけるモバイルデバイスのセキュリティポリシーと従業員教育のさらなる強化が求められる可能性がある。"
+    ],
+    "insight": "政府機関でさえ情報端末の紛失リスクに直面しており、特に機微な情報を扱わないデバイスであっても、厳格な資産管理と紛失時の迅速な対応策が不可欠です。この事例は、自社のモバイルデバイス管理体制が十分か、改めて見直す良い機会となるでしょう。",
+    "action_plan": "自社のモバイルデバイス管理（MDM）ポリシーを再確認し、紛失・盗難発生時の報告フローと対応手順を従業員に周知徹底しましょう。",
+    "image_keyword": "lost smartphone, data security government, mobile device management",
+    "technical_terms": [
+      {
+        "term": "モバイルデバイス管理 (MDM)",
+        "explanation": "企業が従業員に貸与するスマートフォンやタブレットなどのモバイル端末を一元的に管理し、セキュリティ設定やアプリケーション配布などを行うシステムやソリューション。"
       }
     ]
   }
