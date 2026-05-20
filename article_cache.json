@@ -1,307 +1,4 @@
 {
-  "https://news.yahoo.co.jp/pickup/6576728?source=rss": {
-    "title": "子どものSNS規制、国際的課題と見過ごされる「抜け穴」の実態",
-    "tags": "Digital Policy",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 4,
-    "time_ago": "1日前",
-    "url": "https://news.yahoo.co.jp/pickup/6576728?source=rss",
-    "summary_bullets": [
-      "世界各国で導入されている子ども向けSNS利用規制が、技術的な抜け穴や運用上の課題により実効性を欠いている現状が露呈しています。",
-      "SNSプラットフォーム企業は、より厳格なコンプライアンスと国際的な協力体制の構築を迫られ、企業評価や法的リスクに直結する可能性があります。",
-      "今後、国際的な規制標準化の動きや、AI・生体認証を用いた高度な年齢確認・コンテンツフィルタリング技術の導入が進むと予測されます。"
-    ],
-    "insight": "SNS関連ビジネスを展開する企業は、単なる国内法規制の遵守に留まらず、国際的な規制動向と技術的な抜け穴への対応を常にアップデートし、子どもを含むユーザーの安全確保を最優先する戦略がブランド信頼と持続的成長の鍵となります。",
-    "action_plan": "自社のサービスが子どもに関連する場合、現在のSNS規制への対応状況を再評価し、技術的・運用上の「抜け穴」が存在しないか専門家と共に監査を実施してみましょう。",
-    "image_keyword": "child online safety, social media regulation, digital policy loopholes",
-    "technical_terms": [
-      {
-        "term": "SNS規制",
-        "explanation": "ソーシャルネットワーキングサービス（SNS）の利用に関して、特に未成年者の保護を目的に各国で設けられている法的ルールやガイドラインのことです。"
-      },
-      {
-        "term": "抜け穴",
-        "explanation": "規制や法律が意図する効果を回避できてしまう、制度上の不備や技術的な対策不足を指し、規制の実効性を損なう要因となります。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6576672?source=rss": {
-    "title": "第一生命、AI・デジタル技術に4000億円投資へ - 未来の保険ビジネスを再定義",
-    "tags": "AI / LLM",
-    "sentiment": "positive",
-    "sentiment_text": "未来志向の積極投資",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://news.yahoo.co.jp/pickup/6576672?source=rss",
-    "summary_bullets": [
-      "第一生命がAIやその他のデジタル技術に今後5年間で約4000億円を投資する計画を発表した。",
-      "この大規模投資は、保険商品の開発、顧客体験の向上、業務効率化、およびデータ活用能力の強化を目的としている。",
-      "金融業界全体でDX競争が激化する中、本投資は顧客ニーズの変化に対応し、持続的な成長を実現するための重要な戦略となるだろう。"
-    ],
-    "insight": "金融機関におけるAI・デジタル投資は、単なるコスト削減ではなく、新たな顧客価値創出と競争力強化の不可欠な要素となっている。自社のDX戦略を改めて見直し、投資対効果の高い領域への集中を検討すべき時期だ。",
-    "action_plan": "自社のAI活用領域を洗い出し、競合他社の事例と比較して潜在的な機会や課題を特定してみましょう。また、AI投資がもたらす顧客体験向上とコスト削減の可能性を具体的に評価し、経営層への提案を準備しましょう。",
-    "image_keyword": "AI investment, digital transformation, insurance technology",
-    "technical_terms": [
-      {
-        "term": "AI",
-        "explanation": "人間の知能をコンピュータで模倣する技術で、データ分析、予測、自動化などに活用されます。"
-      },
-      {
-        "term": "DX (デジタルトランスフォーメーション)",
-        "explanation": "最新のデジタル技術（AI、IoT、クラウドなど）を導入し、ビジネスモデルや組織を変革することで、競争優位性を確立する取り組みです。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6576670?source=rss": {
-    "title": "AI時代の情報信頼性クライシス：京都の施設がデマに晒された背景と対策",
-    "tags": "Fake News",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 4,
-    "time_ago": "2日前",
-    "url": "https://news.yahoo.co.jp/pickup/6576670?source=rss",
-    "summary_bullets": [
-      "京都の施設が遺体に関するデマにより、深刻な風評被害と業務への影響に直面している。",
-      "デジタル時代の情報源の信頼性や情報リテラシーの欠如が、社会全体に甚大な悪影響を及ぼすことを示唆。",
-      "AI技術の進化に伴うフェイクニュース生成・拡散リスクの高まりに対し、企業や社会のデマ対策と情報検証の強化が急務となる。"
-    ],
-    "insight": "AIによるフェイクニュース生成が容易になる現代において、企業は自社ブランドがデマの標的となる可能性を常に考慮し、情報発信戦略と危機管理体制を再構築する必要がある。",
-    "action_plan": "自社が情報拡散によって不利益を被るリスクシナリオを複数想定し、デマ発生時の対応ガイドラインや情報発信ポリシーを見直してみましょう。",
-    "image_keyword": "Misinformation crisis, digital ethics, social impact",
-    "technical_terms": [
-      {
-        "term": "Disinformation",
-        "explanation": "意図的に誤解を招くよう作成され、拡散される虚偽の情報。社会や個人に悪影響を与える目的で使われることがあります。"
-      },
-      {
-        "term": "Information Literacy",
-        "explanation": "情報を探し出し、評価し、活用する能力。特にデマやフェイクニュースが蔓延する現代において、その重要性が高まっています。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjlDYkZMczdudDZzOFhOel94dGJuYm9DTzRTdDVJS2d1dHVsemhDalYyMlZFcTJOT0xCa1BjbWwxZ2d1SE1wd1QtQklEZkdydzhPWnoydXdlN1pSaGtWYU12d181cUV5cE9PbW1nWm4yTVdGN2VzVWJuR1dFRG1FSjBVX0VBLWpQTVRhTXI2QjV2dmw2cm56SFBpTldYb0N0LUE?oc=5": {
-    "title": "ザッカーバーグの半導体戦略：地政学リスクとAI覇権の狭間でメタが描く未来",
-    "tags": "Hardware",
-    "sentiment": "neutral",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjlDYkZMczdudDZzOFhOel94dGJuYm9DTzRTdDVJS2d1dHVsemhDalYyMlZFcTJOT0xCa1BjbWwxZ2d1SE1wd1QtQklEZkdydzhPWnoydXdlN1pSaGtWYU12d181cUV5cE9PbW1nWm4yTVdGN2VzVWJuR1dFRG1FSjBVX0VBLWpQTVRhTXI2QjV2dmw2cm56SFBpTldYb0N0LUE?oc=5",
-    "summary_bullets": [
-      "MetaのCEOザッカーバーグが、AI開発を加速するため半導体分野への大規模投資と自社開発を進めている。",
-      "この「半導体ドリーム」は、米中対立に代表される地政学的なサプライチェーンリスクという大きな課題に直面している。",
-      "AI時代の技術覇権争いにおいて、半導体の安定供給と自給能力が企業の競争力を左右する重要な要素となる。",
-      "Metaは半導体自給戦略を強化し、NVIDIA依存からの脱却を図ることで、AI市場における優位性の確立を目指す。"
-    ],
-    "insight": "AI時代の競争優位は、ソフトウェアだけでなく、その基盤となる半導体の安定供給と自社開発能力に大きく依存することを認識し、自社のサプライチェーンと技術投資戦略を再評価する必要がある。",
-    "action_plan": "自社のAI戦略において、半導体サプライチェーンの脆弱性や地政学リスクがもたらす影響を分析し、代替策や多角的な調達戦略の可能性を検討してみましょう。",
-    "image_keyword": "Zuckerberg AI chip",
-    "technical_terms": [
-      {
-        "term": "半導体",
-        "explanation": "コンピューターやAIなどの電子機器の頭脳となる、情報を処理・記憶する微細な電子部品。AIの性能を左右する重要な要素です。"
-      },
-      {
-        "term": "地政学リスク",
-        "explanation": "特定の地域における政治的・地理的要因が、国際経済や企業のサプライチェーンに与える不確実性や脅威。例：米中対立による貿易規制。"
-      },
-      {
-        "term": "AI覇権",
-        "explanation": "人工知能分野において、技術開発、市場シェア、軍事応用などで他国や他社を凌駕し、主導的な地位を確立すること。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MTnM3SWJILXM5U2ZTODBqUnpzb29vZGVpeTE0X1VqM0xUX1NuRmVkeXZqY1lxUGRNd2gxYjViTktGblQ4T1VNc053c3jSAU9BVV95cUxPbng5Q2g2a1l4bk1mM09WQUI2WDFMbWNNWGFvT2ZHRF9HWUFPbDBidjM3WUdHNE5FckJ3RjhCakp4SG5Bbk9XZFBTejUtazNj?oc=5": {
-    "title": "パワー半導体再編の嵐！デンソー対ローム・東芝・三菱連合、激化する争奪戦の裏側",
-    "tags": "Semiconductor",
-    "sentiment": "neutral",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "2時間前",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MTnM3SWJILXM5U2ZTODBqUnpzb29vZGVpeTE0X1VqM0xUX1NuRmVkeXZqY1lxUGRNd2gxYjViTktGblQ4T1VNc053c3jSAU9BVV95cUxPbng5Q2g2a1l4bk1mM09WQUI2WDFMbWNNWGFvT2ZHRF9HWUFPbDBidjM3WUdHNE5FckJ3RjhCakp4SG5Bbk9XZFBTejUtazNj?oc=5",
-    "summary_bullets": [
-      "デンソーによるロームへの買収提案が、ローム、東芝、三菱電機による「ローム連合」の形成を促し、パワー半導体業界の再編が激化している。",
-      "EVや脱炭素化の進展により需要が高まるパワー半導体の覇権を巡る動きは、日本の産業構造や国際競争力に大きな影響を与える可能性がある。",
-      "今後、ロームの株主判断や各社の戦略的提携の進展次第で、パワー半導体市場における新たな勢力図が形成される見通し。",
-      "パワー半導体市場の競争激化と再編は、自動車産業をはじめとする関連業界のサプライチェーンに直接的な影響を及ぼすだろう。"
-    ],
-    "insight": "パワー半導体市場は、EVシフトや脱炭素化を背景に今後もM&Aや戦略的提携が活発化する可能性が高く、サプライチェーンの安定性と技術リーダーシップ確保が企業の競争優位性を左右する鍵となる。",
-    "action_plan": "自社のサプライチェーンにおける重要部品（半導体など）の調達リスクを再評価し、代替供給源や戦略的パートナーシップの可能性について検討を開始しましょう。",
-    "image_keyword": "semiconductor acquisition, power device merger, corporate battle",
-    "technical_terms": [
-      {
-        "term": "パワー半導体",
-        "explanation": "電力の制御や変換を効率的に行う半導体。電気自動車（EV）や産業機器、再生可能エネルギーシステムなどに不可欠な部品で、高い電圧や電流を扱える特徴がある。"
-      },
-      {
-        "term": "M&A (Mergers & Acquisitions)",
-        "explanation": "企業買収（Acquisitions）と合併（Mergers）の総称。企業の成長戦略や事業再編の一環として、他社を買収したり、他社と合併したりすること。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjUnNYVHJyWXJoZERrRWxNYmZxR2pTNldkRUhjSzluQzVvaEt4X3FEUmtHUTE2amxWZGMta2laVnNrSjAwRGJpajFoaE5PZFhOd3dmbA?oc=5": {
-    "title": "米国半導体株へのスマート投資：ニッセイSOX指数ファンドが拓く未来",
-    "tags": "Semiconductor",
-    "sentiment": "neutral",
-    "sentiment_text": "注目の話題",
-    "rating": 4,
-    "time_ago": "4時間前",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjUnNYVHJyWXJoZERrRWxNYmZxR2pTNldkRUhjSzluQzVvaEt4X3FEUmtHUTE2amxWZGMta2laVnNrSjAwRGJpajFoaE5PZFhOd3dmbA?oc=5",
-    "summary_bullets": [
-      "ニッセイから、購入・換金手数料なしで米国半導体株に投資できる「SOX指数インデックスファンド」が提供されています。",
-      "AIやデータセンター需要の急増により、半導体産業がテクノロジー業界の成長エンジンとして注目され、関連投資が重要性を増しています。",
-      "世界的なデジタル化の加速を背景に、SOX指数連動型の投資信託は、今後の半導体市場拡大の恩恵を享受する有力な手段と見られます。"
-    ],
-    "insight": "AI時代の到来は半導体市場に前例のない成長機会をもたらしており、ビジネスリーダーは半導体セクターへの戦略的投資が、未来の技術革新と経済成長の恩恵を享受するための鍵となることを認識すべきです。",
-    "action_plan": "自身の投資ポートフォリオにおけるテクノロジー・半導体関連資産の比率を見直し、SOX指数など主要な半導体指標の動向を常にウォッチする習慣をつけましょう。",
-    "image_keyword": "semiconductor investment, tech stock chart, AI chip finance",
-    "technical_terms": [
-      {
-        "term": "SOX指数",
-        "explanation": "フィラデルフィア半導体株指数の略で、米国の主要な半導体関連企業の株価動向を示す、半導体産業の健全性を測る重要な指標です。"
-      },
-      {
-        "term": "インデックスファンド",
-        "explanation": "特定の株価指数（この場合はSOX指数）に連動する運用成果を目指す投資信託で、個別銘柄選定の手間なく分散投資が可能です。"
-      },
-      {
-        "term": "米国半導体株",
-        "explanation": "アメリカに拠点を置く半導体の設計・製造などを行う企業の株式を指し、グローバルな技術需要を背景に高い成長性が期待されています。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/17/news087.html": {
-    "title": "ソフトバンクG、社名不正利用に厳重警告！巧妙化するブランド詐欺から企業とユーザーを守るには",
-    "tags": "Cybersecurity",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 4,
-    "time_ago": "3日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/17/news087.html",
-    "summary_bullets": [
-      "ソフトバンクグループが「軟銀ソリューションズ」という商号が自社と一切関係ないことを公式に注意喚起した。",
-      "企業の商号やブランドの不正利用が巧妙化しており、企業は積極的なブランド保護戦略と消費者への情報提供が不可欠となっている。",
-      "模倣ビジネスやなりすまし詐欺の増加傾向を受け、企業はAI技術なども活用したブランド監視や法務的対応の強化を加速させる可能性がある。"
-    ],
-    "insight": "自社のブランドがいつ、どこで、どのように不正利用されるか予測困難な時代であり、企業はサイバーセキュリティだけでなく、商標・商号の積極的な監視と迅速な対応体制の構築が必須である。",
-    "action_plan": "自社の商号やブランド名がインターネット上で不正使用されていないか、定期的に検索やツールで監視する仕組みを見直してみましょう。また、社内においてブランド保護に関する緊急対応フローや広報戦略を再確認し、関連部署との連携体制を強化しましょう。",
-    "image_keyword": "corporate identity fraud",
-    "technical_terms": [
-      {
-        "term": "商号",
-        "explanation": "会社が営業活動を行う上で使用する名称のこと。法律で保護されており、他社が勝手に同じ名称を使うことはできない。"
-      },
-      {
-        "term": "不正使用",
-        "explanation": "企業やブランドの名称、ロゴなどを許可なく使い、消費者を誤解させたり、利益を得ようとする行為。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/16/news065.html": {
-    "title": "国家機関の盲点？偽装刑事による巧妙な手口で国税職員がLINEを通じ機密納税情報漏洩",
-    "tags": "Cybersecurity",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "4日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/16/news065.html",
-    "summary_bullets": [
-      "国税職員が「偽の刑事」を名乗る人物に騙され、LINEアプリを介して個人企業の機密納税情報を漏洩させた。",
-      "国家機関の職員がソーシャルエンジニアリングの被害に遭ったことで、組織全体における情報セキュリティ教育と意識の欠如が浮き彫りになった。",
-      "デジタルツールの利用が広がる現代において、巧妙化する詐欺手口への対策と、従業員一人ひとりのセキュリティリテラシー向上が急務となる。"
-    ],
-    "insight": "デジタルコミュニケーションが日常化する中で、組織の規模や役割に関わらず、巧妙なソーシャルエンジニアリング攻撃は常に情報漏洩のリスクをもたらします。従業員が安易な行動を取らないよう、継続的なセキュリティ教育と心理的な防御壁の構築が、組織の信頼と情報資産を守る上で不可欠であることを再認識すべきです。",
-    "action_plan": "自社の情報セキュリティガイドラインを直ちに再点検し、特にソーシャルエンジニアリングやフィッシング詐欺に対する従業員教育プログラムを強化しましょう。また、業務用連絡ツールでの機密情報取り扱いに関する具体的なルールを明確化し、定期的な訓練を通じて全従業員への周知徹底を図りましょう。",
-    "image_keyword": "data leak, cyber crime, social engineering",
-    "technical_terms": [
-      {
-        "term": "ソーシャルエンジニアリング",
-        "explanation": "人間の心理的な隙や行動のミスを悪用し、技術的な手法ではなく人とのコミュニケーションを通じて機密情報を不正に入手する手法。パスワードや機密情報などを聞き出す行為も含まれる。"
-      },
-      {
-        "term": "情報漏洩",
-        "explanation": "企業や組織、個人の持つ機密情報や個人情報などが、意図せずまたは不正な手段によって外部に流出してしまうこと。セキュリティインシデントの一つ。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/business/articles/2604/20/news021.html": {
-    "title": "NEC、AIで文書処理工数を93%削減！1300Pの開示作業を自動化する業務改革事例",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://www.itmedia.co.jp/business/articles/2604/20/news021.html",
-    "summary_bullets": [
-      "NECがAIを活用し、1300ページに及ぶ金融商品の開示作業の工数を劇的に93%削減することに成功した。",
-      "AI導入が、これまで人手に頼っていた複雑かつ地道な定型業務の効率化に絶大な効果を発揮し、企業の生産性向上とDXを加速させる可能性を示唆する。",
-      "今後は、文書解析やデータ整理といったバックオフィス業務全般へのAI適用がさらに広がり、多くの企業で同様の業務改革が進むトレンドが予測される。"
-    ],
-    "insight": "AIは創造的な業務だけでなく、膨大で複雑なルーティン業務にも劇的な効率化をもたらすことをこの事例は明確に示しており、自社の隠れた「非効率の沼」にこそAI活用の大きなチャンスが潜んでいると認識すべきです。",
-    "action_plan": "自社内で「地道で時間がかかるが、必ずやらなければならない」と諦めていた定型業務、特に文書処理やデータ整理のプロセスをリストアップし、AIによる自動化の可能性について具体的に検討を始めてみましょう。",
-    "image_keyword": "AI office automation, data processing, efficiency gain",
-    "technical_terms": [
-      {
-        "term": "開示作業",
-        "explanation": "企業が法規制に基づき、経営情報や財務状況などを公開する定型業務。多くの書類作成やデータ整理を伴う。"
-      },
-      {
-        "term": "工数削減",
-        "explanation": "ある作業を完了するために必要な時間や人員の総量を減らすこと。生産性向上の一環。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MMERPLUU1dGJSX0Rha3MyY2xDTWZ4UHBYQS1JNGJBWGpXMWhZd2NTUjVlcjlvSFVUSWNOVktCR3pqaUFmU3JDMmJod0FjYXhpcDNBRzhVTFFoaTJTTTVJOERXVXNKdTk4?oc=5": {
-    "title": "失われた半導体大国の夢：『シリコンアイランド』九州から辿る、日本の半導体産業の光と影",
-    "tags": "Semiconductor",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MMERPLUU1dGJSX0Rha3MyY2xDTWZ4UHBYQS1JNGJBWGpXMWhZd2NTUjVlcjlvSFVUSWNOVktCR3pqaUFmU3JDMmJod0FjYXhpcDNBRzhVTFFoaTJTTTVJOERXVXNKdTk4?oc=5",
-    "summary_bullets": [
-      "かつて世界を席巻した「日の丸半導体」の衰退と、「シリコンアイランド」と呼ばれた九州地域の歴史的背景が焦点となっている。",
-      "半導体産業の失速は、日本の技術競争力低下と経済安全保障上の脆弱性を浮き彫りにし、国内外での再編の動きを促している。",
-      "過去の栄光と失敗から教訓を得て、現在のグローバル半導体サプライチェーン再構築の中で日本が取るべき戦略と未来への展望が問われる。"
-    ],
-    "insight": "日本の半導体産業が辿った栄光と衰退の歴史は、いかなる先進技術産業も安住できないグローバル競争の厳しさを物語る。未来の産業競争力を確保するためには、過去の成功体験に固執せず、変化への適応力と戦略的な国際協調が不可欠である。",
-    "action_plan": "自社のサプライチェーンにおける半導体部品のリスクを洗い出し、代替調達先の検討や在庫戦略を見直しましょう。また、国の産業政策や主要企業の投資動向を注視し、今後の技術戦略や人材育成計画に反映させるための情報収集を始めましょう。",
-    "image_keyword": "Japan semiconductor industry, Kyushu chip manufacturing, semiconductor legacy",
-    "technical_terms": [
-      {
-        "term": "半導体",
-        "explanation": "電気を通したり通さなかったりする性質を持つ物質で、ICチップなどの電子部品の基盤となるもの。現代社会のあらゆる電子機器に不可欠。"
-      },
-      {
-        "term": "シリコンアイランド",
-        "explanation": "かつて九州が多くの半導体工場や関連企業が集積し、世界の半導体産業の一大拠点となっていたことを指す呼称。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rcjNFYTdWNzdaRkt6TXpXMVJBUm55VWlldWFEemRjZzJ6M0tVWnhnVUxSSUc3aDBPdGkyY2YzN0VYbjVOVENjb3ZGVG5nYW8?oc=5": {
-    "title": "日本の半導体市場、2034年に632億ドルへ成長：年率4.40%拡大の予測",
-    "tags": "Semiconductor",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rcjNFYTdWNzdaRkt6TXpXMVJBUm55VWlldWFEemRjZzJ6M0tVWnhnVUxSSUc3aDBPdGkyY2YzN0VYbjVOVENjb3ZGVG5nYW8?oc=5",
-    "summary_bullets": [
-      "日本の半導体市場規模は2034年までに632億米ドルに達し、年平均成長率（CAGR）4.40%で拡大すると予測されている。",
-      "この堅調な成長は、日本の経済全体および関連産業における新たな投資機会と競争力強化を示唆している。",
-      "デジタル化の進展やAI、IoTなどの次世代技術の普及が、半導体需要の持続的な増加を牽引する主要因となる見込みだ。"
-    ],
-    "insight": "この成長予測は、半導体関連企業にとって明確な事業拡大の機会であり、サプライチェーンの強化や研究開発への戦略的投資が市場シェア獲得の鍵となるでしょう。",
-    "action_plan": "自社の事業ポートフォリオにおける半導体関連技術の重要性を見直し、成長市場への参入や既存事業の強化に向けた投資計画を具体的に検討してみましょう。",
-    "image_keyword": "Japan semiconductor growth",
-    "technical_terms": [
-      {
-        "term": "CAGR",
-        "explanation": "Compound Annual Growth Rateの略で、ある期間における投資や市場規模の年平均成長率を示す指標です。"
-      }
-    ]
-  },
   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BQjR3U1ZaMWtENlpVZGlSSTlTNzViSHFweEFPdUIxU3RnaTM5ZGVBbDI2dGVob1owRGNublBsaXVmY0FTei0yLXhBRkFFR1VrYnUyTS1qRGVSZmRoaTJWQUh4ekJINUNq?oc=5": {
     "title": "LSTC、光電融合で次世代パッケージ開発を加速！高性能・低消費電力化でコンピューティングの未来を拓く",
     "tags": "Hardware",
@@ -5301,7 +4998,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "2時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/19/news100.html",
     "summary_bullets": [
       "Appleが5年をかけて開発したとされる先進的なセキュリティ対策が、新型の脆弱性攻撃「Mythos」によってわずか5日で突破された。",
@@ -5400,6 +5097,306 @@
       {
         "term": "モバイルデバイス管理 (MDM)",
         "explanation": "企業が従業員に貸与するスマートフォンやタブレットなどのモバイル端末を一元的に管理し、セキュリティ設定やアプリケーション配布などを行うシステムやソリューション。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2605/21/news026.html": {
+    "title": "「SaaSの死」論を覆すIBMの逆襲戦略：Anthropicショックを乗り越える「4つの武器」",
+    "tags": "SaaS",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/business/articles/2605/21/news026.html",
+    "summary_bullets": [
+      "IBMは、AI（特にLLM）の進化によって提唱される「SaaSの死」論に対し、独自の「4つの武器」で反撃する戦略を打ち出している。",
+      "AI技術の急速な進化がSaaSビジネスモデルの根幹を揺るがす中、大手エンタープライズ企業がどのようにその変化に適応し、新たな価値を創造しようとしているかを示している。",
+      "SaaS市場は、単なるサブスクリプション提供からAIを活用した高付加価値サービスへの転換が加速し、テクノロジー企業の競争軸が再定義される可能性が高い。"
+    ],
+    "insight": "AIの進化はSaaSのあり方を根本から変える脅威であると同時に、IBMのような既存の巨大プレイヤーが革新的なアプローチでその変化をリードし、新たな市場機会を創出している点に、ビジネスパーソンは注目すべきです。",
+    "action_plan": "自社のSaaSビジネス（または利用中のSaaS）がAI技術の進化によってどのような影響を受けるか現状を分析し、IBMの「4つの武器」のような戦略を参考に、AIを活用した新たな提供価値や差別化ポイントを検討してみましょう。",
+    "image_keyword": "IBM AI strategy, future SaaS, business innovation",
+    "technical_terms": [
+      {
+        "term": "SaaS",
+        "explanation": "Software as a Service（サービスとしてのソフトウェア）の略。インターネット経由で提供されるソフトウェアを、ユーザーが利用料を払って使う形態。"
+      },
+      {
+        "term": "Anthropicショック",
+        "explanation": "Anthropic社のような先進的な大規模言語モデル（LLM）の開発企業が登場したことで、既存のIT業界やビジネスモデルに与える衝撃や変革の動きを指す。"
+      },
+      {
+        "term": "LLM",
+        "explanation": "Large Language Model（大規模言語モデル）の略。大量のテキストデータで学習されたAIモデルで、人間のような自然な言葉を理解し、文章生成などができる技術。"
+      }
+    ]
+  },
+  "https://atmarkit.itmedia.co.jp/ait/articles/2605/21/news014.html": {
+    "title": "Python 3.15の注目機能：不変辞書`frozendict`と特殊値`sentinel`が開発にもたらす新境地",
+    "tags": "Programming",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "3時間前",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/21/news014.html",
+    "summary_bullets": [
+      "Python 3.15で、一度生成すると変更不可能な辞書`frozendict`と、特定の状態を示すためのユニークな特殊値`sentinel`が新たに導入される。",
+      "これらの新機能は、コードの安全性、可読性、そしてデータ構造の信頼性を向上させ、大規模なシステム開発におけるバグの削減や保守性向上に貢献する。",
+      "Pythonエコシステムは継続的に進化しており、より堅牢で効率的な開発をサポートする方向へ進む中で、今後のバージョンアップでさらに重要な機能追加が期待される。"
+    ],
+    "insight": "Pythonの進化は開発プロセスの質と直結するため、最新の言語機能を理解し活用することが、プロダクトの信頼性向上と開発効率の最適化に繋がります。",
+    "action_plan": "Pythonを利用しているプロジェクトで、これらの新機能がコードの安全性や可読性向上にどのように寄与するかを検討し、今後のバージョンアップ計画に組み込むための評価を開始してみましょう。",
+    "image_keyword": "Python development, new features, programming logic",
+    "technical_terms": [
+      {
+        "term": "frozendict",
+        "explanation": "一度作成すると内容を変更できない、不変（イミュータブル）な辞書型データ構造。ハッシュ可能であるため、他の辞書のキーとしても利用できる。"
+      },
+      {
+        "term": "sentinel",
+        "explanation": "特定の意味を持つユニークなオブジェクトで、デフォルト値や特定の状態（例：値が存在しない、処理が完了したなど）を示すために使われる。Noneとの区別が明確になる。"
+      },
+      {
+        "term": "Python 3.15",
+        "explanation": "広く利用されているプログラミング言語Pythonの将来のメジャーバージョン。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2605/20/news107.html": {
+    "title": "Google、AI検索を「25年で最大の刷新」と発表：OpenAI対抗で情報検索の未来を再定義へ",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "15時間前",
+    "url": "https://www.itmedia.co.jp/business/articles/2605/20/news107.html",
+    "summary_bullets": [
+      "GoogleがAI検索を25年ぶりの大規模刷新と位置付け、新モデル投入でOpenAIへの対抗姿勢を鮮明にした。",
+      "今回の刷新は、情報収集のあり方や企業のマーケティング、SEO戦略に根本的な変革をもたらす可能性がある。",
+      "GoogleとOpenAIのAI検索競争は激化の一途をたどり、ユーザー体験の向上と同時に、AI倫理や情報信頼性の確保が主要な課題となるだろう。"
+    ],
+    "insight": "GoogleのAI検索大規模刷新は、単なる機能強化ではなく、情報アクセスやビジネス競争のルールそのものを変える可能性を秘めており、企業は既存のデジタル戦略を抜本的に見直し、AIを活用した新たな顧客接点や価値創出の機会を模索すべきです。",
+    "action_plan": "自社のウェブサイトやコンテンツが、新しいAI検索環境でどのように評価され、ユーザーに届くのかを予測し、現在のSEO戦略やコンテンツ制作の方針を見直すためのチームミーティングを今日中に設定してみましょう。",
+    "image_keyword": "Google AI search, generative AI, future search",
+    "technical_terms": [
+      {
+        "term": "AI検索",
+        "explanation": "人工知能技術を応用し、ユーザーの自然言語での質問を理解して最適な情報を提供する次世代の検索エンジン。"
+      },
+      {
+        "term": "OpenAI",
+        "explanation": "ChatGPTなどで知られる人工知能研究開発企業で、Googleの主要な競合相手の一つ。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6581044?source=rss": {
+    "title": "メタ、AIシフトを加速：8000人規模の追加人員削減で事業再編へ",
+    "tags": "AI / LLM",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.yahoo.co.jp/pickup/6581044?source=rss",
+    "summary_bullets": [
+      "メタがAI技術への大規模投資を加速するため、新たに8000人規模の人員削減に着手。",
+      "この動きは、テック業界全体でのAIシフトと事業効率化の潮流を一層強めるものと見られる。",
+      "今後、多くの企業がAI関連分野へのリソース集中を進め、非戦略的な部門のリストラが常態化する可能性がある。"
+    ],
+    "insight": "今日のビジネスリーダーは、メタの事例からAIへの戦略的シフトの緊急性を認識し、自社の事業ポートフォリオと人材配置をAI時代に適応させるための大胆な再編計画を検討すべきです。",
+    "action_plan": "自社事業におけるAI導入のロードマップを見直し、中長期的な組織構造と必要なスキルセットを書き出してみましょう。",
+    "image_keyword": "Meta AI strategy, tech layoff",
+    "technical_terms": []
+  },
+  "https://news.yahoo.co.jp/pickup/6581042?source=rss": {
+    "title": "【警鐘】海外詐欺拠点に「AIルーム」出現、巧妙化するサイバー犯罪の闇",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.yahoo.co.jp/pickup/6581042?source=rss",
+    "summary_bullets": [
+      "海外の詐欺拠点でAI技術が組織的に悪用され、「AIルーム」なる場所で詐欺手口が高度化している実態が判明。",
+      "AIを悪用した詐欺の巧妙化は、企業や個人へのサイバー攻撃リスクを飛躍的に高め、経済的損失と信頼失墜を招く可能性がある。",
+      "今後、AI技術の進化と普及に伴い、犯罪者による悪用はさらに加速すると予測され、より高度なセキュリティ対策と法規制の強化が不可欠となるだろう。"
+    ],
+    "insight": "AIはビジネス成長の原動力であると同時に、サイバー犯罪における新たな脅威の源泉となり得るため、企業はAIの倫理的利用とセキュリティ対策を経営戦略の最重要課題と位置づける必要があります。",
+    "action_plan": "自社のAI利用におけるセキュリティガイドラインを見直し、最新のAIを悪用した詐欺手口に関する情報を社内で共有し、従業員への注意喚起と定期的なセキュリティ研修を強化しましょう。",
+    "image_keyword": "AI cybercrime, fraud room, digital threat",
+    "technical_terms": [
+      {
+        "term": "AI",
+        "explanation": "人工知能（Artificial Intelligence）の略で、人間のように学習・推論・判断などを行うことができるコンピュータシステムやソフトウェアを指します。"
+      },
+      {
+        "term": "Cybersecurity",
+        "explanation": "コンピュータシステムやネットワーク、プログラム、データを不正アクセス、損傷、盗難から保護するための技術やプロセス、管理体制の総称です。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6581038?source=rss": {
+    "title": "司法DX新時代へ：民事裁判手続きが全面デジタル化、オンライン完結で効率革命",
+    "tags": "Legal Tech",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.yahoo.co.jp/pickup/6581038?source=rss",
+    "summary_bullets": [
+      "民事裁判の手続きが全面的にデジタル化され、オンラインでの訴訟提起や書類提出が可能になる。",
+      "企業の法務部門や個人にとって、裁判プロセスの効率化、コスト削減、そして地理的制約からの解放が期待される。",
+      "司法分野におけるデジタルトランスフォーメーション（DX）が加速し、AIを活用したリーガルテックサービスのさらなる普及と進化が予測される。"
+    ],
+    "insight": "企業の法務担当者や経営者は、この司法デジタル化の波を単なる業務効率化に留まらず、訴訟戦略、リスクマネジメント、そして新たなビジネス機会創出の視点から捉え、積極的に対応策を検討すべきです。",
+    "action_plan": "自社の法務プロセスにおけるデジタル化の現状と課題を棚卸しし、オンライン訴訟システムへの対応計画を具体的に書き出してみましょう。",
+    "image_keyword": "digital court, legal tech, judicial digitalization",
+    "technical_terms": [
+      {
+        "term": "リーガルテック (Legal Tech)",
+        "explanation": "法務サービスとテクノロジーを融合させ、法律業務の効率化や利便性向上を図る製品やサービスの総称。"
+      },
+      {
+        "term": "DX (デジタルトランスフォーメーション)",
+        "explanation": "デジタル技術を活用して、ビジネスモデルや組織文化、業務プロセスなどを根本から変革し、競争優位性を確立すること。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51NkM5TTZ3Z3NJOWhIVFhzbEhiYi01WVdTVGVBZ002ZXFQMnBVU1dwS1lJNVk5dm5hOThsamZZN2RhS1dJb21vc2FjODZnaFN2OGp2MXdSblBvRk9GUHJ1VQ?oc=5": {
+    "title": "NVIDIAの好決算が市場を牽引：AI・半導体株が急反騰、21日の株式相場展望",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "急騰の好材料",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51NkM5TTZ3Z3NJOWhIVFhzbEhiYi01WVdTVGVBZ002ZXFQMnBVU1dwS1lJNVk5dm5hOThsamZZN2RhS1dJb21vc2FjODZnaFN2OGp2MXdSblBvRk9GUHJ1VQ?oc=5",
+    "summary_bullets": [
+      "NVIDIAの予想を上回る好決算を受け、株式市場でAIおよび半導体関連株の買い戻しが加速している。",
+      "この動向は、AI技術への投資熱が再燃し、関連産業全体の成長と市場活性化への期待を高める。",
+      "AI技術の進化が続く限り、半導体需要は堅調に推移し、AI関連銘柄が市場の主要トレンドを牽引すると予測される。"
+    ],
+    "insight": "NVIDIAの好決算は、AIが現代ビジネスの核心インフラであることを再確認させ、AI関連技術やサービスへの投資が今後も強力な成長機会を生み出すことを示唆しています。",
+    "action_plan": "自社のAI活用戦略を見直し、最新の市場トレンドに合わせた技術導入やパートナーシップの可能性を具体的に検討してみましょう。",
+    "image_keyword": "AI chip stock market",
+    "technical_terms": [
+      {
+        "term": "NVIDIA",
+        "explanation": "AI処理に不可欠なGPU（画像処理半導体）で世界をリードする半導体メーカー。"
+      },
+      {
+        "term": "AI・半導体株",
+        "explanation": "人工知能（AI）関連技術や半導体の開発・製造を手がける企業の株式の総称。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JMDhPRmRNVTI0RWEtbVZEaS1aLTNIN0Q3WlhJWldvbk1SZUJZOF95SDU0Q3ZCcE9JaDR0Ykh6RVhZczFXU3l3aVc1ZDdmUFE?oc=5": {
+    "title": "半導体製造装置市場が急成長へ：2034年には2341億ドル規模、CAGR 7.85%で推移",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JMDhPRmRNVTI0RWEtbVZEaS1aLTNIN0Q3WlhJWldvbk1SZUJZOF95SDU0Q3ZCcE9JaDR0Ykh6RVhZczFXU3l3aVc1ZDdmUFE?oc=5",
+    "summary_bullets": [
+      "半導体製造装置市場は、2034年までに2341億米ドル規模に達すると予測されている。",
+      "この市場の力強い成長は、AIやIoTなど先端技術の進化を支え、幅広い産業に波及効果をもたらす。",
+      "今後10年間で年平均成長率（CAGR）7.85%という堅調な成長が継続すると見込まれる。"
+    ],
+    "insight": "半導体製造装置市場の著しい拡大は、グローバル経済におけるデジタル化の加速と、これに伴うチップ需要の急増を明確に示しており、関連企業は長期的な視点での投資戦略とサプライチェーンの強化が不可欠である。",
+    "action_plan": "自社の製品やサービスが半導体エコシステムにどのように貢献できるかを再評価し、成長が予測される市場での新たなビジネスチャンスやパートナーシップの可能性を探ってみましょう。",
+    "image_keyword": "semiconductor factory, chip manufacturing, high-tech growth",
+    "technical_terms": [
+      {
+        "term": "半導体製造装置",
+        "explanation": "集積回路（ICチップ）を製造するために使用される専門的な機械やシステムの総称です。"
+      },
+      {
+        "term": "CAGR（Compound Annual Growth Rate）",
+        "explanation": "投資や事業の特定の期間における年平均成長率を示す指標で、複数年にわたる成長率を平準化して表現します。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41UW5SNHBsaEd4RzJGa1F4bzJ2b2pXN3dVSHA1d0FmeC1rVVhaQnVLblppREtDTFVKeDRmYnNwQnBJTW5yaVNMNmFkQ1FiU2s?oc=5": {
+    "title": "新時代の冷感！TORRAS、半導体冷却プレート搭載ハンディファン「COOLiFY iva」でパーソナル冷却市場を革新",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41UW5SNHBsaEd4RzJGa1F4bzJ2b2pXN3dVSHA1d0FmeC1rVVhaQnVLblppREtDTFVKeDRmYnNwQnBJTW5yaVNMNmFkQ1FiU2s?oc=5",
+    "summary_bullets": [
+      "TORRASが半導体冷却プレートを搭載し、風自体を冷たくする革新的なハンディファン「COOLiFY iva」を発表。",
+      "猛暑が常態化する現代において、パーソナル冷却市場に新たな付加価値を提供し、消費者の快適性向上に貢献する。",
+      "半導体冷却技術の小型化・効率化は、ウェアラブルデバイスや小型家電における冷却ソリューションの次なるトレンドとなる可能性が高い。"
+    ],
+    "insight": "このニュースは、既存の製品カテゴリにおいても、先進技術（半導体冷却）を組み合わせることで、顧客体験を劇的に向上させ、新たな市場ニーズを喚起できる可能性を示唆しています。単なる機能追加ではなく、根本的な価値向上に着目することが重要です。",
+    "action_plan": "自社の製品やサービスにおいて、最新の素材技術や冷却・熱管理技術を応用できないか、異業種技術との融合による新たな価値創造の機会をブレインストーミングしてみましょう。",
+    "image_keyword": "portable cooling fan, semiconductor cooler, handheld cooling device",
+    "technical_terms": [
+      {
+        "term": "半導体冷却プレート",
+        "explanation": "電流を流すことで熱を片側に移動させ、もう片側を冷却するペルチェ素子などの半導体を利用した冷却装置です。フロンなどの冷媒を使わず、直接的な冷却効果が得られます。"
+      },
+      {
+        "term": "ハンディファン",
+        "explanation": "電池駆動で手軽に持ち運べる小型の扇風機で、パーソナルな暑さ対策に利用されます。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/20/news136.html": {
+    "title": "マネーフォワード、銀行連携トラブルでプレミアム会員へ15日間の延長補償を発表：顧客信頼回復へ一歩",
+    "tags": "SaaS",
+    "sentiment": "positive",
+    "sentiment_text": "信頼回復への対応",
+    "rating": 4,
+    "time_ago": "12時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news136.html",
+    "summary_bullets": [
+      "マネーフォワードが銀行連携の一時停止に対し、プレミアム利用者向けに購読期間15日間の延長補償を発表した。",
+      "SaaS企業にとってサービス障害発生時の迅速かつ誠実な顧客対応が、顧客信頼維持とブランドイメージ保護に不可欠であることを示す事例となる。",
+      "FinTechサービスではシステム安定性とデータ連携の重要性が増しており、SaaS事業者は障害発生時のリスク管理と対応策の強化が今後も求められるだろう。"
+    ],
+    "insight": "FinTechサービスに限らず、SaaS事業者にとってサービス品質の維持と、万一の障害発生時における透明性のある顧客対応は、ユーザーエンゲージメントと事業継続性を左右する生命線であることをこの事例は明確に示しています。",
+    "action_plan": "自社が提供するSaaSサービスについて、サービス停止や障害発生時の顧客への補償ポリシーやコミュニケーション計画を改めて見直し、緊急時対応の準備状況を確認してみましょう。",
+    "image_keyword": "Money Forward, financial compensation, customer support",
+    "technical_terms": [
+      {
+        "term": "銀行連携",
+        "explanation": "銀行口座の取引履歴や残高情報を、会計や家計簿アプリなどのFinTechサービスと自動で同期・管理する機能です。"
+      },
+      {
+        "term": "SaaS (Software as a Service)",
+        "explanation": "ソフトウェアをインターネット経由でサービスとして提供する形態で、利用者は購入ではなく月額や年額で利用料金を支払います。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/20/news085.html": {
+    "title": "GitHub、内部リポジトリへの不正アクセス疑惑を調査 - 4000件窃取の主張に揺れるセキュリティ対策の行方",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "19時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news085.html",
+    "summary_bullets": [
+      "GitHubが内部リポジトリへの不正アクセス疑惑を調査中であり、ハッカー集団が4000件のコードを窃取したと主張している。",
+      "GitHubのセキュリティ侵害は、同プラットフォームに依存する企業の開発資産や知的財産の保護に深刻な影響を及ぼす可能性がある。",
+      "サプライチェーン攻撃や開発環境への標的型攻撃が増加する中、企業のセキュリティガバナンスと対策の再評価が喫緊の課題となるだろう。"
+    ],
+    "insight": "ソフトウェア開発の基盤であるGitHubのような主要プラットフォームでもセキュリティリスクは存在するため、企業は自社の開発資産保護に向けた多層的なセキュリティ戦略と定期的な監査体制の構築が不可欠です。",
+    "action_plan": "GitHubを利用している企業は、自社のリポジトリに対するアクセス権限の厳格化、二要素認証の強制、およびセキュリティログの定期的な監視体制を今すぐ見直しましょう。",
+    "image_keyword": "Cyber security network, data breach, GitHub security",
+    "technical_terms": [
+      {
+        "term": "不正アクセス",
+        "explanation": "許可されていない者が情報システムやネットワークに侵入し、データを閲覧・改ざん・窃取する行為。"
+      },
+      {
+        "term": "リポジトリ",
+        "explanation": "プログラムのソースコードや関連ファイル、変更履歴などを一元的に管理するための貯蔵庫（データ保存場所）。"
+      },
+      {
+        "term": "ハッカー集団",
+        "explanation": "コンピュータシステムへの不正侵入や情報窃取などを目的とした、組織化されたグループ。"
       }
     ]
   }
