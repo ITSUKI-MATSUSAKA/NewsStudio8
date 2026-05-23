@@ -1,201 +1,4 @@
 {
-  "https://news.yahoo.co.jp/pickup/6577372?source=rss": {
-    "title": "KDDI、衛星ブロードバンドで「圏外ゼロ」へ：緊急通報の新常識を創造",
-    "tags": "Telecommunication",
-    "sentiment": "positive",
-    "sentiment_text": "画期的な進展",
-    "rating": 5,
-    "time_ago": "9時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6577372?source=rss",
-    "summary_bullets": [
-      "KDDIが衛星ブロードバンドを活用し、携帯電話の圏外エリアからでも緊急通報（110/119/118番）が可能になる技術を開発。",
-      "災害時や山間部など従来の通信網が機能しない場所での安全性と命の保護を大幅に向上させ、社会インフラとしての通信の信頼性を高める。",
-      "既存ネットワークと衛星通信の融合が加速し、真の「どこでも繋がる」社会の実現に向けたトレンドを牽引、他キャリアにも影響を与える可能性。"
-    ],
-    "insight": "通信インフラの進化は、単なる利便性の向上に留まらず、社会のレジリエンスを強化し、新たな安全保障とビジネス機会を創出することを示す重要な事例である。",
-    "action_plan": "自社の事業における災害対策やBCP（事業継続計画）における通信要件を見直し、衛星通信などの新たな技術導入の可能性やパートナーシップ戦略を検討してみましょう。",
-    "image_keyword": "Satellite emergency call, Off-grid communication, Telecom innovation",
-    "technical_terms": [
-      {
-        "term": "圏外",
-        "explanation": "携帯電話の電波が届かず、通話や通信ができないエリア。"
-      },
-      {
-        "term": "緊急通報",
-        "explanation": "警察（110番）、消防・救急（119番）、海上保安庁（118番）など、緊急時に利用される電話番号への通報。"
-      },
-      {
-        "term": "衛星ブロードバンド",
-        "explanation": "人工衛星を経由して提供される高速インターネット接続サービス。地理的な制約を受けにくい特徴を持つ。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/25/news024.html": {
-    "title": "MetaとAWSがタッグ！エージェントAIの飛躍を加速するArmベース『Graviton5』大規模導入の衝撃",
-    "tags": "AI Infrastructure",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/25/news024.html",
-    "summary_bullets": [
-      "Metaがエージェント型AIの強化に向け、AWSと提携しArmベースの最新チップ「Graviton5」を大量採用する。",
-      "今回の提携は、AIモデル開発のコスト効率と性能を大幅に向上させ、より高度なエージェントAIの普及を加速させる可能性を秘めている。",
-      "クラウドベンダーと大手テック企業の連携が深化し、AI専用ハードウェアとエコシステムの競争が今後さらに激化するトレンドを裏付ける。"
-    ],
-    "insight": "MetaとAWSの戦略的提携は、AI開発におけるコスト効率と高性能化が喫緊の課題であり、特定のハードウェアに依存しない柔軟なクラウド基盤が競争優位の鍵となることを示唆している。",
-    "action_plan": "自社のAI活用戦略を見直し、クラウドプロバイダーとの連携や最適なチップ選択が将来の競争力にどう影響するか、その潜在的なメリットとデメリットを具体的に評価し、新たな開発ロードマップを検討してみましょう。",
-    "image_keyword": "AI chip partnership, cloud AI infrastructure, Graviton5 data center",
-    "technical_terms": [
-      {
-        "term": "エージェント型AI",
-        "explanation": "自律的に目標を設定し、状況を判断して行動する、人間のように機能するAI。例えば、スケジュール管理や情報収集などを自動で行う。"
-      },
-      {
-        "term": "Armベースチップ",
-        "explanation": "Arm社の設計ライセンスに基づいたCPUチップ。低消費電力でありながら高い性能を発揮し、スマートフォンからサーバーまで幅広く利用されている。"
-      },
-      {
-        "term": "Graviton5",
-        "explanation": "AWSが自社開発するArmベースの最新世代プロセッサ。クラウドワークロードに最適化され、高いコストパフォーマンスを提供する。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/aiplus/articles/2604/24/news116.html": {
-    "title": "Google AI講座、無料枠1万人分が1日で瞬殺！急加速するAI人材獲得競争と企業の戦略的対応",
-    "tags": "AI Training",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/24/news116.html",
-    "summary_bullets": [
-      "Googleの提供するAI講座の無料枠1万人分が募集開始からわずか1日で終了し、AI学習への極めて高い需要が浮き彫りに。",
-      "これはAI人材の育成と獲得が企業競争力に直結することを示す一方、Googleが自社のAIエコシステムへのユーザー囲い込みを強化している戦略的動きと推測される。",
-      "今後、AIスキル習得は個人のキャリアアップに不可欠となり、プラットフォーマーによる大規模なAI教育プログラム提供が加速するトレンドが予測される。"
-    ],
-    "insight": "AIスキルの重要性が高まる中、個人は自己投資としてAI学習を急務と捉え、企業は従業員のAIリテラシー向上と具体的な活用戦略の構築を喫緊の課題として取り組むべきである。",
-    "action_plan": "自社の業務におけるAI活用機会を洗い出し、従業員のAIスキルアップのための社内研修プログラムや外部講座導入の検討、または個人としてGoogle AI Proなどの学習リソースを活用した具体的な学習計画を立ててみましょう。",
-    "image_keyword": "AI education demand, online learning platform, Google AI training",
-    "technical_terms": [
-      {
-        "term": "AI講座",
-        "explanation": "人工知能（AI）に関する知識や技術を学ぶための研修プログラムやコースの総称。"
-      },
-      {
-        "term": "Google AI Pro",
-        "explanation": "Googleが提供する、AI関連の専門的なコンテンツやツール、特典などが含まれるサービス、または資格認定プログラムの可能性。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/business/articles/2604/24/news111.html": {
-    "title": "NECとAnthropic、電撃的協業の舞台裏：発表2日前決定、3週間のスピード交渉が示すAI新時代の幕開け",
-    "tags": "AI / LLM",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "15時間前",
-    "url": "https://www.itmedia.co.jp/business/articles/2604/24/news111.html",
-    "summary_bullets": [
-      "NECと米AIスタートアップAnthropicが、発表2日前に決定した電撃的協業の実現に向けてわずか3週間で合意した。",
-      "この異例のスピード感は、グローバルなAI競争における日本企業の迅速な意思決定と戦略的パートナーシップ構築の重要性を示唆する。",
-      "両社の協業は、日本市場におけるAI技術の社会実装を加速させ、産業界全体のデジタル変革に大きな影響を与える可能性がある。"
-    ],
-    "insight": "AI分野における技術革新と競争のスピードは、従来のビジネス交渉プロセスをはるかに凌駕しており、企業は市場機会を捉えるために迅速な意思決定と戦略的なパートナーシップ構築を最優先すべきである。",
-    "action_plan": "自社のビジネスモデルや製品・サービスにおけるAI活用の可能性を再評価し、国内外の先進的なAI企業との協業機会を積極的に模索するためのロードマップを策定してみましょう。",
-    "image_keyword": "NEC Anthropic collaboration, AI partnership Japan, tech agreement",
-    "technical_terms": [
-      {
-        "term": "Anthropic",
-        "explanation": "OpenAIの元メンバーが創業した、安全かつ高性能なAI（特に大規模言語モデル）の開発に注力するアメリカのAIスタートアップ企業。"
-      },
-      {
-        "term": "LLM (Large Language Model)",
-        "explanation": "大量のテキストデータを学習し、人間のような自然な言語を理解・生成できるAIモデルのこと。GPTやClaudeなどがこれに該当する。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/aiplus/articles/2604/26/news023.html": {
-    "title": "Anthropicの実験『Project Deal』が露呈したAIエージェント市場における経済格差の深層",
-    "tags": "AI",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://www.itmedia.co.jp/aiplus/articles/2604/26/news023.html",
-    "summary_bullets": [
-      "Anthropicが実施したAIエージェント市場実験「Project Deal」が、ユーザー間で無自覚な経済格差を生み出す可能性を浮き彫りにした。",
-      "AIの普及と商用利用が進む中で、意図せず新たな不平等を発生させる潜在的なリスクが社会的な課題として認識され始めている。",
-      "今後のAIエージェントや自律システムの開発・導入においては、技術的な側面だけでなく、倫理的、社会的な公平性への配慮がより一層求められるだろう。"
-    ],
-    "insight": "AIエージェント技術は効率化と新たな価値創出の可能性を秘める一方で、その設計や導入方法によっては意図せず社会に深い経済格差を生み出すリスクを内包します。この洞察は、AIの導入を検討するすべてのビジネスリーダーにとって、技術的側面だけでなく、倫理的・社会的な影響まで考慮した包括的な戦略立案が不可欠であることを示唆します。",
-    "action_plan": "自社でAIエージェントやAI技術を導入する際、利用モデルや報酬体系が既存の格差を助長しないか、公平性の観点から評価基準を策定し、見直してみましょう。",
-    "image_keyword": "AI agent economy, digital inequality, ethical AI market",
-    "technical_terms": [
-      {
-        "term": "Project Deal",
-        "explanation": "AnthropicがAIエージェントの経済的な振る舞いや相互作用を研究するために実施した市場実験の名称。"
-      },
-      {
-        "term": "AIエージェント",
-        "explanation": "特定の目標を達成するために、自律的に判断し行動する能力を持つ人工知能プログラム。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6577585?source=rss": {
-    "title": "ガラケー復活イベントが空前の盛況！レトロテックが拓く新たな市場トレンド",
-    "tags": "Consumer Electronics",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 4,
-    "time_ago": "1日前",
-    "url": "https://news.yahoo.co.jp/pickup/6577585?source=rss",
-    "summary_bullets": [
-      "ガラケーをテーマにしたイベントが予想を上回る盛況ぶりを見せ、幅広い世代からの関心を集めている。",
-      "レトロテックへの関心の高まりは、ノスタルジー消費を喚起し、関連サービスや製品開発に新たな機会をもたらす可能性がある。",
-      "デジタルデトックス志向や特定の機能に特化したデバイスへの需要が増加し、多様なライフスタイルに合わせた製品開発が進むと予測される。"
-    ],
-    "insight": "デジタル飽和時代において、ガラケーに代表されるレトロデバイスへの回帰は、単なるノスタルジーだけでなく、シンプルな機能性やデジタルデトックス、特定のコミュニティ体験を求める現代人の深層心理を反映しており、企業はこうした潜在ニーズを捉えた新たなプロダクトやサービス戦略を検討すべきである。",
-    "action_plan": "自社の製品・サービスにおいて、過去の成功モデルやユーザーが愛着を持っていた要素を再評価し、現代のニーズと融合させることで新たな価値を創造できないかブレインストーミングしてみましょう。",
-    "image_keyword": "retro flip phone, vintage tech event, nostalgic mobile",
-    "technical_terms": [
-      {
-        "term": "ガラケー",
-        "explanation": "スマートフォンが普及する以前に主流だった、通話やメールを中心とした携帯電話。フィーチャーフォンとも呼ばれる。"
-      },
-      {
-        "term": "デジタルデトックス",
-        "explanation": "スマートフォンやPCなどのデジタルデバイスから距離を置き、心身の疲労を軽減する試み。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6577525?source=rss": {
-    "title": "【速報】AI都知事『ユリコ』、驚異の月額2.5万円で始動か？ 未来の行政を担うコスト効率とは",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "23時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6577525?source=rss",
-    "summary_bullets": [
-      "AIが都知事の役割を担い、月額2万5000円という低コストで運用される可能性が報じられた。",
-      "行政サービスの画期的な効率化とコスト削減を実現し、公共部門におけるAI活用の新たなビジネスモデル創出を加速させるだろう。",
-      "AIによる意思決定とガバナンスの未来が議論され、スマートシティやデジタル政府への移行が加速するトレンドを予測させる。"
-    ],
-    "insight": "AIが高度な行政機能をも代替し得るという今回の報道は、単なるコスト削減を超え、あらゆる業界のビジネスモデル再構築と人間・AI協働の新たな役割分担を促す強力な示唆となる。",
-    "action_plan": "自社の業務プロセス全体を見直し、AIが代替し得る反復作業やデータ分析業務、さらには意思決定支援の領域を具体的に書き出して、AI導入による効率化と価値創造の可能性を検討してみましょう。",
-    "image_keyword": "AI governor, smart city, futuristic government",
-    "technical_terms": [
-      {
-        "term": "AI",
-        "explanation": "Artificial Intelligence（人工知能）の略で、人間の知能を模倣し、学習・推論・判断などを行うコンピュータシステム。"
-      },
-      {
-        "term": "ガバナンス",
-        "explanation": "組織や団体を適切に管理・運営するための仕組みや体制。特に、透明性や説明責任を重視する考え方。"
-      }
-    ]
-  },
   "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1MTS1kUXd2azhIelEtVVhOT2txOGI1R0FsTkNzRmFPZDF1aDh3VDFMWk5HdzVZN0l6XzhZWnBlMHlZZw?oc=5": {
     "title": "SCREENHD、米国にR&D拠点を新設：次世代半導体プロセス開発を戦略的に加速",
     "tags": "Hardware",
@@ -4982,7 +4785,7 @@
     "sentiment": "positive",
     "sentiment_text": "信頼回復への対応",
     "rating": 4,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/20/news136.html",
     "summary_bullets": [
       "マネーフォワードが銀行連携の一時停止に対し、プレミアム利用者向けに購読期間15日間の延長補償を発表した。",
@@ -5237,7 +5040,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/21/news124.html",
     "summary_bullets": [
       "松下記念病院が患者情報を含むUSBメモリを紛失し、情報漏えいの可能性が浮上している。",
@@ -5255,7 +5058,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 4,
-    "time_ago": "15時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/22/news125.html",
     "summary_bullets": [
       "小野田大臣がAIへの恋愛感情について言及し、自身の「2次元愛」に触れつつ、AI依存への懸念を表明した。",
@@ -5273,7 +5076,7 @@
     "sentiment": "neutral",
     "sentiment_text": "注目の話題",
     "rating": 4,
-    "time_ago": "17時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000018/",
     "summary_bullets": [
       "「Google Antigravity」の利用上限が緩和され、より広範なアクセスが可能になる。",
@@ -5327,7 +5130,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "たった今",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6581302?source=rss",
     "summary_bullets": [
       "生成AIが著名声優・津田健次郎氏の声を模倣したことで、権利侵害を巡る提訴が報じられた。",
@@ -5396,5 +5199,177 @@
         "explanation": "人工知能技術を、ハッキング、詐欺、情報操作などの不正な目的や、倫理に反する行為に利用することです。"
       }
     ]
+  },
+  "https://kn.itmedia.co.jp/kn/articles/2605/23/news017.html": {
+    "title": "AI議事録が新境地へ：ソースネクスト、Microsoft 365 Copilot連携で議事録活用を劇的効率化",
+    "tags": "AI Productivity",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2605/23/news017.html",
+    "summary_bullets": [
+      "ソースネクストのAI議事録ツールがMicrosoft 365 Copilotと連携し、議事録の検索・要約機能を大幅に強化した。",
+      "これにより、会議後の情報整理や共有が効率化され、従業員の生産性向上と業務負担軽減に寄与する。",
+      "AIを活用したSaaS連携が加速し、既存の業務ツールエコシステム内で高度な情報活用と自動化が進むトレンドが予測される。"
+    ],
+    "insight": "AI連携による業務効率化は、単一ツールの機能強化に留まらず、既存のワークフロー全体を変革する可能性を秘めている。自社の基幹ツールとAIの連携がどこまで進むか注視し、その導入戦略を検討することが競争力維持の鍵となるだろう。",
+    "action_plan": "自社で利用している主要なSaaSツールがどのようなAI連携を提供しているか、あるいは将来的に提供予定か調査し、業務プロセスへの適用可能性を検討してみましょう。",
+    "image_keyword": "AI meeting productivity, Microsoft 365 integration, smart office solution",
+    "technical_terms": [
+      {
+        "term": "Microsoft 365 Copilot",
+        "explanation": "Microsoft 365のアプリケーションに組み込まれたAIアシスタントで、文章作成、データ分析、情報検索などを支援する。"
+      },
+      {
+        "term": "AI議事録",
+        "explanation": "人工知能技術を活用し、会議中の発言を自動的にテキスト化し、要約やキーワード抽出などを行うシステム。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6581395?source=rss": {
+    "title": "AI市場、勢力図激変か？AnthropicがOpenAI評価額を猛追する背景",
+    "tags": "AI Business",
+    "sentiment": "positive",
+    "sentiment_text": "AI市場の注目の話題",
+    "rating": 5,
+    "time_ago": "13時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6581395?source=rss",
+    "summary_bullets": [
+      "競合であるAnthropicが、AI業界のリーダー格OpenAIの評価額を上回る可能性が報じられた。",
+      "これはAIスタートアップへの投資熱が依然として高く、市場の多様なプレイヤーが台頭していることを示唆する。",
+      "今後は各社の戦略の違い（安全性重視、特定のAIモデル特化など）が評価に直結し、市場の勢力図をさらに塗り替える可能性がある。"
+    ],
+    "insight": "AI市場はOpenAI一強ではなくなりつつあり、特定の倫理的ガイドラインや安全性を重視したAI開発を進めるAnthropicのような企業が、その独自性で高い評価を得る新時代に突入していると理解すべきだ。",
+    "action_plan": "自社でのAI導入戦略を見直し、OpenAI以外の有力なAIベンダー（Anthropic等）の技術スタック、倫理ガイドライン、費用対効果を比較検討する時間を設けてみましょう。",
+    "image_keyword": "AI market competition, tech valuation, generative AI",
+    "technical_terms": [
+      {
+        "term": "評価額",
+        "explanation": "企業価値を金額で表したもので、将来の成長性や収益力を基に算出される。"
+      },
+      {
+        "term": "LLM",
+        "explanation": "大規模言語モデルの略で、人間のように自然な文章を生成・理解できるAIモデル。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6581370?source=rss": {
+    "title": "首相発言が招いた「ナフサ」情報混乱：政治的コミュニケーションのリスクと経済への波紋",
+    "tags": "Economy",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "15時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6581370?source=rss",
+    "summary_bullets": [
+      "首相のナフサ価格に関する発言が、実際の市場価格との乖離からデマ論争へと発展し、情報混乱を招いている。",
+      "政治家の不用意な発言は、国民の誤解を招くだけでなく、市場や特定の産業（例：化学産業）に対する不透明感を高めるリスクがある。",
+      "デジタル時代において、公人の発言が瞬時に拡散し、真偽不明な情報が議論を支配するリスクが増しており、情報リテラシーの向上が喫緊の課題となる。"
+    ],
+    "insight": "今日のビジネス環境では、政治家の発言を含む公的な情報が瞬時に拡散し、サプライチェーンや市場認識に甚大な影響を与える可能性があります。企業は、常に情報源の正確性を確認し、デマや誤情報に惑わされない堅牢な情報収集・分析体制を構築することが不可欠です。",
+    "action_plan": "自社に関連する政策や要人発言について、信頼できる公式情報源とファクトチェックを基に分析する体制を見直してみましょう。また、社内での情報共有において、信頼できる情報源と不確実な情報を明確に区別するガイドラインを策定し、全従業員の情報リテラシー向上に努めましょう。",
+    "image_keyword": "political communication, misinformation spread, market uncertainty",
+    "technical_terms": [
+      {
+        "term": "ナフサ",
+        "explanation": "石油から精製される炭化水素化合物で、プラスチック、合成ゴム、合成繊維など、様々な化学製品の原料となる基礎的な化学物質。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE96SkdJVHl6V0RpV3dWY3NMcWRfMDA5UmxXNjZVUEY2Y2lGaC1UOC04MDk0ZlJPaDZ2WVc1TlZWd0VOcWdDNTFkSGtidTAta2FPcERLamhncDJZLWlaa3FoODdabjlUdDQ5UV9jd2JKQ3libzdVNnBCeG5wSmtUWTA?oc=5": {
+    "title": "AIの波が日本の半導体産業をどう変革するか？『半導体戦争』著者が示す戦略的視点",
+    "tags": "Hardware",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96SkdJVHl6V0RpV3dWY3NMcWRfMDA5UmxXNjZVUEY2Y2lGaC1UOC04MDk0ZlJPaDZ2WVc1TlZWd0VOcWdDNTFkSGtidTAta2FPcERLamhncDJZLWlaa3FoODdabjlUdDQ5UV9jd2JKQ3libzdVNnBCeG5wSmtUWTA?oc=5",
+    "summary_bullets": [
+      "AIの急速な普及が日本の半導体業界に与える多角的な影響をクリス・ミラー氏が分析。",
+      "国内半導体メーカーは、サプライチェーン強化と技術革新を通じてグローバル競争力を高める機会に直面。",
+      "AI時代における日本の半導体産業の再興には、特定のニッチ分野での専門性強化と国際連携が鍵となる見込み。"
+    ],
+    "insight": "AIの進化は単なる技術トレンドではなく、基幹産業である半導体業界の構造そのものを変革するものであり、日本企業は受動的ではなく戦略的なポジショニングが求められる転換点にいると認識すべきです。",
+    "action_plan": "自社のサプライチェーンにおける半導体関連の依存度やリスクを再評価し、AI時代の新たな技術需要に対応できるか、そしてどのようなニッチ分野で優位性を確立できるか、戦略を再検討してみましょう。",
+    "image_keyword": "Japan AI semiconductor, global chip strategy",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "電気を流したり止めたりする性質を持つ物質で、電子機器の頭脳となる集積回路の基盤となる部品です。コンピュータやスマートフォンなど、あらゆる電子機器に不可欠です。"
+      },
+      {
+        "term": "サプライチェーン",
+        "explanation": "製品が原材料の調達から生産、加工、流通、そして最終消費者に届くまでの、一連の供給・生産・物流のつながりを指します。効率的な供給網の構築が競争力に直結します。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzcTctbW9ScWJkWjlyRUZ6dFRTcmNmRzY5XzVXTXh3a3RUdnItczlSQTBnZ0RkeTlpa1dfYzE1T3BSVzZJUjR6Wm1MZzdaUmFWQnc?oc=5": {
+    "title": "サムスンの奇跡：食料品店から半導体巨頭へ、常識を超えた変革の物語",
+    "tags": "Business Strategy",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzcTctbW9ScWJkWjlyRUZ6dFRTcmNmRzY5XzVXTXh3a3RUdnItczlSQTBnZ0RkeTlpa1dfYzE1T3BSVzZJUjR6Wm1MZzdaUmFWQnc?oc=5",
+    "summary_bullets": [
+      "サムスンが食料品店から出発し、半導体産業の世界的なリーダーへと劇的な変貌を遂げた軌跡に注目が集まっている。",
+      "この異例の事業変革は、既存の業界常識やビジネスモデルにとらわれない大胆な戦略が、企業を未曽有の成功へと導く可能性を示唆している。",
+      "企業の持続的成長には、未来を見据えた多角化と、時に自社の根幹を揺るがすほどの変革を受け入れる覚悟が不可欠となる傾向を示す。"
+    ],
+    "insight": "固定概念を打ち破り、異業種への大胆な参入と徹底した技術投資こそが、企業を未曾有の成功へと導く鍵となることを、サムスンの事例は説得力をもって示している。",
+    "action_plan": "自社の現在の事業領域にとらわれず、将来の成長が見込まれる異分野の技術トレンドや市場機会を洗い出し、潜在的なシナジーや参入戦略を検討してみましょう。",
+    "image_keyword": "Samsung transformation, semiconductor evolution, business innovation",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "電気を通したり通さなかったりする性質を持つ物質で、スマートフォンやパソコンの頭脳となる集積回路の主要材料。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xcGc1NUtYYlpQZ29xMDlOaVEtTkE3NVlicWNkc0duSkdCN244aGo4REtldXUzWmlySC1pbGt2RnJ4UQ?oc=5": {
+    "title": "半導体材料の未来を拓く：ハリマ化成、レジスト用樹脂生産能力を倍増へ新拠点設立",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xcGc1NUtYYlpQZ29xMDlOaVEtTkE3NVlicWNkc0duSkdCN244aGo4REtldXUzWmlySC1pbGt2RnJ4UQ?oc=5",
+    "summary_bullets": [
+      "ハリマ化成が半導体レジスト用樹脂の生産能力を倍増させるため、加古川市に新工場と研究棟を建設することを発表。",
+      "今回の投資は、世界的に高まる半導体需要に対応し、日本の半導体材料サプライチェーンの安定化と競争力強化に貢献する。",
+      "最先端半導体技術の発展を支える高機能材料の開発・生産体制が強化され、今後のデジタル化社会の基盤をより強固にするトレンドを示す。"
+    ],
+    "insight": "半導体産業の急成長は、川下のデバイスだけでなく、川上の素材・部品メーカーにも大きなビジネス機会をもたらしています。自社の事業がこのエコシステムのどの位置にあり、どのように貢献できるかを深く洞察し、戦略的な投資やパートナーシップを検討する絶好のタイミングです。",
+    "action_plan": "自社の事業が半導体サプライチェーンのどの部分に位置するかを再確認し、今後の需要拡大や技術革新によって生じる新たなビジネスチャンスをリストアップしてみましょう。",
+    "image_keyword": "Semiconductor materials, chemical plant, advanced manufacturing",
+    "technical_terms": [
+      {
+        "term": "半導体レジスト",
+        "explanation": "半導体チップ製造工程において、微細な回路パターンを基板上に形成するために使用される感光性の特殊な樹脂。"
+      },
+      {
+        "term": "樹脂",
+        "explanation": "高分子化合物の一種で、ここでは半導体製造の重要な材料となる化学物質の総称。耐熱性や電気的特性が求められる。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/22/news116.html": {
+    "title": "【速報】とらのあな電子書籍サービス、不正アクセスで一部停止 – デジタル脅威への対策急務",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "1日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/22/news116.html",
+    "summary_bullets": [
+      "とらのあなの電子書籍サービスで不正な自動アクセスが確認され、一部サービスが緊急停止された。",
+      "企業は信用失墜とサービス機会損失のリスクに直面し、ユーザーは個人情報流出やサービス利用の不便という影響を受ける。",
+      "あらゆるデジタルサービス提供者にとって、サイバーセキュリティ対策の継続的な強化と自動化された攻撃への防御が喫緊の課題となる。"
+    ],
+    "insight": "今回の事象は、大手・中小を問わずデジタルサービスを提供するあらゆる企業にとって、サイバーセキュリティ対策の継続的な見直しと投資、特に自動化された不正アクセスへの対応が、サービスの信頼性維持とブランド価値保護の生命線であることを明確に示唆しています。",
+    "action_plan": "自社のウェブサービスや顧客システムにおけるセキュリティ脆弱性診断の実施計画を今日から見直してみましょう。また、不正アクセス発生時の緊急対応マニュアルや顧客への情報開示プロセスを再確認し、従業員のセキュリティ意識向上トレーニングを検討してみましょう。",
+    "image_keyword": "cyber security network",
+    "technical_terms": []
   }
 }
