@@ -1,161 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1MTS1kUXd2azhIelEtVVhOT2txOGI1R0FsTkNzRmFPZDF1aDh3VDFMWk5HdzVZN0l6XzhZWnBlMHlZZw?oc=5": {
-    "title": "SCREENHD、米国にR&D拠点を新設：次世代半導体プロセス開発を戦略的に加速",
-    "tags": "Hardware",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "1時間前",
-    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1MTS1kUXd2azhIelEtVVhOT2txOGI1R0FsTkNzRmFPZDF1aDh3VDFMWk5HdzVZN0l6XzhZWnBlMHlZZw?oc=5",
-    "summary_bullets": [
-      "SCREENHDが米国に研究開発拠点を設立し、次世代半導体プロセスの技術革新を加速させる方針を決定。",
-      "今回の米国進出は、国際的な半導体サプライチェーン再編と技術覇権競争の中で、企業の競争力強化に直結する重要な戦略的動き。",
-      "半導体製造技術の進化は、AI、IoT、自動運転といった先端産業の発展を支え、今後の技術トレンドを大きく左右すると予測される。"
-    ],
-    "insight": "グローバルな技術競争が激化する半導体分野において、企業が生き残るためには、最先端技術への先行投資と、主要市場での研究開発拠点の確保が不可欠であることを示唆しています。",
-    "action_plan": "自社の技術ロードマップにおけるR&D投資の優先順位を見直し、グローバル市場での技術連携や拠点展開の可能性について検討してみましょう。",
-    "image_keyword": "semiconductor R&D center, advanced chip manufacturing, US tech lab",
-    "technical_terms": [
-      {
-        "term": "次世代半導体プロセス",
-        "explanation": "より高性能で省電力、小型な半導体チップを製造するための最新技術や製造工程のこと。AIや高速通信の進化に不可欠です。"
-      },
-      {
-        "term": "研究開発拠点",
-        "explanation": "企業や組織が新しい技術や製品を生み出すために、専門的な研究や開発を行う施設。技術革新の最前線となる場所です。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1SSXZMUVItdm5qQ1VuRjNDdk4ySFpEQXpZaWpoMi1xbzBfRTE4U3gyNmNyREU4eENoaHBwQUc2bjNndw?oc=5": {
-    "title": "東大が革新！層状半導体で次世代高速デバイスの扉を開く正孔輸送技術",
-    "tags": "Hardware",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "1時間前",
-    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1SSXZMUVItdm5qQ1VuRjNDdk4ySFpEQXpZaWpoMi1xbzBfRTE4U3gyNmNyREU4eENoaHBwQUc2bjNndw?oc=5",
-    "summary_bullets": [
-      "東京大学が層状半導体を用いた高速正孔輸送技術を開発し、次世代高速デバイスの実現に向けた画期的な基盤を確立しました。",
-      "この技術は、AI、IoT、5G/6Gといった最先端分野におけるデータ処理能力の劇的な向上と低消費電力化を加速させる可能性を秘めています。",
-      "半導体技術のブレイクスルーとして、今後の情報化社会を支える高性能化・省エネ化のトレンドを牽引し、新たな産業創出に繋がると期待されます。"
-    ],
-    "insight": "この東大の研究成果は、半導体技術の進化がデジタル社会全体のインフラを再定義し、AIやIoTデバイスの性能限界を押し上げる決定的な一歩となることを示唆しており、将来のテクノロジーシフトを見据えた戦略立案の重要性を浮き彫りにします。",
-    "action_plan": "自社の製品やサービスが将来的に享受しうる高速デバイスの恩恵について具体的に議論し、既存の技術ロードマップや開発戦略の見直しを始めてみましょう。",
-    "image_keyword": "futuristic semiconductor, high-speed electron transport, advanced material research",
-    "technical_terms": [
-      {
-        "term": "層状半導体",
-        "explanation": "複数の原子層が積層された特殊な構造を持つ半導体材料で、特定の電気的特性を発現しやすい特徴があります。"
-      },
-      {
-        "term": "正孔輸送",
-        "explanation": "半導体内部で、電子の不足（正孔）が移動することによって電流が流れる現象。電子輸送と並ぶ重要な電荷輸送メカニズムです。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YdHUta1l2a08zeVNxalhUQURWY0QxWUpmRnFCS25oMUJhWVNTMjJfZjRXMTNuRTZSUU5QX2llRUJJcTZjeDlDZXpqcFhteHBiLVRoQjJBdF93ckhfcTcyZFJWbmh6N3dFcGxnWFBXaEs?oc=5": {
-    "title": "AI半導体需要爆発でメモリ株が急騰の予感：今、注目の投資機会を掴め",
-    "tags": "Investment",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "2時間前",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YdHUta1l2a08zeVNxalhUQURWY0QxWUpmRnFCS25oMUJhWVNTMjJfZjRXMTNuRTZSUU5QX2llRUJJcTZjeDlDZXpqcFhteHBiLVRoQjJBdF93ckhfcTcyZFJWbmh6N3dFcGxnWFBXaEs?oc=5",
-    "summary_bullets": [
-      "AI技術の急速な進化に伴い、AI半導体、特にデータ処理に不可欠なメモリの需要が飛躍的に高まっている。",
-      "アナリストは、この需要増がメモリ関連企業の収益を押し上げ、株式市場において魅力的な投資機会を生み出すと推奨している。",
-      "今後、AIのさらなる普及は半導体サプライチェーン全体、特にメモリ市場の成長を牽引し、関連技術への投資とイノベーションを加速させるだろう。"
-    ],
-    "insight": "AIの進化が単なる技術トレンドに留まらず、具体的な産業や投資機会を創出していることを理解し、自社の事業戦略や投資ポートフォリオにおけるAI関連分野への注力を検討すべきである。",
-    "action_plan": "AI半導体市場の最新動向を深掘りし、自社ビジネスへのAI導入戦略や投資機会について具体的な検討を開始しましょう。",
-    "image_keyword": "AI semiconductor investment",
-    "technical_terms": [
-      {
-        "term": "AI半導体",
-        "explanation": "人工知能（AI）の高速な計算処理に特化して設計された半導体のこと。データ処理能力や電力効率が通常の半導体より優れている。"
-      },
-      {
-        "term": "メモリ株",
-        "explanation": "半導体の中でも特にデータを一時的または永続的に保存する「メモリ」製品を製造・販売している企業の株式。AIやデータセンター需要に強く影響される。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/24/news127.html": {
-    "title": "はてな、11億円流出の衝撃：巧妙化するサイバー詐欺から企業資産を守る教訓",
-    "tags": "Cybersecurity",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "3日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/24/news127.html",
-    "summary_bullets": [
-      "IT企業はてなで約11億円もの資金流出が発生し、振り込め詐欺の可能性が指摘されている。",
-      "今回の事件は、デジタル化が進む現代において、企業の財務プロセスとセキュリティ対策の脆弱性を露呈させる。",
-      "AIの進化により詐欺手法がさらに巧妙化する中で、企業は技術的対策と従業員教育の強化が喫緊の課題となる。"
-    ],
-    "insight": "デジタル環境下での企業活動が拡大する今日、技術的な防御だけでなく、従業員に対する継続的なセキュリティ教育と、厳格な多層承認プロセスを組み合わせた包括的な危機管理体制こそが、未知のサイバー脅威から貴重な資産を守る鍵となる。",
-    "action_plan": "自社の経理・財務部門における高額な資金移動プロセスを見直し、多段階認証や承認者の多角化などセキュリティフローを強化しましょう。また、最新の詐欺手口に関する社内研修を定期的に実施し、従業員のセキュリティ意識向上に努めましょう。",
-    "image_keyword": "cyber fraud, corporate security, financial scam",
-    "technical_terms": []
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/24/news126.html": {
-    "title": "速報：CAMPFIREで最大22.5万人分の個人情報が流出か、GitHub不正アクセスが原因で口座情報も危険に",
-    "tags": "Cybersecurity",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "3日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/24/news126.html",
-    "summary_bullets": [
-      "クラウドファンディングのCAMPFIREで、最大22.5万人分の個人情報および一部口座情報が不正アクセスの影響で漏えいした可能性。",
-      "GitHubアカウントへの不正アクセスが発端となっており、開発環境へのセキュリティ対策の甘さが企業の信頼失墜に直結する事例。",
-      "SaaS連携や開発プラットフォームのセキュリティ強化、従業員のアカウント管理厳格化が、今後の情報セキュリティ対策の最重要課題となる。"
-    ],
-    "insight": "クラウドサービスや開発プラットフォームへの依存度が高まる現代において、自社の情報資産を守るためには、サプライチェーン全体のセキュリティ、特に開発関連のアカウントへの不正アクセス対策が事業継続の生命線となることを深く認識すべきです。",
-    "action_plan": "自社で利用している開発・運用関連のクラウドサービス（GitHubなど）におけるアカウントの多要素認証設定とアクセス権限を即座に見直し、定期的な監査計画を策定しましょう。",
-    "image_keyword": "data breach, cybersecurity incident, GitHub security",
-    "technical_terms": [
-      {
-        "term": "GitHubアカウント",
-        "explanation": "ソフトウェア開発者がソースコードの管理や共同作業を行うためのウェブサービス「GitHub」で利用するアカウントです。開発者コミュニティで広く使われています。"
-      },
-      {
-        "term": "不正アクセス",
-        "explanation": "許可されていない人物が、パスワードの推測やシステムの脆弱性を悪用するなどして、コンピューターシステムやネットワークに侵入する行為です。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/24/news112.html": {
-    "title": "AIの脅威が迫るサイバー戦線：片山金融相が警鐘、官民連携で防御体制を強化",
-    "tags": "Cyber Security",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "2日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/24/news112.html",
-    "summary_bullets": [
-      "高度AIを活用したサイバー攻撃が「今そこにある危機」として認識され、金融相が警鐘を鳴らした。",
-      "官民連携による作業部会が設置され、AI時代の新たなサイバーセキュリティ対策の構築が急務となる。",
-      "既存のセキュリティ対策では対応困難な新手の攻撃が増加する可能性があり、企業や組織は迅速な対応が求められる。"
-    ],
-    "insight": "AIの進化は攻撃者側にも強力なツールを提供するため、従来のサイバーセキュリティ戦略では不十分です。ビジネスリーダーは、自社のAIリスク評価と、新たな脅威に対応するための防御戦略の再構築を喫緊の課題として捉える必要があります。",
-    "action_plan": "AIを活用した最新のサイバー攻撃手法について情報収集を行い、自社のセキュリティ対策ロードマップを見直してみましょう。また、専門家や官民連携の取り組みから得られる最新の知見を積極的に取り入れ、防御体制を強化するための投資計画を策定してください。",
-    "image_keyword": "AI cyber security, digital threat, network defense",
-    "technical_terms": [
-      {
-        "term": "高度AI",
-        "explanation": "従来のAIよりも複雑な学習能力や推論能力を持つ人工知能で、サイバー攻撃に悪用されると予測されている。"
-      },
-      {
-        "term": "サイバー攻撃",
-        "explanation": "コンピュータネットワークや情報システムに対して、不正アクセスやデータ破壊、情報窃取などを試みる悪意のある行為。"
-      },
-      {
-        "term": "官民連携",
-        "explanation": "政府機関と民間企業が協力して、共通の課題解決や政策推進に取り組む体制のこと。"
-      }
-    ]
-  },
   "https://kn.itmedia.co.jp/kn/articles/2604/27/news043.html": {
     "title": "「AI・デジタル化補助金2026」完全攻略ガイド：プロが明かす採択率9割超の極意",
     "tags": "Digital Transformation",
@@ -4785,7 +4628,7 @@
     "sentiment": "positive",
     "sentiment_text": "信頼回復への対応",
     "rating": 4,
-    "time_ago": "3日前",
+    "time_ago": "4日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/20/news136.html",
     "summary_bullets": [
       "マネーフォワードが銀行連携の一時停止に対し、プレミアム利用者向けに購読期間15日間の延長補償を発表した。",
@@ -5040,7 +4883,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/21/news124.html",
     "summary_bullets": [
       "松下記念病院が患者情報を含むUSBメモリを紛失し、情報漏えいの可能性が浮上している。",
@@ -5058,7 +4901,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 4,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/22/news125.html",
     "summary_bullets": [
       "小野田大臣がAIへの恋愛感情について言及し、自身の「2次元愛」に触れつつ、AI依存への懸念を表明した。",
@@ -5206,7 +5049,7 @@
     "sentiment": "neutral",
     "sentiment_text": "注目の話題",
     "rating": 4,
-    "time_ago": "たった今",
+    "time_ago": "1日前",
     "url": "https://kn.itmedia.co.jp/kn/articles/2605/23/news017.html",
     "summary_bullets": [
       "ソースネクストのAI議事録ツールがMicrosoft 365 Copilotと連携し、議事録の検索・要約機能を大幅に強化した。",
@@ -5360,7 +5203,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 4,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/22/news116.html",
     "summary_bullets": [
       "とらのあなの電子書籍サービスで不正な自動アクセスが確認され、一部サービスが緊急停止された。",
@@ -5371,5 +5214,162 @@
     "action_plan": "自社のウェブサービスや顧客システムにおけるセキュリティ脆弱性診断の実施計画を今日から見直してみましょう。また、不正アクセス発生時の緊急対応マニュアルや顧客への情報開示プロセスを再確認し、従業員のセキュリティ意識向上トレーニングを検討してみましょう。",
     "image_keyword": "cyber security network",
     "technical_terms": []
+  },
+  "https://atmarkit.itmedia.co.jp/ait/articles/2605/24/news007.html": {
+    "title": "生成AIの全社導入を成功へ導く：Gemini, Claude Code, Codex活用5つの実践ポイント",
+    "tags": "AI / LLM",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "23時間前",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/24/news007.html",
+    "summary_bullets": [
+      "主要なAIモデル（Gemini, Claude Code, Codex）を企業で全社展開・本番実装するための具体的な5つのポイントを解説。",
+      "企業が生成AIを効果的に導入し、業務効率化や競争力強化を図るための実践的なガイドラインを提供する。",
+      "生成AIは特定の部署から全社規模での活用へとシフトし、実践的な導入ノウハウが今後の企業の成功を左右するトレンドが予測される。"
+    ],
+    "insight": "生成AIのビジネス導入は単なる技術導入に留まらず、組織全体での戦略的な計画と具体的な運用ノウハウが成功の鍵であり、他社の成功事例や最新モデルの特性を理解することが不可欠です。",
+    "action_plan": "自社の生成AI導入状況を評価し、記事で示された5つのポイント（例：パイロットプロジェクトの成功要因分析、倫理規定の策定、社内人材育成など）を自社に適用可能か具体的に書き出してみましょう。",
+    "image_keyword": "AI implementation, enterprise AI, business transformation",
+    "technical_terms": [
+      {
+        "term": "Gemini",
+        "explanation": "Googleが開発した、テキスト、画像、音声、動画など多様な情報を理解・生成できる高性能なマルチモーダルAIモデル。"
+      },
+      {
+        "term": "Claude Code",
+        "explanation": "Anthropicが開発したClaudeシリーズのAIモデルで、特にコード生成や分析、デバッグに強みを持つ。"
+      },
+      {
+        "term": "Codex",
+        "explanation": "OpenAIが開発した、自然言語の指示をプログラミングコードに変換する能力を持つAIモデル（GPT-3を基盤）。"
+      },
+      {
+        "term": "本番実装",
+        "explanation": "開発・テスト段階を経て、実際に企業の業務やサービスで継続的に利用されるシステムや機能を導入すること。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6581543?source=rss": {
+    "title": "携帯キャリア乗り換え過熱の裏側：深まるビジネス課題とユーザー動向",
+    "tags": "Telecommunication",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "8時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6581543?source=rss",
+    "summary_bullets": [
+      "携帯キャリア間の乗り換え競争が激化し、ユーザーの通信サービス選択肢が多様化している現状が浮き彫りになっている。",
+      "キャリアは顧客流出防止と新規獲得のため、料金プランやサービスの差別化、顧客体験の向上が急務であり、その経営戦略が問われている。",
+      "今後はeSIMやMVNOの普及も進み、ユーザーニーズに合わせた柔軟なサービス提供が市場競争の鍵となると予測される。"
+    ],
+    "insight": "通信業界の活発な顧客流動は、あらゆるサブスクリプション型ビジネスにおいて、顧客が容易にサービスを乗り換える時代に入ったことを示唆します。企業は、単純な価格競争に陥らず、継続的な価値提供と顧客エンゲージメントの強化が不可欠であると認識すべきです。",
+    "action_plan": "自社のサービスが顧客にとって「なぜ選ばれ続けるのか」を深く掘り下げ、現在の顧客維持戦略と顧客ロイヤルティ向上施策を具体的に見直してみましょう。",
+    "image_keyword": "Mobile carrier switching, Telecom competition, Customer loyalty",
+    "technical_terms": []
+  },
+  "https://news.yahoo.co.jp/pickup/6581539?source=rss": {
+    "title": "SNSで勃発！次世代のトレンド予測術「カラーハンティング」がビジネスを変革する",
+    "tags": "Social Media Trends",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "10時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6581539?source=rss",
+    "summary_bullets": [
+      "「カラーハンティング」とは、SNS上の画像から未来の流行色やデザインを予測する新たなトレンド分析手法である。",
+      "ファッション、インテリア、製品開発など、色やデザインが重要なあらゆるビジネスにおいて、消費者の潜在ニーズを先取りするマーケティング戦略に活用可能。",
+      "AIによる画像解析技術との融合により、この手法の精度と効率は飛躍的に向上し、データドリブンなトレンド予測の主流となる可能性を秘める。"
+    ],
+    "insight": "SNS上の膨大な視覚的データ（色使いやデザインパターン）は、従来の市場調査では捉えきれなかった消費者の深いインサイトや未来のトレンドを予測するための宝庫であり、このデータをAIで解析する能力が今後のビジネス競争力に直結する。",
+    "action_plan": "自社のターゲット層が利用するSNSで流行している色やデザインの傾向を観察し、どのような商品やサービスにそれらを反映できるかを検討してみましょう。また、画像解析AIの最新動向を調査し、トレンド予測への導入可能性について情報収集を行いましょう。",
+    "image_keyword": "color hunting trend, social media prediction, AI design analysis",
+    "technical_terms": [
+      {
+        "term": "カラーハンティング",
+        "explanation": "ソーシャルメディアなどに投稿された画像から、未来の流行色やデザインの兆候を分析・予測する手法。消費者の潜在的な好みを読み解く。"
+      },
+      {
+        "term": "AI画像解析",
+        "explanation": "人工知能が画像の内容や特徴を自動的に認識し、分類、検出、パターン抽出などを行う技術。トレンド予測や市場分析に応用される。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6581470?source=rss": {
+    "title": "首相のX（旧Twitter）多用が問う報道の意義：デジタル時代の情報戦略とメディアの未来",
+    "tags": "Social Media",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "20時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6581470?source=rss",
+    "summary_bullets": [
+      "首相が情報発信にX（旧Twitter）を多用することで、従来の記者会見やメディアを通じた取材の機会が減少している。",
+      "この変化は、報道機関に情報収集・発信戦略の見直しを迫り、企業もトップのデジタルコミュニケーションとリスク管理を再考する必要がある。",
+      "政治家や公人のSNS直接発信は今後も加速し、メディアは速報性だけでなく、分析や深掘り記事による差別化を強化するトレンドが強まるだろう。"
+    ],
+    "insight": "情報発信の主導権が従来のメディアから個人のSNSへと移行する中、企業はステークホルダーとの関係性を再定義し、直接的かつ戦略的なデジタルコミュニケーションチャネルの構築が不可欠である。",
+    "action_plan": "自社の経営層や広報担当者は、情報発信におけるSNS戦略を再評価し、トップのデジタルプレゼンス強化とそれに伴うリスク管理体制を強化するための議論を今日から開始しましょう。",
+    "image_keyword": "political leader social media, digital communication strategy, media landscape change",
+    "technical_terms": [
+      {
+        "term": "X (旧Twitter)",
+        "explanation": "イーロン・マスクが買収したソーシャルメディアプラットフォーム。旧称はTwitterで、短文投稿や情報共有に用いられる。"
+      },
+      {
+        "term": "SNS",
+        "explanation": "ソーシャル・ネットワーキング・サービスの略。インターネット上で人々の交流を支援するサービス全般を指す。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKc1JSQTRsRXZMSkwxSTdJaUs5VEhDV3VGU2FNaTlHZDFBUFVvYVZTaXBpUlJRXzlWbHJLTWtwZS1Ud01oYXRQTFZaazUxcmVvOXc?oc=5": {
+    "title": "サムスン電子社員の『配偶者指数』が弁護士並みに高評価！結婚市場でのブランド力に注目",
+    "tags": "Market Trend",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKc1JSQTRsRXZMSkwxSTdJaUs5VEhDV3VGU2FNaTlHZDFBUFVvYVZTaXBpUlJRXzlWbHJLTWtwZS1Ud01oYXRQTFZaazUxcmVvOXc?oc=5",
+    "summary_bullets": [
+      "結婚情報業界において、サムスン電子職員の「配偶者指数」が弁護士水準に匹敵すると評価されている。",
+      "大企業の安定した雇用と高い社会的地位が、個人の結婚市場における価値を大きく高めることを示唆している。",
+      "現代社会において、個人の魅力だけでなく所属企業のブランド力や経済的安定性が結婚相手選びの重要な要素となるトレンドが続くと予測される。"
+    ],
+    "insight": "このニュースは、企業ブランドが単なる製品やサービスを超え、社員個人の社会的価値やライフイベントにまで深く影響を与える現代のトレンドを浮き彫りにしています。優秀な人材の採用・定着において、企業イメージの構築と維持がいかに重要であるかを再認識させます。",
+    "action_plan": "自社のブランドイメージが、社員の採用競争力やエンゲージメントにどのように寄与しているか、現状を評価し、強化策を検討してみましょう。",
+    "image_keyword": "Samsung employee wedding, high value professional, marriage market trend",
+    "technical_terms": [
+      {
+        "term": "配偶者指数",
+        "explanation": "結婚相手としての魅力を数値化した指標で、収入、職業、社会的地位、学歴などが総合的に評価される。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE92U0cwc2tiRGcyZGNOSllHb0NFUUpINnJEd3dWME5JX2FydUpVSk5OaFJuSkgtWE5kMC1yRjNneDZlbjlXNUp4MmFTV01JNjdQZmwzSnpoWkMyMkFKMkM0NlFtTi1sZTlGU3Q2YmtZU3FhbWxRbEtYTnhDYjZqa2c?oc=5": {
+    "title": "韓国半導体、好況の裏に潜む「K二極化」の現実：0.007%が輸出44%を占める歪み",
+    "tags": "Economy",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92U0cwc2tiRGcyZGNOSllHb0NFUUpINnJEd3dWME5JX2FydUpVSk5OaFJuSkgtWE5kMC1yRjNneDZlbjlXNUp4MmFTV01JNjdQZmwzSnpoWkMyMkFKMkM0NlFtTi1sZTlGU3Q2YmtZU3FhbWxRbEtYTnhDYjZqa2c?oc=5",
+    "summary_bullets": [
+      "韓国の半導体産業は好況にあるものの、輸出の44%をわずか0.007%の企業が独占する極端な「K二極化」が進行している。",
+      "この高い集中度は、少数の大企業への過度な依存を招き、サプライチェーンのリスクや中小企業の成長機会の阻害といったビジネス・社会的な課題を生み出す。",
+      "今後の韓国経済は、半導体産業の持続可能性と安定成長のために、産業構造の多様化や中小企業支援策の強化が不可欠となる可能性が高い。"
+    ],
+    "insight": "一見好調に見える市場や産業データも、その背後にある構造的な集中や格差を見落とすと、潜在的なリスクや将来的な成長阻害要因を見過ごすことになります。データ分析は表面的な数字だけでなく、その深層にあるダイナミクスを理解することが重要です。",
+    "action_plan": "自社の属する業界において、特定のプレーヤーへの依存度や市場の集中度を分析し、サプライチェーンやビジネスパートナーシップのリスク分散策を検討してみましょう。また、未開拓のニッチ市場や協業の可能性を探ることで、持続可能な成長基盤を構築する戦略を練りましょう。",
+    "image_keyword": "South Korea Semiconductor disparity",
+    "technical_terms": [
+      {
+        "term": "半導体好況",
+        "explanation": "半導体産業が非常に活発で、需要の増加や技術革新により高い収益を上げている経済状況を指します。"
+      },
+      {
+        "term": "K二極化",
+        "explanation": "韓国（Korea）において、経済的・社会的な格差が拡大し、富や機会が一部の層や企業に集中し、残りの層との間に大きな隔たりが生じる現象を表す造語です。"
+      }
+    ]
   }
 }
