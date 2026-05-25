@@ -1,283 +1,4 @@
 {
-  "https://kn.itmedia.co.jp/kn/articles/2604/27/news043.html": {
-    "title": "「AI・デジタル化補助金2026」完全攻略ガイド：プロが明かす採択率9割超の極意",
-    "tags": "Digital Transformation",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://kn.itmedia.co.jp/kn/articles/2604/27/news043.html",
-    "summary_bullets": [
-      "「デジタル化・AI導入補助金2026」において、高い採択率を実現するための実践的な攻略法が専門家により解説された。",
-      "適切な補助金活用は、特に中小企業のAI・デジタル技術導入を加速させ、市場での競争力向上に不可欠となる。",
-      "今後、補助金申請の複雑化に伴い、専門知識に基づいた戦略立案やコンサルティングサービスの需要が一段と高まる見込みだ。"
-    ],
-    "insight": "AI・デジタル化補助金を最大限に活用するには、単なる書類申請ではなく、事業戦略と明確に連携した計画と、採択実績を持つ専門家の知見を取り入れる戦略的なアプローチが企業の成長を大きく左右する。",
-    "action_plan": "自社のAI導入やデジタル化計画が補助金の対象となり得るかを確認し、補助金情報の専門サイトやコンサルタントを通じて、具体的な申請戦略の構築に着手しましょう。",
-    "image_keyword": "AI grant strategy, digital transformation funding, business innovation",
-    "technical_terms": []
-  },
-  "https://www.itmedia.co.jp/business/articles/2604/27/news048.html": {
-    "title": "NEC、主力事業「ブルーステラ」売上目標を1.3兆円へ大幅上方修正！成長戦略の全貌に迫る",
-    "tags": "Business Strategy",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 4,
-    "time_ago": "たった今",
-    "url": "https://www.itmedia.co.jp/business/articles/2604/27/news048.html",
-    "summary_bullets": [
-      "NECは、基幹事業と位置付ける「ブルーステラ事業」の売上目標を従来の1兆円から1兆3000億円に上方修正した。",
-      "この大幅な目標引き上げは、NECが推進する事業構造改革と成長領域への集中投資が奏功し、成果が出始めたことを示唆している。",
-      "大手ITベンダーによる積極的な事業戦略の転換は、他のレガシー企業がデジタル変革を進める上での重要なモデルケースとなる可能性がある。"
-    ],
-    "insight": "大手企業が特定の戦略的事業にフォーカスし、明確な数値目標でその成長をコミットする姿勢は、市場の変化に対応し、企業価値を向上させるための強力なリーダーシップと実行力がいかに重要かを示している。",
-    "action_plan": "自社の主要事業や成長ドライバーを再評価し、具体的な売上目標や市場シェア目標を設定することで、事業戦略の明確化とチームのモチベーション向上を図りましょう。",
-    "image_keyword": "NEC business growth, financial projection, corporate strategy",
-    "technical_terms": []
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/08/news014.html": {
-    "title": "生成AI活用失敗談から学ぶ：新入社員が“恥”をかかないための鉄則",
-    "tags": "AI",
-    "sentiment": "negative",
-    "sentiment_text": "注意喚起",
-    "rating": 4,
-    "time_ago": "たった今",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/08/news014.html",
-    "summary_bullets": [
-      "生成AIの普及が進む中、新入社員がその安易な利用により業務で「恥をかく」リスクが表面化している。",
-      "企業は生成AIの倫理的かつ実践的な利用ガイドラインを整備し、全社員への継続的な教育投資が急務となる。",
-      "今後、生成AIリテラシーはビジネスパーソンにとって必須のスキルとなり、組織全体の生産性向上とリスク回避に直結する。"
-    ],
-    "insight": "生成AIは強力なツールであると同時に、その安易な利用は情報の正確性、著作権、倫理といった面でプロフェッショナルとしての信頼を損ねる可能性があり、深い理解と慎重な運用が不可欠である。",
-    "action_plan": "自身の業務で生成AIを使用する際は、出力内容のファクトチェック、情報源の明記、そして著作権・機密保持に関する企業のガイドラインを事前に確認・遵守する習慣をつけましょう。",
-    "image_keyword": "Generative AI workplace mistake, AI ethics office, new employee AI challenge",
-    "technical_terms": [
-      {
-        "term": "生成AI",
-        "explanation": "テキスト、画像、音声など、新しいコンテンツを自動的に生成できる人工知能の技術。与えられたデータから学習し、新たな情報を作り出す。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6577627?source=rss": {
-    "title": "メタ、アマゾンとの戦略的提携で半導体調達を強化：AIインフラ競争の新局面へ",
-    "tags": "Hardware",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://news.yahoo.co.jp/pickup/6577627?source=rss",
-    "summary_bullets": [
-      "米メタがアマゾンウェブサービス（AWS）と契約し、同社の開発したカスタム半導体を活用することで合意。",
-      "AI開発競争が激化する中、メタは半導体調達の多様化とコスト効率化を図り、AWSはクラウドサービスにおける存在感を強化する戦略的な動き。",
-      "今後のAIインフラ構築において、大手テック企業間の連携やカスタムチップ利用のトレンドが加速し、供給網の安定性が競争優位の鍵となることが予測される。"
-    ],
-    "insight": "AI時代における企業の競争力は、計算資源の安定確保とコスト効率に直結します。自社開発と外部連携のハイブリッド戦略が、今後の技術投資の主流となる可能性を示唆しています。",
-    "action_plan": "自社のAI開発ロードマップやインフラ戦略を見直し、半導体調達の多様化やクラウドサービスベンダーとの連携可能性について、改めて検討する会議を設定してみましょう。",
-    "image_keyword": "Meta Amazon Semiconductor, AI infrastructure deal, Cloud computing chips",
-    "technical_terms": [
-      {
-        "term": "半導体",
-        "explanation": "電気を通す性質を持つ物質で作られた部品で、コンピューターの頭脳となるチップのこと。AIの複雑な計算処理に不可欠です。"
-      },
-      {
-        "term": "AWS (Amazon Web Services)",
-        "explanation": "アマゾンが提供する世界最大のクラウドコンピューティングサービスで、企業がインターネット経由でサーバーやストレージ、AIツールなどを利用できる基盤です。"
-      },
-      {
-        "term": "カスタム半導体",
-        "explanation": "特定の目的（例：AIの学習や推論）に特化して設計された半導体で、汎用品よりも高い効率や性能を発揮します。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX1IzSkYyMVVvbzI3OFB2SVlpcU5Rakc0bEx0OTJjUDNtQTJ5UGhDLUo2cVBsczZCVXQtV2xhRWc2dTB2RGJxWC1vejFFUHdGa0hEZ1AzM2J1SzFUMHRYRFJyVXBrYWVIMUJJUWgtcjZobzdialZVU253VGdEUUxNSS1oRzY0clNmSUpYMzZnV3RzY3F2cEZiR3BRUFJHZWNjc1o1NGhWQTM?oc=5": {
-    "title": "米半導体株が市場を牽引！日経平均、テクノロジー優位の追い風に乗る",
-    "tags": "Market Trend",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 4,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX1IzSkYyMVVvbzI3OFB2SVlpcU5Rakc0bEx0OTJjUDNtQTJ5UGhDLUo2cVBsczZCVXQtV2xhRWc2dTB2RGJxWC1vejFFUHdGa0hEZ1AzM2J1SzFUMHRYRFJyVXBrYWVIMUJJUWgtcjZobzdialZVU253VGdEUUxNSS1oRzY0clNmSUpYMzZnV3RzY3F2cEZiR3BRUFJHZWNjc1o1NGhWQTM?oc=5",
-    "summary_bullets": [
-      "米国の半導体関連株の上昇が、日本経済新聞の先行指標である日経平均株価に強い追い風となっている。",
-      "テクノロジー関連企業の業績期待が高まり、広範な産業の投資心理と景況感に好影響を与える可能性を秘めている。",
-      "グローバルな半導体需要と供給のバランスが、今後も国内外の株式市場全体の主要なトレンドを形成すると予測される。"
-    ],
-    "insight": "今日のビジネスにおいて、半導体市場の動向は単なる株価指標に留まらず、広範なテクノロジー産業の健全性と成長ポテンシャルを示す重要なバロメーターであり、戦略的な意思決定に不可欠な情報源であることを理解すべきです。",
-    "action_plan": "自社のサプライチェーンや顧客基盤における半導体関連技術への依存度を再評価し、次世代テクノロジーへの投資計画や事業戦略に本情報を組み込むことを検討しましょう。",
-    "image_keyword": "semiconductor stock market",
-    "technical_terms": [
-      {
-        "term": "日経平均",
-        "explanation": "日本の株式市場の代表的な株価指数で、東証プライム市場に上場する225銘柄の株価をもとに算出されます。"
-      },
-      {
-        "term": "半導体株",
-        "explanation": "半導体の設計、製造、販売などに携わる企業の株式を指し、テクノロジー産業の景況感を測る重要な指標です。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqeTNYeDhpRTdsTGJfaEFJeFVHblh5TWJCTUJZVTZvcU8zRlB0NEtJY1dWUnFoX1BlQTRtUXpKcHVSXzRrbzcwWm9xT2Z4RnF5N3NEVkhR?oc=5": {
-    "title": "半導体工場増設で沸く！高徳新都市の不動産、未分譲物件は「枯渇」か？",
-    "tags": "Real Estate",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 4,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqeTNYeDhpRTdsTGJfaEFJeFVHblh5TWJCTUJZVTZvcU8zRlB0NEtJY1dWUnFoX1BlQTRtUXpKcHVSXzRrbzcwWm9xT2Z4RnF5N3NEVkhR?oc=5",
-    "summary_bullets": [
-      "平沢市高徳新都市では、半導体工場の大規模な増設により、住宅などの未分譲物件がほぼ無くなる見込み。",
-      "工場増設に伴う設備・協力企業の進出と従業員流入で、実際の居住需要が大きく拡大し、地域経済が活性化する。",
-      "半導体産業の成長が周辺都市の不動産市場に直接的な影響を与え、投資機会や地域開発の新たなトレンドを創出する可能性がある。"
-    ],
-    "insight": "半導体産業のような巨大プロジェクトの進捗は、その周辺地域の不動産市場や経済活動に予測を超えるほどの波及効果をもたらします。ビジネスパーソンは、主要産業の投資動向を追うことで、新たな事業機会や投資先を見出す洞察力を養うべきです。",
-    "action_plan": "自社の事業領域に関連する大型産業プロジェクト（工場建設、研究拠点設立など）の地域経済への影響を分析し、潜在的なビジネスチャンスがないか検討してみましょう。",
-    "image_keyword": "semiconductor factory, new city development, real estate boom",
-    "technical_terms": []
-  },
-  "https://www.itmedia.co.jp/business/articles/2604/28/news019.html": {
-    "title": "業界激震？S.RIDEが競合Uber・DiDiと電撃連携、インバウンド市場を制する革新戦略",
-    "tags": "Mobility",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://www.itmedia.co.jp/business/articles/2604/28/news019.html",
-    "summary_bullets": [
-      "タクシーアプリ「S.RIDE」が、競合である「Uber」および「DiDi」と連携し、インバウンド需要の獲得を目指す異例の戦略を発表した。",
-      "業界の常識を覆すこの協業は、訪日外国人観光客のタクシー利用における利便性を大幅に向上させ、日本の観光市場の活性化に貢献すると期待される。",
-      "今回の連携は、MaaS領域における新たなパートナーシップモデルを提示し、既存の競合関係にとらわれない柔軟な市場戦略が今後のトレンドとなる可能性を示唆している。"
-    ],
-    "insight": "既存の競合関係に囚われず、共通の目標（インバウンド需要獲得）のために戦略的提携を選ぶS.RIDEの決断は、市場変化に対応するための柔軟な思考と、固定観念を打ち破る勇気がビジネス成長の鍵であることを示唆しています。",
-    "action_plan": "自社のビジネスにおいて、既存の競合他社との連携可能性や、市場拡大のための新たなパートナーシップ戦略を今日から見直してみましょう。",
-    "image_keyword": "taxi app alliance, mobility partnership, inbound strategy",
-    "technical_terms": []
-  },
-  "https://news.yahoo.co.jp/pickup/6577810?source=rss": {
-    "title": "患者体験を劇的に革新：阪大病院が実現した「待ち時間短縮」の挑戦と未来",
-    "tags": "Healthcare Tech",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 4,
-    "time_ago": "20時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6577810?source=rss",
-    "summary_bullets": [
-      "大阪大学医学部附属病院が、長年の課題であった患者の待ち時間を大幅に改善した。",
-      "これは医療現場の生産性向上だけでなく、患者満足度向上を実現し、他業界の顧客体験改善のモデルケースとなり得る。",
-      "今後、医療機関におけるDX推進が加速し、テクノロジーを活用した効率化とパーソナライズされたサービス提供が標準となるだろう。"
-    ],
-    "insight": "今日のビジネスにおいて、顧客が感じる「待ち時間」は単なる不便ではなく、ブランドイメージや顧客ロイヤルティに直結する重要課題であり、テクノロジーを駆使した徹底的な改善が競争優位性を確立する鍵となる。",
-    "action_plan": "自社のサービスや業務フロー内で、顧客や従業員が「待つ」ことを強いられているポイントを全て洗い出し、どのようなテクノロジー（AI、予約システム、IoTなど）で解決できるかをブレインストーミングし、改善プロジェクトの検討を始めてみましょう。",
-    "image_keyword": "hospital waiting time reduction, patient experience improvement, healthcare efficiency",
-    "technical_terms": []
-  },
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTEdZMFBjYl81cFRxVjU5Z1UzcmVQd0FCemhzSnNrUTRwcHhhcXZ2NzdtU0xuVmdLQ0ZQaFRtRHVOTW1tcmQycXNlSFVmbWNmdVR5VWRXMXlBZ2tOZUJ0RGpfU0NFZEpOcVhLd3dqbUhSc0hFaTlmSlNpTFZhN0JXdUxSeDNhV1k?oc=5": {
-    "title": "【速報】市場は売り優勢：原油高と半導体株安が日本株を下押し、今後のトレンドに警戒",
-    "tags": "Market",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 4,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTEdZMFBjYl81cFRxVjU5Z1UzcmVQd0FCemhzSnNrUTRwcHhhcXZ2NzdtU0xuVmdLQ0ZQaFRtRHVOTW1tcmQycXNlSFVmbWNmdVR5VWRXMXlBZ2tOZUJ0RGpfU0NFZEpOcVhLd3dqbUhSc0hFaTlmSlNpTFZhN0JXdUxSeDNhV1k?oc=5",
-    "summary_bullets": [
-      "本日28日の株式市場は、原油価格の高騰と半導体関連株の不調により、売りが優勢となる見通し。",
-      "エネルギーコストの増加とテクノロジーセクターの逆風が、企業収益や消費者心理に悪影響を及ぼす可能性。",
-      "今後の市場動向は、グローバルなインフレ圧力と半導体産業の回復タイミングに大きく左右されると予測される。"
-    ],
-    "insight": "現在の市場は、マクロ経済要因（原油高）と特定産業要因（半導体株安）の複合的な下押し圧力に直面しており、企業はこれらの外部リスクに対するレジリエンス強化と、サプライチェーン・ポートフォリオの再評価が不可欠であることを示唆しています。",
-    "action_plan": "自社のコスト構造におけるエネルギー価格への感度を再評価し、半導体関連の事業や投資ポートフォリオがある場合は、現在のリスク状況と今後の見通しに基づいたヘッジ戦略を具体的に検討してみましょう。",
-    "image_keyword": "stock market downturn, oil price surge, semiconductor shares",
-    "technical_terms": [
-      {
-        "term": "売り優勢",
-        "explanation": "株式市場において、買い注文よりも売り注文が多く、株価が下落しやすい傾向にある状況を指します。"
-      },
-      {
-        "term": "原油高",
-        "explanation": "原油の国際価格が高騰している状態。輸送コストや製造コストの上昇を通じて、幅広い産業に影響を与えます。"
-      },
-      {
-        "term": "半導体株安",
-        "explanation": "半導体関連企業の株価が全体的に下落している状況。テクノロジーセクター全体やサプライチェーンに影響を及ぼします。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2604/10/news006.html": {
-    "title": "生成AI活用は諸刃の剣？ 新入社員が陥った「丸投げ」の落とし穴",
-    "tags": "Generative AI",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/10/news006.html",
-    "summary_bullets": [
-      "生成AIへの安易な「丸投げ」が、ビジネスシーンで失敗を招くリスクを漫画を通じて警鐘を鳴らしている。",
-      "企業はAI導入時、従業員への適切な利用ガイドライン策定とリテラシー教育が喫緊の課題となり、組織全体のAI活用戦略を見直す必要がある。",
-      "AIツール普及の進展と同時に、人間の最終的な判断力、倫理的責任、そしてアウトプットの品質管理の重要性がさらに高まるトレンドが予測される。"
-    ],
-    "insight": "生成AIは強力な生産性向上ツールですが、その真価は人間の適切な判断、責任ある活用、そして最終的な品質管理によってのみ引き出されます。単なるタスクの丸投げは、予期せぬ失敗や信頼喪失に直結することをビジネスパーソンは肝に銘じるべきです。",
-    "action_plan": "自身の業務で生成AIを活用する際、アウトプットの正確性や倫理性を最終確認するプロセスを徹底しているか、またAIに依存しすぎていないかを見直してみましょう。",
-    "image_keyword": "AI mistake office",
-    "technical_terms": [
-      {
-        "term": "生成AI",
-        "explanation": "テキストや画像、音声など、人間が作ったかのようなコンテンツを自ら生み出すことができる人工知能技術。大規模なデータを学習して新しい情報を創造します。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMnlTX2dsX3FvaDFUeGI4eVZRYmRURnc2MkRZNU9wOWo0U21qOExFTVZMaUZMY0t3M3BNbzMyZGRySlZzUmVodjRBYnFHQ2piZ2ZLV25TalJnTWU5b3duZzgxZ254R1VLTGREeGJuajRCbndTX05sT2EyNGszSTZjeTF0bFRMTzQ5NzVMcEx30gGTAUFVX3lxTE1SdTAzaGpJamMtLUo0YkFlZ1RhR1VLQzV3UmJjU1RRbVhobEo4Q1IzZFVHXzVCU1c3aTdRdmxJMTE1M0xyTEFoeE1VcXpDT1hjTzJLMGRxVWdhX3EzenFCOVpiYTVTekZXbGxqdDVZUnVtbXlsUVVnTWJKVFNWY3E0ZXdnWmZwVlk4anRMUmxkMjZ4Zw?oc=5": {
-    "title": "米国、対中半導体装置輸出規制を強化：サプライチェーンへの影響と地政学的リスク",
-    "tags": "Geopolitics",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMnlTX2dsX3FvaDFUeGI4eVZRYmRURnc2MkRZNU9wOWo0U21qOExFTVZMaUZMY0t3M3BNbzMyZGRySlZzUmVodjRBYnFHQ2piZ2ZLV25TalJnTWU5b3duZzgxZ254R1VLTGREeGJuajRCbndTX05sT2EyNGszSTZjeTF0bFRMTzQ5NzVMcEx30gGTAUFVX3lxTE1SdTAzaGpJamMtLUo0YkFlZ1RhR1VLQzV3UmJjU1RRbVhobEo4Q1IzZFVHXzVCU1c3aTdRdmxJMTE1M0xyTEFoeE1VcXpDT1hjTzJLMGRxVWdhX3EzenFCOVpiYTVTekZXbGxqdDVZUnVtbXlsUVVnTWJKVFNWY3E0ZXdnWmZwVlk4anRMUmxkMjZ4Zw?oc=5",
-    "summary_bullets": [
-      "米国政府が半導体装置の対中輸出規制を強化し、特定企業への出荷停止を要請したと報じられた。",
-      "この規制強化は、世界の半導体サプライチェーンに大きな再編と混乱をもたらし、関連企業の戦略見直しを加速させる可能性がある。",
-      "米中間の技術覇権争いが激化する中、各国企業は地政学的リスクを考慮したサプライチェーンの多角化と国内生産への回帰を迫られるだろう。"
-    ],
-    "insight": "この輸出規制は、単なる貿易摩擦ではなく、国家安全保障と先端技術の支配権を巡る地政学的リスクの顕在化を示しています。企業は特定の国への技術依存度を低減し、多様なサプライヤーとの連携や代替技術の開発を加速させることで、予期せぬ事業中断のリスクに備えるべきです。",
-    "action_plan": "自社のサプライチェーンにおける半導体関連部品の調達経路を詳細に分析し、米国・中国関係の緊張が事業に及ぼす潜在的リスクと代替調達先の可能性を洗い出しましょう。",
-    "image_keyword": "Semiconductor export control, US China tech war, Global supply chain crisis",
-    "technical_terms": [
-      {
-        "term": "半導体装置",
-        "explanation": "半導体チップ（集積回路）を製造するために使われる高性能な機械や設備のことです。"
-      },
-      {
-        "term": "輸出規制",
-        "explanation": "特定の国や企業に対し、国家安全保障や外交政策上の理由から、製品や技術の輸出を制限する政府の措置です。"
-      }
-    ]
-  },
-  "https://kn.itmedia.co.jp/kn/articles/2604/30/news051.html": {
-    "title": "「指示を出すだけ」でプロ級プレゼン？ OpenAI、新画像生成AI「Images 2.0」発表で創造性の新時代へ",
-    "tags": "Generative AI",
-    "sentiment": "positive",
-    "sentiment_text": "AIの進化を示す注目の話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://kn.itmedia.co.jp/kn/articles/2604/30/news051.html",
-    "summary_bullets": [
-      "OpenAIが最新の画像生成モデル「Images 2.0」を発表し、テキスト指示からの画像生成能力を大幅に向上させた。",
-      "プレゼン資料作成やマーケティング素材制作など、多様なビジネスシーンでのビジュアルコンテンツ生成を革新し、効率と品質を飛躍的に向上させる可能性を秘める。",
-      "ノーコードでのビジュアルコンテンツ制作が加速し、非デザイナーでも高品質なクリエイティブを迅速に生成できる時代が本格化するだろう。"
-    ],
-    "insight": "Images 2.0の登場は、専門的なデザインスキルが不要になり、誰でも瞬時に高品質なビジュアルコンテンツを作成できる新時代の到来を告げ、企業のクリエイティブ戦略と効率性を根本から変革する可能性を示唆しています。",
-    "action_plan": "自社で頻繁に必要となるプレゼン資料やマーケティング素材の画像要件をリストアップし、Images 2.0のような生成AIツールでどの部分を効率化できるか、具体的な活用シナリオを検討してみましょう。",
-    "image_keyword": "AI image generation, business design, creative automation",
-    "technical_terms": [
-      {
-        "term": "画像生成モデル",
-        "explanation": "テキスト指示に基づいて、高精度な画像を自動的に創り出すAIプログラム。"
-      },
-      {
-        "term": "OpenAI",
-        "explanation": "ChatGPTやDALL-Eなどを開発する、世界をリードするAI研究開発企業。"
-      }
-    ]
-  },
   "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LY1hydFpLT2RaRnlncENYOWlOTFBUMDFsZE1oeWlSOGg3VGo0MlVDVmVDNVdKQ3BBMzg1Zmh4RjVWZHVqMmI5ZU1neVk4bF9aY2pWdw?oc=5": {
     "title": "サムスン電子、半導体ブームに乗じ1-3月期「過去最高」業績を達成か",
     "tags": "Hardware",
@@ -5369,6 +5090,308 @@
       {
         "term": "K二極化",
         "explanation": "韓国（Korea）において、経済的・社会的な格差が拡大し、富や機会が一部の層や企業に集中し、残りの層との間に大きな隔たりが生じる現象を表す造語です。"
+      }
+    ]
+  },
+  "https://kn.itmedia.co.jp/kn/articles/2605/26/news022.html": {
+    "title": "青森県庁、Webサイト二重管理の課題を「生成AIチャットボット」で解決し運用コスト7割削減へ",
+    "tags": "Generative AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2605/26/news022.html",
+    "summary_bullets": [
+      "青森県庁がWebサイトの二重管理による非効率性を解消するため、従来のチャットボットを生成AIに置き換える計画を発表。",
+      "生成AIの導入により、年間運用コストを最大7割削減できる見込みであり、他の自治体や企業におけるDX推進の好事例となる。",
+      "行政分野での生成AI活用が本格化し、業務効率化とコスト削減を両立させる新たなトレンドが加速すると予測される。"
+    ],
+    "insight": "生成AIの導入は、単なる最新技術の活用に留まらず、既存の非効率な業務プロセスを根本から見直し、大幅なコスト削減とサービス向上を同時に実現する強力な手段であることを示唆しています。",
+    "action_plan": "自社のWebサイトやカスタマーサポート業務において、非効率な二重管理や問い合わせ対応の課題がないかを見直し、生成AIチャットボット導入によるコスト削減と業務効率化の可能性を具体的に検討してみましょう。",
+    "image_keyword": "Generative AI chatbot, government digital transformation",
+    "technical_terms": [
+      {
+        "term": "生成AI",
+        "explanation": "テキストや画像、音声など、新しいコンテンツを自律的に生成できる人工知能の技術。"
+      },
+      {
+        "term": "チャットボット",
+        "explanation": "人間との会話をシミュレートし、質問応答や情報提供を自動で行うプログラム。"
+      }
+    ]
+  },
+  "https://kn.itmedia.co.jp/kn/articles/2605/26/news021.html": {
+    "title": "中小企業におけるAI導入の障壁、6割超が「何から着手すべきか」に悩む実態を分析",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2605/26/news021.html",
+    "summary_bullets": [
+      "中小企業のAI活用において、「まず何から始めるべきか」が62%で最大の障壁となっている。",
+      "この「5大不安」が解消されない限り、日本の中小企業のデジタル競争力向上と生産性改善が停滞する恐れがある。",
+      "今後は、AI導入の具体的なロードマップ提示や、導入支援サービスへの需要が加速すると予測される。"
+    ],
+    "insight": "AI導入の最大の障壁は技術的理解ではなく、戦略の不明確さにあるため、ビジネス目標とAI活用の具体的な接点を見出すことが成功への鍵となるでしょう。",
+    "action_plan": "自社でAI導入を検討する際は、「AIで何を解決したいのか」という目的を明確にし、具体的な課題と期待される効果を洗い出すことから始めてみましょう。",
+    "image_keyword": "small business AI challenges, AI adoption barriers, AI strategy difficulties",
+    "technical_terms": [
+      {
+        "term": "AI",
+        "explanation": "人間の知的な活動をコンピューターで模倣・実現する技術全般を指します。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/25/news130.html": {
+    "title": "Anthropicが警鐘：AI『Claude』が1万件超の脆弱性を発見も、修正が追いつかない現状",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "11時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/25/news130.html",
+    "summary_bullets": [
+      "AnthropicのAI『Claude Mythos』が、ソフトウェアコード内の1万件以上のセキュリティ脆弱性を発見したと報告。",
+      "膨大な数の脆弱性発見に対し、人間による修正が追いついていない現状がAIセキュリティ対策の課題を浮き彫りに。",
+      "AIによる脆弱性検出能力が進化する一方で、その成果を迅速かつ確実に修正する体制構築が今後の重要なトレンドとなる。"
+    ],
+    "insight": "AIがセキュリティ脆弱性発見の強力なツールとなる一方で、その膨大な成果を消化し、迅速に修正する体制やリソースの確保が、企業におけるAI活用戦略の喫緊の課題であることを示唆している。",
+    "action_plan": "自社システムのセキュリティ対策において、AIによる脆弱性発見ツール導入の可能性を検討しつつ、発見された問題への対応フローとリソース計画を具体的に見直しましょう。",
+    "image_keyword": "AI security vulnerability, cyber security network, bug fixing challenge",
+    "technical_terms": [
+      {
+        "term": "Claude Mythos",
+        "explanation": "AI開発企業Anthropicが手掛ける大規模言語モデル（LLM）の一つで、セキュリティ脆弱性の発見能力を持つ。"
+      },
+      {
+        "term": "脆弱性",
+        "explanation": "コンピューターシステムやソフトウェアに存在する、情報漏洩や不正アクセスなどのセキュリティ上の弱点。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6581704?source=rss": {
+    "title": "教育現場のリアル：低学年教科書、校長9割が「紙」を希望する背景とEdTechへの示唆",
+    "tags": "Education",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.yahoo.co.jp/pickup/6581704?source=rss",
+    "summary_bullets": [
+      "低学年向け教科書に関して、校長の9割以上がデジタルではなく「紙」の教科書を希望していることが明らかになった。",
+      "これは、文部科学省が推進するGIGAスクール構想における低学年層へのデジタル教科書普及に大きな障壁となりうる。",
+      "今後、EdTech企業や教育機関は、単なるデジタル化推進だけでなく、年齢や学習内容に応じた最適な紙とデジタルのハイブリッド戦略の構築が求められる。"
+    ],
+    "insight": "デジタルシフトが加速する現代においても、教育現場、特に低学年の発達段階や学習効果を考慮すると、「紙媒体」への根強いニーズは無視できず、技術導入は常に現場の声を反映した「人間中心設計」が不可欠であることを示唆しています。",
+    "action_plan": "EdTech関連企業や教育コンテンツ開発者は、自社製品・サービスのターゲット層が持つ学習特性や現場の運用実態を再評価し、紙媒体との連携やハイブリッド学習モデルを積極的に検討し、製品戦略を見直してみましょう。",
+    "image_keyword": "Paper vs Digital Education, Elementary school textbooks, Education policy challenge",
+    "technical_terms": [
+      {
+        "term": "GIGAスクール構想",
+        "explanation": "文部科学省が推進する、全国の児童生徒一人一台の端末と高速ネットワーク環境を整備し、ICTを最大限活用した個別最適化された学びを実現する教育改革構想。"
+      },
+      {
+        "term": "デジタル教科書",
+        "explanation": "紙の教科書の内容をタブレットやPCなどのデジタル端末で閲覧・利用できるようにしたもので、動画や音声、インタラクティブな機能などを統合できる次世代の教材。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6581651?source=rss": {
+    "title": "JALサブチャンネルが示す新たなマーケティング戦略：なぜ企業発コンテンツが『異例のヒット』を生むのか",
+    "tags": "Digital Marketing",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "13時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6581651?source=rss",
+    "summary_bullets": [
+      "JALのYouTubeサブチャンネルが、メインチャンネルや既存の企業PRとは異なるアプローチで異例のヒットを記録。",
+      "この成功は、企業がターゲットユーザーのニッチな興味に応える「非主流」コンテンツ戦略の有効性を示す。",
+      "今後、多くの企業が従来の広告手法を超え、共感を呼ぶパーソナルなデジタルコンテンツを通じたブランド価値向上と顧客エンゲージメント強化を追求する動きが加速する。"
+    ],
+    "insight": "既存のブランドイメージや主要製品の枠にとらわれず、顧客の深層的なニーズやニッチな好奇心に応える「サブ」的なコンテンツこそが、顧客との本質的なエンゲージメントを築き、結果としてブランドロイヤルティと新たなビジネスチャンスを創出する強力な武器となり得る。",
+    "action_plan": "自社や業界における「メインストリームではないが、一部の顧客に深く刺さるニッチなテーマ」を特定し、そのテーマでどのような『サブコンテンツ』が展開できるか、チームでアイデア出しをしてみましょう。",
+    "image_keyword": "JAL YouTube hit, digital content strategy, viral marketing",
+    "technical_terms": [
+      {
+        "term": "サブチャンネル",
+        "explanation": "企業やブランドが持つメインの公式チャンネルとは別に、特定のテーマやニッチなファン層を対象に運営される動画配信チャンネル。より自由な発想や実験的なコンテンツが特徴。"
+      },
+      {
+        "term": "コンテンツマーケティング",
+        "explanation": "顧客にとって価値のある、関連性の高いコンテンツを作成・配信することで、ブランド認知度向上や顧客獲得、関係構築を目指すマーケティング手法。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6581637?source=rss": {
+    "title": "「いいね」が誘う詐欺の罠：デジタルプラットフォームの新たな脅威",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "14時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6581637?source=rss",
+    "summary_bullets": [
+      "「いいね」などの簡単な操作で報酬が得られると謳うビジネスが、詐欺である可能性が高いことが示唆されています。",
+      "デジタルプラットフォームの信頼性低下を招き、個人情報の詐取や金銭的被害を通じてユーザーと企業双方に深刻な影響を与えます。",
+      "巧妙化するデジタル詐欺に対し、個人は情報リテラシーの向上、企業はより強固なセキュリティ対策と啓発活動が喫緊の課題となります。"
+    ],
+    "insight": "デジタル環境が深く浸透する現代において、偽の情報や詐欺の手口はより巧妙化しています。企業は顧客保護の責任を再認識し、個人は安易な情報に惑わされず、情報の真偽を見極める крити的な思考が必須であることを示唆しています。",
+    "action_plan": "ソーシャルメディアやメッセージアプリで「簡単に稼げる」といった不審な誘いを見かけたら、すぐに信用せず、その情報の出どころや信頼性を複数の情報源で確認する習慣をつけましょう。また、安易な個人情報提供や金銭の支払いは絶対に避けてください。",
+    "image_keyword": "online scam fraud",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yQUlsajVFUDI2QzR3Zk9MR1FuN0hLRDJQbmRZcUdLLThNOWlIYnB2bUg0T3JVQ21tVml2Uk5Cazc0MTFiRTQwbE5YM3pudVZJeEdHZk5vY2l4ZWZKZmVtSEZMOENMbEItMUVmb0lFUENxc2l2M25zNGlPZ2RxYTQ?oc=5": {
+    "title": "半導体特需が加速：台湾経済成長率1.8ポイント上方修正、韓国との格差鮮明に",
+    "tags": "Economy",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yQUlsajVFUDI2QzR3Zk9MR1FuN0hLRDJQbmRZcUdLLThNOWlIYnB2bUg0T3JVQ21tVml2Uk5Cazc0MTFiRTQwbE5YM3pudVZJeEdHZk5vY2l4ZWZKZmVtSEZMOENMbEItMUVmb0lFUENxc2l2M25zNGlPZ2RxYTQ?oc=5",
+    "summary_bullets": [
+      "台湾の経済成長率見通しが、半導体特需を背景に1.8ポイント大幅に上方修正された。",
+      "同じ半導体産業を抱える韓国の経済成長率見通しは0.3ポイントの上方修正に留まり、両国間の経済格差が鮮明になった。",
+      "半導体市場の活況は続き、特定の産業に特化した国家戦略が経済成長を大きく左右するトレンドが予測される。"
+    ],
+    "insight": "特定のコア産業への戦略的な集中投資が、グローバル経済の変動期において国家の競争力と成長率に決定的な差を生み出すことを示唆しています。",
+    "action_plan": "自社の事業ポートフォリオにおける戦略的コア技術や産業への集中度を見直し、市場の変化に対応するためのリスクヘッジや新たな成長戦略を検討してみましょう。",
+    "image_keyword": "Taiwan semiconductor economy, economic growth chip",
+    "technical_terms": [
+      {
+        "term": "半導体特需",
+        "explanation": "半導体の需要が供給を大幅に上回り、関連産業が活況を呈している状態。"
+      },
+      {
+        "term": "経済成長率",
+        "explanation": "ある期間における国の経済規模が、どれだけ成長したかを示す指標。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE45bFZVR1ZFRHhnOXg1ejVjajRPLXVQVE1mcTYyS3I2VFdFRWxnemY0QTFadVowWHZla0xqNFlwSm83dXkwdlprOEJ0WWdKdTRSWWZpOHA4OW1rdFFKQnVYNFQxcDE1YTNxWFp3eDNKWUJXdzVIei0wdGhLaDFkN00?oc=5": {
+    "title": "既存設備で実現！半導体パッケージ基板の「伝送ロス極小化」が次世代技術の扉を開く",
+    "tags": "Semiconductor Technology",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45bFZVR1ZFRHhnOXg1ejVjajRPLXVQVE1mcTYyS3I2VFdFRWxnemY0QTFadVowWHZla0xqNFlwSm83dXkwdlprOEJ0WWdKdTRSWWZpOHA4OW1rdFFKQnVYNFQxcDE1YTNxWFp3eDNKWUJXdzVIei0wdGhLaDFkN00?oc=5",
+    "summary_bullets": [
+      "半導体パッケージ基板における信号伝送ロスを、既存の設備や材料を活用しながら画期的に低減する技術が発表されました。",
+      "この技術は、新たな設備投資を最小限に抑えつつ、次世代の高速通信やAI処理に必要な半導体性能の飛躍的向上に貢献します。",
+      "既存インフラの有効活用は、半導体業界全体のコスト削減と開発サイクルの短縮を促し、市場競争力の強化と技術普及の加速が予測されます。"
+    ],
+    "insight": "技術革新は必ずしも大規模な設備投資を伴うとは限らず、既存リソースの最適化や既存技術の応用からも、費用対効果の高い大きなブレイクスルーが生まれるという視点がビジネス戦略上極めて重要です。",
+    "action_plan": "自社の製品開発や製造プロセスにおいて、既存の設備や材料、技術を再評価し、どのような改善や応用が可能かアイデアを書き出してみましょう。意外なイノベーションのヒントが見つかるかもしれません。",
+    "image_keyword": "semiconductor package, signal integrity, advanced manufacturing",
+    "technical_terms": [
+      {
+        "term": "半導体パッケージ基板",
+        "explanation": "半導体チップを搭載し、外部との電気的な接続や保護を行うための土台となる部品。多層構造を持つことが多い。"
+      },
+      {
+        "term": "伝送ロス",
+        "explanation": "電気信号が伝送される過程で、熱やノイズとして失われるエネルギーや情報のこと。特に高速信号では低減が性能向上の鍵となる。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16WVJ0cmlqbWY0MFp6RlhYaUJWQ0RRdjcxUkRyM2RmMzkyUlBXTDVvYjROZzFseXliS2Z1bF9TcndBakE0M3FiMURyeVVrejlha3lHbFNUUVJMeGE4cTFxT003N0pTYkp6?oc=5": {
+    "title": "川崎重工、シリコンバレーに「フィジカルAI」開発拠点を新設 – NVIDIAと連携し社会実装を加速",
+    "tags": "Robotics AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16WVJ0cmlqbWY0MFp6RlhYaUJWQ0RRdjcxUkRyM2RmMzkyUlBXTDVvYjROZzFseXliS2Z1bF9TcndBakE0M3FiMURyeVVrejlha3lHbFNUUVJMeGE4cTFxT003N0pTYkp6?oc=5",
+    "summary_bullets": [
+      "川崎重工がシリコンバレーに「フィジカルAI」に特化した開発拠点「K-CUBE」を開設し、社会実装を加速する。",
+      "NVIDIAをはじめとするパートナー企業との協業を通じて、リアル空間で自律的に動作するAIの技術革新を目指す。",
+      "物理世界でのAI活用を推進することで、製造業をはじめとする多様な産業分野の変革と新たな価値創造が期待される。"
+    ],
+    "insight": "ハードウェア技術の川崎重工とAI技術のNVIDIAによる協業は、単なる効率化を超え、現実世界と融合したAIが次世代産業を牽引する未来を示唆しています。この動きは、あらゆる産業における「モノとAIの融合」の重要性を強調し、新たなビジネスモデル創出のヒントを与えます。",
+    "action_plan": "自社の事業において、物理的なAI（ロボット、自律システムなど）がどのような課題を解決し、どのような新しい価値を提供できるかを具体的に3つ書き出してみましょう。",
+    "image_keyword": "physical AI robotics",
+    "technical_terms": [
+      {
+        "term": "フィジカルAI",
+        "explanation": "物理空間で現実世界と相互作用し、自律的に学習・動作するAIのこと。ロボットや自動運転技術に応用される。"
+      },
+      {
+        "term": "NVIDIA",
+        "explanation": "GPU（画像処理半導体）の開発で知られる半導体メーカー。AI/ディープラーニング分野において高い技術力と市場シェアを持つ。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/25/news094.html": {
+    "title": "「“いいね”で稼げる」は詐欺の罠！国民生活センターが警告、安易な副業勧誘の裏に潜む高額請求リスク",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "17時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/25/news094.html",
+    "summary_bullets": [
+      "国民生活センターが「いいね」などの簡単作業で高収入が得られるという副業詐欺への注意喚起を発令。",
+      "被害者は初期費用や情報商材名目で高額な金銭を請求されており、オンライン上の安易な儲け話の危険性が顕在化。",
+      "AIの進化などで詐欺の手口が巧妙化する可能性があり、企業や個人は情報リテラシーの向上と継続的な警戒が不可欠。"
+    ],
+    "insight": "オンラインでの情報過多時代において、一見魅力的な「簡単」「高収入」といったフレーズには常に警戒心を持ち、その背後にあるリスクを見抜く情報リテラシーが、ビジネス上の意思決定や個人の資産防衛において不可欠であることを示唆しています。",
+    "action_plan": "SNSやメッセージアプリなどで提供される副業情報に対し、鵜呑みにせず、必ず公式情報源や信頼できる機関で真偽を確認する習慣を身につけ、安易な勧誘には応じないよう警戒しましょう。",
+    "image_keyword": "Social media fraud, consumer warning, scam alert",
+    "technical_terms": []
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/25/news079.html": {
+    "title": "金融機関に迫るAIサイバー攻撃の脅威：金融庁・日銀が求める緊急対策と9つの要件",
+    "tags": "AI Security",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "19時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/25/news079.html",
+    "summary_bullets": [
+      "金融庁と日銀が、AIを悪用したサイバー攻撃への対策として、金融機関に9項目にわたる具体的な対応強化を要請した。",
+      "この要請は、金融システムの安定性維持と顧客資産の保護を目的とし、企業の経営層がリスク認識を深めるきっかけとなる。",
+      "AI技術の進化に伴い、サイバー攻撃も高度化するため、金融業界は継続的なセキュリティ対策の更新と情報共有がトレンドとなる。"
+    ],
+    "insight": "AIの導入・活用が進む現代において、企業はAIがもたらす革新だけでなく、それに伴う新たなサイバーリスクを経営戦略の中心に据え、先行的な防御策を講じる必要性を再認識すべきです。",
+    "action_plan": "自社のAI活用状況と現在のサイバーセキュリティ体制を照らし合わせ、AIが悪用される潜在的リスクシナリオとその対策について、経営層を含む社内で具体的な議論を開始してみましょう。",
+    "image_keyword": "AI cyber security network, financial data protection",
+    "technical_terms": [
+      {
+        "term": "AIサイバー攻撃",
+        "explanation": "人工知能（AI）技術を悪用して行われる、高度化・自動化されたサイバー攻撃。従来の攻撃よりも検知が困難で、複雑な手口を用いる傾向がある。"
+      },
+      {
+        "term": "対応の優先度決定",
+        "explanation": "セキュリティ対策を講じる際に、検出された脅威やシステムの脆弱性に対して、どの項目から対処すべきか重要度を判断し、順位付けを行うプロセス。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/25/news078.html": {
+    "title": "企業SNS情報漏えいリスク浮上！7割がルール不在、規模別格差で対策急務か",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "20時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/25/news078.html",
+    "summary_bullets": [
+      "企業の7割がSNS利用における情報漏えい対策の社内ルールを持たず、特に企業規模による対応格差が顕著である。",
+      "情報漏えいリスクの増大は、企業ブランドの毀損、顧客からの信頼失墜、および法的責任を問われる可能性を高める。",
+      "今後、企業はSNS利用ポリシーの緊急策定と従業員への教育を強化し、包括的なリスク管理体制を構築することが求められるトレンドとなる。"
+    ],
+    "insight": "SNSの活用が不可欠な現代において、多くの企業が情報漏えい対策において後れを取っており、このギャップが未曾有のリスクを生み出す可能性を強く認識し、早急な対策が事業継続の鍵を握ることを理解すべきです。",
+    "action_plan": "まず自社のSNS利用状況を棚卸し、現状の社内ルール（または不在）を確認しましょう。次に、情報セキュリティ部門と連携し、具体的なSNS利用ガイドラインの策定、あるいは既存ルールの見直しに着手してください。",
+    "image_keyword": "social media data breach, corporate security gap",
+    "technical_terms": [
+      {
+        "term": "情報漏えい",
+        "explanation": "機密情報や個人情報などが外部に不正に流出すること。企業にとって重大な損害をもたらすリスクです。"
+      },
+      {
+        "term": "SNSリスク",
+        "explanation": "ソーシャルネットワーキングサービス（SNS）の利用に起因する、情報漏えい、炎上、ブランド毀損などの潜在的な危険性。"
       }
     ]
   }
