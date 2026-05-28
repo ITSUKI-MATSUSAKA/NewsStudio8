@@ -1,125 +1,4 @@
 {
-  "https://www.itmedia.co.jp/news/articles/2605/01/news111.html": {
-    "title": "イエローハット子会社で最大345万件の個人情報流出か — データ持ち出し痕跡判明でセキュリティ危機浮上",
-    "tags": "Cybersecurity",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "5日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/01/news111.html",
-    "summary_bullets": [
-      "イエローハット子会社において、最大345万人分の顧客情報が外部に持ち出された痕跡が確認され、大規模な情報漏えいの可能性が浮上。",
-      "企業は顧客からの信頼失墜、法規制違反による罰則、多額の賠償責任など、深刻なビジネスリスクに直面する。",
-      "サプライチェーン全体の情報セキュリティ強化と、個人情報保護法制への対応が全ての企業にとって喫緊の課題となるトレンドが加速する。"
-    ],
-    "insight": "大企業の子会社であっても情報漏えいリスクは避けられず、特に外部委託先を含むサプライチェーン全体でのセキュリティ対策とリスク管理の徹底が、企業のレピュテーションと事業継続に不可欠である。",
-    "action_plan": "自社の情報セキュリティ体制、特に外部委託先との情報共有・管理プロセスを緊急で見直し、潜在的な脆弱性を特定し対策を講じましょう。",
-    "image_keyword": "data breach, personal data leak, cyber security incident",
-    "technical_terms": []
-  },
-  "https://news.yahoo.co.jp/pickup/6578532?source=rss": {
-    "title": "SNS投稿が招く情報漏洩：従業員の『油断』が企業にもたらす重大リスク",
-    "tags": "Cybersecurity",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://news.yahoo.co.jp/pickup/6578532?source=rss",
-    "summary_bullets": [
-      "従業員によるSNSへの内部情報投稿が頻発し、その背景にはセキュリティ意識の低さや「油断」が指摘されている。",
-      "情報漏洩は企業の信頼失墜、ブランドイメージの毀損、法的責任、経済的損失など甚大なビジネスリスクを招く。",
-      "企業は技術的対策に加え、従業員への継続的なセキュリティ教育と意識改革が喫緊の課題となり、情報ガバナンスの強化が必須となる。"
-    ],
-    "insight": "情報漏洩リスクは、外部からのサイバー攻撃だけでなく、従業員一人ひとりの日常的な行動や「うっかり」にも潜んでいます。企業はこれを深く認識し、技術だけでなく人によるセキュリティ対策を強化する視点が不可欠です。",
-    "action_plan": "自社の情報セキュリティポリシー、特にSNS利用に関するガイドラインが最新の脅威と合致しているかを見直してみましょう。また、全従業員向けに情報セキュリティ研修を定期的に実施し、最新の情報漏洩事例を共有する機会を設けてみましょう。",
-    "image_keyword": "Corporate Security Awareness",
-    "technical_terms": []
-  },
-  "https://news.yahoo.co.jp/pickup/6578446?source=rss": {
-    "title": "米国防総省、機密任務にAI企業8社を招集：その戦略的意図と影響",
-    "tags": "AI",
-    "sentiment": "neutral",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "23時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6578446?source=rss",
-    "summary_bullets": [
-      "米国防総省が機密情報領域でのAI活用を本格化するため、8社の民間AI企業と大規模な契約を締結した。",
-      "AI技術の軍事・安全保障分野への転用が加速し、AI産業にとって新たなビジネス機会が生まれる一方、技術倫理やガバナンスに関する国際的な議論がさらに活発化する。",
-      "国家安全保障におけるAI導入が世界的な標準となり、AI技術の信頼性、堅牢性、そして倫理的な利用原則の確立が今後の主要なトレンドとなるだろう。"
-    ],
-    "insight": "AI技術は、民間ビジネスだけでなく国家安全保障といった高機密・高信頼性が求められる領域での導入が加速しており、これはAI技術の成熟度と社会への浸透が新たなフェーズに入ったことを示唆している。",
-    "action_plan": "自社のAI戦略において、高機密性や倫理的課題への対応をどのように織り込むべきか、現在のリスク評価やガバナンス体制を見直してみましょう。",
-    "image_keyword": "military AI technology",
-    "technical_terms": [
-      {
-        "term": "AI",
-        "explanation": "Artificial Intelligence（人工知能）の略で、人間の知能をコンピュータで模倣・実現する技術全般を指します。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2djctTzZFT2p5U3dxZFVVdjFkWVo4cnlrOGVxV1hDZDhMZkxRY0JvNEFvQzk1Z29FUnF0VjlmVUxHSU5qcjhNOHVib2l0RmE1NnU3MTEtSDJJamZiRVE?oc=5": {
-    "title": "ウシオ電機、2026年「AI半導体・露光装置」でV字回復へ – 2nm世代・チップレットが牽引する世界シェア80%の衝撃",
-    "tags": "Semiconductor",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2djctTzZFT2p5U3dxZFVVdjFkWVo4cnlrOGVxV1hDZDhMZkxRY0JvNEFvQzk1Z29FUnF0VjlmVUxHSU5qcjhNOHVib2l0RmE1NnU3MTEtSDJJamZiRVE?oc=5",
-    "summary_bullets": [
-      "ウシオ電機が2026年にAI半導体・露光装置分野でV字回復を計画し、世界シェア80%を目指す。",
-      "2nm世代の超微細化技術とチップレット戦略が、同社の成長と市場での優位性を強力に推進する。",
-      "AI半導体需要の爆発的な増加が露光装置市場を活性化させ、ウシオ電機の事業拡大に貢献すると予測される。"
-    ],
-    "insight": "AI半導体の進化は、表面的なチップメーカーだけでなく、その根幹を支える特殊な製造装置市場にも巨大なビジネスチャンスをもたらしており、ニッチながらも高い技術力を持つ企業が市場を席巻する可能性を示唆しています。",
-    "action_plan": "自社のコア技術や強みが、急成長するAIエコシステムのどの部分に貢献できるかを見直し、新たな連携や投資機会を検討してみましょう。",
-    "image_keyword": "AI semiconductor lithography",
-    "technical_terms": [
-      {
-        "term": "AI半導体",
-        "explanation": "人工知能（AI）の処理に特化した半導体チップで、大量のデータ処理や複雑な計算を高速かつ効率的に行うために設計されています。"
-      },
-      {
-        "term": "露光装置",
-        "explanation": "半導体製造プロセスの中心となる装置の一つで、光を使って回路パターンをシリコンウェーハに転写する役割を担います。半導体の性能を左右する重要な技術です。"
-      },
-      {
-        "term": "2nm世代",
-        "explanation": "半導体チップの回路線幅が2ナノメートルという極めて微細なレベルで製造される技術世代を指し、より高性能・高集積・低消費電力なチップの実現を可能にします。"
-      },
-      {
-        "term": "チップレット",
-        "explanation": "複数の小さな機能別半導体チップ（チップレット）を一つのパッケージ内で結合し、あたかも一つの大きなチップのように動作させる技術です。これにより、設計の柔軟性向上や製造コスト削減が期待されます。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oRTZ5eG5sZVJOQUg1VUZUNzRWM1hSY3FsdjZDNXF2YUpmMC0tdGtjYjh0dFQ3SUw4a3N3MTlCNWtUREpvdW12d05KclNiX2VwZVd4N216SHZLaENMaWxTMm0xb1MtbDJqY29Wczd3X0I4SklyczY3eTZhS05Zb0E?oc=5": {
-    "title": "半導体バブル到来か？日本株は原油高を乗り越え、日経平均6万円台を堅持する理由",
-    "tags": "Market",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oRTZ5eG5sZVJOQUg1VUZUNzRWM1hSY3FsdjZDNXF2YUpmMC0tdGtjYjh0dFQ3SUw4a3N3MTlCNWtUREpvdW12d05KclNiX2VwZVd4N216SHZLaENMaWxTMm0xb1MtbDJqY29Wczd3X0I4SklyczY3eTZhS05Zb0E?oc=5",
-    "summary_bullets": [
-      "原油価格高騰といった外部要因の影響を打ち消し、半導体産業が日本株の主要な牽引役となっている。",
-      "日経平均株価は半導体セクターの好調に支えられ、6万円台を維持するとの力強い見通しが示された。",
-      "この傾向は、今後の日本経済において半導体産業の重要性と持続的な成長性を強く示唆している。"
-    ],
-    "insight": "グローバルな経済リスクが高まる中でも、半導体のような特定の成長セクターが日本経済と株式市場の強靭性を担保していることを理解し、事業戦略や投資ポートフォリオに反映させるべきです。",
-    "action_plan": "自社の事業が半導体産業や関連テクノロジーの進化とどのように連携できるか、具体的な協業可能性や新規事業アイデアをブレーンストーミングしてみましょう。",
-    "image_keyword": "Semiconductor stock market",
-    "technical_terms": [
-      {
-        "term": "半導体",
-        "explanation": "デジタル機器の頭脳となる電子部品で、現代社会のあらゆる技術を支える基幹産業です。"
-      },
-      {
-        "term": "日経平均株価",
-        "explanation": "東京証券取引所プライム市場上場の代表的な225銘柄で構成される、日本の主要な株価指数です。"
-      }
-    ]
-  },
   "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1seUVzUThmSnJlZGVVTUpic2lZeHQ1ckxfUUkyTjUzVXBNM3NoTUhzS3JxeHUtUVRQMzhMbm8zb0lRUQ?oc=5": {
     "title": "KOKUSAI、半導体市場の成長を見据え生産能力を大幅強化 - 約4.3万㎡の土地取得で戦略的投資を加速",
     "tags": "Semiconductor",
@@ -5319,7 +5198,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 4,
-    "time_ago": "13時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/27/news127.html",
     "summary_bullets": [
       "とらのあなの電子書籍サービスが、不正クローリングによるシステム停止から5日ぶりに無事再開した。",
@@ -5346,7 +5225,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/26/news108.html",
     "summary_bullets": [
       "ランサムウェア攻撃の侵入コストは平均6.6万円と低額な一方で、復旧にかかる費用は平均2.3億円に達し、サイバー犯罪が攻撃者にとって「持続可能なビジネス」として深刻化している。",
@@ -5364,6 +5243,149 @@
       {
         "term": "インシデントレスポンス",
         "explanation": "サイバー攻撃やシステム障害などのセキュリティインシデントが発生した際に、迅速かつ適切に対処し、被害を最小限に抑えるための一連の対応プロセスです。"
+      }
+    ]
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/29/news054.html": {
+    "title": "日本製造業は「パワーハウス」：IFSが読み解く、産業AI投資急拡大の戦略的意義",
+    "tags": "Industrial AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2605/29/news054.html",
+    "summary_bullets": [
+      "IFSは日本を「製造業のパワーハウス」と評価し、産業AIへの投資を加速している。",
+      "この動きは、日本の製造業がAI活用によるデジタル変革を推進し、国際的な競争力を高める好機となる。",
+      "今後、産業AIの導入は企業の生産性向上、コスト削減、そして新たな価値創造の鍵となるトレンドとして定着するだろう。"
+    ],
+    "insight": "グローバルな視点から日本の製造業の潜在能力が高く評価されており、産業AIは単なるIT投資ではなく、今後の事業成長と競争優位性を確保するための戦略的基盤であると認識すべきです。",
+    "action_plan": "自社の既存製造プロセスにおいてAI導入による改善余地を洗い出し、初期的なPoC（概念実証）を計画してみましょう。また、他社のAI活用事例を参考に、具体的なロードマップの策定に着手しましょう。",
+    "image_keyword": "Industrial AI Japan, Smart Manufacturing, Factory Automation",
+    "technical_terms": [
+      {
+        "term": "産業AI",
+        "explanation": "製造業特有の課題解決や効率化に特化した人工知能技術。生産最適化、品質管理、予知保全などに利用されます。"
+      },
+      {
+        "term": "パワーハウス",
+        "explanation": "特定の分野において、非常に強い影響力や生産能力を持つ国や企業、地域などを指す言葉です。"
+      },
+      {
+        "term": "IFS",
+        "explanation": "企業向けのエンタープライズ・ソフトウェアを提供するグローバルベンダー。特に製造業向けのERPやEAMソリューションに強みを持っています。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000034/": {
+    "title": "Anthropic、最新AI「Claude Opus 4.8」を一般公開！倫理性能が飛躍的進化、Mythosに匹敵する安全性へ",
+    "tags": "AI / LLM",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "10時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000034/",
+    "summary_bullets": [
+      "Anthropicが最新AIモデル「Claude Opus 4.8」を一般提供開始、倫理的安全性と誠実さが大幅に向上。",
+      "AIの信頼性向上は企業での導入障壁を下げ、より安全で倫理的なAI活用をビジネス・社会全体で加速させる。",
+      "AI開発競争は性能だけでなく、倫理的アライメントや安全性確保が主要な差別化要因となり、信頼できるAIの普及が進む。"
+    ],
+    "insight": "AIの高度化に伴い、出力の正確性や安全性（ハルシネーション対策、倫理的ガイドライン遵守）がビジネスにおけるAI導入の鍵となるため、モデル選定やAIガバナンス構築において倫理性能を重視する視点が不可欠である。",
+    "action_plan": "自社でAI導入を検討している場合は、セキュリティや精度だけでなく、モデルの倫理的安全性やアライメント性能を評価項目に加えて選定プロセスを見直してみましょう。",
+    "image_keyword": "Claude Opus, AI alignment, ethical AI",
+    "technical_terms": [
+      {
+        "term": "Claude Opus 4.8",
+        "explanation": "Anthropicが開発した大規模言語モデル（LLM）の最新バージョンで、高度な推論能力と倫理的安全性向上を特徴とする。"
+      },
+      {
+        "term": "アライメント性能",
+        "explanation": "AIが人間の意図、価値観、倫理原則に沿って行動し、望ましくない出力を避ける能力。AIの安全性と信頼性を示す重要な指標。"
+      },
+      {
+        "term": "Mythos",
+        "explanation": "Anthropicが目指す倫理的アライメントの最高水準、またはそのベンチマークを示す言葉で、極めて高い安全性と誠実さを意味する。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6582109?source=rss": {
+    "title": "日本AI連合、大手約15社が参画へ：国産AI開発の新局面",
+    "tags": "AI Investment",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.yahoo.co.jp/pickup/6582109?source=rss",
+    "summary_bullets": [
+      "国産AI開発プロジェクトに、新たに約15社の大手企業が出資意向を示し、日本のAIエコシステム強化に期待が高まっている。",
+      "この動きは、日本のAI産業の競争力を世界レベルに引き上げ、大規模言語モデルなど基盤技術開発を加速させる可能性を秘めている。",
+      "今後、企業間の連携が一層深化し、政府の政策支援と相まって、国産AIの社会実装と国際市場での存在感向上に繋がるトレンドが予測される。"
+    ],
+    "insight": "多くの日本企業が国産AIプロジェクトへの投資を強化することで、国内でのAI技術開発と活用が加速します。自社ビジネスにおけるAI導入戦略の見直しや、新たな協業機会の探索が今まさに喫緊の課題となるでしょう。",
+    "action_plan": "自社のAI戦略ロードマップを見直し、国産AI技術やプラットフォームの導入可能性について、具体的なメリットと課題を洗い出し、検討を開始しましょう。",
+    "image_keyword": "Japanese AI collaboration, Tech investment, AI ecosystem",
+    "technical_terms": [
+      {
+        "term": "国産AI",
+        "explanation": "日本国内で開発・運用されるAI技術やプラットフォーム。データの主権やセキュリティを確保し、特定の文化・言語に最適化されることを目指す。"
+      },
+      {
+        "term": "大規模言語モデル (LLM)",
+        "explanation": "膨大なテキストデータから学習し、人間のような自然な言語を理解・生成できるAIモデル。現在のAI開発の主要な焦点の一つ。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6582101?source=rss": {
+    "title": "日本3メガバンク、OpenAI最新AIモデル導入で金融DXを加速",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6582101?source=rss",
+    "summary_bullets": [
+      "国内3メガバンクがOpenAIの最新AIモデルを業務に導入・活用する方針を固めた。",
+      "金融業務の効率化、顧客サービス向上、新たな金融商品の創出など、金融業界全体のDXが大きく加速する可能性を秘めている。",
+      "AI技術の金融業界での本格的な活用が標準化し、他産業へのAI導入も一層加速するトレンドが予測される。"
+    ],
+    "insight": "大手金融機関が最先端AIに投資することは、AIが単なる効率化ツールに留まらず、ビジネスモデルそのものを変革する戦略的ツールへと進化している明確な証拠であり、自社の競争力維持のためにはAI導入の検討が不可欠です。",
+    "action_plan": "自社の業務プロセスにおけるAI導入の可能性を洗い出し、まずはスモールスタートでPoC（概念実証）を計画してみましょう。",
+    "image_keyword": "AI in banking, financial technology, OpenAI corporate",
+    "technical_terms": [
+      {
+        "term": "OpenAI",
+        "explanation": "人工知能の研究開発を行う米国の企業で、大規模言語モデル「GPT」シリーズや画像生成AI「DALL-E」などを開発しています。"
+      },
+      {
+        "term": "新型モデル",
+        "explanation": "OpenAIが開発した最新のAIモデルを指し、より高度な言語理解、生成、推論能力を持つことが期待されます。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6582074?source=rss": {
+    "title": "政府AI、全府省庁で本格実証へ：行政DXの未来を拓くか？",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "12時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6582074?source=rss",
+    "summary_bullets": [
+      "日本政府が全府省庁でAI（人工知能）の実証利用を開始し、業務効率化と国民向け行政サービスの向上を目指す。",
+      "行政DXの加速により、AI関連技術やソリューションを提供する民間企業にとって新たな市場機会が創出される。",
+      "政府機関によるAI導入の本格化は、民間企業へのAI活用普及をさらに促し、社会全体のデジタルトランスフォーメーションを推進するトレンドとなる。"
+    ],
+    "insight": "政府のAI導入は、AI技術の信頼性向上と大規模な社会実装の大きな試金石であり、この動きは民間企業におけるAI投資やDX戦略の加速に直接的な影響を与える可能性が高い。",
+    "action_plan": "自社の業務プロセスでAIがどのように貢献できるかを具体的に洗い出し、生産性向上や新たなサービス創出に向けたAI導入ロードマップの検討を開始しましょう。",
+    "image_keyword": "Government AI, Digital Transformation",
+    "technical_terms": [
+      {
+        "term": "ガバメントAI",
+        "explanation": "政府機関（府省庁など）において活用される人工知能技術全般を指す。"
+      },
+      {
+        "term": "実証開始",
+        "explanation": "本格的な導入や運用に先立ち、効果や課題を検証するために実際に試験的な利用を始めること。"
       }
     ]
   }
