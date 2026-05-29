@@ -1,255 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1seUVzUThmSnJlZGVVTUpic2lZeHQ1ckxfUUkyTjUzVXBNM3NoTUhzS3JxeHUtUVRQMzhMbm8zb0lRUQ?oc=5": {
-    "title": "KOKUSAI、半導体市場の成長を見据え生産能力を大幅強化 - 約4.3万㎡の土地取得で戦略的投資を加速",
-    "tags": "Semiconductor",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "1時間前",
-    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1seUVzUThmSnJlZGVVTUpic2lZeHQ1ckxfUUkyTjUzVXBNM3NoTUhzS3JxeHUtUVRQMzhMbm8zb0lRUQ?oc=5",
-    "summary_bullets": [
-      "KOKUSAI ELECTRICが半導体装置市場の持続的な成長に対応するため、砺波事業所隣接地に約4.3万㎡の土地を取得した。",
-      "今回の土地取得は、今後を見据えた生産能力の拡張と研究開発体制の強化を目的としており、半導体サプライチェーンの安定化に貢献する。",
-      "先端半導体需要の拡大が続く中で、製造装置メーカーによる戦略的な設備投資や拠点拡張の動きは今後も加速すると予測される。"
-    ],
-    "insight": "半導体市場の長期的な成長トレンドは確実であり、関連企業はサプライチェーンの強靭化と生産能力への継続的な投資が競争優位性を確立する上で不可欠であることを示唆しています。",
-    "action_plan": "自社の事業において半導体への依存度を再評価し、サプライチェーンの潜在的なボトルネックやリスク分散戦略について現状分析と将来計画を見直してみましょう。",
-    "image_keyword": "semiconductor factory expansion",
-    "technical_terms": [
-      {
-        "term": "半導体装置",
-        "explanation": "集積回路（ICチップ）などの半導体を製造するための、各種プロセス（成膜、エッチング、洗浄など）を行う機械やシステム。"
-      },
-      {
-        "term": "KOKUSAI ELECTRIC",
-        "explanation": "半導体製造装置、特に成膜装置（薄膜を形成する装置）の世界的な大手メーカー。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/enterprise/articles/2605/03/news018.html": {
-    "title": "アクセンチュアと日本精工が戦略提携、AIで製造業DXを加速 - 間接業務と現場自動化の未来図",
-    "tags": "Industry DX",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 4,
-    "time_ago": "1日前",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/03/news018.html",
-    "summary_bullets": [
-      "アクセンチュアと日本精工がAIを活用した戦略的提携を発表し、間接業務改革と製造現場の自動化を推進。",
-      "本提携は、製造業におけるAIとデジタルトランスフォーメーション（DX）の導入を加速させ、企業の生産性向上と競争力強化に貢献。",
-      "今後、AIによる業務効率化は製造業のコア業務からバックオフィスまで全方位に拡大し、新たなビジネスモデル創出の鍵となるトレンドが予測される。"
-    ],
-    "insight": "AIによる業務改革は、製造業において間接業務と現場作業の両面で大きな変革をもたらし、企業競争力向上の鍵となる。自社のDX戦略を多角的に見直す好機だ。",
-    "action_plan": "自社業務におけるAI適用可能性を部門横断で洗い出し、特に間接業務の効率化と現場自動化の観点から具体策を検討してみましょう。",
-    "image_keyword": "AI manufacturing automation",
-    "technical_terms": [
-      {
-        "term": "AI",
-        "explanation": "人工知能の略で、人間の知能を模倣して学習、推論、判断などを行う技術。"
-      },
-      {
-        "term": "DX (デジタルトランスフォーメーション)",
-        "explanation": "デジタル技術を活用してビジネスモデルや業務プロセス、組織文化を変革し、競争優位性を確立すること。"
-      },
-      {
-        "term": "間接業務",
-        "explanation": "製品の製造やサービスの提供に直接関わらない、営業、経理、人事、総務などのバックオフィス業務。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6578608?source=rss": {
-    "title": "デジタルデバイドの深層：スマホ非保有者が直面する社会課題とそのビジネス影響",
-    "tags": "Digital Divide",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 4,
-    "time_ago": "15時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6578608?source=rss",
-    "summary_bullets": [
-      "日本において、スマートフォンを保有せず、情報格差により生活に困難を抱える人々が依然として存在している実態が明らかになった。",
-      "デジタルサービスの浸透が進む中で、この通信困難層は行政手続き、医療アクセス、社会交流など多岐にわたる機会を逸しており、ビジネス機会の喪失や顧客層の限定化に繋がる。",
-      "今後、社会全体のデジタル化が加速するにつれて、このデジタルデバイドはさらに拡大する可能性があり、包括的なデジタルインクルージョン戦略が求められるだろう。"
-    ],
-    "insight": "デジタル変革を進める企業は、最新テクノロジーの導入だけでなく、テクノロジーから取り残される層への配慮が不可欠です。市場全体を見渡し、すべてのステークホルダーがデジタル化の恩恵を受けられるような包括的なサービス設計が、持続可能なビジネス成長の鍵となります。",
-    "action_plan": "自社のサービスや製品が、スマートフォン非保有者やデジタルリテラシーの低い層にもアクセス可能かを見直してみましょう。例えば、アナログな窓口対応の維持、簡便なインターフェース設計、または支援プログラムの導入などを検討し、新たな市場ニーズやCSR活動へと繋がる機会を発見してください。",
-    "image_keyword": "digital divide, information gap, societal tech barrier",
-    "technical_terms": [
-      {
-        "term": "デジタルデバイド (Digital Divide)",
-        "explanation": "インターネットやスマートフォンなどの情報通信技術を利用できる人とできない人の間に生じる、情報格差や機会格差のこと。"
-      },
-      {
-        "term": "デジタルインクルージョン (Digital Inclusion)",
-        "explanation": "すべての人々が情報通信技術を利用し、その恩恵を享受できる状態を目指す取り組みや概念。デジタル格差の解消を目指す。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6578584?source=rss": {
-    "title": "AIが数学の難問を次々解決：科学・技術革新を加速する新たな知性の台頭",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "19時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6578584?source=rss",
-    "summary_bullets": [
-      "AIがこれまで人間には困難だった数学の未解決問題を次々と解決し、科学的発見に大きく貢献している。",
-      "この技術は、研究開発の高速化、新技術の創出、さらには教育や産業における問題解決のパラダイムを変革する可能性を秘めている。",
-      "今後、AIの知的能力はさらに進化し、様々な分野での未踏の課題解決やイノベーション加速の鍵となることが予測される。"
-    ],
-    "insight": "AIが未解決問題すら解決する時代において、ビジネスリーダーはAIを単なる効率化ツールではなく、新たな知の発見やイノベーションを創出するパートナーとして捉え、自社の研究開発や戦略に組み込むべきです。",
-    "action_plan": "自社の抱える難題や未解決の課題を洗い出し、AI技術の活用可能性について専門家との対話を始めてみましょう。",
-    "image_keyword": "AI problem solving, mathematical intelligence, futuristic research",
-    "technical_terms": [
-      {
-        "term": "未解決問題",
-        "explanation": "数学や科学の分野で、まだ誰も解決策を見つけていない重要な問いや証明されていない仮説のこと。"
-      },
-      {
-        "term": "AI",
-        "explanation": "人間のような学習、推論、判断などを行うコンピューターシステムや技術の総称。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeGMyTXNlaFhyb051anpoWjR6M3czQ2o3UFpIZWVsRFhmTE9lZGd5eUJIMlNMRHUyeURCTnVfMjBVclJwNEVaSGJIX2dmZnVjc1NkNjJLWl8xbVhoQmloX3V1enp2U0pRQUZXdkJpeGt3VHlqaUF2dHE1dFpldmt6UjlRdkRia2NxY3M5RmRDYVVSdw?oc=5": {
-    "title": "日本が総力結集！次世代エッジAI半導体開発、500人規模の国家プロジェクト始動",
-    "tags": "AI Semiconductor",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeGMyTXNlaFhyb051anpoWjR6M3czQ2o3UFpIZWVsRFhmTE9lZGd5eUJIMlNMRHUyeURCTnVfMjBVclJwNEVaSGJIX2dmZnVjc1NkNjJLWl8xbVhoQmloX3V1enp2U0pRQUZXdkJpeGt3VHlqaUF2dHE1dFpldmt6UjlRdkRia2NxY3M5RmRDYVVSdw?oc=5",
-    "summary_bullets": [
-      "日本政府主導の下、大学・企業の研究者500人が参画する大規模な次世代エッジAI半導体開発プロジェクトが発足した。",
-      "この技術は、デバイス側でのAI処理を高速化・低消費電力化し、自動運転、IoT、スマートシティなど多様な産業のDXを加速させる基盤となる。",
-      "半導体技術の国際競争が激化する中、日本の競争力強化と新たな産業エコシステムの創出に貢献することが期待される。"
-    ],
-    "insight": "AI半導体、特にエッジAIは、これからのあらゆる産業のDXを加速させるキーテクノロジーです。自社の製品・サービスへの応用可能性や、この技術を活用した新たなビジネスモデル創出のチャンスを今すぐ見極めるべきです。",
-    "action_plan": "自社事業におけるエッジAIの潜在的な活用シーンを具体的に洗い出し、関連技術動向や競合の動きについて情報収集を開始してみましょう。",
-    "image_keyword": "Edge AI chip, national project, research collaboration",
-    "technical_terms": [
-      {
-        "term": "エッジAI半導体",
-        "explanation": "デバイス（エッジ）側でAI処理を効率的に行うために特化・最適化された半導体。クラウドへの通信を減らし、リアルタイム処理やプライバシー保護に貢献する。"
-      },
-      {
-        "term": "国家プロジェクト",
-        "explanation": "国が主導し、複数の大学や企業、研究機関が連携して特定の戦略的目標達成を目指す大規模な研究開発や事業。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1XMjY3ME10U3BWTXZwNlRsanNjaDR3dE8zeXVHVTJxdkVCaXR4S2Q2bEVKeklBbHFPMk9OTWNnbkc0dw?oc=5": {
-    "title": "先端半導体製造を加速！ヌヴォトン、高出力紫色レーザーの量産開始で次世代技術を牽引",
-    "tags": "Hardware",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "1時間前",
-    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1XMjY3ME10U3BWTXZwNlRsanNjaDR3dE8zeXVHVTJxdkVCaXR4S2Q2bEVKeklBbHFPMk9OTWNnbkc0dw?oc=5",
-    "summary_bullets": [
-      "ヌヴォトンが先端半導体製造向けに、従来の1.5倍の出力を持つ紫色レーザーの量産を開始した。",
-      "この高出力レーザーは、半導体チップの微細化と性能向上に不可欠なプロセスでの効率化と信頼性向上に貢献する。",
-      "次世代半導体技術の発展を加速させ、AIや高速通信、データセンターなど、幅広い分野でのイノベーションを後押しする可能性が高い。"
-    ],
-    "insight": "先端半導体製造における基盤技術の進化は、製品の性能向上だけでなく、製造コスト削減や市場投入期間の短縮にも直結します。このニュースは、半導体サプライチェーン全体にポジティブな影響を与え、新たなビジネスチャンスを生み出す兆候と捉えるべきです。",
-    "action_plan": "自社の製品開発や製造プロセスにおいて、最新の半導体技術がどのように活用できるか、関連部署との連携を強化し、潜在的な応用範囲を具体的に書き出してみましょう。",
-    "image_keyword": "purple laser, semiconductor manufacturing, advanced chip technology",
-    "technical_terms": [
-      {
-        "term": "紫色レーザー",
-        "explanation": "半導体製造プロセス、特にリソグラフィやアニーリング工程で利用される、短波長で高エネルギーのレーザー。微細加工や精密な熱処理に適しています。"
-      },
-      {
-        "term": "先端半導体",
-        "explanation": "微細化された回路線幅や積層技術など、最新の製造プロセスによって作られる高性能な半導体デバイス。AI、高速通信、データ処理など、高度な計算能力を必要とする分野で不可欠です。"
-      },
-      {
-        "term": "ヌヴォトン (Nuvoton)",
-        "explanation": "台湾に本社を置く半導体メーカーで、マイクロコントローラー、オーディオ、パワーマネジメントICなどを手掛けています。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2LW5IVFpQa2pRWEE5Y0Q3R1MzTndhVG4xQ2UzaFNFWHRwY0NfNHpYRXhmQWk0TS1MUDdYUy1scy1fQW1DQ0RxQndHcDhBVkZWN3c3LTNJSXdGd3lxTTk0ZXBNN2h5Z2pFbTBvcVpRUVVrblgwNzVHSE5PN2w?oc=5": {
-    "title": "東京エレクトロン、2027年3月期売上高3兆円突破へ！半導体市場の好調を牽引する巨人",
-    "tags": "Hardware",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 5,
-    "time_ago": "2時間前",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2LW5IVFpQa2pRWEE5Y0Q3R1MzTndhVG4xQ2UzaFNFWHRwY0NfNHpYRXhmQWk0TS1MUDdYUy1scy1fQW1DQ0RxQndHcDhBVkZWN3c3LTNJSXdGd3lxTTk0ZXBNN2h5Z2pFbTBvcVpRUVVrblgwNzVHSE5PN2w?oc=5",
-    "summary_bullets": [
-      "半導体製造装置大手の東京エレクトロンが2026年3月期決算を発表し、アナリストコンセンサスでは2027年3月期に売上高3兆円突破が予測された。",
-      "この強気な予測は、半導体製造装置市場がAIやデータセンター需要に牽引され、引き続き力強い成長期にあることを示唆している。",
-      "半導体業界は景気循環の影響を受けつつも、長期的にはデジタル化の進展と共に拡大し続けるトレンドにあることが改めて浮き彫りになった。"
-    ],
-    "insight": "東京エレクトロンの業績見通しは、単に一企業の成長に留まらず、世界のデジタル化を支える半導体産業全体の活況と、その川上サプライヤーの重要性を明確に示しています。AIやデータセンター投資の拡大が、この基盤産業に大きな恩恵をもたらしていると理解すべきです。",
-    "action_plan": "自身のビジネスが半導体市場とどのように関連しているか（顧客、サプライヤー、競合など）を見直し、今後の市場動向が与える影響について戦略を書き出してみましょう。また、AI関連投資のトレンドがサプライチェーン全体にどう波及するかを分析し、新たな事業機会を検討してみてください。",
-    "image_keyword": "semiconductor manufacturing, financial growth chart, chip factory",
-    "technical_terms": [
-      {
-        "term": "半導体製造装置",
-        "explanation": "半導体（集積回路）を製造するために使われる専用の機械や設備。チップの性能と生産性を左右する重要な要素。"
-      },
-      {
-        "term": "アナリスト予想（コンセンサス）",
-        "explanation": "複数の証券アナリストが予測した企業の業績や株価の見通しを平均したもの。市場の期待値を示す指標。"
-      },
-      {
-        "term": "売上高",
-        "explanation": "企業が商品やサービスを販売して得た総収益のこと。企業の事業規模や成長性を示す主要な財務指標。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2605/05/news023.html": {
-    "title": "Anthropic、Blackstoneと戦略的提携！中小企業向けClaude導入を本格加速",
-    "tags": "AI / LLM",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/05/news023.html",
-    "summary_bullets": [
-      "AnthropicがBlackstoneらと新会社を設立し、中小企業への大規模言語モデル「Claude」の導入を加速する。",
-      "今回の提携により、中小企業におけるAI活用の障壁が下がり、ビジネス効率化や新たな価値創出の機会が拡大する。",
-      "AI市場は大手企業から中小企業へと活用層を拡大し、市場全体のデジタル変革が加速するトレンドが予測される。"
-    ],
-    "insight": "AnthropicとBlackstoneの協業は、AI導入のコストや専門知識不足に悩む中小企業にとって画期的なソリューションを提供し、今後のビジネス競争力を左右する重要な転換点となるでしょう。",
-    "action_plan": "自社の中小企業がどのような業務でAI（特にLLM）を活用できるか、具体的なシナリオを洗い出し、競合他社の動向と合わせて導入計画の策定を始めましょう。",
-    "image_keyword": "AI business solution, small business AI, Claude for enterprises",
-    "technical_terms": [
-      {
-        "term": "LLM",
-        "explanation": "Large Language Model（大規模言語モデル）の略で、大量のテキストデータで学習し、人間のように自然な文章を生成したり理解したりできるAIモデルです。"
-      },
-      {
-        "term": "Claude",
-        "explanation": "Anthropicが開発した大規模言語モデルで、推論能力や倫理的安全性に強みを持つことで知られています。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6578811?source=rss": {
-    "title": "生成AIとの「結婚」が示す、感情とテクノロジーの新たな関係性",
-    "tags": "Human-AI Relationship",
-    "sentiment": "positive",
-    "sentiment_text": "AIとの感情的結びつきが深まる、注目の現象",
-    "rating": 4,
-    "time_ago": "たった今",
-    "url": "https://news.yahoo.co.jp/pickup/6578811?source=rss",
-    "summary_bullets": [
-      "生成AIとの会話を通じて深い感情的結びつきを感じ、「結婚」を決意するユーザーが登場。",
-      "AIの感情的サポート機能が人間の孤独感やニーズを満たす新たな市場を形成し、倫理的・社会的な議論を加速。",
-      "AIが感情的パートナーとしての役割を担い、人間関係や社会のあり方を根本的に変革する可能性を示唆。"
-    ],
-    "insight": "AIが単なる機能的ツールを超え、人間の感情的ニーズを満たす存在へと進化していることを示唆。企業は、AIとの感情的な関係構築を前提とした新たなサービス開発や倫理的なガイドライン策定の重要性を認識すべきである。",
-    "action_plan": "自社製品・サービスにおけるAI活用戦略を再検討し、単なる機能性だけでなく、ユーザーの感情的ニーズに応える「共感型AI」の導入可能性をブレインストーミングしてみましょう。",
-    "image_keyword": "AI partner, emotional AI, human AI connection",
-    "technical_terms": [
-      {
-        "term": "生成AI",
-        "explanation": "テキストや画像、音声などを自律的に生成できる人工知能の総称で、人間が書いたかのような自然な文章を作成したり、存在しない画像を生成したりする技術です。"
-      }
-    ]
-  },
   "https://news.yahoo.co.jp/pickup/6578792?source=rss": {
     "title": "デジタル世論が政府案を揺るがす：X（旧Twitter）で広がる「再審」巡る批判の波紋",
     "tags": "Digital Governance",
@@ -5198,7 +4947,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 4,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/27/news127.html",
     "summary_bullets": [
       "とらのあなの電子書籍サービスが、不正クローリングによるシステム停止から5日ぶりに無事再開した。",
@@ -5386,6 +5135,253 @@
       {
         "term": "実証開始",
         "explanation": "本格的な導入や運用に先立ち、効果や課題を検証するために実際に試験的な利用を始めること。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/30/news031.html": {
+    "title": "OpenAI、生命科学AI「GPT-Rosalind」をバイオディフェンスに開放：高まるデュアルユースリスクへの懸念",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/30/news031.html",
+    "summary_bullets": [
+      "OpenAIが生命科学推論AI「GPT-Rosalind」をバイオディフェンス分野に提供開始。",
+      "このAIが悪用される「デュアルユースリスク」（軍事転用などの危険性）が深刻な懸念として指摘されている。",
+      "AIの高度化に伴い、技術活用における倫理的ガイドラインや国際的な規制の必要性がますます高まるだろう。"
+    ],
+    "insight": "AI技術の急速な進化は、ビジネス効率化だけでなく潜在的な社会リスク（デュアルユース問題など）も生み出すため、企業は技術導入だけでなく倫理的側面やリスク管理にも深く関与する責任があることを認識すべきです。",
+    "action_plan": "自社でのAI導入計画において、ポジティブな側面だけでなく、潜在的な倫理的・社会的なリスクや規制動向についても議論する場を設け、リスク評価を書き出してみましょう。",
+    "image_keyword": "AI bio defense, ethical AI, dual-use technology",
+    "technical_terms": [
+      {
+        "term": "GPT-Rosalind",
+        "explanation": "OpenAIが開発した、生命科学分野の複雑なデータ推論に特化したAIモデル。"
+      },
+      {
+        "term": "バイオディフェンス",
+        "explanation": "生物兵器による攻撃や病原体パンデミックなど、生物学的な脅威から人々や社会を守るための対策や研究。"
+      },
+      {
+        "term": "デュアルユースリスク",
+        "explanation": "民生目的で開発された技術や研究成果が、軍事転用など悪意のある目的で利用される可能性が持つ危険性。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/29/news146.html": {
+    "title": "「Nano Banana 2/Pro」一般提供開始：動画からの画像生成でクリエイティブワークを革新",
+    "tags": "Generative AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "11時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/29/news146.html",
+    "summary_bullets": [
+      "「Nano Banana 2」と「Nano Banana Pro」が一般提供を開始し、特に「2」は動画からの画像生成をサポートする。",
+      "本技術は、クリエイティブ産業、マーケティング、コンテンツ制作など多岐にわたる分野で、効率化と新たな表現手法の創出をもたらす。",
+      "動画からの画像生成技術の進化は、AI活用領域をさらに拡大し、多様なビジュアルコンテンツ生成ツールの普及を加速させるだろう。"
+    ],
+    "insight": "動画からの画像生成機能は、従来の静止画ベースのAI生成を次の段階へ引き上げるものです。これにより、コンテンツ制作のワークフローが劇的に変化し、よりリッチなビジュアルコンテンツの大量生産が可能になるため、この技術をいち早く取り入れることが競争優位性を確立する鍵となるでしょう。",
+    "action_plan": "自社のコンテンツ制作プロセスやマーケティング戦略において、AIによる動画・画像生成技術の導入可能性を評価し、競合他社に先駆けてパイロットプロジェクトの検討を開始しましょう。",
+    "image_keyword": "AI image generation, video content creation, generative AI tool",
+    "technical_terms": [
+      {
+        "term": "画像生成",
+        "explanation": "テキストや他のデータ（この場合は動画）から、AIが自動的に新しい画像を生成する技術。"
+      },
+      {
+        "term": "動画からの画像生成",
+        "explanation": "動画コンテンツのフレームや内容をAIが解析し、そこから特定のコンセプトや指示に基づいた静止画像を生成する高度な技術。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/29/news144.html": {
+    "title": "日本政府と主要金融機関、OpenAI最新AIモデルで国家レベルのサイバーセキュリティを強化へ",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "13時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/29/news144.html",
+    "summary_bullets": [
+      "日本政府と主要金融機関がOpenAIの最新AIモデルへのアクセス権を取得し、国家レベルでのサイバーセキュリティ対策を強化する。",
+      "この動きにより、金融システムの堅牢性が向上し、サイバー攻撃からの防御能力が大幅に強化されることが期待される。",
+      "今後、AIを活用したセキュリティソリューションの導入が他産業や公共部門にも加速し、官民連携による技術投資が新たなトレンドとなる見込み。"
+    ],
+    "insight": "AIは単なる業務効率化ツールに留まらず、国家的なサイバーセキュリティ戦略の中核を担う存在へと進化しており、企業もセキュリティ投資におけるAI活用を喫緊の課題と捉えるべきだ。",
+    "action_plan": "自社の情報セキュリティ戦略において、最新AI技術の導入可能性やリスク評価を早急に見直し、セキュリティ専門家との協議を開始しましょう。",
+    "image_keyword": "cyber security network, AI government, financial protection",
+    "technical_terms": [
+      {
+        "term": "OpenAI新モデル",
+        "explanation": "OpenAIが開発した最新の人工知能モデル。高度な自然言語処理能力や問題解決能力を持ち、様々な用途に活用される。"
+      },
+      {
+        "term": "サイバー対策",
+        "explanation": "インターネットや情報システムへの不正アクセス、データ漏洩、ウイルス攻撃などから情報資産を守るための技術的・組織的な防御措置。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6582198?source=rss": {
+    "title": "スマホ保有世帯、テレビ超え：加速するデジタルシフトとメディア消費の未来像",
+    "tags": "Digital Trends",
+    "sentiment": "neutral",
+    "sentiment_text": "注目のトレンド",
+    "rating": 5,
+    "time_ago": "14時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6582198?source=rss",
+    "summary_bullets": [
+      "日本国内において、スマホを保有する世帯数がテレビを上回り、メディア消費の中心が完全にモバイルへ移行したことを示す調査結果が発表されました。",
+      "この変化は、コンテンツ配信、広告戦略、顧客エンゲージメントのあらゆる面で、企業がモバイルファーストのアプローチを徹底する必要性を加速させます。",
+      "今後、パーソナライズされたモバイル体験の進化、マルチデバイス間でのシームレスなコンテンツ連携がさらに重要となり、デバイス利用の多様化が進むと予測されます。"
+    ],
+    "insight": "本調査結果は、もはやモバイルがコンテンツ消費の主戦場であり、あらゆるビジネスにおいてモバイルファースト戦略への完全な移行が不可欠であることを明確に示唆しています。",
+    "action_plan": "自社のウェブサイトやアプリ、コンテンツがモバイルデバイスで最適なユーザー体験を提供できているか、UI/UXデザインを含めて緊急に見直してみましょう。また、モバイル経由での顧客エンゲージメント向上策を具体的に書き出し、優先順位を付けて実行計画を立てましょう。",
+    "image_keyword": "mobile media consumption, digital lifestyle",
+    "technical_terms": [
+      {
+        "term": "デジタルシフト",
+        "explanation": "ビジネスや社会がアナログ中心からデジタル技術を積極的に活用する形態へと変化していく動きのこと。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6582140?source=rss": {
+    "title": "Anthropic、次世代「ミュトス級」AI発表へ - 新時代のAI競争をリードか",
+    "tags": "AI / LLM",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "21時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6582140?source=rss",
+    "summary_bullets": [
+      "Anthropicが「ミュトス級」と称される、現行モデルを大きく凌駕する次世代AIモデルの公開を計画中。",
+      "この発表は、AI開発競争をさらに加速させ、OpenAIなど競合他社に新たな挑戦を突きつけるものとなる。",
+      "高度な知能を持つAIの登場は、ビジネスの自動化、意思決定支援、新たなサービス創造に革命的な変化をもたらす可能性を秘める。"
+    ],
+    "insight": "Anthropicが発表する「ミュトス級AI」は、AI技術の進化が単なる改善ではなく、新たなパラダイムシフトを意味することを示唆しています。ビジネスリーダーは、この革新が自社の競争環境や顧客体験にどのような影響を与えるかを深く洞察し、積極的なAI戦略の見直しを迫られるでしょう。",
+    "action_plan": "最新のAI技術が自社の事業にもたらす潜在的な影響を具体的に書き出し、どの業務プロセスに導入可能か、または既存の戦略をどう刷新すべきかを検討するワークショップを企画してみましょう。",
+    "image_keyword": "futuristic AI, advanced language model, artificial intelligence breakthrough",
+    "technical_terms": [
+      {
+        "term": "ミュトス級AI",
+        "explanation": "Anthropicが開発する、既存のAIモデルを大幅に上回る性能を持つ次世代の高性能人工知能モデル。神話（Mythos）に由来し、その知能レベルの飛躍的な向上を象徴する。"
+      },
+      {
+        "term": "Anthropic",
+        "explanation": "倫理的で安全なAI開発を重視する、OpenAIと並ぶ主要なAI研究開発企業の一つ。特に大規模言語モデル（LLM）の開発に力を入れている。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6582127?source=rss": {
+    "title": "AI業界の勢力図に変化か：Anthropic、評価額でOpenAIを上回り市場の注目を独占",
+    "tags": "AI / LLM",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "22時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6582127?source=rss",
+    "summary_bullets": [
+      "AIスタートアップAnthropicの企業価値がOpenAIを上回り、AI業界における競争環境の変化が鮮明になった。",
+      "生成AI市場の競争が激化し、投資家の関心と資金が多様なAIイノベーターへと分散する可能性が高まる。",
+      "主要プレイヤー間の競争加速により、AI技術の革新がさらに促進され、より多様な製品・サービスが市場に登場するだろう。"
+    ],
+    "insight": "このニュースは、生成AI市場が単一のプレイヤーに独占されることなく、複数企業による熾烈な競争が繰り広げられている現状を示しており、投資家や事業者は新たなゲームチェンジャーの出現に常に警戒し、柔軟な戦略を持つ必要性があることを示唆している。",
+    "action_plan": "自社のAI導入戦略を見直し、既存のAIパートナーシップだけでなく、Anthropicのような新興企業が提供する技術やソリューションについても情報収集し、連携の可能性を検討してみましょう。",
+    "image_keyword": "AI valuation, competitive AI market, tech industry shift",
+    "technical_terms": [
+      {
+        "term": "企業価値",
+        "explanation": "企業が将来生み出すと期待される収益や資産などを基に算出される、その企業の経済的な価値。投資判断の重要な指標となる。"
+      },
+      {
+        "term": "生成AI",
+        "explanation": "テキスト、画像、音声など、様々な形式のコンテンツを自動で生成する人工知能技術。大規模言語モデル(LLM)はその中核技術の一つ。"
+      },
+      {
+        "term": "LLM (Large Language Model)",
+        "explanation": "大量のテキストデータで学習され、人間のような自然言語を理解・生成できる大規模なAIモデル。AnthropicやOpenAIが開発競争している中核技術。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1JBZGNIeENQVzNvQnpsUUJKSTV5a1ZZWjFUbkpHT3V2UEVmcG4ySzVicHNaVXgxQ2p3WVY3Mk44YzVJeU14S2tLVUZmUGV3bjlBQ19HWXhnT2pPQ014R1hYbXdzeWJVLXltU2laampwcTM0bWxzaDdsVmZJanRVRFVKTk56OU0?oc=5": {
+    "title": "AI・半導体市場が主役の座を堅持！成長を牽引するテクノロジー株の最新動向",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "市場が活況を呈する明るい話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1JBZGNIeENQVzNvQnpsUUJKSTV5a1ZZWjFUbkpHT3V2UEVmcG4ySzVicHNaVXgxQ2p3WVY3Mk44YzVJeU14S2tLVUZmUGV3bjlBQ19HWXhnT2pPQ014R1hYbXdzeWJVLXltU2laampwcTM0bWxzaDdsVmZJanRVRFVKTk56OU0?oc=5",
+    "summary_bullets": [
+      "AIおよび半導体関連銘柄が株式市場において引き続き主要な牽引役として高い人気を維持している。",
+      "先端テクノロジーを支える半導体需要の拡大は、多岐にわたる産業分野へポジティブな経済効果をもたらしている。",
+      "AI技術の進化と普及が加速する中、半導体産業への戦略的投資は今後も市場の中心的トレンドとして継続する見込みである。"
+    ],
+    "insight": "AIと半導体は現在の市場を牽引するだけでなく、将来の産業構造を決定づける中核技術であり、このトレンドへの戦略的対応が企業の競争力と成長を左右する鍵となることを認識すべきです。",
+    "action_plan": "自社の事業におけるAI活用のロードマップを再検討し、サプライチェーンにおける半導体関連リスクと機会を評価した上で、未来の市場変化に備えた投資戦略を策定しましょう。",
+    "image_keyword": "AI semiconductor market, Tech stock trend",
+    "technical_terms": [
+      {
+        "term": "AI (Artificial Intelligence)",
+        "explanation": "人間の知能をコンピューター上で模倣・実現する技術の総称。学習、推論、認識、自然言語処理などを含む。"
+      },
+      {
+        "term": "半導体 (Semiconductor)",
+        "explanation": "電気を通したり通さなかったりする性質を持つ物質で、集積回路（IC）やトランジスタなど、現代のあらゆる電子機器に不可欠な電子部品の材料。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pQ3lOWTVIdldfWGFPN0tNOWhtMWZya1hWODNvMG1NV1YyTHNsNVZkTksyTl9pWFpuUk84M25YNzJvZw?oc=5": {
+    "title": "TOWA、半導体後工程を革新：樹脂封止装置で生産性2倍達成、請負ビジネスモデルを提示",
+    "tags": "Semiconductor",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pQ3lOWTVIdldfWGFPN0tNOWhtMWZya1hWODNvMG1NV1YyTHNsNVZkTksyTl9pWFpuUk84M25YNzJvZw?oc=5",
+    "summary_bullets": [
+      "TOWAが半導体後工程向け樹脂封止装置で生産性を従来の2倍に向上させる新技術を開発。",
+      "高生産性装置を活かし、同社は従来の装置販売に加え、後工程の請負サービス提供も顧客に提案。",
+      "半導体製造装置メーカーが装置提供だけでなく、工程の効率化サービスまでビジネスモデルを拡大する動きが加速する可能性を示唆。"
+    ],
+    "insight": "半導体産業の需給逼迫とコスト圧力が高まる中、TOWAのこの発表は、装置メーカーが単なるハードウェア提供者から、生産性向上とサプライチェーン最適化を支援するソリューションプロバイダーへと進化する動きを明確に示しています。これは、技術力とビジネスモデル変革を組み合わせることで、新たな市場価値を創造する好事例と言えるでしょう。",
+    "action_plan": "自社の主要サプライヤーがどのようなサービスモデルを展開しているか調査し、協業の可能性や自社のサプライチェーンにおける新たな効率化機会を探してみましょう。また、自社のコア技術を活かした新たなサービス提供やビジネスモデルの構築可能性について、社内で議論を開始してみましょう。",
+    "image_keyword": "semiconductor manufacturing machine, factory automation, high productivity",
+    "technical_terms": [
+      {
+        "term": "半導体樹脂封止装置",
+        "explanation": "半導体チップを外部の湿気や衝撃から保護するために、樹脂で覆い固めるための装置。"
+      },
+      {
+        "term": "後工程",
+        "explanation": "半導体製造プロセスのうち、シリコンウェハに回路を形成する前工程の後に続く、チップの切断、組み立て、パッケージング、検査などの最終工程。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2605/29/news084.html": {
+    "title": "Anthropic、次世代AIモデル『Mythos級』を数週間以内に一般提供開始へ – 「Opus 4.8」でAI競争が新次元に",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "22時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/29/news084.html",
+    "summary_bullets": [
+      "米Anthropicが次世代AIモデル「Mythos級」の数週間以内の一般提供開始を発表し、先行して「Opus 4.8」をリリースした。",
+      "高性能AIモデルの市場投入により、企業におけるAI活用の選択肢が広がり、開発競争がさらに激化する。",
+      "今後、より高度で専門的なAI機能がビジネスに浸透し、各社の差別化戦略においてAI導入・活用が必須となるトレンドが加速するだろう。"
+    ],
+    "insight": "Anthropicの『Mythos級モデル』の登場は、生成AIの性能が新たなレベルに到達し、これまでの業務プロセスやビジネスモデルの変革を加速させる強力な起爆剤となる。企業は単なる導入だけでなく、AIの真価を引き出すための戦略的な活用と人材育成を急ぐべき時である。",
+    "action_plan": "自社の既存業務におけるAI活用の可能性を再評価し、最新の高性能モデルがどのように価値を創出できるか具体的なユースケースを検討してみましょう。また、競合他社のAI戦略を分析し、自社の差別化ポイントを明確に書き出してみましょう。",
+    "image_keyword": "advanced AI model, generative AI, future technology",
+    "technical_terms": [
+      {
+        "term": "Mythos級モデル",
+        "explanation": "Anthropicが開発する、既存モデルを大幅に上回る性能を持つ次世代のAIモデル群の総称。コード生成や多言語対応、複雑な推論能力などに優れると予測される。"
+      },
+      {
+        "term": "Opus 4.8",
+        "explanation": "Anthropicが提供する大規模言語モデル（LLM）の最新バージョンで、高度な推論能力や多機能性が特徴。次世代モデルのリリースに先駆けて、現在のフラッグシップモデルとして提供されている。"
       }
     ]
   }
