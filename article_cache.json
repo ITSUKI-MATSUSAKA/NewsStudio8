@@ -1,134 +1,4 @@
 {
-  "https://news.yahoo.co.jp/pickup/6578792?source=rss": {
-    "title": "デジタル世論が政府案を揺るがす：X（旧Twitter）で広がる「再審」巡る批判の波紋",
-    "tags": "Digital Governance",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 4,
-    "time_ago": "9時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6578792?source=rss",
-    "summary_bullets": [
-      "政府が検討する再審に関する新法案に対し、ソーシャルメディアX（旧Twitter）上で強い批判と懸念の声が急速に拡散している。",
-      "デジタルプラットフォームが、政府の政策決定プロセスや社会全体における世論形成に極めて大きな影響力を持つことを改めて示唆している。",
-      "今後もSNSを通じた市民の意見表明や情報拡散が、政策立案や企業の社会対応における主要なファクターとして重要性を増すことが予測される。"
-    ],
-    "insight": "デジタル社会において、政策や企業活動に関する世論はSNS上で瞬時に形成・拡散され、その影響力は無視できないため、常に社会の動向を監視し、透明性のあるコミュニケーション戦略を構築する重要性が高まっています。",
-    "action_plan": "自社が関わる政策動向や社会課題について、主要なSNSプラットフォーム上での世論を定期的にモニタリングする体制を確立し、潜在的なリスクと機会を洗い出してみましょう。",
-    "image_keyword": "social media public opinion, X platform debate, digital governance protest",
-    "technical_terms": [
-      {
-        "term": "X（旧Twitter）",
-        "explanation": "従来のTwitterから名称変更された、世界中で利用されるマイクロブログおよびソーシャルネットワーキングサービス。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6578724?source=rss": {
-    "title": "若者のSNS行動変容：匿名投稿の背景にある心理とデジタル社会の新たな潮流",
-    "tags": "Digital Trends",
-    "sentiment": "neutral",
-    "sentiment_text": "注目の話題",
-    "rating": 4,
-    "time_ago": "17時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6578724?source=rss",
-    "summary_bullets": [
-      "若者の間で顔を見せないSNS投稿が増加しており、プライバシー意識の高まりと現実世界とのバランスを求める心理が背景にある。",
-      "企業はSNSマーケティングやブランディング戦略において、若年層の匿名志向とデジタルアイデンティティへの価値観変容を深く理解する必要がある。",
-      "今後のSNSは、よりパーソナルなコミュニティや匿名性の高い表現の場へと進化し、ユーザーは複数のアイデンティティを使い分ける傾向が強まるだろう。"
-    ],
-    "insight": "若年層のSNS行動変容は、単なる流行ではなくデジタル社会における自己表現とプライバシー保護のバランスを模索する深層心理の表れであり、ビジネスは彼らの価値観を理解した上でコミュニケーション戦略を再構築する必要があります。",
-    "action_plan": "自社のターゲット層、特に若年層のSNS利用実態について、匿名性やプライバシー意識に関する現状分析とヒアリングを実施し、マーケティング戦略やデジタルプロダクト開発への反映を検討してみましょう。",
-    "image_keyword": "anonymous social media, youth digital privacy, faceless online identity",
-    "technical_terms": []
-  },
-  "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzJ0S1Q1RlFoZEFGMnk4TkF0Y0VxWF91TW1WMDJmX1VNVG9rUGNyOXplTXNQUVVSbVpuWFpnTVE3LUlxNzNrV0hxaWdraXJrT1N4ejByY1JYUG9vNXM2Vm5ibGEzQ2pSYnVsX0dzY1NjZmlqVEVWUFl5eWoxdC1TcHZJVi1mVmdtNDJURm95cGozMzdwWHc?oc=5": {
-    "title": "アマゾン、AIチップ市場へ本格参入か？Nvidiaとの直接競合が示唆する半導体新時代の幕開け",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzJ0S1Q1RlFoZEFGMnk4TkF0Y0VxWF91TW1WMDJmX1VNVG9rUGNyOXplTXNQUVVSbVpuWFpnTVE3LUlxNzNrV0hxaWdraXJrT1N4ejByY1JYUG9vNXM2Vm5ibGEzQ2pSYnVsX0dzY1NjZmlqVEVWUFl5eWoxdC1TcHZJVi1mVmdtNDJURm95cGozMzdwWHc?oc=5",
-    "summary_bullets": [
-      "アマゾンが自社開発のAIチップをクラウドサービス提供だけでなく、外部製品として販売する可能性を示唆した。",
-      "これはNvidiaのような既存の半導体大手と直接競合することを示し、AIチップ市場の勢力図を大きく変える可能性がある。",
-      "クラウドプロバイダーによるAIインフラの垂直統合化が加速し、半導体サプライチェーンの新たな再編が予測される。"
-    ],
-    "insight": "アマゾンのこの戦略転換は、AI技術の核となる半導体確保がビジネスにおける競争優位性の源泉となりつつあることを明確に示しており、今後あらゆる産業でAIインフラの自社開発・垂直統合が進む可能性を洞察できます。",
-    "action_plan": "自社が依存しているクラウドサービスプロバイダーのAIチップ戦略を再確認し、将来的なコスト構造や技術的選択肢の変化に備え、代替案の検討を今日から開始しましょう。",
-    "image_keyword": "Amazon AI chip, Nvidia competition, semiconductor market",
-    "technical_terms": [
-      {
-        "term": "AIチップ",
-        "explanation": "人工知能（AI）の計算処理に特化して設計された半導体で、データ処理を高速化し効率を高めます。"
-      },
-      {
-        "term": "Nvidia",
-        "explanation": "グラフィック処理ユニット（GPU）の開発で知られる世界的な半導体企業で、AI・機械学習分野で圧倒的な市場シェアを持っています。"
-      },
-      {
-        "term": "垂直統合",
-        "explanation": "企業が製品やサービスの企画、開発、製造、販売といった一連のプロセスを自社グループ内で一貫して行うビジネス戦略です。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiREFVX3lxTE16SlJPVDZFRnRzbXVvQTBaVUc2eDlvekphVUx1SEM3dmxSZ3JKZ3llUXFRRDZRUzIwSlJGNWx1dnRFbV9I?oc=5": {
-    "title": "半導体後工程にAI革命：アムコー韓国工場に見るスマート生産の新潮流",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE16SlJPVDZFRnRzbXVvQTBaVUc2eDlvekphVUx1SEM3dmxSZ3JKZ3llUXFRRDZRUzIwSlJGNWx1dnRFbV9I?oc=5",
-    "summary_bullets": [
-      "米半導体パッケージング受託大手アムコーが、韓国工場をAIを活用した生産体制に転換している。",
-      "これは半導体製造における「後工程」の効率化と再編を促し、グローバルサプライチェーンに大きな影響を与える。",
-      "AIによる生産最適化は、半導体産業における新たな標準となり、競争力維持の鍵となるトレンドを示唆している。"
-    ],
-    "insight": "半導体製造の後工程におけるAI導入は、単なる効率化に留まらず、産業全体の競争地図を塗り替える可能性を秘めています。この動きは、製造業におけるAI活用の緊急性と重要性を改めて浮き彫りにしています。",
-    "action_plan": "自社の製造プロセスにおけるAI導入のロードマップを再検討し、特にサプライチェーンのボトルネック解消や品質向上にAIがどう貢献できるか具体的な施策を立案しましょう。",
-    "image_keyword": "AI semiconductor factory, automated chip packaging, smart manufacturing plant",
-    "technical_terms": [
-      {
-        "term": "半導体パッケージング",
-        "explanation": "製造された半導体チップを外部環境から保護し、他の電子部品との電気的接続を可能にするための最終的な包装工程。"
-      },
-      {
-        "term": "後工程",
-        "explanation": "半導体製造プロセスにおいて、シリコンウェーハに回路が形成された後、ウェーハの分割、個々のチップのパッケージング、最終的なテストを行う段階。"
-      },
-      {
-        "term": "アムコー(Amkor)",
-        "explanation": "世界有数の半導体パッケージングおよびテスト受託サービスプロバイダ。世界中の主要な半導体メーカーにサービスを提供している。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tdmZ3aGpNNzRvSGs0WUhaZTBPV2tNeXd6R09fWDhPVkVjLVpCdTBNUjdiWlpOWnQyQU1DeUctU0xfaFQ3V2R6aXcxM1ZfYWFfTURxM2F5bGw3TERZT2c?oc=5": {
-    "title": "2030年を勝ち抜く戦略！業界人が示す『半導体・AI時代の未来地図』厳選6冊",
-    "tags": "Future Tech",
-    "sentiment": "positive",
-    "sentiment_text": "未来へのヒント",
-    "rating": 5,
-    "time_ago": "1時間前",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tdmZ3aGpNNzRvSGs0WUhaZTBPV2tNeXd6R09fWDhPVkVjLVpCdTBNUjdiWlpOWnQyQU1DeUctU0xfaFQ3V2R6aXcxM1ZfYWFfTURxM2F5bGw3TERZT2c?oc=5",
-    "summary_bullets": [
-      "半導体からAIの深層まで、2030年の未来を生き抜くための視点を提供する業界人厳選の書籍6冊が公開。",
-      "未来のテクノロジー動向を深く理解し、ビジネス戦略やキャリア形成に不可欠な羅針盤となる情報が提供される。",
-      "AIと半導体の進化が加速する中、これらの専門知識は個人や企業の競争力を左右する重要な鍵となることが示唆される。"
-    ],
-    "insight": "AIや半導体技術の進化は不可避であり、これらを深く理解することは、来るべき2030年代のビジネス環境において競争優位性を確立するための必須条件である。",
-    "action_plan": "紹介された書籍リストを確認し、自身の専門分野や関心に応じて、未来のトレンドを学ぶべき一冊を選定し、今日から読み始めてみましょう。",
-    "image_keyword": "AI Semiconductor Future",
-    "technical_terms": [
-      {
-        "term": "半導体",
-        "explanation": "コンピューターや電子機器の頭脳となる、電気を通したり通さなかったりする性質を持つ材料や部品のことです。"
-      },
-      {
-        "term": "AI (人工知能)",
-        "explanation": "人間の知的なふるまい（学習、推論、認識など）をコンピューター上で再現しようとする技術やシステムのことです。"
-      }
-    ]
-  },
   "https://www.itmedia.co.jp/aiplus/articles/2605/06/news022.html": {
     "title": "信頼と透明性を再定義：OpenAI、新基盤モデル『GPT-5.5 Instant』で回答根拠のユーザー管理を実現",
     "tags": "AI / LLM",
@@ -4947,7 +4817,7 @@
     "sentiment": "positive",
     "sentiment_text": "明るい話題",
     "rating": 4,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/27/news127.html",
     "summary_bullets": [
       "とらのあなの電子書籍サービスが、不正クローリングによるシステム停止から5日ぶりに無事再開した。",
@@ -5144,7 +5014,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "1時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/30/news031.html",
     "summary_bullets": [
       "OpenAIが生命科学推論AI「GPT-Rosalind」をバイオディフェンス分野に提供開始。",
@@ -5175,7 +5045,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 4,
-    "time_ago": "11時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/29/news146.html",
     "summary_bullets": [
       "「Nano Banana 2」と「Nano Banana Pro」が一般提供を開始し、特に「2」は動画からの画像生成をサポートする。",
@@ -5202,7 +5072,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "13時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/29/news144.html",
     "summary_bullets": [
       "日本政府と主要金融機関がOpenAIの最新AIモデルへのアクセス権を取得し、国家レベルでのサイバーセキュリティ対策を強化する。",
@@ -5229,7 +5099,7 @@
     "sentiment": "neutral",
     "sentiment_text": "注目のトレンド",
     "rating": 5,
-    "time_ago": "14時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6582198?source=rss",
     "summary_bullets": [
       "日本国内において、スマホを保有する世帯数がテレビを上回り、メディア消費の中心が完全にモバイルへ移行したことを示す調査結果が発表されました。",
@@ -5364,7 +5234,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "22時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2605/29/news084.html",
     "summary_bullets": [
       "米Anthropicが次世代AIモデル「Mythos級」の数週間以内の一般提供開始を発表し、先行して「Opus 4.8」をリリースした。",
@@ -5384,5 +5254,126 @@
         "explanation": "Anthropicが提供する大規模言語モデル（LLM）の最新バージョンで、高度な推論能力や多機能性が特徴。次世代モデルのリリースに先駆けて、現在のフラッグシップモデルとして提供されている。"
       }
     ]
+  },
+  "https://news.yahoo.co.jp/pickup/6582326?source=rss": {
+    "title": "首相のX（旧Twitter）活用戦略：公務速報がもたらす新たな情報伝達の波紋",
+    "tags": "Public Relations",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "12時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6582326?source=rss",
+    "summary_bullets": [
+      "首相が公務の速報をX（旧Twitter）で発信し、政府の情報伝達におけるSNS活用が話題となっている。",
+      "政府の情報公開の即時性と透明性が向上し、国民との直接的なコミュニケーションが促進される可能性がある。",
+      "今後、公的機関によるSNSを通じた情報発信がさらに活発化し、メディアの役割や情報消費のスタイルに変化をもたらす予測される。"
+    ],
+    "insight": "公的機関ですらリアルタイムの情報発信にXを活用している現状は、あらゆる組織がステークホルダーとの直接的なコミュニケーション戦略を再考し、デジタルチャネルの最適化を図る必要性を示唆しています。",
+    "action_plan": "自社の情報発信戦略において、X（旧Twitter）のような即時性のあるSNSをどのように活用できるか、競合他社や業界リーダーの事例を含めて分析し、具体的なプランを書き出してみましょう。",
+    "image_keyword": "prime minister X, government social media, digital communication",
+    "technical_terms": [
+      {
+        "term": "X",
+        "explanation": "旧Twitter。イーロン・マスク氏買収後、ブランド名が変更された主要なソーシャルメディアプラットフォーム。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6582252?source=rss": {
+    "title": "G7、SNS上の子ども保護で「共通原則」合意：デジタル社会の新たな安全基準か？",
+    "tags": "Policy & Regulation",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "23時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6582252?source=rss",
+    "summary_bullets": [
+      "G7がソーシャルネットワーキングサービス（SNS）上での子どもの保護を強化するため、「共通原則」に合意した。",
+      "この合意により、SNSプラットフォームは、世界中で子どもたちの安全を守るための具体的な対策や機能改善をより一層求められるようになる。",
+      "今後は各国での法制化や業界標準化が進み、デジタル時代のグローバルな子どもの安全保障における新たなフレームワークが形成されると予測される。"
+    ],
+    "insight": "デジタルサービスを提供する企業は、G7の合意が示すように、ユーザーの年齢に関わらず、特に子どものプライバシー保護や安全確保に対する倫理的・法的責任が今後一層強化されることを認識し、予防的なリスク管理と機能開発が不可欠となるでしょう。",
+    "action_plan": "自社が提供するデジタルサービスにおいて、子どもの利用が想定されるか否かに関わらず、既存のプライバシーポリシーや利用規約、コンテンツモデレーション体制を、最新の国際的な子どもの安全基準に照らして見直してみましょう。",
+    "image_keyword": "Children online safety, G7 digital policy, social media protection",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RblRxNDJ1ZWpKeFkyUjlKZjlUMWltajRfV3JxdVBrcmkzd0UtQ0tudWpQWWRDb21uNFFoXzVfZFR2UzlBRW4wYkYxeHhJQ0ZMQjF6bGZWZ2RyMGs1YnowaFhoNWdmaXJVV2VhZVd1cjl0ZDJnWHJ0d0EtZ3VYQTg?oc=5": {
+    "title": "中国製半導体への過度な依存が招く地政学的リスク：『半導体戦争』著者が警鐘を鳴らす",
+    "tags": "Hardware",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RblRxNDJ1ZWpKeFkyUjlKZjlUMWltajRfV3JxdVBrcmkzd0UtQ0tudWpQWWRDb21uNFFoXzVfZFR2UzlBRW4wYkYxeHhJQ0ZMQjF6bGZWZ2RyMGs1YnowaFhoNWdmaXJVV2VhZVd1cjl0ZDJnWHJ0d0EtZ3VYQTg?oc=5",
+    "summary_bullets": [
+      "『半導体戦争』の著者クリス・ミラーが、中国製半導体への過度な依存がもたらす潜在的なリスクを指摘。",
+      "半導体サプライチェーンにおける特定の国への集中は、地政学的緊張や経済的混乱が生じた際にビジネスと国家安全保障を脅かす。",
+      "今後、各国はサプライチェーンの強靭化と多様化、国内生産能力の強化を加速させるトレンドが予測される。"
+    ],
+    "insight": "現代ビジネスにおいて半導体は基盤であり、その調達における地政学的リスクは無視できません。企業はサプライチェーンの透明性を高め、特定地域への依存度を低減する戦略が不可欠です。",
+    "action_plan": "自社の製品における半導体の主要調達先を洗い出し、中国製半導体への依存度と代替調達の可能性について分析を始めましょう。",
+    "image_keyword": "semiconductor supply chain, geopolitical risk, chip dependency",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "情報処理や記憶を担う電子部品の総称。あらゆる電子機器に不可欠な基盤技術。"
+      },
+      {
+        "term": "サプライチェーン",
+        "explanation": "原材料の調達から製造、流通、販売を経て最終消費者に届くまでの、製品やサービスの供給網全体。"
+      },
+      {
+        "term": "地政学リスク",
+        "explanation": "地理的、政治的な要因が国際関係や経済活動に与える不確実性や脅威。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUGNLVFBKbzRsNmJIXzFKczZ2RGJVY0RXa2J2MGxwZkVTZ1BVaDNLM1dYeHVqVlhscldRT3k4dmlkekMtZm9tMFlYV0YwUFBrY20zcER2RWt6RGF2YWlzSmhtTFo1d09zdzZtcDUwWnRLZDMyRlpKb3laVm5EVjJrLUt30gGWAUFVX3lxTFAzaXRXMmdrZldtalF0Y3Y4czlBUTFNQU96aDBYM1JrNmZMeFJ4VmVsRVRsZVE4Vkl4NWJ0eXZSN25NemZlYTZmdkdsYUhJNUNBdWJQWjU1cXI4eXpCLWU5cVF4WmNZSnFFLTRvdDh4cUMzUEUtRnRUdVdGQk1RWXZnMXEtTWc4b2VjSUVmZFEzOURKemtpUQ?oc=5": {
+    "title": "ヘクサプロ、3Dキャパシタ量産で半導体大容量化を加速：次世代デバイスへの挑戦",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUGNLVFBKbzRsNmJIXzFKczZ2RGJVY0RXa2J2MGxwZkVTZ1BVaDNLM1dYeHVqVlhscldRT3k4dmlkekMtZm9tMFlYV0YwUFBrY20zcER2RWt6RGF2YWlzSmhtTFo1d09zdzZtcDUwWnRLZDMyRlpKb3laVm5EVjJrLUt30gGWAUFVX3lxTFAzaXRXMmdrZldtalF0Y3Y4czlBUTFNQU96aDBYM1JrNmZMeFJ4VmVsRVRsZVE4Vkl4NWJ0eXZSN25NemZlYTZmdkdsYUhJNUNBdWJQWjU1cXI4eXpCLWU5cVF4WmNZSnFFLTRvdDh4cUMzUEUtRnRUdVdGQk1RWXZnMXEtTWc4b2VjSUVmZFEzOURKemtpUQ?oc=5",
+    "summary_bullets": [
+      "ヘクサプロがAAO技術を活用した3Dキャパシタの量産を開始し、半導体の大容量化を強力に推進する。",
+      "この技術は、AI、IoT、電気自動車など、高性能・小型化が求められる次世代デバイスの発展を加速させる。",
+      "半導体業界は、3D構造化技術によって既存の物理的制約を克服し、集積度と電力効率を大幅に向上させるトレンドが加速するだろう。"
+    ],
+    "insight": "半導体性能のボトルネックを解消する鍵は、トランジスタだけでなく受動部品（キャパシタなど）の進化にもある。ヘクサプロの3Dキャパシタ量産は、単なる部品供給能力の向上に留まらず、次世代コンピューティングやエレクトロニクスの基盤を再定義する可能性を秘めている。",
+    "action_plan": "自社の製品ロードマップや研究開発戦略において、半導体部品の3D構造化や大容量化がもたらす影響を再評価しましょう。特に、AIやIoTデバイス開発に携わる企業は、新たな部品技術が製品設計や性能向上にどう貢献するか、技術提携の機会を含めて検討することをお勧めします。",
+    "image_keyword": "3D capacitor, semiconductor manufacturing, microchip technology",
+    "technical_terms": [
+      {
+        "term": "3Dキャパシタ",
+        "explanation": "立体的な構造を持つコンデンサで、限られたスペースでより大きな電気容量を実現し、半導体デバイスの小型化と高性能化に貢献する部品です。"
+      },
+      {
+        "term": "半導体",
+        "explanation": "電気を通す導体と通さない絶縁体の中間的な性質を持つ物質で、スマートフォンやパソコンなどの電子機器の頭脳となる集積回路などに使われる主要な材料です。"
+      },
+      {
+        "term": "AAO",
+        "explanation": "Anodic Aluminum Oxide（陽極酸化アルミニウム）の略称で、アルミニウム表面を陽極酸化処理することで得られる微細な多孔質構造を持つ材料。この記事では3Dキャパシタの製造技術に応用されていると考えられます。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUUVPN24xelJMTklxTnZKcE1oSE40NWVhdUIybFdlZmEwZDZZdkx3S3ZHYWs1VTdWcmRoXzJzalJmcFNGNjE0V2RNN2RqVHg5UUpocHg1UWF6TzZxdWNjVnVYRXdtOGN1bktMVXd2enJPN2ZEcFlpSVNQc0ZEeWM?oc=5": {
+    "title": "米中半導体戦争：中国の「いらない」が示す、習近平の深謀遠慮と戦略的転換",
+    "tags": "Geopolitics",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUUVPN24xelJMTklxTnZKcE1oSE40NWVhdUIybFdlZmEwZDZZdkx3S3ZHYWs1VTdWcmRoXzJzalJmcFNGNjE0V2RNN2RqVHg5UUpocHg1UWF6TzZxdWNjVnVYRXdtOGN1bktMVXd2enJPN2ZEcFlpSVNQc0ZEeWM?oc=5",
+    "summary_bullets": [
+      "米国が中国への半導体売却を提案したにもかかわらず、中国がこれを拒否した。",
+      "これは、中国が短期的な外部依存から脱却し、長期的な半導体自給自足路線を強化する明確な意思表示と見られる。",
+      "今後、米中間の技術デカップリングが加速し、グローバルサプライチェーンの再編と新たな技術覇権争いが激化する可能性が高い。"
+    ],
+    "insight": "中国が短期的な供給の誘惑を断ち切り、自国技術による完全な自立を目指す戦略は、国際ビジネス環境におけるサプライチェーンの再評価と技術ポートフォリオの多様化が不可避であることを示唆しています。",
+    "action_plan": "自社のサプライチェーンにおける中国依存度を再評価し、カントリーリスクおよび技術供給リスクに対する具体的な分散戦略を検討・立案してみましょう。また、中国の国内技術開発動向を継続的にモニタリングする情報収集体制を強化しましょう。",
+    "image_keyword": "US China tech war, semiconductor geopolitics, chip industry strategy",
+    "technical_terms": []
   }
 }
