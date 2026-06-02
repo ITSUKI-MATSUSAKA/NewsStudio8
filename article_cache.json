@@ -1,229 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XWXFOMnduUWh2RGNBNkMtbnNGTGROT1V6d3c1bHJrQm5fLTJGcGpVY2hEem14ZnZQQ0hYc1lrb2d3THBCVWFPYXJqX3E0QW9vTlRyWlpVamQ4clZidUF6MWZTVHBLRi1lN3M2NktjNWEwcjg1MlpGVnNmYnRMS0k?oc=5": {
-    "title": "半導体産業集積の光と影：熊本の交通渋滞問題と企業分散へのインセンティブ",
-    "tags": "Hardware",
-    "sentiment": "neutral",
-    "sentiment_text": "注目の話題",
-    "rating": 4,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XWXFOMnduUWh2RGNBNkMtbnNGTGROT1V6d3c1bHJrQm5fLTJGcGpVY2hEem14ZnZQQ0hYc1lrb2d3THBCVWFPYXJqX3E0QW9vTlRyWlpVamQ4clZidUF6MWZTVHBLRi1lN3M2NktjNWEwcjg1MlpGVnNmYnRMS0k?oc=5",
-    "summary_bullets": [
-      "熊本における半導体産業の急速な集積が、地域の深刻な交通渋滞を引き起こし、新たな社会課題となっている。",
-      "熊本県は、交通負荷軽減のため、工場や事業所の分散配置に協力する企業に特典を付与する制度を検討中。",
-      "この取り組みは、大規模産業誘致における地域インフラ整備と持続可能な成長モデル構築の重要性を示唆している。"
-    ],
-    "insight": "急速な産業成長がもたらす地域インフラへの負担は避けられない課題であり、企業はサプライチェーンや事業所の地理的配置を戦略的に見直し、地域社会との共存・共栄を図る視点が不可欠です。",
-    "action_plan": "自社の事業所や物流拠点の配置について、地域インフラの現状と将来予測を考慮した上で、リスク分散と効率化の可能性を見直してみましょう。",
-    "image_keyword": "Kumamoto traffic congestion, semiconductor industry growth, regional development Japan",
-    "technical_terms": [
-      {
-        "term": "半導体大手",
-        "explanation": "半導体の製造や開発で世界的に大きなシェアを持つ企業のこと。最新技術や大規模な投資を伴う。"
-      },
-      {
-        "term": "分散協力",
-        "explanation": "企業が地域内の特定の場所に集中せず、複数の場所に事業所や工場を配置することで、交通渋滞などの地域課題を緩和する取り組み。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1VXdBRnZhZ0JOQmJ4dF96Y1dRS0VhV2N4a3liMlFJOXdKOS16NHJMc3VFcF92SFhkMzlyX1M1UTNEM2hpMWE3WlpsZUNhOHRDMXd3elBfaWdBXzdHT3VyVUhNQnJHX01X?oc=5": {
-    "title": "ルネサス、ビジョンAIソフト強化へ！Irida Labs買収完了でエッジAIソリューションを加速",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "明るい話題",
-    "rating": 4,
-    "time_ago": "1時間前",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1VXdBRnZhZ0JOQmJ4dF96Y1dRS0VhV2N4a3liMlFJOXdKOS16NHJMc3VFcF92SFhkMzlyX1M1UTNEM2hpMWE3WlpsZUNhOHRDMXd3elBfaWdBXzdHT3VyVUhNQnJHX01X?oc=5",
-    "summary_bullets": [
-      "ルネサスがビジョンAIソフトウェア開発のIrida Labsの買収を完了し、AI機能の強化を図る。",
-      "今回の買収により、ルネサスのエッジAIソリューション開発能力が向上し、産業機器やスマートホームなどの幅広い組み込み機器へのAI実装が加速。",
-      "ハードウェアとソフトウェアの統合による最適化が今後のエッジAI市場における競争優位性を確立する鍵となり、関連技術のM&Aが活発化するトレンドが予測される。"
-    ],
-    "insight": "半導体メーカーがソフトウェア、特にAI分野の専門企業を買収する動きは、ハードウェアの性能を最大限に引き出すための戦略として重要です。自社のコア技術と補完的なソフトウェア技術を組み合わせることで、顧客への提供価値を最大化し、市場競争力を強化する企業の方向性を示唆しています。",
-    "action_plan": "自社の製品やサービスにおいて、ビジョンAI技術の応用可能性や、AIによる付加価値向上策を改めて検討し、具体的なビジネスプランを書き出してみましょう。",
-    "image_keyword": "vision AI chip, embedded AI, software acquisition",
-    "technical_terms": [
-      {
-        "term": "ビジョンAI",
-        "explanation": "画像や動画をAIが認識・解析し、物体検出、顔認証、行動分析などを行う技術。"
-      },
-      {
-        "term": "エッジAI",
-        "explanation": "クラウドではなく、デバイスや機器の末端（エッジ）でAI処理を行う技術。リアルタイム性やプライバシー保護に優れる。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2605/07/news117.html": {
-    "title": "約4万件のユーザー情報が流出か：「Kyuun」含む11アプリで個人データ漏洩の懸念",
-    "tags": "Cyber Security",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "3日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news117.html",
-    "summary_bullets": [
-      "大人向けビデオ通話アプリ「Kyuun」を含む11のアプリで、約4万件のユーザー情報が外部に漏洩した可能性が浮上。",
-      "サービス提供企業はセキュリティ対策の徹底が求められ、類似サービスを利用する企業は信頼失墜や法的責任のリスクに直面する可能性がある。",
-      "今後、個人情報保護に対する社会的な関心が高まり、アプリ開発・運用におけるより厳格なセキュリティ基準と透明性の高い情報開示が必須となるトレンドが加速する。"
-    ],
-    "insight": "自社が提供または利用するサービスにおける個人情報保護の重要性を再認識し、サプライチェーン全体でのセキュリティリスク評価と対策の強化が不可欠である。",
-    "action_plan": "自社が利用・提供するアプリやサービスのプライバシーポリシーとセキュリティ対策を今一度確認し、機密性の高い情報を扱う場合は二段階認証の導入など多層防御の検討を始めましょう。",
-    "image_keyword": "data breach, cyber security, user privacy",
-    "technical_terms": [
-      {
-        "term": "ユーザー情報漏えい",
-        "explanation": "氏名、連絡先、行動履歴など、個人を特定できる情報やプライベートなデータが、不正なアクセスによって外部に流出してしまうこと。企業にとっては信頼失墜や法的責任に繋がる重大なインシデントです。"
-      },
-      {
-        "term": "ビデオ通話アプリ",
-        "explanation": "インターネット回線を通じて、映像と音声でリアルタイムにコミュニケーションを取れるアプリケーション。ビジネス会議やプライベートな交流など、多岐にわたる用途で利用されています。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2605/07/news096.html": {
-    "title": "マネーフォワード、不正アクセス問題で銀行連携停止が長期化 — 信頼回復への課題浮上",
-    "tags": "Cyber Security",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "3日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news096.html",
-    "summary_bullets": [
-      "マネーフォワードの銀行連携サービスが、不正アクセス発覚から約1週間経っても停止が継続している。",
-      "ユーザーの家計管理や資産運用に影響が出ており、FinTechサービス全体の信頼性にも懸念が生じている。",
-      "今後のサービス再開は安全性の確認が完了次第とされており、セキュリティ対策と情報公開の透明性が業界の課題となる。"
-    ],
-    "insight": "FinTech企業は、利便性を提供する一方で、高度なセキュリティ対策と、有事の際の迅速かつ透明性のあるコミュニケーションが、顧客からの信頼を維持し、ブランド価値を守る上で極めて重要であることを再認識すべきです。",
-    "action_plan": "自身の利用しているFinTechサービスのセキュリティ対策（二段階認証、パスワード強度など）を今一度確認し、各サービスの緊急時対応ポリシーについて把握しておきましょう。",
-    "image_keyword": "cyber security breach, banking app suspended, data protection",
-    "technical_terms": [
-      {
-        "term": "不正アクセス",
-        "explanation": "許可されていない者がコンピューターシステムやネットワークに侵入し、情報にアクセスしたり操作したりすること。"
-      },
-      {
-        "term": "FinTech",
-        "explanation": "金融（Finance）と技術（Technology）を組み合わせた造語で、ITを活用した革新的な金融サービス全般を指す。"
-      },
-      {
-        "term": "銀行連携",
-        "explanation": "家計簿アプリなどがユーザーの同意に基づき、銀行口座から取引履歴などの情報を自動的に取得する機能。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/aiplus/articles/2605/08/news109.html": {
-    "title": "【必見】国立国会図書館、最新AI動向調査資料を無料公開！ビジネス戦略策定の羅針盤に",
-    "tags": "AI",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "2日前",
-    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news109.html",
-    "summary_bullets": [
-      "国立国会図書館がAIに関する最新の調査資料をWeb上で無料公開し、幅広い層がアクセス可能に。",
-      "企業や研究者は、公的機関による信頼性の高いAI動向分析をビジネス戦略や研究開発に即座に活用できる。",
-      "AI技術の急速な進化に対応するため、政府や公的機関による情報公開がさらに活発化し、社会全体のAI理解促進に繋がるだろう。"
-    ],
-    "insight": "公的機関が提供する網羅的で中立的なAI動向分析は、市場の喧騒に惑わされない堅実な事業戦略や投資判断を下すための強力な羅針盤となる。",
-    "action_plan": "早速、国立国会図書館のWebサイトから当該資料をダウンロードし、自社のAI戦略やロードマップと照らし合わせてみましょう。",
-    "image_keyword": "AI trend report, digital library, data analysis",
-    "technical_terms": []
-  },
-  "https://www.itmedia.co.jp/news/articles/2605/08/news100.html": {
-    "title": "Apple、AI開発遅延訴訟で390億円の巨額和解金：テック業界の競争とリスクが浮き彫りに",
-    "tags": "AI",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news100.html",
-    "summary_bullets": [
-      "AppleがAI機能の開発遅延を巡る集団訴訟で、390億円（約2.5億ドル）の和解金を支払うことに合意した。",
-      "この和解は、AI開発競争の激化と、技術大手における開発スケジュールの遅延リスク、およびそれに伴う法的・財務的影響の増大を示唆している。",
-      "AI技術の進化が加速する中、企業は開発プロセスの透明性と顧客への期待値管理を一層強化する必要があり、同様の訴訟リスクも高まる可能性が予測される。"
-    ],
-    "insight": "AI開発競争の激化は、企業にイノベーションとスピードを求める一方で、開発遅延が巨額の賠償リスクとブランド毀損に直結するという、厳しすぎる現実を突きつけている。技術革新の裏にある法務・経営リスクの管理が、企業の生命線となる。",
-    "action_plan": "自社や関連業界におけるAI開発プロジェクトのロードマップと進捗状況を再確認し、潜在的な遅延リスクや顧客への影響、および法務・賠償リスクがないか緊急でアセスメントを見直してみましょう。",
-    "image_keyword": "AI development lawsuit",
-    "technical_terms": [
-      {
-        "term": "集団訴訟",
-        "explanation": "複数の原告が共通の損害に対して、代表者を通じて一つの裁判で訴えを起こす法的手続き。時間と費用を節約し、集団で権利を主張できる。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2605/08/news086.html": {
-    "title": "AIディープフェイクで自ら警鐘：メローニ伊首相が示す、偽造画像がもたらす『危険なツール』の脅威",
-    "tags": "AI Ethics",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news086.html",
-    "summary_bullets": [
-      "メローニ伊首相が、AI生成とみられる自身の捏造画像を投稿し、ディープフェイクの危険性を世界に警告した。",
-      "政治家がターゲットとなることで、AIによる情報操作や風評被害が社会の信頼性と民主主義に深刻な影響を及ぼすリスクが顕在化した。",
-      "ディープフェイク対策技術の開発加速、および国際的な法的・倫理的規制の議論が今後の喫緊の課題となるだろう。"
-    ],
-    "insight": "AIの悪用リスクは個人だけでなく企業やブランドにも及び、風評被害や信頼失墜に直結するため、AIリテラシーの向上と、AIを活用したリスクマネジメント体制の構築が急務であると認識すべきです。",
-    "action_plan": "自社のブランドや個人情報がディープフェイクの標的となる可能性を評価し、危機管理計画を見直すとともに、AIを活用したフェイクコンテンツ識別ツールの導入可能性について情報収集を開始してみましょう。",
-    "image_keyword": "AI deepfake warning",
-    "technical_terms": [
-      {
-        "term": "AI生成画像",
-        "explanation": "人工知能が学習したデータに基づいて、実際には存在しない画像を作り出す技術。高度な技術により、本物と見分けがつきにくい画像が生成されることがあります。"
-      },
-      {
-        "term": "ディープフェイク",
-        "explanation": "ディープラーニングというAI技術を用いて、既存の画像や動画、音声などを合成・改変し、あたかも本物であるかのように見せかける偽のコンテンツ。虚偽情報の拡散や名誉毀損に悪用されることがあります。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6579336?source=rss": {
-    "title": "ドコモが示唆する料金改定の波紋：通信市場の未来図",
-    "tags": "Mobile Carrier",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://news.yahoo.co.jp/pickup/6579336?source=rss",
-    "summary_bullets": [
-      "ドコモの井伊社長が、今後の料金改定について『考えなければならない』と示唆し、料金値上げの可能性が浮上。",
-      "国内最大手のドコモの動きは、他キャリアの料金戦略や消費者の通信費負担に大きな影響を及ぼす可能性を秘めている。",
-      "通信業界全体で料金体系の見直しや付加価値サービスへの転換が加速する可能性があり、市場競争の行方に注目が集まる。"
-    ],
-    "insight": "通信業界の料金戦略は、単なる価格競争から、サービスの質や付加価値提供による収益モデルへの転換期を迎えています。これは、顧客エンゲージメントを深め、持続可能な成長を追求するあらゆるビジネスにとって重要な示唆となります。",
-    "action_plan": "自社の通信コストを見直すとともに、顧客が求める真の価値とは何かを再定義し、価格だけでなくサービスで差別化する戦略を検討してみましょう。",
-    "image_keyword": "Telecom price hike, Mobile network cost",
-    "technical_terms": [
-      {
-        "term": "料金改定",
-        "explanation": "通信サービスなどの価格体系を見直して変更すること。"
-      },
-      {
-        "term": "通信キャリア",
-        "explanation": "携帯電話やインターネットなどの通信サービスを提供する事業者。"
-      }
-    ]
-  },
-  "https://news.yahoo.co.jp/pickup/6579320?source=rss": {
-    "title": "任天堂「次世代Switch」値上げか？初代モデルへの影響と市場戦略の波紋",
-    "tags": "Hardware",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 4,
-    "time_ago": "10時間前",
-    "url": "https://news.yahoo.co.jp/pickup/6579320?source=rss",
-    "summary_bullets": [
-      "任天堂の次世代機「Switch2」（仮称）および現行Switchの値上げの可能性が報じられ、ゲーム市場に動揺が走っている。",
-      "部品コストの高騰や為替変動が背景にあり、消費者の購買意欲や市場競争に影響を与え、ゲーム業界全体の価格戦略に波紋を広げる可能性がある。",
-      "高性能化と価格維持のバランスが次世代ゲーム機開発の大きな課題となり、今後のメーカー各社の動向に注目が集まる。"
-    ],
-    "insight": "部品コスト高騰やインフレが続く中、プロダクトの性能向上と価格設定は企業の成長戦略において不可避な課題であり、市場と消費者の受容性をいかに見極めるかがビジネス成功の鍵となります。",
-    "action_plan": "自社の製品・サービスの価格戦略を見直し、コスト上昇圧力に対する対応策や、競合との差別化戦略を再検討してみましょう。",
-    "image_keyword": "Nintendo Switch price, console value, gaming hardware economy",
-    "technical_terms": []
-  },
   "https://news.yahoo.co.jp/pickup/6579312?source=rss": {
     "title": "任天堂の次世代機「Switch2」（仮称）、価格戦略の深層と市場への影響",
     "tags": "Hardware",
@@ -5234,7 +5009,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題",
     "rating": 5,
-    "time_ago": "2時間前",
+    "time_ago": "1日前",
     "url": "https://news.yahoo.co.jp/pickup/6582610?source=rss",
     "summary_bullets": [
       "主要AI開発企業Anthropicが新規株式公開（IPO）の申請を行い、AI業界に新たな資金流入の可能性を示唆しています。",
@@ -5350,7 +5125,7 @@
     "sentiment": "negative",
     "sentiment_text": "懸念される話題",
     "rating": 5,
-    "time_ago": "13時間前",
+    "time_ago": "1日前",
     "url": "https://www.itmedia.co.jp/news/articles/2606/01/news120.html",
     "summary_bullets": [
       "JCB社員がInstagramに社内資料を投稿したとされる画像がXで拡散し、同社が事実関係を調査中である。",
@@ -5361,5 +5136,269 @@
     "action_plan": "全従業員向けのSNS利用ガイドラインを最新化し、機密情報や社内資料の取り扱いに関する具体的なルールを明確に定義して周知徹底を図り、情報セキュリティ研修を定期的に実施しましょう。",
     "image_keyword": "corporate data leak, social media risk, employee misconduct",
     "technical_terms": []
+  },
+  "https://www.itmedia.co.jp/enterprise/articles/2606/03/news043.html": {
+    "title": "【警告】シャドーAIに機密情報を提供していませんか？ Oktaが示す衝撃の実態",
+    "tags": "Cybersecurity",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/03/news043.html",
+    "summary_bullets": [
+      "Oktaの実態調査により、企業内で従業員がシャドーAIサービスに安易にログイン情報を共有している現状が明らかに。",
+      "従業員の無自覚な行為が機密情報漏洩やサイバー攻撃のリスクを増大させ、企業の信頼性や事業継続性を脅かす可能性が高い。",
+      "AI活用の加速に伴い、企業はシャドーAI対策と従業員へのセキュリティ教育を強化し、ID・アクセス管理の厳格化が急務となる。"
+    ],
+    "insight": "AIの利便性に目を奪われがちな従業員が、無意識のうちに企業のセキュリティホールを作り出している可能性があることを認識し、リスク管理の重要性を再認識すべきです。",
+    "action_plan": "自社で利用されているAIサービスの現状を把握し、従業員に対してシャドーAI利用のリスクと、適切な利用ガイドラインを周知徹底しましょう。",
+    "image_keyword": "shadow AI security, data leak risk, unauthorized access",
+    "technical_terms": [
+      {
+        "term": "シャドーAI",
+        "explanation": "企業が正式に承認・管理していないAIサービスやツールが、従業員によって業務で使用されている状態。"
+      },
+      {
+        "term": "Okta",
+        "explanation": "クラウドベースのIDおよびアクセス管理（IAM）サービスを提供する企業。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2606/03/news066.html": {
+    "title": "MicrosoftがAndroidベースAIエージェント基盤「Solara」を発表：ウェアラブル端末でAIの日常浸透を加速",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "革新的な発表",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news066.html",
+    "summary_bullets": [
+      "MicrosoftはAndroidを基盤としたAIエージェントプラットフォーム「Solara」を発表し、Snapdragon搭載のバッジ型ウェアラブル端末を披露した。",
+      "これはMicrosoftがPCやスマホに限定されない、専用ハードウェアによるAIエージェント市場への本格参入を示唆し、ビジネスや個人の日常にAIをより深く統合する可能性を秘める。",
+      "今後、常にユーザーに寄り添うウェアラブルAIエージェントが新たなヒューマンインターフェースの主流となり、多様な業界で業務効率化やサービス変革を促進するトレンドが予測される。"
+    ],
+    "insight": "このニュースは、AIが単なるソフトウェアから、日常に溶け込む専用ハードウェアへと進化していることを明確に示唆しています。ビジネスリーダーは、自社のサービスや製品が、このような常時接続・状況認識型AIエージェントとどのように連携し、顧客体験や従業員体験を向上させられるかを深く洞察すべきです。",
+    "action_plan": "自社の事業において、音声アシスタントやウェアラブルデバイスを活用したAIエージェントがどのような顧客課題を解決し、新たな価値を創造できるか、具体的なユースケースを洗い出してみましょう。",
+    "image_keyword": "AI agent badge, wearable AI device, futuristic AI assistant",
+    "technical_terms": [
+      {
+        "term": "AIエージェント基盤",
+        "explanation": "ユーザーの意図を理解し、自律的にタスクを実行するAIシステムを構築するための土台となるプラットフォーム。"
+      },
+      {
+        "term": "Solara",
+        "explanation": "Microsoftが発表した、AndroidベースのAIエージェントプラットフォームの名称。"
+      },
+      {
+        "term": "Snapdragon",
+        "explanation": "Qualcomm社製のモバイルデバイス向けSystem-on-a-Chip (SoC) ブランドで、AI処理に特化したNPUを搭載するモデルも多い。"
+      },
+      {
+        "term": "バッジ型端末",
+        "explanation": "胸元などに装着する小型のウェアラブルデバイスで、音声認識や環境センサーなどを活用し、ユーザーの行動をサポートする。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/business/articles/2606/03/news017.html": {
+    "title": "AI需要が招く半導体不足の長期化：デルが示すPC市場の未来戦略",
+    "tags": "Hardware",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/03/news017.html",
+    "summary_bullets": [
+      "AI技術の急速な発展により、高性能半導体への需要が急増し、半導体不足が今後も長期化する見通しが示された。",
+      "PCメーカーであるデルは、この供給制約下で顧客ニーズに応えるべく、調達戦略の見直しや製品ポートフォリオの最適化といった対応策を講じている。",
+      "半導体不足はPC市場だけでなく、AIを活用するあらゆる産業に影響を与え、サプライチェーン全体の再構築と技術革新が加速するトレンドが予測される。"
+    ],
+    "insight": "AIの進化は単なる技術トレンドに留まらず、基盤となる半導体供給網に構造的な変化をもたらすため、あらゆる企業は自社のサプライチェーンや技術投資戦略を再評価する重要性に直面している。",
+    "action_plan": "自社の製品やサービスにおける半導体依存度を棚卸しし、代替部品の検討、供給源の多角化、または内製化の可能性を評価する戦略会議を立ち上げてみましょう。",
+    "image_keyword": "AI semiconductor shortage",
+    "technical_terms": [
+      {
+        "term": "AI",
+        "explanation": "人間の知能をコンピュータで模倣する技術の総称。機械学習や深層学習などの手法を用い、学習・推論・判断などを行う。"
+      },
+      {
+        "term": "半導体",
+        "explanation": "電気を通す導体と通さない絶縁体の中間の性質を持つ物質で作られた電子部品。コンピュータのCPUやメモリ、AIプロセッサなど、現代の電子機器に不可欠な基幹部品。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6582667?source=rss": {
+    "title": "【医療テクノロジーの光と影】糖尿病治療薬「マンジャロ」SNS拡散で話題、潜む副作用と倫理的課題",
+    "tags": "Healthcare Tech",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "18時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6582667?source=rss",
+    "summary_bullets": [
+      "糖尿病治療薬「マンジャロ」がSNS上で美容・ダイエット目的で拡散され、正規品の需要が急増している。",
+      "医師の指導なしでの誤用は、重篤な副作用リスクや本来の患者への供給不足を招くなど、社会的な問題に発展している。",
+      "医薬品のデジタルマーケティングと消費者リテラシーの強化が喫緊の課題となり、情報拡散におけるプラットフォームの責任も問われる可能性。",
+      "新薬のデジタルマーケティングと消費者リテラシーの強化が喫緊の課題となり、情報拡散におけるプラットフォームの責任も問われる可能性。"
+    ],
+    "insight": "SNSの圧倒的な拡散力は新製品の認知度向上に寄与する一方で、専門性が高い医療品においては、誤情報や誤用によるブランド毀損、倫理的・法的なリスクを招く可能性があることを理解し、適切な情報戦略と危機管理が不可欠である。",
+    "action_plan": "自社製品やサービスがSNSでどのように扱われているか、定常的なモニタリング体制を強化し、誤情報や不適切な利用がないか確認する仕組みを見直しましょう。",
+    "image_keyword": "Medication social media risk",
+    "technical_terms": [
+      {
+        "term": "マンジャロ",
+        "explanation": "イーライリリー・アンド・カンパニーが開発した2型糖尿病の治療薬で、血糖値を下げる効果に加え、体重減少効果も報告されています。"
+      },
+      {
+        "term": "副作用",
+        "explanation": "医薬品を使用した際に、本来の目的とする効果以外に体に現れる好ましくない作用のことです。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6582665?source=rss": {
+    "title": "中高生を魅了する次世代SNS「Setlog」の全貌：デジタルネイティブの心を掴む秘密とは？",
+    "tags": "Social App",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "19時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6582665?source=rss",
+    "summary_bullets": [
+      "中高生に人気の新SNSアプリ「Setlog」が登場し、若年層のデジタルライフに新たな潮流をもたらしている。",
+      "このアプリの台頭は、既存のSNS市場における競合激化と、若年層のコミュニケーション行動の変化を示唆する。",
+      "今後、特定のニーズに特化したニッチSNSの需要が増加し、マーケティング戦略やデジタルウェルビーイングへの対応が重要となるだろう。"
+    ],
+    "insight": "Setlogの人気は、若年層が求めるデジタルコミュニケーションが、従来のSNSとは異なる新たな価値観に基づいていることを示唆しています。ビジネスリーダーは、この世代のニーズを深く理解し、既存サービスの見直しや、ターゲットに合わせた新たなデジタル戦略構築の機会と捉えるべきです。",
+    "action_plan": "自社の顧客層におけるデジタルネイティブ世代の動向を調査し、彼らが求めるサービスやコミュニケーション手法の変化を具体的に書き出してみましょう。",
+    "image_keyword": "Teen Social App, Youth Digital Life, Social Media Trend",
+    "technical_terms": [
+      {
+        "term": "Setlog",
+        "explanation": "中高生を中心に人気を集めている新しいソーシャルネットワーキングアプリ。"
+      },
+      {
+        "term": "SNS",
+        "explanation": "ソーシャル・ネットワーキング・サービスの略。インターネット上で人々の交流を支援するサービス全般を指す。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHM4Wm9tcjgtWWhKaHNCWlc3OFUzOHNmRmR5bTU0RzBOVkdnbXM2bGYtaWU0UlBkUGYzdUYzZFJpZTMxaEphSUZpX0FPLVJUZ3ZPbkNiZTB2ZFlPVmRvWlViZldfU3FTdDFadFc1SjZqZWhmS0R4R0x5aTQzSENoNXhkd21Rc0E?oc=5": {
+    "title": "半導体とAI株が市場を牽引：最新相場動向と注目のポイント",
+    "tags": "Market Trend",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHM4Wm9tcjgtWWhKaHNCWlc3OFUzOHNmRmR5bTU0RzBOVkdnbXM2bGYtaWU0UlBkUGYzdUYzZFJpZTMxaEphSUZpX0FPLVJUZ3ZPbkNiZTB2ZFlPVmRvWlViZldfU3FTdDFadFc1SjZqZWhmS0R4R0x5aTQzSENoNXhkd21Rc0E?oc=5",
+    "summary_bullets": [
+      "株式市場は引き続き半導体およびAI関連銘柄の動向に注目しており、これらが相場を主導する見込みです。",
+      "AI技術の進化と半導体需要の拡大は、関連企業の業績だけでなく、広範な産業の成長戦略に影響を与えます。",
+      "今後の市場は、AIと半導体セクターの業績見通し、そしてマクロ経済指標の変化によって形成されると予測されます。"
+    ],
+    "insight": "AIと半導体は、単なる短期的な市場トレンドではなく、中長期的なビジネス成長と技術革新の核となる分野です。企業はこれらの動向を深く理解し、自社の戦略にどう組み込むかを常に検討する必要があります。",
+    "action_plan": "自社の事業とAI・半導体技術の関連性を再評価し、最新の市場トレンドがビジネスに与える潜在的な影響を分析してみましょう。また、新たな投資機会やパートナーシップの可能性を探るための情報収集を開始してください。",
+    "image_keyword": "AI stock market",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "電子機器の頭脳や記憶装置に使われる、電気を通す性質と通さない性質を制御できる物質で作られた部品。現代テクノロジーの基盤。"
+      },
+      {
+        "term": "AI関連株",
+        "explanation": "人工知能（AI）技術の開発や応用を行う企業の株式。AI市場の急速な成長期待から投資家の注目を集めている。"
+      },
+      {
+        "term": "相場展開",
+        "explanation": "株式や為替などの市場価格がどのように推移していくかの見通しや状況。市場全体のトレンドや方向性を示す。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBod3JUYWdTcHpnOWFGWDFKSDhaVEktNWV2MTB1MFpzQmpDSkpUd0RBcnE1YjA5YmdWN2VLSVFNeGQydnBLX0lJeXF5N0NOeUExS2x5Z1BzbnRDb2RWakZ3OQ?oc=5": {
+    "title": "市場を牽引：前場、AI・半導体関連株が引き続き注目の的",
+    "tags": "Market Trend",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBod3JUYWdTcHpnOWFGWDFKSDhaVEktNWV2MTB1MFpzQmpDSkpUd0RBcnE1YjA5YmdWN2VLSVFNeGQydnBLX0lJeXF5N0NOeUExS2x5Z1BzbnRDb2RWakZ3OQ?oc=5",
+    "summary_bullets": [
+      "株式市場の前場において、半導体およびAI関連株が相場を牽引する主要因となっている。",
+      "これらのハイテク株の動向が市場全体のセンチメントと投資家の意思決定に大きな影響を与えている。",
+      "テクノロジーセクター、特にAIと半導体分野は、今後も市場の成長ドライバーとしての役割を継続すると予測される。"
+    ],
+    "insight": "AIと半導体産業の成長が止まることなく市場の重要なドライバーであり続けていることを示唆しており、このトレンドを理解することが現代のビジネス戦略には不可欠です。",
+    "action_plan": "自社の事業や投資ポートフォリオにおけるAI・半導体関連技術や企業の組み込み可能性を見直し、最新の市場動向を注視する体制を強化しましょう。",
+    "image_keyword": "AI semiconductor market, stock chart, technology trends",
+    "technical_terms": [
+      {
+        "term": "半導体",
+        "explanation": "集積回路などの電子部品の材料となる物質で、現代のあらゆる電子機器、特にAIチップの性能を左右する中核技術です。"
+      },
+      {
+        "term": "AI関連株",
+        "explanation": "人工知能（AI）技術の開発、提供、または活用を主要事業とする企業の株式を指し、その成長性は市場から高い注目を集めています。"
+      },
+      {
+        "term": "前場",
+        "explanation": "日本の株式市場における午前の取引時間のことを指します。通常、午前9時から午前11時30分までです。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2606/02/news097.html": {
+    "title": "マネーフォワードの銀行連携、高再開率99%超でも「完全復旧」に至らない深層とは？",
+    "tags": "Fintech",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "15時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/02/news097.html",
+    "summary_bullets": [
+      "マネーフォワードの銀行連携サービスは高い再開率を維持しつつも、一部の技術的・運用的課題により「完全復旧」には至っていない。",
+      "FinTechサービスにおける外部連携の安定性は、ユーザー体験と事業継続性に直結するビジネス上の最重要課題である。",
+      "複雑化する金融システム連携において、技術的な安定化だけでなく、運用面や規制対応がFinTech企業の今後の主要な焦点となる。"
+    ],
+    "insight": "このニュースは、表面的なサービス稼働率の高さだけではなく、その裏にある技術的な複雑性や運用の課題が、ユーザーの信頼とビジネスの持続性にいかに影響するかを浮き彫りにしています。FinTechサービス提供者は、常に最悪のシナリオを想定したリスク管理と、継続的な技術・運用改善が不可欠であると再認識すべきです。",
+    "action_plan": "自社サービスで外部API連携やSaaS利用が多い企業は、提供ベンダーの障害対応体制、サービスレベルアグリーメント（SLA）を改めて確認し、もしもの事態に備えた具体的なリスクヘッジ計画や代替策を検討・見直しましょう。",
+    "image_keyword": "Fintech data connectivity, digital banking recovery, financial service reliability",
+    "technical_terms": [
+      {
+        "term": "API連携",
+        "explanation": "異なるソフトウェアやサービスが互いに機能やデータをやり取りするための接続規約。これにより、マネーフォワードが各銀行のデータにアクセスできるようになる。"
+      },
+      {
+        "term": "SLA",
+        "explanation": "サービス提供者と顧客の間で合意される、サービス品質に関する契約。稼働率や復旧時間などが含まれ、サービスの信頼性を示す重要な指標。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/news/articles/2606/01/news086.html": {
+    "title": "自治体情報流出の衝撃：浦添市PC83台盗難、11万人データ危機に問われるセキュリティ対策",
+    "tags": "Cyber Security",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/01/news086.html",
+    "summary_bullets": [
+      "浦添市役所のPC83台が盗難され、約11万人分の個人情報が含まれていたことが発覚。",
+      "事件は委託先社員による転売目的の犯行とみられ、自治体における機密情報管理と委託先管理の甘さが露呈。",
+      "企業や自治体は、物理セキュリティと情報セキュリティの両面で委託先の管理体制を早急に見直し、厳格化する必要がある。"
+    ],
+    "insight": "個人情報保護はサイバー攻撃だけでなく、物理的な盗難や内部犯行のリスクも常に伴うため、多層的なセキュリティ対策と委託先管理の徹底が事業継続の生命線となります。",
+    "action_plan": "自社のPC・デバイス管理規程、および委託先との情報セキュリティ契約内容を再度確認し、物理的・論理的セキュリティ対策が適切に講じられているかチェックリストを作成して見直してみましょう。",
+    "image_keyword": "stolen government PC, personal data breach, cybersecurity incident",
+    "technical_terms": [
+      {
+        "term": "個人情報",
+        "explanation": "特定の個人を識別できる情報（氏名、住所、生年月日など）のことで、その取り扱いには個人情報保護法などの厳格な法律が適用されます。"
+      },
+      {
+        "term": "委託先管理",
+        "explanation": "業務を外部の企業や個人に委託する際に、情報セキュリティや業務品質など、委託先が適切な体制で業務を行っているか監督・評価することです。"
+      },
+      {
+        "term": "物理セキュリティ",
+        "explanation": "情報システムやデータが保存されている場所への不正な侵入や盗難を防ぐための対策で、監視カメラ、入退室管理システム、鍵などが含まれます。"
+      }
+    ]
   }
 }
