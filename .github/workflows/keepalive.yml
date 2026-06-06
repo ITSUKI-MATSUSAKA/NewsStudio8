@@ -1,0 +1,29 @@
+name: Monthly Keepalive
+
+# GitHubは60日間リポジトリに変更がないとスケジュール実行を停止してしまう。
+# このワークフローは毎月1日に自動実行され、ダミーコミットを作ることで
+# 「活動中のリポジトリ」と認識させ、停止を防ぐ。
+
+on:
+  schedule:
+    # 毎月1日 UTC 0:00 (JST 09:00) に実行
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update keepalive timestamp
+        run: |
+          date '+%Y-%m-%d %H:%M:%S JST' > .github/keepalive.txt
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .github/keepalive.txt
+          git commit -m "chore: monthly keepalive $(date +'%Y-%m')"
+          git push

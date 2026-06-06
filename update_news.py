@@ -360,6 +360,12 @@ def generate_article_html(article_data, element_id, thumb_url):
 # ==========================================
 CACHE_FILE = "article_cache.json"
 
+def get_cache_key(title):
+    """記事タイトルのハッシュをキャッシュキーとして返す。
+    URLはGoogle NewsなどでRSS取得のたびに変化するため、
+    タイトルベースにすることで同じ記事の重複API呼び出しを防ぐ。"""
+    return hashlib.md5(title.lower().strip().encode('utf-8')).hexdigest()
+
 def load_cache():
     if os.path.exists(CACHE_FILE):
         try:
@@ -440,14 +446,16 @@ def main():
 
                 raw_url = getattr(entry, 'link', entry.title)
                 article_url = clean_url(raw_url)
+                cache_key = get_cache_key(entry.title)
 
-                if article_url in cache and cache[article_url].get('insight') != 'AIでの自動分析は現在一時的に停止中です。':
+                if cache_key in cache and cache[cache_key].get('insight') != 'AIでの自動分析は現在一時的に停止中です。':
                     print("✅ キャッシュから記事データを読み込みます（APIリクエスト省略）")
-                    article_data = cache[article_url]
-                    article_data['time_ago'] = time_ago # time_agoは常に最新に更新
+                    article_data = cache[cache_key].copy()
+                    article_data['time_ago'] = time_ago  # 経過時間は常に最新に更新
+                    article_data['url'] = article_url    # URLも最新のものに更新
                 else:
                     article_data = analyze_news_with_gemini(entry, time_ago)
-                    
+
                     if article_data == "RATE_LIMIT" or not article_data:
                         print("⚠️ APIエラーまたは制限に達しました。フォールバック用の記事データを生成して続行します。")
                         article_data = {
@@ -464,11 +472,9 @@ def main():
                             'image_keyword': f"{cat['name']} {entry.title}"
                         }
                     elif isinstance(article_data, dict):
-                        # URLをクリーンなものに上書き
                         article_data['url'] = article_url
-                        # 成功した場合はキャッシュに保存
-                        cache[article_url] = article_data
-                        
+                        cache[cache_key] = article_data  # タイトルハッシュをキーに保存
+
                     time.sleep(20) # レートリミット対策 (Geminiの制限を完全に避けるため20秒待機)
                 
                 if isinstance(article_data, dict):
