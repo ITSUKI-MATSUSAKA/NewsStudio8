@@ -174,45 +174,52 @@ def analyze_news_with_gemini(entry, time_ago):
   ]
 }}
 """
-    try:
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=prompt,
-        )
-        
-        # セーフティブロックなどのチェック
-        if not response.candidates or not response.candidates[0].content.parts:
-            print("【エラー】AIの出力がブロックされました（セーフティ機能等の影響）")
-            if response.candidates:
-                print("Finish Reason:", response.candidates[0].finish_reason)
-            return None
+    for attempt in range(3):
+        try:
+            response = client.models.generate_content(
+                model='gemini-2.5-flash',
+                contents=prompt,
+                config=genai.types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                ),
+            )
 
-        text = response.text.strip()
-        
-        # JSON部分だけを確実に抽出するフォールバック
-        start_idx = text.find('{')
-        end_idx = text.rfind('}')
-        if start_idx != -1 and end_idx != -1:
-            json_str = text[start_idx:end_idx+1]
-        else:
-            json_str = text
-            
-        return json.loads(json_str, strict=False)
-        
-    except json.JSONDecodeError as je:
-        print(f"【JSON解析エラー】AIの回答が正しいJSON形式ではありませんでした: {je}")
-        print(f"--- 実際のAIの出力 ---\n{text}\n----------------------")
-        return None
-    except Exception as e:
-        error_msg = str(e)
-        if "Quota exceeded" in error_msg or "429" in error_msg:
-            print(f"\n【API制限エラー】Gemini APIの無料枠の制限（1日の回数や連続リクエスト数）に達しました。")
-            print("しばらく時間をおいてから再度お試しください。")
-            return "RATE_LIMIT"
-        else:
-            print(f"\n【Gemini API エラー】通信やAPIキーに問題がある可能性があります:")
-            print(error_msg)
-        return None
+            # セーフティブロックなどのチェック
+            if not response.candidates or not response.candidates[0].content.parts:
+                print("【エラー】AIの出力がブロックされました（セーフティ機能等の影響）")
+                if response.candidates:
+                    print("Finish Reason:", response.candidates[0].finish_reason)
+                return None  # セーフティブロックはリトライしても変わらないため即終了
+
+            text = response.text.strip()
+
+            # JSON部分だけを確実に抽出するフォールバック
+            start_idx = text.find('{')
+            end_idx = text.rfind('}')
+            json_str = text[start_idx:end_idx+1] if start_idx != -1 and end_idx != -1 else text
+
+            return json.loads(json_str, strict=False)
+
+        except json.JSONDecodeError as je:
+            print(f"【JSON解析エラー】試行{attempt+1}/3: {je}")
+            if attempt < 2:
+                time.sleep(15)
+                continue
+            return None
+        except Exception as e:
+            error_msg = str(e)
+            if "429" in error_msg or "Quota exceeded" in error_msg or "RESOURCE_EXHAUSTED" in error_msg:
+                wait = 60 * (attempt + 1)
+                print(f"\n【API制限エラー】試行{attempt+1}/3: {wait}秒待機後にリトライします...")
+                if attempt < 2:
+                    time.sleep(wait)
+                    continue
+                return "RATE_LIMIT"
+            else:
+                print(f"\n【Gemini API エラー】通信やAPIキーに問題がある可能性があります: {error_msg}")
+                return None
+
+    return None
 
 # ==========================================
 # 🖼️ サムネイル画像の抽出
