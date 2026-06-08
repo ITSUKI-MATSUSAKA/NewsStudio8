@@ -1,8 +1,9 @@
 import urllib.request
 import json
 import urllib.error
+import os
 
-API_KEY = "AIzaSyAOxMwPLqAt5FYYAK3YLFcl9tCEUvWz6Ws"
+API_KEY = os.environ.get("GEMINI_API_KEY", "")
 url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={API_KEY}"
 headers = {'Content-Type': 'application/json'}
 data = {

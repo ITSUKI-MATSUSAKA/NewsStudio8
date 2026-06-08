@@ -6,12 +6,6 @@ on:
     - cron: '0 22 * * *'
   # GitHubの画面上から手動で実行できるようにする
   workflow_dispatch:
-  # update_news.py を編集して保存（push）したときにも自動実行する
-  push:
-    branches:
-      - main
-    paths:
-      - 'update_news.py'
 
 jobs:
   update-news:
