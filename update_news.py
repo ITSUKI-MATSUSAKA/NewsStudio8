@@ -472,7 +472,7 @@ def main():
                         article_data['url'] = article_url
                         cache[cache_key] = article_data  # タイトルハッシュをキーに保存
 
-                    time.sleep(20) # レートリミット対策 (Geminiの制限を完全に避けるため20秒待機)
+                    time.sleep(35) # レートリミット対策 (gemini-2.0-flash の15RPM制限に対して余裕を持たせる)
                 
                 if isinstance(article_data, dict):
                     thumb_url = extract_thumbnail_url(entry, article_data)
