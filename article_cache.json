@@ -1,124 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYMmxGMkx5LTRwaTFmVWpOQk0zZmhaUWpJU0tCbVBWY0h6NHpkMUlfUjJDRkh0dXNGeWF2THk2YXgzZy1xS3VuRmJONGdVYkFHRHpSRWRZQ0JMNU1BNjBBUm5SSDBSRmIwNzhJTzdGaVp1SUNYMzZ1aVpwZFZhc1U?oc=5": {
-    "title": "AI相場に調整の波：米半導体株が一時6.8%急落、市場の警戒感高まる",
-    "tags": "Semiconductor",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYMmxGMkx5LTRwaTFmVWpOQk0zZmhaUWpJU0tCbVBWY0h6NHpkMUlfUjJDRkh0dXNGeWF2THk2YXgzZy1xS3VuRmJONGdVYkFHRHpSRWRZQ0JMNU1BNjBBUm5SSDBSRmIwNzhJTzdGaVp1SUNYMzZ1aVpwZFZhc1U?oc=5",
-    "summary_bullets": [
-      "米国の半導体株が一時6.8%の大幅な急落を記録し、AI関連銘柄に年内有数の調整圧力がかかった。",
-      "AI投資ブームに対する市場の過熱感と短期的なリスクが顕在化し、関連企業の株価や投資戦略に大きな影響を及ぼす可能性がある。",
-      "今後AI市場の長期的な成長性は維持されつつも、短期的なボラティリティが高まり、企業や投資家はより選別的かつ慎重なアプローチが求められるだろう。"
-    ],
-    "insight": "今回の半導体株急落は、AI市場が初期の熱狂期から現実的な評価を求める調整期に入った可能性を示唆しています。企業はAIへの投資や事業戦略において、短期的なトレンドに流されず、持続的な価値創出とリスク分散を意識した長期的な視点を持つことが不可欠です。",
-    "action_plan": "自社のAI関連プロジェクトやサプライチェーンにおける半導体依存度を再確認し、市場の変動リスクに耐えうる事業継続計画や代替案を検討するためのブレーンストーミングを今日から始めてみましょう。",
-    "image_keyword": "semiconductor stock market crash",
-    "technical_terms": [
-      {
-        "term": "半導体株",
-        "explanation": "半導体の製造、設計、販売を行う企業の株式。AIやテクノロジー産業の根幹を支えるため、市場の注目度が高い。"
-      },
-      {
-        "term": "AI相場",
-        "explanation": "人工知能（AI）関連技術やサービスを提供する企業に投資が集中し、株価が大きく変動する市場の状況。"
-      },
-      {
-        "term": "調整圧力",
-        "explanation": "株価や市場が過熱した状態から、実体経済や企業価値に見合った水準に戻ろうとする際に働く下落圧力のこと。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHYV9BUkNTNnZ0REowZmFfSlZUVDJabUF4SnN2Q0oya3FwWTZkVGR5Mm4wRGlQN0ZfR2tuRG1qcTVrNThUT2ZjSmd4cnBpNmdYMHBMRWNhTzBHYno3cWtYd2tIOWlpTE8yYV9ITDd6RXlqMGFJcmdYS1luRQ?oc=5": {
-    "title": "米中半導体対立の影：NVIDIA、訪中団欠席で高まる地政学リスク",
-    "tags": "Hardware",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHYV9BUkNTNnZ0REowZmFfSlZUVDJabUF4SnN2Q0oya3FwWTZkVGR5Mm4wRGlQN0ZfR2tuRG1qcTVrNThUT2ZjSmd4cnBpNmdYMHBMRWNhTzBHYno3cWtYd2tIOWlpTE8yYV9ITDd6RXlqMGFJcmdYS1luRQ?oc=5",
-    "summary_bullets": [
-      "米半導体大手NVIDIAが訪中団への参加を見送ったことが、各方面で波紋を呼んでいます。",
-      "この欠席は、半導体技術を巡る米中間の地政学的対立が深まっている現状を浮き彫りにしています。",
-      "今後の企業の中国市場戦略やグローバルな半導体サプライチェーンに、さらなる不確実性をもたらす可能性があります。"
-    ],
-    "insight": "ビジネスリーダーは、地政学的リスクが技術サプライチェーンに与える影響を再認識し、サプライチェーンの多様化や代替技術の開発など、より強靭な事業継続計画を策定すべきです。",
-    "action_plan": "自社の半導体調達戦略における中国への依存度を評価し、代替供給源の確保や地域分散の可能性について検討を開始しましょう。",
-    "image_keyword": "NVIDIA, semiconductor, geopolitics",
-    "technical_terms": [
-      {
-        "term": "NVIDIA",
-        "explanation": "AIや高性能グラフィックス処理に不可欠なGPU（画像処理装置）を開発する世界的な半導体企業。"
-      },
-      {
-        "term": "半導体",
-        "explanation": "電気を通す導体と通さない絶縁体の中間の性質を持つ物質で、現代の電子機器の頭脳となる集積回路の主要材料。"
-      },
-      {
-        "term": "地政学的リスク",
-        "explanation": "特定の地域の地理的・政治的要因が、国際関係や経済活動に与える不確実性や脅威のこと。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wc3k0djc2aTg1al9ENzZGT1VJdVhkTDhjeThHclZfdE5PWUlqYjV6Z3QyOS1JbnY0bW4yNGtOSUpZZ09ab2ltRl9fWlh4enBMb2VtYXIxLXdudw?oc=5": {
-    "title": "NVIDIA、訪中団に異例の不参加：米中半導体冷戦、その地政学的影響を読み解く",
-    "tags": "Semiconductor",
-    "sentiment": "negative",
-    "sentiment_text": "懸念される話題",
-    "rating": 5,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wc3k0djc2aTg1al9ENzZGT1VJdVhkTDhjeThHclZfdE5PWUlqYjV6Z3QyOS1JbnY0bW4yNGtOSUpZZ09ab2ltRl9fWlh4enBMb2VtYXIxLXdudw?oc=5",
-    "summary_bullets": [
-      "米中経済団体が主催する訪中団に、AI半導体大手NVIDIAが参加を見送ったことが物議を醸している。",
-      "この異例の欠席は、半導体技術を巡る米中間の地政学的対立が、企業の事業戦略に直接的な影響を与え始めていることを示唆する。",
-      "グローバル企業は今後、サプライチェーンや市場戦略において、政治的リスクの評価と対応がより一層求められる傾向が強まるだろう。"
-    ],
-    "insight": "NVIDIAの訪中団欠席は、単なる企業の判断を超え、米中技術覇権争いが企業のグローバル戦略に与える深刻な影響を浮き彫りにしています。ビジネスリーダーは、地政学的リスクを経営戦略の核として捉え、サプライチェーンの多様化や市場ポートフォリオの見直しを急ぐべきです。",
-    "action_plan": "自社のサプライチェーンや主要市場における地政学的リスクを改めて洗い出し、潜在的な制約や機会を具体的に書き出してみましょう。そして、代替供給源の確保や規制変更への対応計画を策定し、シナリオプランニングを開始しましょう。",
-    "image_keyword": "US China Tech War, Semiconductor Geopolitics",
-    "technical_terms": [
-      {
-        "term": "エヌビディア (NVIDIA)",
-        "explanation": "GPU（画像処理装置）を開発し、近年はAI・機械学習用半導体の分野で世界をリードする企業。"
-      },
-      {
-        "term": "半導体",
-        "explanation": "電気を通したり通さなかったりする性質を持つ物質で、集積回路（ICチップ）の主要な材料。電子機器の「頭脳」や「記憶」の役割を果たす。"
-      },
-      {
-        "term": "米中対立",
-        "explanation": "アメリカ合衆国と中華人民共和国の間で、経済、技術、政治、軍事など多岐にわたる分野で激化している競争や摩擦のこと。"
-      }
-    ]
-  },
-  "https://www.itmedia.co.jp/news/articles/2605/13/news136.html": {
-    "title": "Google、スマホ“自動操縦”を実現するAIエージェント「Gemini Intelligence」発表 - モバイル体験の新時代へ",
-    "tags": "AI Agent",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 5,
-    "time_ago": "11時間前",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/13/news136.html",
-    "summary_bullets": [
-      "GoogleがAndroid向けAIエージェント「Gemini Intelligence」を発表し、スマートフォンの“自動操縦”機能を導入する。",
-      "この技術は、ユーザーのスマホ操作をAIが統合的に支援・自動化し、モバイルアプリケーションとユーザーインターフェースに革命をもたらす可能性を秘めている。",
-      "今後、モバイルOSにおけるAIの役割が飛躍的に拡大し、パーソナライズされたアシスタント機能が標準となるトレンドが加速するだろう。"
-    ],
-    "insight": "この発表は、スマートフォンが単なるツールから真の「AIアシスタント」へと進化する明確な兆候です。企業は顧客との接点やサービス提供方法を再考し、AIを組み込んだ新たなユーザー体験の創出を急ぐべきです。",
-    "action_plan": "自社のモバイルアプリやデジタルサービスがAIエージェントとどのように連携し、どのような新しい価値を提供できるかを洗い出し、具体的なユースケースを書き出してみましょう。",
-    "image_keyword": "mobile AI agent, smartphone automation, Google Gemini",
-    "technical_terms": [
-      {
-        "term": "Gemini Intelligence",
-        "explanation": "Googleが開発した、Androidデバイス上でユーザーの操作を自動化・支援する次世代のAIエージェント。"
-      },
-      {
-        "term": "AIエージェント",
-        "explanation": "特定のタスクや目標を自律的に理解し、実行する人工知能プログラム。"
-      }
-    ]
-  },
   "https://www.itmedia.co.jp/aiplus/articles/2605/13/news128.html": {
     "title": "ソフトバンクG、史上最高益5兆円超達成：OpenAI投資が牽引するAI時代の新たな勝ち筋",
     "tags": "AI Investment",
@@ -5397,6 +5277,114 @@
       {
         "term": "Kyash",
         "explanation": "Visaプリペイドカードと連携したモバイル決済サービスを提供している企業。"
+      }
+    ]
+  },
+  "f78fae3be5e3ba1ce01e15d4acbbd38c": {
+    "title": "カシオ、AIペットロボット「モフリン」で新規事業を加速 - 第4の柱育成へ向けた戦略と成長性",
+    "tags": "Robotics",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "1時間前",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/08/news084.html",
+    "summary_bullets": [
+      "カシオのAIペットロボット「モフリン」が好調な売れ行きを見せ、同社の新規事業の中核として成長。",
+      "老舗メーカーであるカシオが、AIを活用したコンシューマーロボティクス分野で新たな収益の柱を確立しようとしている。",
+      "感情を認識・表現するAIロボット市場の潜在的需要と、異業種からの参入による市場活性化の可能性を示唆。"
+    ],
+    "insight": "感情豊かなAIペットロボットの成功は、ユーザーとの『情動的なつながり』が新たな市場価値を生み出すことを示唆しています。ビジネスリーダーは、単なる機能性だけでなく、ユーザーの感情に訴えかけるプロダクトやサービス開発の可能性を探るべきです。",
+    "action_plan": "自社の既存製品やサービスに、AIによるパーソナライズや感情的インタラクションの要素を付加できないか、ブレインストーミングを行ってみましょう。",
+    "image_keyword": "AI pet robot, emotional companion, smart toy",
+    "technical_terms": [
+      {
+        "term": "AIペットロボット",
+        "explanation": "感情認識や学習機能を持ち、ペットのように振る舞うロボット。癒やしやコミュニケーションを提供します。"
+      },
+      {
+        "term": "第4の柱",
+        "explanation": "企業が主要な収益源として育成を目指す、新たな事業分野や製品ラインのこと。"
+      }
+    ]
+  },
+  "be1259971ab47f91069d652b78c8d6f4": {
+    "title": "AIによるコード生成、3年で3倍超へ！急速な普及がもたらす新たな課題と対策とは？",
+    "tags": "AI",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 5,
+    "time_ago": "4時間前",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/05/news028.html",
+    "summary_bullets": [
+      "AIによるコード生成ツールが今後3年間で3倍以上に急成長し、ソフトウェア開発の主流になると予測されている。",
+      "開発効率の大幅な向上が期待される一方、セキュリティ脆弱性、知的財産権、倫理的利用、コード品質の維持といった重大な課題が浮上している。",
+      "AIツールの本格的な普及には、これらの潜在的なリスクを評価し、適切な対策を講じることが組織にとって不可欠となる。"
+    ],
+    "insight": "AIがソフトウェア開発の未来を再構築する中で、企業は生産性向上とリスク管理のバランスを慎重に見極め、先進的な対策戦略を早急に構築すべきです。",
+    "action_plan": "自社の開発プロセスにおけるAIコード生成の導入計画を見直し、セキュリティと品質保証に関する新たなガイドラインを策定、または既存のものをアップデートしましょう。",
+    "image_keyword": "AI code generation challenges",
+    "technical_terms": [
+      {
+        "term": "AIコード生成",
+        "explanation": "人工知能がプログラムコードを自動的に作成する技術。開発効率の向上に貢献する。"
+      }
+    ]
+  },
+  "ee74f91494e2ea476ba94ffa7f2e2113": {
+    "title": "姫路市AIチャット、救急医療に革命か？2週間で正答率90%を達成した驚きの背景",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 5,
+    "time_ago": "5時間前",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2606/08/news036.html",
+    "summary_bullets": [
+      "姫路市の救急病院が導入したAIチャットが、わずか2週間で正答率90%という驚異的な成果を達成した。",
+      "この成功は、医療現場の負荷軽減と患者対応の質の向上に大きく貢献する可能性を秘め、他自治体や他分野へのAI導入モデルとなりうる。",
+      "医療分野におけるAIの導入と迅速な精度向上が加速し、特に地域特化型・用途特化型のAIソリューションが今後の主流となるだろう。"
+    ],
+    "insight": "この事例は、AIが特定の業務課題に対して短期間で高い効果を発揮しうることを示しており、特にレガシーな分野でのデジタルトランスフォーメーションを検討する企業は、具体的なユースケースに焦点を当てた迅速なPoC（概念実証）の重要性を認識すべきです。",
+    "action_plan": "自社の業務プロセスにおける「定型的な問い合わせ対応」や「初期スクリーニング」など、AIによる効率化が見込める具体的なボトルネックを特定し、短期間でのPoC実施を検討するためのデータや要件を整理してみましょう。",
+    "image_keyword": "healthcare AI chat",
+    "technical_terms": [
+      {
+        "term": "AIチャット",
+        "explanation": "人工知能を搭載し、人間と自然言語で対話できるプログラム。問い合わせ対応や情報提供に使われる。"
+      },
+      {
+        "term": "正答率",
+        "explanation": "与えられた問いに対して、システムが正しい答えを導き出した割合。AIの性能を測る重要な指標となる。"
+      }
+    ]
+  },
+  "c227298d84bd3333d6d2512f72301627": {
+    "title": "市場警戒でAI・半導体株が大幅続落：米利上げ懸念が日本株式市場を直撃",
+    "tags": "Market",
+    "sentiment": "negative",
+    "sentiment_text": "懸念される話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMnpBTFRkQXROcHpOM19JZWxkcUNmajFzUTE1WW1TY1ZfeXJrelg1a19wc25LVlpTemRyNFV1R2N2MG53RE45UDBIem9fU1JZM0IzWG1VNVNzcUw3UzRkalZtcmVNd3IxdGtzM1c3ajNyTkpMWTF0dUxnU0NoSWJhTA?oc=5",
+    "summary_bullets": [
+      "東京株式市場は、米国の利上げ警戒感が強まり、大幅な続落を記録しました。",
+      "特にAI・半導体関連株は持ち高調整の対象となり、主要テクノロジーセクターへの投資心理に悪影響を与えています。",
+      "今後の市場は、米国の金融政策の方向性と世界経済の健全性によって、AI・半導体セクターの回復時期が左右されるでしょう。"
+    ],
+    "insight": "AI・半導体セクターはマクロ経済、特に米国の金融政策に極めて敏感であり、これらの動きが技術革新や成長期待にも短期的ながら冷や水を浴びせる可能性があることを認識し、投資戦略に組み込むべきです。",
+    "action_plan": "ポートフォリオ内のAI・半導体関連銘柄の割合を見直し、米国の経済指標や金融政策に関する最新情報を常にチェックする体制を強化しましょう。",
+    "image_keyword": "stock market decline, AI semiconductor graph, financial market fear",
+    "technical_terms": [
+      {
+        "term": "前引け",
+        "explanation": "株式市場の午前中の取引が終了する時点の株価です。"
+      },
+      {
+        "term": "持ち高調整",
+        "explanation": "投資家が市場環境や自身の戦略の変化に応じて、保有している株式などの資産量を増減させる行為を指します。"
+      },
+      {
+        "term": "米利上げ",
+        "explanation": "アメリカの中央銀行（FRB）が政策金利を引き上げること。企業の借入コスト増加や消費の抑制を通じて、経済活動や株式市場全体に影響を与えます。"
       }
     ]
   }
