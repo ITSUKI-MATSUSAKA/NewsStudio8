@@ -40,13 +40,44 @@ HTML_FILE_PATH = "index.html"
 # AI要約の有効/無効 (Trueに変えると Gemini API でAI要約を生成します)
 GEMINI_ENABLED = False
 
-# ジャンルタグの色
+# ジャンルタグの色・背景色
 TAG_COLORS = {
     'AI':          '#7c3aed',
     'ロボット':    '#059669',
     '半導体':      '#d97706',
     'セキュリティ': '#dc2626',
 }
+TAG_TINTS = {
+    'AI':          'rgba(124, 58, 237, 0.10)',
+    'ロボット':    'rgba(5, 150, 105, 0.10)',
+    '半導体':      'rgba(217, 119, 6, 0.10)',
+    'セキュリティ': 'rgba(220, 38, 38, 0.10)',
+}
+
+# 記事URLからソース名を抽出
+SOURCE_MAP = {
+    'itmedia.co.jp':         'ITmedia',
+    'monoist.itmedia.co.jp': 'MONOist',
+    'eetimes.itmedia.co.jp': 'EE Times',
+    'news.yahoo.co.jp':      'Yahoo!ニュース',
+    'nikkei.com':            '日経',
+    'asahi.com':             '朝日新聞',
+    'mainichi.jp':           '毎日新聞',
+    'ascii.jp':              'ASCII',
+    'mynavi.jp':             'Mynavi',
+    'zdnet.com':             'ZDNet',
+    'google.com':            'Google News',
+}
+
+def get_source_name(url):
+    try:
+        host = urllib.parse.urlparse(url).netloc.replace('www.', '')
+        for domain, name in SOURCE_MAP.items():
+            if domain in host:
+                return name
+        return host.split('.')[0].capitalize()
+    except Exception:
+        return ''
 
 # ==========================================
 # 📈 為替・仮想通貨リアルタイムデータの取得
@@ -265,46 +296,51 @@ def extract_thumbnail_url(entry, article_data=None):
 # 🏗️ HTMLの生成
 # ==========================================
 def generate_article_html(article_data, element_id, thumb_url, is_first=False):
-    tag = article_data.get('tags', 'News')
-    tag_color = TAG_COLORS.get(tag, '#6b7280')
-    featured_class = ' featured' if is_first else ''
-    new_badge = (
-        '<span style="background:#ef4444;color:#fff;font-size:11px;font-weight:700;'
-        'padding:3px 8px;border-radius:6px;letter-spacing:0.05em;vertical-align:middle;">NEW</span>'
-        if is_first else ''
-    )
-    desc = article_data.get('description', '')
-    desc_html = f'<p class="article-desc">{desc}</p>' if desc else ''
+    tag       = article_data.get('tags', 'News')
+    url       = article_data.get('url', '#')
+    title     = article_data.get('title', '')
+    time_ago  = article_data.get('time_ago', '')
+    desc      = article_data.get('description', '')
+    source    = article_data.get('source', '')
 
-    return f"""
-                <!-- Article {element_id} -->
-                <article class="news-card{featured_class}" id="article-{element_id}">
-                    <img src="{thumb_url}" alt="Thumbnail" class="card-thumbnail" loading="lazy">
-                    <div class="card-header">
-                        <div class="tag-group">
-                            {new_badge}
-                            <span class="tag" style="background:{tag_color};color:#fff;">{tag}</span>
-                        </div>
-                        <span class="time-ago">{article_data['time_ago']}</span>
+    tag_color  = TAG_COLORS.get(tag, '#6b7280')
+    tint       = TAG_TINTS.get(tag, 'rgba(107,114,128,0.08)')
+    tag_html   = f'<span class="tag" style="background:{tag_color};color:#fff;">{tag}</span>'
+    desc_html  = f'<p class="article-desc">{desc}</p>' if desc else ''
+    src_text   = f'{source} · {time_ago}' if source else time_ago
+
+    if is_first:
+        return f"""
+                <!-- Article {element_id} (featured) -->
+                <article class="news-card featured" id="article-{element_id}">
+                    <div class="thumb-wrapper" style="background:{tint};">
+                        <img src="{thumb_url}" alt="" class="card-thumbnail" loading="lazy">
                     </div>
-                    <h2 class="news-title"><a href="{article_data['url']}" target="_blank"
-                            rel="noopener noreferrer" class="title-link">{article_data['title']}</a></h2>
-                    {desc_html}
-                    <div class="news-footer">
-                        <a href="{article_data['url']}" target="_blank"
-                            rel="noopener noreferrer" class="read-more-btn">
-                            さらに詳しく
-                            <svg viewBox="0 0 24 24">
-                                <path d="M5 12h14M12 5l7 7-7 7" stroke="currentColor" stroke-width="2"
-                                    stroke-linecap="round" stroke-linejoin="round" fill="none" />
-                            </svg>
-                        </a>
-                        <button class="share-btn" aria-label="Xでシェアする">
-                            <svg viewBox="0 0 24 24">
-                                <path
-                                    d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
-                            </svg>
-                        </button>
+                    <div class="card-content">
+                        <div class="tag-group">
+                            {tag_html}
+                            <span class="tag-secondary">注目</span>
+                        </div>
+                        <h2 class="news-title"><a href="{url}" target="_blank"
+                                rel="noopener noreferrer" class="title-link">{title}</a></h2>
+                        {desc_html}
+                        <div class="source-time">{src_text}</div>
+                    </div>
+                </article>
+"""
+    else:
+        return f"""
+                <!-- Article {element_id} -->
+                <article class="news-card" id="article-{element_id}">
+                    <div class="thumb-wrapper" style="background:{tint};">
+                        <img src="{thumb_url}" alt="" class="card-thumbnail" loading="lazy">
+                    </div>
+                    <div class="card-content">
+                        {tag_html}
+                        <h2 class="news-title"><a href="{url}" target="_blank"
+                                rel="noopener noreferrer" class="title-link">{title}</a></h2>
+                        {desc_html}
+                        <div class="source-time">{src_text}</div>
                     </div>
                 </article>
 """
@@ -415,6 +451,7 @@ def main():
                         'time_ago': time_ago,
                         'url': article_url,
                         'description': clean_desc,
+                        'source': get_source_name(article_url),
                         'image_keyword': entry.title,
                     }
                 elif cache_key in cache and cache[cache_key].get('insight') != 'AIでの自動分析は現在一時的に停止中です。':
