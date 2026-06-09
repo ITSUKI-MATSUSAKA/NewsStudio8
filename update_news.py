@@ -183,7 +183,7 @@ def analyze_news_with_gemini(entry, time_ago):
     for attempt in range(3):
         try:
             response = client.models.generate_content(
-                model='gemini-2.0-flash',
+                model='gemini-2.0-flash-lite',
                 contents=prompt,
             )
 
