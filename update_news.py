@@ -28,6 +28,7 @@ except ImportError:
 # 取得するニュースのRSSフィードをタブごとに指定
 CATEGORIES = [
     {"id": "tab-ai", "name": "AI", "rss": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"},
+    {"id": "tab-it", "name": "IT", "rss": "https://rss.itmedia.co.jp/rss/2.0/news_all.xml"},
     {"id": "tab-robotics", "name": "ロボット", "rss": "https://news.yahoo.co.jp/rss/topics/it.xml"},
     {"id": "tab-semiconductor", "name": "半導体", "rss": "https://news.google.com/rss/search?q=%E5%8D%8A%E5%B0%8E%E4%BD%93&hl=ja&gl=JP&ceid=JP:ja"},
     {"id": "tab-security", "name": "セキュリティ", "rss": "https://rss.itmedia.co.jp/rss/2.0/news_security.xml"}
@@ -35,6 +36,9 @@ CATEGORIES = [
 
 # 更新するHTMLファイルのパス
 HTML_FILE_PATH = "index.html"
+
+# AI要約の有効/無効 (Trueに変えると Gemini API でAI要約を生成します)
+GEMINI_ENABLED = False
 
 # ==========================================
 # 📈 為替・仮想通貨リアルタイムデータの取得
@@ -426,7 +430,7 @@ def main():
             entries.sort(key=get_published_time, reverse=True)
             
             successful_count = 0
-            target_count = 3
+            target_count = 5
             
             for entry in entries:
                 if successful_count >= target_count:
@@ -453,12 +457,29 @@ def main():
                 article_url = clean_url(raw_url)
                 cache_key = get_cache_key(entry.title)
 
-                if cache_key in cache and cache[cache_key].get('insight') != 'AIでの自動分析は現在一時的に停止中です。':
+                if not GEMINI_ENABLED:
+                    # AI要約オフ: RSSのタイトルとリンクだけで記事カードを生成（APIを呼ばない）
+                    article_data = {
+                        'title': entry.title,
+                        'tags': cat['name'],
+                        'sentiment': 'neutral',
+                        'sentiment_text': '最新ニュース',
+                        'rating': 3,
+                        'time_ago': time_ago,
+                        'url': article_url,
+                        'summary_bullets': ['元記事のリンクからご覧ください。'],
+                        'insight': '元記事より詳細をご確認ください。',
+                        'action_plan': '「さらに詳しく」ボタンから元記事を読む',
+                        'image_keyword': f"{cat['name']} technology news",
+                        'technical_terms': []
+                    }
+                elif cache_key in cache and cache[cache_key].get('insight') != 'AIでの自動分析は現在一時的に停止中です。':
                     print("✅ キャッシュから記事データを読み込みます（APIリクエスト省略）")
                     article_data = cache[cache_key].copy()
                     article_data['time_ago'] = time_ago  # 経過時間は常に最新に更新
                     article_data['url'] = article_url    # URLも最新のものに更新
                 else:
+                    # GEMINI_ENABLED = True のときだけここを通る
                     article_data = analyze_news_with_gemini(entry, time_ago)
 
                     if article_data == "RATE_LIMIT" or not article_data:
@@ -480,7 +501,7 @@ def main():
                         article_data['url'] = article_url
                         cache[cache_key] = article_data  # タイトルハッシュをキーに保存
 
-                    time.sleep(35) # レートリミット対策 (gemini-2.0-flash の15RPM制限に対して余裕を持たせる)
+                    time.sleep(35) # レートリミット対策 (GEMINI_ENABLED=True のときのみ通過)
                 
                 if isinstance(article_data, dict):
                     thumb_url = extract_thumbnail_url(entry, article_data)
