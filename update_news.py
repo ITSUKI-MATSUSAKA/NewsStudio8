@@ -129,10 +129,16 @@ def clean_url(raw_url):
 # ==========================================
 # 🤖 Gemini APIでニュースを分析・成形
 # ==========================================
+DEBUG_LOG = "debug_errors.txt"
+
+def _log_error(msg):
+    with open(DEBUG_LOG, "a", encoding="utf-8") as f:
+        f.write(msg + "\n")
+
 def analyze_news_with_gemini(entry, time_ago):
     API_KEY = os.environ.get("GEMINI_API_KEY", "")
     if not API_KEY:
-        print("【エラー】環境変数 GEMINI_API_KEY が設定されていません。")
+        _log_error("FATAL: GEMINI_API_KEY is not set")
         return None
     
     # 新しいSDKでのクライアント初期化
@@ -205,6 +211,7 @@ def analyze_news_with_gemini(entry, time_ago):
             return None
         except Exception as e:
             error_msg = str(e)
+            _log_error(f"RAW_ERROR [{entry.title[:40]}]: {error_msg}")
             if "429" in error_msg or "Quota exceeded" in error_msg or "RESOURCE_EXHAUSTED" in error_msg:
                 wait = 60 * (attempt + 1)
                 print(f"\n【API制限エラー】試行{attempt+1}/3: {wait}秒待機後にリトライします...")
@@ -388,6 +395,7 @@ def save_cache(cache):
 # 🚀 メイン処理
 # ==========================================
 def main():
+    open(DEBUG_LOG, "w").close()  # 実行ごとにログをリセット
     JST = timezone(timedelta(hours=+9), 'JST')
     now = datetime.now(JST)
 

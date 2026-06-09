@@ -37,7 +37,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add index.html article_cache.json
+          git add index.html article_cache.json debug_errors.txt
           # 変更がある場合のみコミットとプッシュを行う
           if ! git diff-index --quiet HEAD; then
             git commit -m "Auto-update news: $(date +'%Y-%m-%d %H:%M:%S')"
