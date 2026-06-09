@@ -28,7 +28,7 @@ except ImportError:
 # 取得するニュースのRSSフィードをタブごとに指定
 CATEGORIES = [
     {"id": "tab-ai", "name": "AI", "rss": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"},
-    {"id": "tab-it", "name": "IT", "rss": "https://rss.itmedia.co.jp/rss/2.0/news_all.xml"},
+    {"id": "tab-it", "name": "IT", "rss": "https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml"},
     {"id": "tab-robotics", "name": "ロボット", "rss": "https://news.yahoo.co.jp/rss/topics/it.xml"},
     {"id": "tab-semiconductor", "name": "半導体", "rss": "https://news.google.com/rss/search?q=%E5%8D%8A%E5%B0%8E%E4%BD%93&hl=ja&gl=JP&ceid=JP:ja"},
     {"id": "tab-security", "name": "セキュリティ", "rss": "https://rss.itmedia.co.jp/rss/2.0/news_security.xml"}
@@ -313,25 +313,6 @@ def generate_article_html(article_data, element_id, thumb_url):
                     <h2 class="news-title"><a href="{article_data['url']}" target="_blank"
                             rel="noopener noreferrer" class="title-link">{title_html}</a></h2>
 
-                    <div class="summary-box">
-                        <div class="summary-title">
-                            <svg viewBox="0 0 24 24">
-                                <path
-                                    d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z"
-                                    fill="currentColor" />
-                            </svg>
-                            10秒でわかる要約
-                        </div>
-                        <ul class="summary-list">
-                            {summary_html.strip()}
-                        </ul>
-                    </div>
-
-                    <div class="business-insight">
-                        <div class="insight-title">Business Insight</div>
-                        <div class="insight-text">{article_data.get('insight', '')}</div>
-                    </div>
-
                     <div class="action-plan">
                         <div class="action-title">
                             <svg viewBox="0 0 24 24">
@@ -420,7 +401,7 @@ def main():
         panes_html += f'                <div id="{cat["id"]}" class="tab-pane{is_active}">\n'
         
         try:
-            feed = feedparser.parse(cat["rss"])
+            feed = feedparser.parse(cat["rss"], agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
             entries = feed.entries
             
             def get_published_time(entry):
@@ -470,7 +451,7 @@ def main():
                         'summary_bullets': ['元記事のリンクからご覧ください。'],
                         'insight': '元記事より詳細をご確認ください。',
                         'action_plan': '「さらに詳しく」ボタンから元記事を読む',
-                        'image_keyword': f"{cat['name']} technology news",
+                        'image_keyword': entry.title,
                         'technical_terms': []
                     }
                 elif cache_key in cache and cache[cache_key].get('insight') != 'AIでの自動分析は現在一時的に停止中です。':
