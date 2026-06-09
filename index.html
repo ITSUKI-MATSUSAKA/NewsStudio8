@@ -856,6 +856,12 @@
         /* Tabs UI */
         .tabs-container {
             margin-bottom: 24px;
+            position: sticky;
+            top: 0;
+            z-index: 200;
+            background: var(--bg-color);
+            padding: 12px 0 8px;
+            border-bottom: 1px solid var(--divider);
         }
 
         .tab-list {
@@ -898,11 +904,19 @@
             border-color: var(--accent);
         }
 
-        .tab-pane {
-            display: none;
+        /* セクション構造 (全カテゴリーを縦に並べて表示) */
+        .category-section {
+            margin-bottom: 52px;
         }
 
-        .tab-pane.active {
+        .section-heading {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .articles-grid {
             display: grid;
             grid-template-columns: repeat(4, 1fr);
             gap: 20px;
@@ -910,7 +924,7 @@
         }
 
         @media (max-width: 700px) {
-            .tab-pane.active {
+            .articles-grid {
                 grid-template-columns: repeat(2, 1fr);
             }
             .news-card.featured {
@@ -921,6 +935,10 @@
                 min-height: 200px;
             }
         }
+
+        /* 後方互換（古いHTMLが残っていてもレイアウト崩れを防ぐ） */
+        .tab-pane { display: none; }
+        .tab-pane.active { display: block; }
 
         @keyframes fadeIn {
             from {
@@ -951,9 +969,14 @@
             line-height: 1.65;
             margin: 0;
             display: -webkit-box;
-            -webkit-line-clamp: 3;
+            -webkit-line-clamp: 5;
             -webkit-box-orient: vertical;
             overflow: hidden;
+            flex-grow: 1;
+        }
+
+        .news-card.featured .article-desc {
+            -webkit-line-clamp: 6;
         }
 
         /* Bottom Nav */
@@ -1442,23 +1465,33 @@
                 updateIcon();
             });
 
-            // Tabs Logic
+            // タブクリック → 対応セクションへスクロール
             document.body.addEventListener('click', (e) => {
                 const btn = e.target.closest('.tab-btn');
                 if (!btn) return;
-
-                // Remove active class from all buttons and panes
                 document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-                document.querySelectorAll('.tab-pane').forEach(p => p.classList.remove('active'));
-
-                // Add active class to clicked button
                 btn.classList.add('active');
-
-                // Show matching tab pane
-                const targetId = btn.getAttribute('data-tab');
-                const targetPane = document.getElementById(targetId);
-                if (targetPane) targetPane.classList.add('active');
+                const target = document.getElementById(btn.getAttribute('data-tab'));
+                if (target) {
+                    const offset = 80; // スティッキーヘッダー＋タブバーの高さ分
+                    const top = target.getBoundingClientRect().top + window.scrollY - offset;
+                    window.scrollTo({ top, behavior: 'smooth' });
+                }
             });
+
+            // スクロール位置に応じてアクティブタブを自動更新
+            const sections = document.querySelectorAll('.category-section');
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const id = entry.target.id;
+                        document.querySelectorAll('.tab-btn').forEach(b => {
+                            b.classList.toggle('active', b.getAttribute('data-tab') === id);
+                        });
+                    }
+                });
+            }, { rootMargin: '-30% 0px -60% 0px' });
+            sections.forEach(s => observer.observe(s));
         });
     </script>
 </body>

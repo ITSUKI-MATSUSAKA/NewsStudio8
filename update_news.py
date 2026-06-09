@@ -26,12 +26,43 @@ except ImportError:
 # 取得方法: https://aistudio.google.com/app/apikey
 # API_KEYは環境変数から読み込むため、ここでは設定しません。
 
-# 取得するニュースのRSSフィードをタブごとに指定
+# 取得するニュースのRSSフィード（カテゴリーごとに複数指定でソース多様化）
 CATEGORIES = [
-    {"id": "tab-ai", "name": "AI", "rss": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"},
-    {"id": "tab-robotics", "name": "ロボット", "rss": "https://news.yahoo.co.jp/rss/topics/it.xml"},
-    {"id": "tab-semiconductor", "name": "半導体", "rss": "https://news.google.com/rss/search?q=%E5%8D%8A%E5%B0%8E%E4%BD%93&hl=ja&gl=JP&ceid=JP:ja"},
-    {"id": "tab-security", "name": "セキュリティ", "rss": "https://rss.itmedia.co.jp/rss/2.0/news_security.xml"}
+    {
+        "id": "tab-ai", "name": "AI",
+        "feeds": [
+            "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
+            "https://news.google.com/rss/search?q=AI+生成AI+人工知能&hl=ja&gl=JP&ceid=JP:ja",
+        ]
+    },
+    {
+        "id": "tab-it", "name": "IT",
+        "feeds": [
+            "https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml",
+            "https://news.google.com/rss/search?q=IT+テクノロジー+デジタル&hl=ja&gl=JP&ceid=JP:ja",
+        ]
+    },
+    {
+        "id": "tab-robotics", "name": "ロボット",
+        "feeds": [
+            "https://news.google.com/rss/search?q=ロボット+テクノロジー+自動化&hl=ja&gl=JP&ceid=JP:ja",
+            "https://news.google.com/rss/search?q=ドローン+自動運転+ロボット&hl=ja&gl=JP&ceid=JP:ja",
+        ]
+    },
+    {
+        "id": "tab-semiconductor", "name": "半導体",
+        "feeds": [
+            "https://news.google.com/rss/search?q=半導体+チップ+製造&hl=ja&gl=JP&ceid=JP:ja",
+            "https://news.google.com/rss/search?q=TSMC+NVIDIA+半導体産業&hl=ja&gl=JP&ceid=JP:ja",
+        ]
+    },
+    {
+        "id": "tab-security", "name": "セキュリティ",
+        "feeds": [
+            "https://rss.itmedia.co.jp/rss/2.0/news_security.xml",
+            "https://news.google.com/rss/search?q=サイバーセキュリティ+情報漏洩&hl=ja&gl=JP&ceid=JP:ja",
+        ]
+    },
 ]
 
 # 更新するHTMLファイルのパス
@@ -272,23 +303,33 @@ def analyze_news_with_gemini(entry, time_ago):
 # 🖼️ サムネイル画像の抽出
 # ==========================================
 def extract_thumbnail_url(entry, article_data=None):
+    # 1. media_thumbnail
     if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
         return entry.media_thumbnail[0]["url"]
+    # 2. media_content（一部フィードがこちらを使用）
+    if hasattr(entry, 'media_content') and entry.media_content:
+        for mc in entry.media_content:
+            url = mc.get('url', '')
+            if url and any(ext in url.lower() for ext in ['.jpg', '.jpeg', '.png', '.webp', 'image']):
+                return url
+    # 3. image type リンク
     if hasattr(entry, 'links'):
         for link in entry.links:
             if link.get("type", "").startswith("image"):
                 return link["href"]
-    if hasattr(entry, 'description') and "<img" in entry.description:
-        m = re.search(r"<img[^>]+src=[\"'](.*?)[\"']", entry.description)
-        if m:
-            return m.group(1)
-            
-    # サムネイルが見つからない場合はAIが生成したキーワードでBingの画像検索結果（サムネイル）を取得する
+    # 4. description/summary 内の <img>
+    for field in ['description', 'summary']:
+        text = getattr(entry, field, '') or ''
+        if '<img' in text:
+            m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', text)
+            if m and m.group(1).startswith('http'):
+                return m.group(1)
+    # 5. Bing画像検索（タイトル短縮＋「写真」で写真系の画像を優先）
     if article_data and 'image_keyword' in article_data:
-        keyword = article_data['image_keyword']
-        encoded = urllib.parse.quote(keyword)
+        words = article_data['image_keyword'].split()
+        short_kw = ' '.join(words[:4]) + ' 写真'
+        encoded = urllib.parse.quote(short_kw)
         return f"https://tse2.mm.bing.net/th?q={encoded}&w=600&h=300&c=7&rs=1&p=0"
-
     title_hash = hashlib.md5(entry.title.encode('utf-8')).hexdigest()
     return f"https://picsum.photos/seed/{title_hash}/600/300"
 
@@ -386,9 +427,8 @@ def main():
     now = datetime.now(JST)
 
     tabs_btns_html = '        <div class="tabs-container" style="margin-top: 24px; max-width: 1200px; margin-left: auto; margin-right: auto; padding: 0 20px;">\\n            <div class="tab-list">\\n'
-    for idx, cat in enumerate(CATEGORIES):
-        is_active = ' active' if idx == 0 else ''
-        tabs_btns_html += f'                <button class="tab-btn{is_active}" data-tab="{cat["id"]}">{cat["name"]}</button>\\n'
+    for cat in CATEGORIES:
+        tabs_btns_html += f'                <button class="tab-btn" data-tab="{cat["id"]}">{cat["name"]}</button>\\n'
     tabs_btns_html += '            </div>\\n        </div>\\n\\n        <div class="layout-wrapper">\\n            <main aria-labelledby="app-title">\\n'
 
     panes_html = ""
@@ -396,35 +436,48 @@ def main():
     cache = load_cache()
     all_analyzed_articles = []
 
-    for idx, cat in enumerate(CATEGORIES):
+    def get_published_time(entry):
+        if hasattr(entry, 'published_parsed') and entry.published_parsed:
+            return time.mktime(entry.published_parsed)
+        return 0
+
+    for cat in CATEGORIES:
         print(f"\n📡 {cat['name']} の記事を取得中...")
-        is_active = ' active' if idx == 0 else ''
-        panes_html += f'                <div id="{cat["id"]}" class="tab-pane{is_active}">\n'
-        
+        color = TAG_COLORS.get(cat['name'], '#6b7280')
+        panes_html += f'                <section id="{cat["id"]}" class="category-section">\n'
+        panes_html += f'                    <h2 class="section-heading"><span class="tag" style="background:{color};color:#fff;">{cat["name"]}</span></h2>\n'
+        panes_html += '                    <div class="articles-grid">\n'
+
         try:
-            feed = feedparser.parse(cat["rss"], agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
-            entries = feed.entries
-            
-            def get_published_time(entry):
-                if hasattr(entry, 'published_parsed') and entry.published_parsed:
-                    return time.mktime(entry.published_parsed)
-                return 0
+            # 複数フィードからエントリを収集して重複排除
+            all_entries = []
+            for rss_url in cat["feeds"]:
+                try:
+                    f = feedparser.parse(rss_url, agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
+                    all_entries.extend(f.entries)
+                except Exception:
+                    pass
+            seen_keys = set()
+            entries = []
+            for e in all_entries:
+                key = e.title.lower().strip()[:30]
+                if key not in seen_keys:
+                    seen_keys.add(key)
+                    entries.append(e)
             entries.sort(key=get_published_time, reverse=True)
-            
+
             successful_count = 0
             target_count = 5
-            
+
             for entry in entries:
                 if successful_count >= target_count:
                     break
-                    
-                print(f"[{successful_count+1}/{target_count}] 記事を分析中: {entry.title}")
-                
+
                 try:
                     if hasattr(entry, 'published_parsed') and entry.published_parsed:
                         pub_date = datetime.fromtimestamp(time.mktime(entry.published_parsed), tz=timezone.utc).astimezone(JST)
                     else:
-                        pub_date = datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc).astimezone(JST)       
+                        pub_date = datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc).astimezone(JST)
                     diff = now - pub_date
                     hours = int(diff.total_seconds() / 3600)
                     if hours >= 24:
@@ -440,11 +493,12 @@ def main():
                 cache_key = get_cache_key(entry.title)
 
                 if not GEMINI_ENABLED:
-                    # AI要約オフ: RSSのタイトル・説明文だけで記事カードを生成（APIを呼ばない）
                     raw_desc = getattr(entry, 'summary', '') or getattr(entry, 'description', '') or ''
                     clean_desc = html.unescape(re.sub(r'<[^>]+>', '', raw_desc)).strip()
-                    if len(clean_desc) > 160:
-                        clean_desc = clean_desc[:157] + '…'
+                    if not clean_desc:
+                        continue  # 説明文なしの記事はスキップ
+                    if len(clean_desc) > 280:
+                        clean_desc = clean_desc[:277] + '…'
                     article_data = {
                         'title': entry.title,
                         'tags': cat['name'],
@@ -457,33 +511,26 @@ def main():
                 elif cache_key in cache and cache[cache_key].get('insight') != 'AIでの自動分析は現在一時的に停止中です。':
                     print("✅ キャッシュから記事データを読み込みます（APIリクエスト省略）")
                     article_data = cache[cache_key].copy()
-                    article_data['time_ago'] = time_ago  # 経過時間は常に最新に更新
-                    article_data['url'] = article_url    # URLも最新のものに更新
+                    article_data['time_ago'] = time_ago
+                    article_data['url'] = article_url
                 else:
                     # GEMINI_ENABLED = True のときだけここを通る
                     article_data = analyze_news_with_gemini(entry, time_ago)
-
                     if article_data == "RATE_LIMIT" or not article_data:
-                        print("⚠️ APIエラーまたは制限に達しました。フォールバック用の記事データを生成して続行します。")
                         article_data = {
                             'title': entry.title,
                             'tags': cat['name'],
-                            'sentiment': 'neutral',
-                            'sentiment_text': '最新ニュース',
-                            'rating': 3,
                             'time_ago': time_ago,
                             'url': article_url,
-                            'summary_bullets': ['詳細なAI要約は現在API制限・またはエラーにより取得できません。', 'リンク先より元記事をご覧ください。'],
-                            'insight': 'AIでの自動分析は現在一時的に停止中です。',
-                            'action_plan': 'ニュースの最新情報をチェックする',
-                            'image_keyword': f"{cat['name']} {entry.title}"
+                            'description': '',
+                            'source': get_source_name(article_url),
+                            'image_keyword': entry.title,
                         }
                     elif isinstance(article_data, dict):
                         article_data['url'] = article_url
-                        cache[cache_key] = article_data  # タイトルハッシュをキーに保存
+                        cache[cache_key] = article_data
+                    time.sleep(35)
 
-                    time.sleep(35) # レートリミット対策 (GEMINI_ENABLED=True のときのみ通過)
-                
                 if isinstance(article_data, dict):
                     thumb_url = extract_thumbnail_url(entry, article_data)
                     element_id = f'{cat["id"].replace("tab-", "")}-{successful_count + 1}'
@@ -491,13 +538,12 @@ def main():
                     all_analyzed_articles.append(article_data)
                     successful_count += 1
                     total_articles += 1
-                else:
-                    print("分析に失敗したためスキップし、次の記事でリトライします。")
-                
+
         except Exception as e:
             print(f"{cat['name']} フィードの処理に失敗しました: {e}")
-            
-        panes_html += '                </div>\n'
+
+        panes_html += '                    </div>\n'
+        panes_html += '                </section>\n'
 
     # 処理完了時にキャッシュを永続化
     save_cache(cache)
