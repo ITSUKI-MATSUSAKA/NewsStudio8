@@ -1,5 +1,6 @@
 import os
 import re
+import html
 import json
 import time
 import hashlib
@@ -28,7 +29,6 @@ except ImportError:
 # 取得するニュースのRSSフィードをタブごとに指定
 CATEGORIES = [
     {"id": "tab-ai", "name": "AI", "rss": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"},
-    {"id": "tab-it", "name": "IT", "rss": "https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml"},
     {"id": "tab-robotics", "name": "ロボット", "rss": "https://news.yahoo.co.jp/rss/topics/it.xml"},
     {"id": "tab-semiconductor", "name": "半導体", "rss": "https://news.google.com/rss/search?q=%E5%8D%8A%E5%B0%8E%E4%BD%93&hl=ja&gl=JP&ceid=JP:ja"},
     {"id": "tab-security", "name": "セキュリティ", "rss": "https://rss.itmedia.co.jp/rss/2.0/news_security.xml"}
@@ -39,6 +39,14 @@ HTML_FILE_PATH = "index.html"
 
 # AI要約の有効/無効 (Trueに変えると Gemini API でAI要約を生成します)
 GEMINI_ENABLED = False
+
+# ジャンルタグの色
+TAG_COLORS = {
+    'AI':          '#7c3aed',
+    'ロボット':    '#059669',
+    '半導体':      '#d97706',
+    'セキュリティ': '#dc2626',
+}
 
 # ==========================================
 # 📈 為替・仮想通貨リアルタイムデータの取得
@@ -256,74 +264,32 @@ def extract_thumbnail_url(entry, article_data=None):
 # ==========================================
 # 🏗️ HTMLの生成
 # ==========================================
-def generate_article_html(article_data, element_id, thumb_url):
-    # Sentimentによるバッジの切り替え
-    sentiment_class = article_data.get('sentiment', 'neutral')
-    if sentiment_class == 'neutral':
-        sentiment_class = 'positive' # デフォルトはpositive扱いで色をつける（青色などにする場合はHTML側のCSS調整が必要ですが、ここでは既存の色を利用します）
-        
-    badge_icon = '<path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" />'
-    if sentiment_class == 'negative':
-        badge_icon = '<path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z" />'
+def generate_article_html(article_data, element_id, thumb_url, is_first=False):
+    tag = article_data.get('tags', 'News')
+    tag_color = TAG_COLORS.get(tag, '#6b7280')
+    featured_class = ' featured' if is_first else ''
+    new_badge = (
+        '<span style="background:#ef4444;color:#fff;font-size:11px;font-weight:700;'
+        'padding:3px 8px;border-radius:6px;letter-spacing:0.05em;vertical-align:middle;">NEW</span>'
+        if is_first else ''
+    )
+    desc = article_data.get('description', '')
+    desc_html = f'<p class="article-desc">{desc}</p>' if desc else ''
 
-    # スターの生成
-    rating = article_data.get('rating', 3)
-    stars_html = '<span class="star-filled">★</span>' * rating + '<span class="star-empty">★</span>' * (5 - rating)
-
-    # 用語ツールチップの実装（タイトル内の用語を置換）
-    title_html = article_data['title']
-    for term_data in article_data.get('technical_terms', []):
-        term = term_data['term']
-        exp = term_data['explanation']
-        tooltip_html = f'<span class="term-tooltip" data-tooltip="{exp}">{term}</span>'
-        title_html = title_html.replace(term, tooltip_html)
-        
-    # サマリー箇条書きの生成
-    summary_html = ""
-    for idx, bullet in enumerate(article_data.get('summary_bullets', [])):
-        # サマリー内にも用語があれば置換するかどうか（ここではシンプルにそのまま出力）
-        bullet_html = bullet
-        for term_data in article_data.get('technical_terms', []):
-            term = term_data['term']
-            exp = term_data['explanation']
-            if term in bullet_html:
-                tooltip_html = f'<span class="term-tooltip" data-tooltip="{exp}">{term}</span>'
-                bullet_html = bullet_html.replace(term, tooltip_html)
-        summary_html += f"<li>{bullet_html}</li>\n                            "
-
-    html = f"""
+    return f"""
                 <!-- Article {element_id} -->
-                <article class="news-card" id="article-{element_id}">
+                <article class="news-card{featured_class}" id="article-{element_id}">
                     <img src="{thumb_url}" alt="Thumbnail" class="card-thumbnail" loading="lazy">
                     <div class="card-header">
                         <div class="tag-group">
-                            <span class="sentiment-badge {sentiment_class}">
-                                <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
-                                    {badge_icon}
-                                </svg>
-                                {article_data.get('sentiment_text', '注目の話題')}
-                            </span>
-                            <span class="tag">{article_data.get('tags', 'News')}</span>
-                            <div class="rating" aria-label="重要度: {rating}" title="重要度: {rating}">
-                                {stars_html}
-                            </div>
+                            {new_badge}
+                            <span class="tag" style="background:{tag_color};color:#fff;">{tag}</span>
                         </div>
                         <span class="time-ago">{article_data['time_ago']}</span>
                     </div>
                     <h2 class="news-title"><a href="{article_data['url']}" target="_blank"
-                            rel="noopener noreferrer" class="title-link">{title_html}</a></h2>
-
-                    <div class="action-plan">
-                        <div class="action-title">
-                            <svg viewBox="0 0 24 24">
-                                <path
-                                    d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" />
-                            </svg>
-                            今日からできるアクション
-                        </div>
-                        <div class="action-text">{article_data.get('action_plan', '')}</div>
-                    </div>
-
+                            rel="noopener noreferrer" class="title-link">{article_data['title']}</a></h2>
+                    {desc_html}
                     <div class="news-footer">
                         <a href="{article_data['url']}" target="_blank"
                             rel="noopener noreferrer" class="read-more-btn">
@@ -342,7 +308,6 @@ def generate_article_html(article_data, element_id, thumb_url):
                     </div>
                 </article>
 """
-    return html
 
 # ==========================================
 # 🚀 キャッシュ管理 (API制限回避策)
@@ -439,20 +404,18 @@ def main():
                 cache_key = get_cache_key(entry.title)
 
                 if not GEMINI_ENABLED:
-                    # AI要約オフ: RSSのタイトルとリンクだけで記事カードを生成（APIを呼ばない）
+                    # AI要約オフ: RSSのタイトル・説明文だけで記事カードを生成（APIを呼ばない）
+                    raw_desc = getattr(entry, 'summary', '') or getattr(entry, 'description', '') or ''
+                    clean_desc = html.unescape(re.sub(r'<[^>]+>', '', raw_desc)).strip()
+                    if len(clean_desc) > 160:
+                        clean_desc = clean_desc[:157] + '…'
                     article_data = {
                         'title': entry.title,
                         'tags': cat['name'],
-                        'sentiment': 'neutral',
-                        'sentiment_text': '最新ニュース',
-                        'rating': 3,
                         'time_ago': time_ago,
                         'url': article_url,
-                        'summary_bullets': ['元記事のリンクからご覧ください。'],
-                        'insight': '元記事より詳細をご確認ください。',
-                        'action_plan': '「さらに詳しく」ボタンから元記事を読む',
+                        'description': clean_desc,
                         'image_keyword': entry.title,
-                        'technical_terms': []
                     }
                 elif cache_key in cache and cache[cache_key].get('insight') != 'AIでの自動分析は現在一時的に停止中です。':
                     print("✅ キャッシュから記事データを読み込みます（APIリクエスト省略）")
@@ -487,7 +450,7 @@ def main():
                 if isinstance(article_data, dict):
                     thumb_url = extract_thumbnail_url(entry, article_data)
                     element_id = f'{cat["id"].replace("tab-", "")}-{successful_count + 1}'
-                    panes_html += generate_article_html(article_data, element_id, thumb_url)
+                    panes_html += generate_article_html(article_data, element_id, thumb_url, is_first=(successful_count == 0))
                     all_analyzed_articles.append(article_data)
                     successful_count += 1
                     total_articles += 1

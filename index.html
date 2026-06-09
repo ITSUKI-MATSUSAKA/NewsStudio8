@@ -860,11 +860,28 @@
         /* Thumbnail Image */
         .card-thumbnail {
             width: 100%;
-            height: 200px;
+            height: 240px;
             object-fit: cover;
             border-radius: 12px;
             margin-bottom: 4px;
             background-color: var(--tag-bg);
+        }
+
+        /* RSS description text */
+        .article-desc {
+            font-size: 13px;
+            color: var(--text-secondary);
+            line-height: 1.65;
+            margin: 0;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        /* First article in each tab */
+        .news-card.featured {
+            border-top: 3px solid #7c3aed;
         }
 
         /* Bottom Nav */
