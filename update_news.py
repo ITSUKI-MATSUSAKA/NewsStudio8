@@ -302,6 +302,23 @@ def analyze_news_with_gemini(entry, time_ago):
 # ==========================================
 # 🖼️ サムネイル画像の抽出
 # ==========================================
+def fetch_og_image(url, timeout=3):
+    """記事URLからog:imageメタタグの画像URLを取得する"""
+    try:
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            content = resp.read(16384).decode('utf-8', errors='ignore')
+        for pattern in [
+            r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']{10,})["\']',
+            r'<meta[^>]+content=["\']([^"\']{10,})["\'][^>]+property=["\']og:image["\']',
+        ]:
+            m = re.search(pattern, content, re.IGNORECASE)
+            if m and m.group(1).startswith('http'):
+                return m.group(1)
+    except Exception:
+        pass
+    return None
+
 def extract_thumbnail_url(entry, article_data=None):
     # 1. media_thumbnail
     if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
@@ -310,7 +327,7 @@ def extract_thumbnail_url(entry, article_data=None):
     if hasattr(entry, 'media_content') and entry.media_content:
         for mc in entry.media_content:
             url = mc.get('url', '')
-            if url and any(ext in url.lower() for ext in ['.jpg', '.jpeg', '.png', '.webp', 'image']):
+            if url and any(ext in url.lower() for ext in ['.jpg', '.jpeg', '.png', '.webp']):
                 return url
     # 3. image type リンク
     if hasattr(entry, 'links'):
@@ -324,12 +341,13 @@ def extract_thumbnail_url(entry, article_data=None):
             m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', text)
             if m and m.group(1).startswith('http'):
                 return m.group(1)
-    # 5. Bing画像検索（タイトル短縮＋「写真」で写真系の画像を優先）
-    if article_data and 'image_keyword' in article_data:
-        words = article_data['image_keyword'].split()
-        short_kw = ' '.join(words[:4]) + ' 写真'
-        encoded = urllib.parse.quote(short_kw)
-        return f"https://tse2.mm.bing.net/th?q={encoded}&w=600&h=300&c=7&rs=1&p=0"
+    # 5. 記事ページの og:image を取得（写真系画像が期待できる）
+    article_url = (article_data or {}).get('url', '') or getattr(entry, 'link', '')
+    if article_url:
+        og = fetch_og_image(article_url)
+        if og:
+            return og
+    # 6. picsum.photos をフォールバック（常に写真、テキスト画像は出ない）
     title_hash = hashlib.md5(entry.title.encode('utf-8')).hexdigest()
     return f"https://picsum.photos/seed/{title_hash}/600/300"
 
