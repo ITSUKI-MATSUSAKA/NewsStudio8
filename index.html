@@ -960,9 +960,24 @@
             width: 100%;
             height: 180px;
             object-fit: cover;
+            object-position: center;
             border-radius: 0;
             display: block;
             background-color: var(--tag-bg);
+        }
+
+        /* 画像なし・小さすぎる場合の代替カード */
+        .thumb-placeholder {
+            width: 100%;
+            height: 180px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+        .news-card.featured .thumb-placeholder {
+            height: 100%;
+            min-height: 260px;
         }
 
         /* RSS description text */

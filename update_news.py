@@ -302,6 +302,8 @@ def analyze_news_with_gemini(entry, time_ago):
 # ==========================================
 # 🖼️ サムネイル画像の抽出
 # ==========================================
+MIN_THUMB_WIDTH = 300  # これ未満の幅が判明している場合はプレースホルダーを使用
+
 def fetch_og_image(url, timeout=3):
     """記事URLからog:imageメタタグの画像URLを取得する"""
     try:
@@ -319,16 +321,42 @@ def fetch_og_image(url, timeout=3):
         pass
     return None
 
+def _pick_best_image(items, url_key='url', w_key='width', h_key='height'):
+    """複数の画像候補から最高解像度のものを選ぶ。幅が判明していてMIN未満なら除外。"""
+    candidates = []
+    for item in items:
+        url = item.get(url_key, '')
+        if not url or not url.startswith('http'):
+            continue
+        try:
+            w = int(item.get(w_key, 0))
+        except (ValueError, TypeError):
+            w = 0
+        try:
+            h = int(item.get(h_key, 0))
+        except (ValueError, TypeError):
+            h = 0
+        if 0 < w < MIN_THUMB_WIDTH:
+            continue  # 幅が判明していて小さすぎる
+        candidates.append((w * h, url))
+    if not candidates:
+        return None
+    candidates.sort(reverse=True)
+    return candidates[0][1]
+
 def extract_thumbnail_url(entry, article_data=None):
-    # 1. media_thumbnail
+    # 1. media_thumbnail（複数あれば最高解像度を選択）
     if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
-        return entry.media_thumbnail[0]["url"]
-    # 2. media_content（一部フィードがこちらを使用）
+        url = _pick_best_image(entry.media_thumbnail)
+        if url:
+            return url
+    # 2. media_content（複数あれば最高解像度を選択）
     if hasattr(entry, 'media_content') and entry.media_content:
-        for mc in entry.media_content:
-            url = mc.get('url', '')
-            if url and any(ext in url.lower() for ext in ['.jpg', '.jpeg', '.png', '.webp']):
-                return url
+        imgs = [mc for mc in entry.media_content
+                if any(ext in mc.get('url', '').lower() for ext in ['.jpg', '.jpeg', '.png', '.webp'])]
+        url = _pick_best_image(imgs)
+        if url:
+            return url
     # 3. image type リンク
     if hasattr(entry, 'links'):
         for link in entry.links:
@@ -347,9 +375,8 @@ def extract_thumbnail_url(entry, article_data=None):
         og = fetch_og_image(article_url)
         if og:
             return og
-    # 6. picsum.photos をフォールバック（常に写真、テキスト画像は出ない）
-    title_hash = hashlib.md5(entry.title.encode('utf-8')).hexdigest()
-    return f"https://picsum.photos/seed/{title_hash}/600/300"
+    # 6. 画像なし → プレースホルダー表示
+    return None
 
 # ==========================================
 # 🏗️ HTMLの生成
@@ -368,12 +395,26 @@ def generate_article_html(article_data, element_id, thumb_url, is_first=False):
     desc_html  = f'<p class="article-desc">{desc}</p>' if desc else ''
     src_text   = f'{source} · {time_ago}' if source else time_ago
 
+    if thumb_url:
+        thumb_html = f'<img src="{thumb_url}" alt="" class="card-thumbnail" loading="lazy">'
+    else:
+        # 画像なし・小さすぎる場合はジャンル色背景＋カメラアイコンで統一
+        thumb_html = (
+            f'<div class="thumb-placeholder">'
+            f'<svg width="40" height="40" viewBox="0 0 24 24" fill="none" '
+            f'stroke="{tag_color}" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.5">'
+            f'<path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/>'
+            f'<circle cx="12" cy="13" r="4"/>'
+            f'</svg>'
+            f'</div>'
+        )
+
     if is_first:
         return f"""
                 <!-- Article {element_id} (featured) -->
                 <article class="news-card featured" id="article-{element_id}">
                     <div class="thumb-wrapper" style="background:{tint};">
-                        <img src="{thumb_url}" alt="" class="card-thumbnail" loading="lazy">
+                        {thumb_html}
                     </div>
                     <div class="card-content">
                         <div class="tag-group">
@@ -392,7 +433,7 @@ def generate_article_html(article_data, element_id, thumb_url, is_first=False):
                 <!-- Article {element_id} -->
                 <article class="news-card" id="article-{element_id}">
                     <div class="thumb-wrapper" style="background:{tint};">
-                        <img src="{thumb_url}" alt="" class="card-thumbnail" loading="lazy">
+                        {thumb_html}
                     </div>
                     <div class="card-content">
                         {tag_html}
