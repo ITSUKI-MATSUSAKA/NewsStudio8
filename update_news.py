@@ -369,13 +369,19 @@ def extract_thumbnail_url(entry, article_data=None):
             m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', text)
             if m and m.group(1).startswith('http'):
                 return m.group(1)
-    # 5. 記事ページの og:image を取得（写真系画像が期待できる）
+    # 5. 記事ページの og:image を取得
     article_url = (article_data or {}).get('url', '') or getattr(entry, 'link', '')
     if article_url:
         og = fetch_og_image(article_url)
         if og:
             return og
-    # 6. 画像なし → プレースホルダー表示
+    # 6. 配信元ホームページの og:image（Google Newsなど記事URLが取得できない場合）
+    source_url = getattr(entry, 'source', {}).get('href', '')
+    if source_url:
+        og = fetch_og_image(source_url)
+        if og:
+            return og
+    # 7. 画像なし → プレースホルダー表示
     return None
 
 # ==========================================
