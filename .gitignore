@@ -5,3 +5,9 @@ debug_output.txt
 cron_execution.log
 cron_config.txt
 .env
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
